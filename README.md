@@ -680,10 +680,6 @@ Rican labor-code fine-tune.
 
 ### 5) Publish/update the model card
 
-Prepared model-card content is in:
-
-- `kaggle/POST.md` for the long-form workflow narrative.
-
 Direct editor link on Hugging Face:
 
 - <https://huggingface.co/josoroma/gemma-4-codigo-trabajo-finetune/new/main?filename=README.md>
