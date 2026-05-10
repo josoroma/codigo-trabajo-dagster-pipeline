@@ -595,6 +595,10 @@ Merged model artifacts are expected in a folder like:
 
 - `kaggle/runpod/gemma-4-codigo-trabajo-finetune/`
 
+Published model page:
+
+- <https://huggingface.co/josoroma/gemma-4-codigo-trabajo-finetune>
+
 Create or reuse the target model repo, then upload:
 
 ```bash
