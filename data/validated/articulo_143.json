@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 143 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 143 enumera las categorías de trabajadores que no están sujetos a la limitación ordinaria de la jornada de trabajo, como gerentes, administradores, apoderados, empleados sin fiscalización inmediata, puestos de confianza, comisionistas externos, funciones discontinuas o de sola presencia, y labores que por su naturaleza no se someten a jornada. No obstante, les fija un límite máximo de permanencia de doce horas diarias y un descanso mínimo de una hora y media dentro de ese período.",
+    "source_quote": "Quedarán excluidos de la limitación de la jornada de trabajo los gerentes, administradores, apoderados y todos aquellos empleados que trabajan sin fiscalización superior inmediata: los trabajadores que ocupan puestos de confianza; los agentes comisionistas y empleados similares que no cumplan su cometido en el local del establecimiento; los que desempeñan funciones discontinuas o que requieran su sola presencia; y las personas que realizan labores que por su indudable naturaleza no están sometidas a jornada de trabajo. Sin embargo, estas personas no estarán obligadas a permanecer más de doce horas diarias en su trabajo y tendrán derecho, dentro de esa jornada, a un descanso mínimo de una hora y media.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "143",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_143"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "143",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_143",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué trabajadores están excluidos de la limitación de la jornada de trabajo según el artículo 143?",
+    "output": "Están excluidos los gerentes, administradores, apoderados, empleados que trabajan sin fiscalización superior inmediata, trabajadores de confianza, agentes comisionistas y similares que no laboren en el local del establecimiento, quienes desempeñan funciones discontinuas o que requieran su sola presencia, y las personas que realizan labores que por su naturaleza no están sometidas a jornada.",
+    "source_quote": "Quedarán excluidos de la limitación de la jornada de trabajo los gerentes, administradores, apoderados y todos aquellos empleados que trabajan sin fiscalización superior inmediata: los trabajadores que ocupan puestos de confianza; los agentes comisionistas y empleados similares que no cumplan su cometido en el local del establecimiento; los que desempeñan funciones discontinuas o que requieran su sola presencia; y las personas que realizan labores que por su indudable naturaleza no están sometidas a jornada de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "143",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_143",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de horas diarias y el descanso mínimo para las personas excluidas de la limitación de jornada?",
+    "output": "No están obligadas a permanecer más de doce horas diarias en su trabajo y tienen derecho a un descanso mínimo de una hora y media dentro de esa jornada.",
+    "source_quote": "estas personas no estarán obligadas a permanecer más de doce horas diarias en su trabajo y tendrán derecho, dentro de esa jornada, a un descanso mínimo de una hora y media.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "143",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_143",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer un catálogo de trabajadores exceptuados de la limitación general de la jornada, reconociendo que por la autonomía, naturaleza de sus funciones o condiciones de prestación del servicio no resulta aplicable un control horario rígido.",
+    "source_quote": "Quedarán excluidos de la limitación de la jornada de trabajo los gerentes, administradores, apoderados y todos aquellos empleados que trabajan sin fiscalización superior inmediata: los trabajadores que ocupan puestos de confianza; los agentes comisionistas y empleados similares que no cumplan su cometido en el local del establecimiento; los que desempeñan funciones discontinuas o que requieran su sola presencia; y las personas que realizan labores que por su indudable naturaleza no están sometidas a jornada de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "143",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_143",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Imponer una salvaguarda mínima para estos trabajadores excluidos, fijando un tope máximo de permanencia diaria y un descanso obligatorio, con el fin de proteger su salud y seguridad a pesar de la inaplicabilidad de la jornada ordinaria.",
+    "source_quote": "Sin embargo, estas personas no estarán obligadas a permanecer más de doce horas diarias en su trabajo y tendrán derecho, dentro de esa jornada, a un descanso mínimo de una hora y media.",
+    "item_index": 2
+  }
+]

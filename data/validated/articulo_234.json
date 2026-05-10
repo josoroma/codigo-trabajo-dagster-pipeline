@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 234 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 234 otorga al trabajador el derecho de demandar ante el juez de trabajo cuando no recibe las prestaciones del artículo 218, pudiendo reclamar el suministro o costo de estas, intereses legales, costas procesales y personales. Establece un procedimiento sumario: el juez apercibe al obligado para que en cinco días demuestre el cumplimiento; si no contesta, no demuestra o lo hace insuficientemente, o si el Organismo de Investigación Judicial dictamina prestaciones superiores, el juez impone la obligación de suministro o pago y sus accesorias. Extiende este procedimiento a los causahabientes del trabajador fallecido por riesgo laboral para reclamar prestaciones de los artículos 219 y 243, sin perjuicio del artículo 303.",
+    "source_quote": "Cuando el trabajador no reciba las prestaciones señaladas en el artículo 218, podrá demandar el suministro o el costo de éstas, los intereses legales correspondientes, más las costas procesales y personales que implique su acción ante el juez de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "234",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_234"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "234",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_234",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede demandar el trabajador si no recibe las prestaciones del artículo 218?",
+    "output": "El suministro o el costo de esas prestaciones, los intereses legales correspondientes, más las costas procesales y personales.",
+    "source_quote": "Cuando el trabajador no reciba las prestaciones señaladas en el artículo 218, podrá demandar el suministro o el costo de éstas, los intereses legales correspondientes, más las costas procesales y personales que implique su acción ante el juez de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "234",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_234",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el obligado para demostrar el cumplimiento de las prestaciones ante el juez de trabajo?",
+    "output": "Dentro del quinto día.",
+    "source_quote": "el juez de trabajo apercibirá al obligado para que demuestre, dentro del quinto día, haber cumplido con las mismas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "234",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_234",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra el derecho de acción del trabajador para reclamar judicialmente las prestaciones no otorgadas, incluyendo accesorios legales y costas, garantizando el acceso a la justicia laboral y la reparación integral.",
+    "source_quote": "Cuando el trabajador no reciba las prestaciones señaladas en el artículo 218, podrá demandar el suministro o el costo de éstas, los intereses legales correspondientes, más las costas procesales y personales que implique su acción ante el juez de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "234",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_234",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un procedimiento sumario con carga probatoria para el obligado y otorga al juez la facultad de imponer coactivamente la obligación de suministro o pago ante el incumplimiento demostrativo, asegurando la efectividad de la tutela judicial.",
+    "source_quote": "En concordancia con los procedimientos señalados en el artículo 233, el juez de trabajo apercibirá al obligado para que demuestre, dentro del quinto día, haber cumplido con las mismas. En caso contrario, ya sea porque no conteste dentro del término, o porque no demuestre del todo, o lo haga insuficientemente, haber cumplido con dichas prestaciones, o bien porque el Organismo de Investigación Judicial hubiese dictaminado prestaciones superiores a las otorgadas, el juez, en el fallo correspondiente, impondrá al obligado en cuanto a su obligación de preceder a su suministro o pago, así como de las accesorias de la acción.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 713 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 713 establece que lo acordado en una convención colectiva solo puede ser anulado mediante una declaración judicial de nulidad evidente y manifiesta, conforme a la Ley General de la Administración Pública, o a través del proceso de lesividad, por vicios de forma en la formación de la voluntad de las partes o por violación de normas legales o reglamentarias de carácter prohibitivo.",
+    "source_quote": "Lo dispuesto en una convención colectiva firmada con arreglo a las normas de este título solamente podrá ser anulado cuando en vía judicial se declare una nulidad evidente y manifiesta, de acuerdo con la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978, o por medio del proceso de lesividad, atendido a cuestiones de forma en la formación de la voluntad de las partes o cuando se hubieran violado normas legales o reglamentarias de carácter prohibitivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "713",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_713"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "713",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_713",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las vías para anular una convención colectiva según el artículo 713?",
+    "output": "La anulación puede darse mediante declaración judicial de nulidad evidente y manifiesta, de acuerdo con la Ley General de la Administración Pública, o por medio del proceso de lesividad.",
+    "source_quote": "solamente podrá ser anulado cuando en vía judicial se declare una nulidad evidente y manifiesta, de acuerdo con la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978, o por medio del proceso de lesividad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "713",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_713",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Por qué motivos de forma o fondo puede anularse una convención colectiva conforme al artículo 713?",
+    "output": "Por cuestiones de forma en la formación de la voluntad de las partes o por violación de normas legales o reglamentarias de carácter prohibitivo.",
+    "source_quote": "atendido a cuestiones de forma en la formación de la voluntad de las partes o cuando se hubieran violado normas legales o reglamentarias de carácter prohibitivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "713",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_713",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que la anulación de una convención colectiva requiere una declaración judicial de nulidad evidente y manifiesta, limitando las causales y remitiendo a la Ley General de la Administración Pública para su determinación.",
+    "source_quote": "Lo dispuesto en una convención colectiva firmada con arreglo a las normas de este título solamente podrá ser anulado cuando en vía judicial se declare una nulidad evidente y manifiesta, de acuerdo con la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "713",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_713",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Señala una vía adicional de anulación (proceso de lesividad) y los motivos específicos que la habilitan: vicios de forma en la voluntad de las partes o infracción de normas prohibitivas.",
+    "source_quote": "o por medio del proceso de lesividad, atendido a cuestiones de forma en la formación de la voluntad de las partes o cuando se hubieran violado normas legales o reglamentarias de carácter prohibitivo.",
+    "item_index": 2
+  }
+]

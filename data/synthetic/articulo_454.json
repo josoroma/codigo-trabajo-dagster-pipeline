@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 454 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 454 establece el derecho de las personas trabajadoras con ingresos mensuales que no superen dos salarios base del cargo de auxiliar administrativo (según la Ley de Presupuesto del año 2015) a recibir asistencia legal gratuita pagada por el Estado para defender sus derechos en conflictos laborales individuales. Esta limitación económica no se aplica a madres, menores de edad ni en casos de discriminación. Para brindar este servicio, se crea una sección especializada dentro del Departamento de Defensores Públicos del Poder Judicial, con abogados de asistencia social, cuyo financiamiento no afecta el presupuesto ordinario del Poder Judicial. Además, se regula la distribución de las costas personales recuperadas: 50% para la sección y 50% para el Fondo de Apoyo a la Solución Alterna de Conflictos.",
+    "source_quote": "Las personas trabajadoras cuyo ingreso mensual último o actual no supere dos salarios base del cargo de auxiliar administrativo de conformidad con lo dispuesto en el artículo 6 de la Ley N.° 9289, Ley de Presupuesto Ordinario y Extraordinario de la República para el Ejercicio Económico del Año 2015, de 29 de noviembre de 2014, tendrán derecho a asistencia legal gratuita, costeada por el Estado, para la tutela de sus derechos en conflictos jurídicos individuales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "454",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_454"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "454",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_454",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito de ingreso deben cumplir las personas trabajadoras para tener derecho a asistencia legal gratuita según el artículo 454?",
+    "output": "Su ingreso mensual último o actual no debe superar dos salarios base del cargo de auxiliar administrativo, conforme al artículo 6 de la Ley de Presupuesto Ordinario y Extraordinario de la República para el Ejercicio Económico del Año 2015.",
+    "source_quote": "Las personas trabajadoras cuyo ingreso mensual último o actual no supere dos salarios base del cargo de auxiliar administrativo de conformidad con lo dispuesto en el artículo 6 de la Ley N.° 9289, Ley de Presupuesto Ordinario y Extraordinario de la República para el Ejercicio Económico del Año 2015, de 29 de noviembre de 2014, tendrán derecho a asistencia legal gratuita...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "454",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_454",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos no se aplica la limitación económica para recibir asistencia legal gratuita según este artículo?",
+    "output": "No se aplica para las madres y los menores de edad respecto de la asistencia especial del Estado a que tienen derecho, ni para casos de discriminación en violación del título octavo del Código de Trabajo.",
+    "source_quote": "La limitación económica indicada en esta norma no rige para las madres y los menores de edad respecto de la asistencia especial del Estado a que tienen derecho ni para casos de discriminación, en violación de lo dispuesto en el título octavo de este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "454",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_454",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Crea la estructura institucional encargada de prestar el servicio de asistencia legal gratuita, garantizando su independencia y especialización dentro del Poder Judicial.",
+    "source_quote": "Con ese propósito funcionará, en el Departamento de Defensores Públicos del Poder Judicial, una sección especializada totalmente independiente de las otras áreas jurídicas, con profesionales en derecho denominados abogados o abogadas de asistencia social, la cual estará encargada de brindar gratuitamente el patrocinio letrado a las personas trabajadoras que cumplan el requisito indicado en el párrafo primero de esta norma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "454",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_454",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el destino de las costas procesales recuperadas, destinando la mitad a fortalecer y expandir la cobertura del servicio de asistencia social y la otra mitad al fomento de métodos alternativos de resolución de conflictos.",
+    "source_quote": "Los dineros por costas personales que se generen a favor de la parte patrocinada por la asistencia social se distribuirán de la siguiente manera: a) Un cincuenta por ciento (50%) del total recaudado será asignado a la sección especializada del Departamento de Defensores Públicos del Poder Judicial que se crea en este artículo, para la universalización de su cobertura en todo el territorio nacional. b) El cincuenta por ciento (50%) restante será depositado en el Fondo de Apoyo a la Solución Alterna de Conflictos que se crea en esta ley.",
+    "item_index": 2
+  }
+]

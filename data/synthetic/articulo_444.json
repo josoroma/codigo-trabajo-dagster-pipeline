@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 444 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 444 otorga a los trabajadores de 15 años o más plena capacidad para defender por sí mismos sus derechos laborales y de seguridad social ante autoridades administrativas y judiciales. Para los menores de 15 años, en procesos donde se discuta la violación de sus derechos, establece que deben ser representados por sus padres o representante legal; en ausencia de estos, el Patronato Nacional de la Infancia (PANI) designará un abogado que los represente.",
+    "source_quote": "Los trabajadores y las trabajadoras gozan, a partir de los quince años, de plena capacidad para ejercer ante las autoridades administrativas y judiciales las pretensiones que sean de su interés y, en general, para la tutela de sus derechos laborales y de seguridad social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "444",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_444"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "444",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_444",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué edad los trabajadores pueden ejercer por sí mismos sus derechos laborales ante las autoridades?",
+    "output": "A partir de los quince años.",
+    "source_quote": "Los trabajadores y las trabajadoras gozan, a partir de los quince años, de plena capacidad para ejercer ante las autoridades administrativas y judiciales las pretensiones que sean de su interés...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "444",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_444",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién representa a los trabajadores menores de quince años en procesos por violación de sus derechos laborales?",
+    "output": "Serán representados por su padre o su madre o por quien las represente legalmente y, en su defecto, por el Patronato Nacional de la Infancia (PANI), que designará a una persona abogada.",
+    "source_quote": "estas personas serán representadas por su padre o su madre o por quien las represente legalmente y, en su defecto, por el Patronato Nacional de la Infancia (PANI), que para ese efecto designará a una persona abogada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "444",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_444",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconocer la capacidad procesal autónoma de los adolescentes trabajadores desde los 15 años, permitiéndoles acceder directamente a la justicia para proteger sus derechos laborales y de seguridad social sin necesidad de representación legal.",
+    "source_quote": "Los trabajadores y las trabajadoras gozan, a partir de los quince años, de plena capacidad para ejercer ante las autoridades administrativas y judiciales las pretensiones que sean de su interés y, en general, para la tutela de sus derechos laborales y de seguridad social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "444",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_444",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer un régimen de representación obligatoria para los menores de 15 años en litigios sobre violación de sus derechos, garantizando su defensa técnica mediante padres, representantes legales o, subsidiariamente, el PANI, en consonancia con la protección especial de la niñez.",
+    "source_quote": "En procesos en los que se discuta cualquier violación a los derechos de las personas trabajadoras menores de quince años... estas personas serán representadas por su padre o su madre o por quien las represente legalmente y, en su defecto, por el Patronato Nacional de la Infancia (PANI), que para ese efecto designará a una persona abogada.",
+    "item_index": 2
+  }
+]

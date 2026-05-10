@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 284 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 284 establece obligaciones del patrono en materia de salud ocupacional, sin perjuicio de otras disposiciones del Código. Estas obligaciones incluyen permitir inspecciones de las autoridades y la colocación de textos legales y avisos sobre salud ocupacional, cumplir con la capacitación y adiestramiento de los trabajadores en esa materia, acatar las normas y disposiciones legales y reglamentarias sobre salud ocupacional, y proporcionar equipo de protección personal y de seguridad, asegurando su uso y funcionamiento.",
+    "source_quote": "Sin perjuicio de lo establecido en otras disposiciones de este Código, será obligación del patrono: - Permitir a las autoridades competentes la inspección periódica de los centros de trabajo y la colocación de textos legales, avisos, carteles y anuncios similares, referentes a salud ocupacional;",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "284",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_284"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "284",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_284",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe permitir el patrono a las autoridades competentes según el artículo 284?",
+    "output": "La inspección periódica de los centros de trabajo y la colocación de textos legales, avisos, carteles y anuncios similares, referentes a salud ocupacional.",
+    "source_quote": "Permitir a las autoridades competentes la inspección periódica de los centros de trabajo y la colocación de textos legales, avisos, carteles y anuncios similares, referentes a salud ocupacional;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "284",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_284",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la obligación del patrono respecto al equipo de protección personal según este artículo?",
+    "output": "Proporcionar el equipo y elemento de protección personal y de seguridad en el trabajo y asegurar su uso y funcionamiento.",
+    "source_quote": "Proporcionar el equipo y elemento de protección personal y de seguridad en el trabajo y asegurar su uso y funcionamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "284",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_284",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta obligación garantiza la fiscalización estatal de las condiciones laborales y la difusión de información sobre salud ocupacional en el lugar de trabajo.",
+    "source_quote": "Permitir a las autoridades competentes la inspección periódica de los centros de trabajo y la colocación de textos legales, avisos, carteles y anuncios similares, referentes a salud ocupacional;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "284",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_284",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono el deber de suministrar los implementos de protección necesarios y de velar por su correcta utilización, con el fin de resguardar la seguridad y salud de los trabajadores.",
+    "source_quote": "Proporcionar el equipo y elemento de protección personal y de seguridad en el trabajo y asegurar su uso y funcionamiento.",
+    "item_index": 2
+  }
+]

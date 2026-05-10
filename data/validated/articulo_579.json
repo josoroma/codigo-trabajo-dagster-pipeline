@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 579 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 579 permite corregir en cualquier momento los errores materiales y las imperfecciones que surjan durante el proceso y que no provoquen nulidad, siempre que la corrección sea necesaria para encauzar el procedimiento o ejecutar lo resuelto, y no modifique sustancialmente la decisión ya tomada.",
+    "source_quote": "Los errores materiales y las imperfecciones resultantes en el devenir del proceso que no impliquen nulidad podrán ser corregidos en cualquier momento, siempre y cuando sea necesario para orientar el curso normal del procedimiento o ejecutar el respectivo pronunciamiento y que la corrección no implique una modificación substancial de lo ya resuelto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "579",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_579"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "579",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_579",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de errores pueden corregirse según el artículo 579?",
+    "output": "Los errores materiales y las imperfecciones que no impliquen nulidad.",
+    "source_quote": "Los errores materiales y las imperfecciones resultantes en el devenir del proceso que no impliquen nulidad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "579",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_579",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condiciones se permite la corrección de esos errores?",
+    "output": "Se permite en cualquier momento, siempre que sea necesario para orientar el curso normal del procedimiento o ejecutar el pronunciamiento, y que la corrección no modifique sustancialmente lo ya resuelto.",
+    "source_quote": "siempre y cuando sea necesario para orientar el curso normal del procedimiento o ejecutar el respectivo pronunciamiento y que la corrección no implique una modificación substancial de lo ya resuelto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "579",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_579",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el objeto de la corrección: solo aquellos defectos de forma o de hecho que no afectan la validez del proceso, excluyendo los vicios que causan nulidad.",
+    "source_quote": "Los errores materiales y las imperfecciones resultantes en el devenir del proceso que no impliquen nulidad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "579",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_579",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los límites de la facultad correctiva: la corrección debe ser útil para el desarrollo del proceso o la ejecución de la decisión, y no puede alterar el fondo de lo resuelto.",
+    "source_quote": "siempre y cuando sea necesario para orientar el curso normal del procedimiento o ejecutar el respectivo pronunciamiento y que la corrección no implique una modificación substancial de lo ya resuelto.",
+    "item_index": 2
+  }
+]

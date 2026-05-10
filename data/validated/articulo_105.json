@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 105 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 105 establece disposiciones especiales para las personas trabajadoras domésticas remuneradas. Regula que su salario en efectivo debe ser al menos el salario mínimo de ley, y que el alojamiento y alimentación, salvo pacto en contrario, se consideran salario en especie sin integrar el salario mínimo. Define jornadas ordinarias máximas (8 horas diurnas, 6 nocturnas, con posibilidad de extender a 10 diurnas o 8 mixtas sin superar 48 semanales), derecho a descanso mínimo de una hora (proporcional en jornadas de más de 3 horas), y jornada extraordinaria hasta 4 horas diarias no permanente. Otorga un día de descanso semanal acordado, con al menos dos domingos al mes. Reconoce 15 días de vacaciones anuales remuneradas o proporción. En incapacidad temporal, remite al artículo 79, pero con prestación desde el primer mes de servicio; si la enfermedad es por contagio de habitantes de la casa, da derecho a salario completo hasta por tres meses y cobertura de gastos razonables.",
+    "source_quote": "Las personas trabajadoras domésticas remuneradas se regirán por las siguientes disposiciones especiales:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "105",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_105"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "105",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_105",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la jornada ordinaria máxima diurna para una persona trabajadora doméstica según el artículo 105?",
+    "output": "La jornada ordinaria efectiva máxima en jornada diurna es de ocho horas, pero puede estipularse una jornada ordinaria diurna hasta de diez horas, siempre que el trabajo semanal no exceda de las cuarenta y ocho horas.",
+    "source_quote": "Estarán sujetas a una jornada ordinaria efectiva, máxima de ocho horas en jornada diurna... Sin embargo, podrá estipularse una jornada ordinaria diurna hasta de diez horas... siempre que el trabajo semanal no exceda de las cuarenta y ocho horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "105",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_105",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede el salario en especie formar parte del salario mínimo de ley para las trabajadoras domésticas?",
+    "output": "No, en ninguna circunstancia el salario en especie formará parte del rubro del salario mínimo de ley.",
+    "source_quote": "En ninguna circunstancia, el salario en especie formará parte del rubro del salario mínimo de ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "105",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_105",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición protege el ingreso mínimo en efectivo de la persona trabajadora doméstica, asegurando que la remuneración básica legal no se vea reducida por el valor de la alimentación y el alojamiento proporcionados, los cuales son adicionales salvo pacto en contrario.",
+    "source_quote": "En ninguna circunstancia, el salario en especie formará parte del rubro del salario mínimo de ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "105",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_105",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "El propósito es evitar que el trabajo en horas extra se convierta en una práctica habitual que desvirtúe los límites de la jornada ordinaria, protegiendo la salud y el descanso de la persona trabajadora doméstica al limitar la excepcionalidad de la jornada extraordinaria.",
+    "source_quote": "La jornada extraordinaria que se convenga no podrá ser de carácter permanente.",
+    "item_index": 2
+  }
+]

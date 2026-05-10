@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 490 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 490 regula la forma en que los tribunales laborales pueden ordenar medidas cautelares o precautorias. Establece que estas medidas se dictan normalmente a petición de una de las partes, y solo se pueden ordenar de oficio (por iniciativa del tribunal) cuando la ley lo autorice expresamente. Además, obliga a los tribunales a actuar con diligencia al ejecutarlas para que no se pierda su finalidad. Por último, amplía las herramientas disponibles: además de las medidas típicas previstas en la legislación común, el tribunal puede utilizar cualquier otra medida que considere necesaria para proteger el derecho que podría reconocerse en el futuro.",
+    "source_quote": "Las medidas se ordenarán a solicitud de parte y de oficio únicamente en los casos expresamente previstos en la ley. Al ponerlas en práctica los tribunales actuarán diligentemente, de manera que no se frustre el fin perseguido y estos, además de las tipologías previstas en la ley común, podrán hacer uso de cualquier otra medida, si se considera necesaria para garantizar el eventual futuro derecho.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "490",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_490"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "490",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_490",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos puede un tribunal laboral ordenar medidas de oficio según el artículo 490?",
+    "output": "Únicamente en los casos expresamente previstos en la ley.",
+    "source_quote": "Las medidas se ordenarán a solicitud de parte y de oficio únicamente en los casos expresamente previstos en la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "490",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_490",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de medidas adicionales pueden utilizar los tribunales laborales más allá de las tipologías de la ley común?",
+    "output": "Pueden hacer uso de cualquier otra medida que consideren necesaria para garantizar el eventual futuro derecho.",
+    "source_quote": "podrán hacer uso de cualquier otra medida, si se considera necesaria para garantizar el eventual futuro derecho.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "490",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_490",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que las medidas cautelares requieren petición de parte, y limita la actuación oficiosa del tribunal a supuestos taxativos autorizados por ley, garantizando así el principio dispositivo y la seguridad jurídica.",
+    "source_quote": "Las medidas se ordenarán a solicitud de parte y de oficio únicamente en los casos expresamente previstos en la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "490",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_490",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a los tribunales laborales una facultad amplia y flexible para adoptar medidas atípicas o innominadas, con el fin de asegurar la efectividad de una futura sentencia, superando las limitaciones de las medidas tradicionales previstas en la ley común.",
+    "source_quote": "podrán hacer uso de cualquier otra medida, si se considera necesaria para garantizar el eventual futuro derecho.",
+    "item_index": 2
+  }
+]

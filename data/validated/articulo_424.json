@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 424 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 424 establece que el proceso laboral se inicia por iniciativa de la parte, pero una vez promovido, los tribunales deben impulsarlo de oficio con amplias facultades, sin necesidad de que las partes lo soliciten. También impone el deber de actuar con celeridad, acelerando el trámite, y advierte que el incumplimiento de plazos o conductas que perjudiquen la rapidez pueden considerarse falta grave disciplinaria y generar responsabilidad por daños y perjuicios.",
+    "source_quote": "El proceso es de iniciativa de la parte y, una vez promovido, los órganos de la jurisdicción deberán dictar, de oficio, con amplias facultades, todas las medidas dirigidas a su avance y finalización, sin necesidad de gestión de las partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "424",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_424"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "424",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_424",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién inicia el proceso laboral según el artículo 424?",
+    "output": "El proceso es de iniciativa de la parte.",
+    "source_quote": "El proceso es de iniciativa de la parte",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "424",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_424",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencias puede tener para un funcionario judicial el incumplimiento de los plazos para dictar resoluciones?",
+    "output": "Podrá considerarse falta grave para efectos disciplinarios y el funcionario podrá ser declarado responsable de los daños y perjuicios causados.",
+    "source_quote": "El incumplimiento de los plazos establecidos para el dictado de las resoluciones, así como cualquier conducta injustificada que perjudique la aplicación del principio de celeridad, podrán considerarse falta grave para efectos disciplinarios, de acuerdo con la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, y el funcionario judicial correspondiente podrá ser declarado responsable de los daños y perjuicios causados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "424",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_424",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra el principio de impulso procesal de oficio, que obliga al tribunal a tomar todas las medidas necesarias para que el proceso avance y concluya sin depender de la actividad de las partes, garantizando la eficiencia y evitando dilaciones.",
+    "source_quote": "El proceso es de iniciativa de la parte y, una vez promovido, los órganos de la jurisdicción deberán dictar, de oficio, con amplias facultades, todas las medidas dirigidas a su avance y finalización, sin necesidad de gestión de las partes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "424",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_424",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone el deber de celeridad procesal y establece consecuencias disciplinarias y de responsabilidad civil para los funcionarios judiciales que incumplan los plazos o realicen conductas injustificadas que retrasen el proceso, reforzando la obligación de una justicia laboral rápida.",
+    "source_quote": "En la tramitación de los procesos regulados por este Código, los tribunales deberán actuar de forma rápida, acelerando en lo posible el curso del expediente. El incumplimiento de los plazos establecidos para el dictado de las resoluciones, así como cualquier conducta injustificada que perjudique la aplicación del principio de celeridad, podrán considerarse falta grave para efectos disciplinarios, de acuerdo con la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, y el funcionario judicial correspondiente podrá ser declarado responsable de los daños y perjuicios causados.",
+    "item_index": 2
+  }
+]

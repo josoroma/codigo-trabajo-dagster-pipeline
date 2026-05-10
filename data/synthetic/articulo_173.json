@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 173 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 173 regula los anticipos que el patrono da al trabajador para que acepte el empleo. Establece un límite máximo de una cuarta parte del salario mensual; si se excede, el exceso es incobrable y no puede compensarse con deudas del trabajador. También dispone que las deudas por anticipos o pagos en exceso se paguen en al menos cuatro períodos de pago, sin intereses, y que al finalizar el contrato se haga la liquidación definitiva.",
+    "source_quote": "El anticipo que haga el Patrono al trabajador para inducirlo a aceptar el empleo se limitará, respecto a su cuantía, a una cuarta parte del salario mensual convenido; cuando exceda del límite fijado será legalmente incobrable y no podrá ser recuperado posteriormente compensándolo con las cantidades que se adeuden al trabajador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "173",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_173"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "173",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_173",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo del anticipo que el patrono puede dar al trabajador para inducirlo a aceptar el empleo?",
+    "output": "El límite máximo es una cuarta parte del salario mensual convenido.",
+    "source_quote": "El anticipo que haga el Patrono al trabajador para inducirlo a aceptar el empleo se limitará, respecto a su cuantía, a una cuarta parte del salario mensual convenido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "173",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_173",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el anticipo excede el límite de una cuarta parte del salario mensual?",
+    "output": "El exceso es legalmente incobrable y no puede ser recuperado posteriormente compensándolo con las cantidades que se adeuden al trabajador.",
+    "source_quote": "cuando exceda del límite fijado será legalmente incobrable y no podrá ser recuperado posteriormente compensándolo con las cantidades que se adeuden al trabajador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "173",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_173",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un tope máximo al anticipo para proteger al trabajador de deudas excesivas al inicio del empleo, y sanciona al patrono que lo exceda declarando el exceso incobrable e incompensable.",
+    "source_quote": "El anticipo que haga el Patrono al trabajador para inducirlo a aceptar el empleo se limitará, respecto a su cuantía, a una cuarta parte del salario mensual convenido; cuando exceda del límite fijado será legalmente incobrable y no podrá ser recuperado posteriormente compensándolo con las cantidades que se adeuden al trabajador.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "173",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_173",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la forma de pago de las deudas por anticipos o pagos en exceso, garantizando plazos mínimos y prohibiendo intereses para evitar abusos, y permite la liquidación final al terminar el contrato.",
+    "source_quote": "Las deudas que el trabajador contraiga con el patrono por concepto de anticipos o por pagos hechos en exceso, se amortizarán durante la vigencia del contrato en un mínimo de cuatro períodos de pago y no devengarán intereses. Es entendido que al terminar el contrato el Patrono podrá hacer la liquidación definitiva que proceda.",
+    "item_index": 2
+  }
+]

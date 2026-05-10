@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 35 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 35 establece la obligación del empleador de entregar un certificado al trabajador cuando finaliza el contrato de trabajo, si este lo solicita. El certificado debe incluir las fechas de inicio y fin del contrato, y el tipo de trabajo realizado. Si el trabajador lo desea, también puede incluir una evaluación de su desempeño y las razones de la terminación. Además, si el despido es por una falta del trabajador, el empleador debe entregar una carta de despido detallando los hechos, de forma personal y documentando la entrega. Si el trabajador se niega a recibirla, el empleador debe entregarla al Ministerio de Trabajo en un plazo de diez días naturales. Los hechos indicados en esa carta serán los únicos que se podrán alegar en un juicio.",
+    "source_quote": "A la expiración de todo contrato de trabajo, la parte empleadora, a solicitud del trabajador o trabajadora, deberá darle un certificado que exprese: a) La fecha de su entrada y de su salida. b) La clase de trabajo ejecutado. Si el trabajador o trabajadora lo desea, el certificado determinará también: c) La manera como trabajó. d) Las causas del retiro o de la cesación del contrato. Si la expiración del contrato obedece a destitución por falta atribuida a la persona trabajadora, la entrega de la carta de despido será obligatoria; en ella se deben describir, de forma puntual, detallada y clara, el hecho o los hechos en que se funda el despido.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "35",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_35"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "35",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_35",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe contener obligatoriamente el certificado que el empleador entrega al finalizar el contrato de trabajo?",
+    "output": "Debe contener la fecha de entrada y de salida del trabajador, y la clase de trabajo ejecutado.",
+    "source_quote": "A la expiración de todo contrato de trabajo, la parte empleadora, a solicitud del trabajador o trabajadora, deberá darle un certificado que exprese: a) La fecha de su entrada y de su salida. b) La clase de trabajo ejecutado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "35",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_35",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el empleador si el trabajador se niega a recibir la carta de despido?",
+    "output": "Debe entregarla a la oficina del Ministerio de Trabajo y de Seguridad Social de la localidad, o si no existe, a la oficina más cercana por correo certificado, dentro de los diez días naturales siguientes al despido.",
+    "source_quote": "Si el trabajador o la trabajadora se negara a recibirla, la entrega deberá hacerla la parte empleadora a la oficina del Ministerio de Trabajo y de Seguridad Social de la localidad y, si esta no existe, se entregará o enviará a la oficina más cercana de ese Ministerio por correo certificado, lo cual deberá hacer a más tardar dentro de los diez días naturales siguientes al despido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "35",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_35",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho del trabajador a obtener un certificado básico al terminar la relación laboral, detallando el período trabajado y el tipo de labor realizada, lo cual sirve como constancia de la experiencia laboral.",
+    "source_quote": "A la expiración de todo contrato de trabajo, la parte empleadora, a solicitud del trabajador o trabajadora, deberá darle un certificado que exprese: a) La fecha de su entrada y de su salida. b) La clase de trabajo ejecutado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "35",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_35",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de entregar una carta de despido detallada cuando el contrato termina por falta del trabajador, y limita los argumentos del empleador en un eventual juicio laboral a los hechos descritos en esa carta, garantizando el derecho de defensa del trabajador.",
+    "source_quote": "Si la expiración del contrato obedece a destitución por falta atribuida a la persona trabajadora, la entrega de la carta de despido será obligatoria; en ella se deben describir, de forma puntual, detallada y clara, el hecho o los hechos en que se funda el despido. [...] Los hechos causales señalados en la carta de despido serán los únicos que se puedan alegar judicialmente, si se presentara contención.",
+    "item_index": 2
+  }
+]

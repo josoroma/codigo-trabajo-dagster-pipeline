@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 24 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 24 establece el contenido mínimo que debe tener un contrato de trabajo escrito en Costa Rica. Incluye datos de identificación de las partes, duración del contrato, jornada laboral, salario y forma de pago, lugar de trabajo, y otros detalles. También prevé reglas especiales para contratos por unidad de obra y permite que el Ministerio de Trabajo imprima modelos de contrato.",
+    "source_quote": "El contrato escrito de trabajo contendrá:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "24",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_24"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "24",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_24",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué datos personales de los contratantes debe contener el contrato escrito de trabajo?",
+    "output": "Los nombres y apellidos, nacionalidad, edad, sexo, estado civil y domicilio de los contratantes.",
+    "source_quote": "a. Los nombres y apellidos, nacionalidad, edad, sexo, estado civil y domicilio de los contratantes;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "24",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_24",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "En los contratos donde el salario se paga por unidad de obra, ¿qué información adicional debe incluirse?",
+    "output": "Además de especificar la naturaleza de la obra, se hará constar la cantidad y calidad de material, el estado de la herramienta y útiles que el patrono proporcione, el tiempo por el que los pondrá a disposición del trabajador, y la retribución correspondiente, sin que el patrono pueda exigir cantidad alguna por el desgaste natural de la herramienta.",
+    "source_quote": "En los contratos en que se estipule que el salario se pagará por unidad de obra, además de especificarse la naturaleza de ésta, se hará constar la cantidad y calidad de material, el estado de la herramienta y útiles que el patrono, en su caso, proporcione para ejecutar la obra, y el tiempo por el que los pondrá a disposición del trabajador, así como la retribución correspondiente, sin que el patrono pueda exigir del mismo cantidad alguna por concepto del desgaste natural que sufra la herramienta, como consecuencia del trabajo;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "24",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_24",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer los requisitos obligatorios que debe cumplir todo contrato de trabajo escrito, garantizando que las partes conozcan sus derechos y obligaciones básicas desde el inicio de la relación laboral.",
+    "source_quote": "El contrato escrito de trabajo contendrá: a. Los nombres y apellidos, nacionalidad, edad, sexo, estado civil y domicilio de los contratantes; b. El número de sus cédulas de identidad, si estuvieren obligados a portarlas; c. La designación precisa de la residencia del trabajador cuando se le contratare para prestar sus servicios o ejecutar una obra en lugar distinto al de la que tiene habitualmente; d. La duración del contrato o la expresión de ser por tiempo indefinido, para obra determinada o a precio alzado; e. El tiempo de la jornada de trabajo y las horas en que debe prestarse éste; f. El sueldo, salario, jornal o participación que habrá de percibir el trabajador; si se debe calcular por unidad de tiempo, por unidad de obra o de alguna otra manera, y la forma, período y lugar del pago.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "24",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_24",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proteger al trabajador en contratos por unidad de obra, asegurando transparencia sobre los medios de trabajo proporcionados y prohibiendo que el patrono traslade al trabajador el costo del desgaste natural de las herramientas.",
+    "source_quote": "En los contratos en que se estipule que el salario se pagará por unidad de obra, además de especificarse la naturaleza de ésta, se hará constar la cantidad y calidad de material, el estado de la herramienta y útiles que el patrono, en su caso, proporcione para ejecutar la obra, y el tiempo por el que los pondrá a disposición del trabajador, así como la retribución correspondiente, sin que el patrono pueda exigir del mismo cantidad alguna por concepto del desgaste natural que sufra la herramienta, como consecuencia del trabajo;",
+    "item_index": 2
+  }
+]

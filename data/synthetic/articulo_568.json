@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 568 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 568 regula el pago de salarios caídos, estableciendo que solo procede cuando no haya un impedimento legal derivado de que la persona hubiera ocupado un cargo que lo prohíba. Si procede, se limita a la diferencia entre lo que debió recibir y lo que recibía, si este último salario era inferior.",
+    "source_quote": "El pago de los salarios caídos solo será procedente cuando no exista impedimento legal en virtud de haber ocupado la persona un cargo que lo impida.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "568",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_568"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "568",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_568",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos es procedente el pago de salarios caídos según el artículo 568?",
+    "output": "Es procedente cuando no exista impedimento legal debido a que la persona haya ocupado un cargo que lo impida.",
+    "source_quote": "El pago de los salarios caídos solo será procedente cuando no exista impedimento legal en virtud de haber ocupado la persona un cargo que lo impida.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "568",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_568",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuánto se paga por salarios caídos si la persona tenía un salario inferior al debido?",
+    "output": "Solo se paga la diferencia entre el salario que debió recibir y el que realmente estaba recibiendo, siempre que este último fuera inferior.",
+    "source_quote": "En tal caso solo procederá la diferencia, si el salario que hubiera estado recibiendo fuera inferior.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "568",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_568",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición necesaria para que proceda el pago de salarios caídos, excluyendo casos donde la ley lo prohíba por el tipo de cargo desempeñado.",
+    "source_quote": "El pago de los salarios caídos solo será procedente cuando no exista impedimento legal en virtud de haber ocupado la persona un cargo que lo impida.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "568",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_568",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita la cuantía de los salarios caídos a la diferencia entre el salario que correspondía legalmente y el efectivamente percibido, evitando un enriquecimiento injusto cuando la persona ya tenía ingresos menores.",
+    "source_quote": "En tal caso solo procederá la diferencia, si el salario que hubiera estado recibiendo fuera inferior.",
+    "item_index": 2
+  }
+]

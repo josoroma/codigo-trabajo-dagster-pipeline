@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 84 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 84 establece que un trabajador puede separarse de su empleo por cualquiera de las causas justificadas que enumera el artículo anterior (artículo 83) y, en ese caso, conserva su derecho a recibir indemnizaciones y prestaciones legales. Además, señala que si el trabajador abandona su trabajo sin una justa causa, no incurre en responsabilidad penal o laboral grave, pero sí debe pagar el importe del preaviso y, si luego hay un conflicto y se prueba que el abandono fue injustificado, asume la responsabilidad civil que corresponda.",
+    "source_quote": "Por cualquiera de las causas que enumera el artículo anterior podrá el trabajador separarse de su trabajo, conservando su derecho a las indemnizaciones y prestaciones legales. Tampoco incurrirá en responsabilidad alguna, salvo la de pagar el importe del pre-aviso y la de carácter civil que le corresponda, si posteriormente surgiere contención y se le probare que abandonó sus labores sin justa causa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "84",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_84"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "84",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_84",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derechos conserva el trabajador si se separa de su trabajo por una causa justificada según el artículo 84?",
+    "output": "Conserva su derecho a las indemnizaciones y prestaciones legales.",
+    "source_quote": "Por cualquiera de las causas que enumera el artículo anterior podrá el trabajador separarse de su trabajo, conservando su derecho a las indemnizaciones y prestaciones legales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "84",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_84",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué responsabilidades asume el trabajador si abandona su trabajo sin justa causa y luego se prueba en un conflicto?",
+    "output": "Debe pagar el importe del preaviso y la responsabilidad civil que le corresponda.",
+    "source_quote": "Tampoco incurrirá en responsabilidad alguna, salvo la de pagar el importe del pre-aviso y la de carácter civil que le corresponda, si posteriormente surgiere contención y se le probare que abandonó sus labores sin justa causa.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "84",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_84",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece el derecho del trabajador a renunciar por causas justificadas (las del artículo 83) sin perder sus indemnizaciones y prestaciones, protegiendo sus beneficios laborales ante una separación legítima.",
+    "source_quote": "Por cualquiera de las causas que enumera el artículo anterior podrá el trabajador separarse de su trabajo, conservando su derecho a las indemnizaciones y prestaciones legales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "84",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_84",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte limita la responsabilidad del trabajador que abandona el empleo sin justa causa a dos obligaciones específicas: pagar el preaviso y asumir la responsabilidad civil si se demuestra en un proceso posterior, evitando otras sanciones no previstas.",
+    "source_quote": "Tampoco incurrirá en responsabilidad alguna, salvo la de pagar el importe del pre-aviso y la de carácter civil que le corresponda, si posteriormente surgiere contención y se le probare que abandonó sus labores sin justa causa.",
+    "item_index": 2
+  }
+]

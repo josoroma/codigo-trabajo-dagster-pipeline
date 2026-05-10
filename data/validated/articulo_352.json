@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 352 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 352 establece que los sindicatos pueden decidir disolverse por dos razones: cuando se ha cumplido el objetivo para el que fueron creados, o mediante el voto favorable de dos terceras partes de sus miembros en una Asamblea General.",
+    "source_quote": "Los sindicatos podrán acordar su disolución: a. Por realización del objeto para que fueron constituidos, y b. Por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "352",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_352"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "352",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_352",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las causales por las que un sindicato puede acordar su disolución según el artículo 352?",
+    "output": "Por realización del objeto para que fueron constituidos y por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "source_quote": "Los sindicatos podrán acordar su disolución: a. Por realización del objeto para que fueron constituidos, y b. Por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "352",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_352",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué mayoría se requiere para disolver un sindicato por votación de sus miembros?",
+    "output": "Se requiere el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "source_quote": "b. Por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "352",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_352",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la facultad de los sindicatos para decidir su propia disolución, estableciendo el marco general de la norma.",
+    "source_quote": "Los sindicatos podrán acordar su disolución:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "352",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_352",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera las dos únicas causales legales que permiten la disolución: el cumplimiento del fin sindical y la decisión mayoritaria calificada de los afiliados en asamblea, garantizando así que la extinción responda a motivos objetivos o a una voluntad colectiva reforzada.",
+    "source_quote": "a. Por realización del objeto para que fueron constituidos, y b. Por el voto de las dos terceras partes de sus miembros, reunidos en Asamblea General.",
+    "item_index": 2
+  }
+]

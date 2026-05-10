@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 461 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 461 regula el agotamiento de la vía administrativa como requisito previo al proceso judicial. Si la parte eligió esa vía, el juez no puede exigir de oficio su cumplimiento; cualquier omisión se considera subsanada si la parte demandada no alega la excepción a tiempo. La excepción debe presentarse de forma fundada, indicando y demostrando en el mismo acto por qué la discusión administrativa no está cerrada, bajo pena de rechazo de plano.",
+    "source_quote": "Si la parte hubiera elegido el agotamiento de la vía administrativa, la falta de ese requisito no podrá exigirse de oficio y cualquier omisión al respecto se tendrá por subsanada, si la parte demandada no alega la excepción oportunamente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "461",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_461"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "461",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_461",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede el juez exigir de oficio el agotamiento de la vía administrativa si la parte lo eligió?",
+    "output": "No, la falta de ese requisito no podrá exigirse de oficio.",
+    "source_quote": "la falta de ese requisito no podrá exigirse de oficio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "461",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_461",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer la parte demandada si considera que no se ha agotado la vía administrativa?",
+    "output": "Debe alegar la excepción oportunamente, de forma fundada, indicando y demostrando en el mismo acto la razón concreta por la cual la discusión administrativa no puede tenerse por cerrada, bajo pena de rechazo de plano.",
+    "source_quote": "Esta debe interponerse siempre bajo pena de rechazo de plano, de forma fundada, indicándose y demostrándose en el mismo acto la razón concreta por la cual la discusión administrativa no puede tenerse por cerrada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "461",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_461",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el agotamiento de la vía administrativa no es un requisito revisable de oficio por el juez, sino que debe ser alegado por la parte demandada; si no lo hace, la omisión se considera subsanada, evitando nulidades procesales automáticas.",
+    "source_quote": "Si la parte hubiera elegido el agotamiento de la vía administrativa, la falta de ese requisito no podrá exigirse de oficio y cualquier omisión al respecto se tendrá por subsanada, si la parte demandada no alega la excepción oportunamente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "461",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_461",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a la parte demandada la carga de presentar la excepción de manera fundamentada y con prueba inmediata, so pena de rechazo, para garantizar la seriedad de la objeción y evitar dilaciones injustificadas en el proceso.",
+    "source_quote": "Esta debe interponerse siempre bajo pena de rechazo de plano, de forma fundada, indicándose y demostrándose en el mismo acto la razón concreta por la cual la discusión administrativa no puede tenerse por cerrada.",
+    "item_index": 2
+  }
+]

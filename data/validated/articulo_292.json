@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 292 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 292 establece que el Instituto Nacional de Seguros tiene la obligación de mantener de forma permanente un sistema de estadísticas sobre los riesgos del trabajo. Este sistema debe garantizar que sus datos puedan compararse con los de otras instituciones, tanto nacionales como extranjeras.",
+    "source_quote": "El Instituto Nacional de Seguros deberá llevar, permanentemente, un sistema de estadísticas sobre riesgos del trabajo, que asegure su comparabilidad con otras instituciones tanto nacionales como extranjeras.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "292",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_292"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "292",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_292",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué institución está obligada a llevar un sistema de estadísticas sobre riesgos del trabajo según el artículo 292?",
+    "output": "El Instituto Nacional de Seguros.",
+    "source_quote": "El Instituto Nacional de Seguros deberá llevar, permanentemente, un sistema de estadísticas sobre riesgos del trabajo...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "292",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_292",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir el sistema de estadísticas sobre riesgos del trabajo que debe llevar el Instituto Nacional de Seguros?",
+    "output": "Debe asegurar su comparabilidad con otras instituciones tanto nacionales como extranjeras.",
+    "source_quote": "...que asegure su comparabilidad con otras instituciones tanto nacionales como extranjeras.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "292",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_292",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación legal del Instituto Nacional de Seguros de mantener un sistema estadístico continuo y actualizado sobre los riesgos laborales, como parte de sus funciones en materia de aseguramiento.",
+    "source_quote": "El Instituto Nacional de Seguros deberá llevar, permanentemente, un sistema de estadísticas sobre riesgos del trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "292",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_292",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone el requisito de que el sistema estadístico permita la comparación de datos con los de otras entidades, nacionales e internacionales, para facilitar el análisis, la armonización y la cooperación en la gestión de riesgos del trabajo.",
+    "source_quote": "que asegure su comparabilidad con otras instituciones tanto nacionales como extranjeras",
+    "item_index": 2
+  }
+]

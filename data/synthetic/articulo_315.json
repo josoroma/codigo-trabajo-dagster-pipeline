@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 315 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 315 establece que los juzgados de trabajo son los encargados de imponer sanciones, dentro de los límites del Título correspondiente, usando su criterio prudente y discrecional. Para decidir la sanción, deben considerar factores como la gravedad de la falta, el número de trabajadores afectados directa o potencialmente, los daños causados, las condiciones personales y antecedentes del infractor, y cualquier otra circunstancia que estimen pertinente.",
+    "source_quote": "Los juzgados de trabajo impondrán las sanciones que corresponden, dentro de los límites de este Título, conforme a su prudente y discrecional arbitrio. Para esos efectos, tomarán en consideración factores tales como la gravedad de la falta, número de trabajadores directa o potencialmente afectados, daños causados, condiciones personales y antecedentes del inculpado y demás circunstancias que estimen oportuno ponderar, para las imposiciones de la sanción.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "315",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_315"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "315",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_315",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes imponen las sanciones según el artículo 315?",
+    "output": "Los juzgados de trabajo.",
+    "source_quote": "Los juzgados de trabajo impondrán las sanciones que corresponden, dentro de los límites de este Título, conforme a su prudente y discrecional arbitrio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "315",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_315",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores deben considerar los juzgados de trabajo al imponer una sanción?",
+    "output": "Deben considerar la gravedad de la falta, el número de trabajadores directa o potencialmente afectados, los daños causados, las condiciones personales y antecedentes del inculpado, y demás circunstancias que estimen oportuno ponderar.",
+    "source_quote": "tomarán en consideración factores tales como la gravedad de la falta, número de trabajadores directa o potencialmente afectados, daños causados, condiciones personales y antecedentes del inculpado y demás circunstancias que estimen oportuno ponderar, para las imposiciones de la sanción.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "315",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_315",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la autoridad competente para imponer sanciones (los juzgados de trabajo) y el criterio que deben utilizar (prudente y discrecional), dentro de los límites legales del Título.",
+    "source_quote": "Los juzgados de trabajo impondrán las sanciones que corresponden, dentro de los límites de este Título, conforme a su prudente y discrecional arbitrio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "315",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_315",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera los factores que los juzgados deben evaluar para determinar la sanción, garantizando que la decisión sea proporcional y considere las circunstancias del caso y del infractor.",
+    "source_quote": "tomarán en consideración factores tales como la gravedad de la falta, número de trabajadores directa o potencialmente afectados, daños causados, condiciones personales y antecedentes del inculpado y demás circunstancias que estimen oportuno ponderar, para las imposiciones de la sanción.",
+    "item_index": 2
+  }
+]

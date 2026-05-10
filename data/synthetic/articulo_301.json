@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 301 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 301 impone a todas las oficinas y entidades del gobierno la obligación de brindar la ayuda que solicite el Consejo de Salud Ocupacional, con el fin de que este pueda cumplir mejor sus funciones.",
+    "source_quote": "Todas las dependencias públicas o instituciones del Estado están obligadas a prestar la colaboración que solicite el Consejo de Salud Ocupacional, para el mejor cumplimiento de sus funciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "301",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_301"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "301",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_301",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están obligados a colaborar con el Consejo de Salud Ocupacional según el artículo 301?",
+    "output": "Todas las dependencias públicas o instituciones del Estado.",
+    "source_quote": "Todas las dependencias públicas o instituciones del Estado están obligadas a prestar la colaboración que solicite el Consejo de Salud Ocupacional",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "301",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_301",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué finalidad deben prestar colaboración esas entidades?",
+    "output": "Para el mejor cumplimiento de las funciones del Consejo de Salud Ocupacional.",
+    "source_quote": "para el mejor cumplimiento de sus funciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "301",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_301",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una obligación legal de colaboración activa para todas las entidades públicas, sin excepción, cuando el Consejo de Salud Ocupacional lo requiera.",
+    "source_quote": "Todas las dependencias públicas o instituciones del Estado están obligadas a prestar la colaboración que solicite el Consejo de Salud Ocupacional",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "301",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_301",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la finalidad de la colaboración: facilitar y optimizar el desempeño de las tareas propias del Consejo de Salud Ocupacional.",
+    "source_quote": "para el mejor cumplimiento de sus funciones.",
+    "item_index": 2
+  }
+]

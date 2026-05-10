@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 411 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 411 establece que las reglas sobre el cómputo, la suspensión, la interrupción y cualquier otro aspecto de la prescripción de derechos laborales se rigen, en primer lugar, por lo que dispone el propio Código de Trabajo. Si este Código no regula algún punto, se aplica de manera supletoria lo que establece el Código Civil.",
+    "source_quote": "El cómputo, la suspensión, la interrupción y los demás extremos relativos a la prescripción se regirán por lo dispuesto en este Código y de forma supletoria por lo que dispone el Código Civil.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "411",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_411"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "411",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_411",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué aspectos de la prescripción menciona expresamente el artículo 411?",
+    "output": "El cómputo, la suspensión, la interrupción y los demás extremos relativos a la prescripción.",
+    "source_quote": "El cómputo, la suspensión, la interrupción y los demás extremos relativos a la prescripción",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "411",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_411",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué legislación se aplica de forma supletoria en materia de prescripción según este artículo?",
+    "output": "El Código Civil.",
+    "source_quote": "de forma supletoria por lo que dispone el Código Civil.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "411",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_411",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el Código de Trabajo es la fuente principal para regular todos los aspectos de la prescripción de las acciones laborales, incluyendo cómo se calcula el plazo, cuándo se suspende y cuándo se interrumpe.",
+    "source_quote": "El cómputo, la suspensión, la interrupción y los demás extremos relativos a la prescripción se regirán por lo dispuesto en este Código",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "411",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_411",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que, en ausencia de regulación específica en el Código de Trabajo, se aplicarán las normas del Código Civil como fuente supletoria, garantizando que no haya vacíos legales en la materia.",
+    "source_quote": "y de forma supletoria por lo que dispone el Código Civil.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 59 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 59 establece que si un patrono se separa del sindicato o grupo patronal que firmó una convención colectiva, dicha convención sigue rigiendo la relación entre ese patrono y el sindicato o grupo de trabajadores. En caso de disolución del sindicato de trabajadores o del sindicato de patronos, se aplica la regla del artículo 53. Además, incluye una interpretación de la Sala Constitucional que determina la constitucionalidad de las convenciones colectivas en el sector público: son inconstitucionales cuando involucran personal con relación de empleo de naturaleza pública (estatutaria), pero son constitucionales si las relaciones laborales se rigen por el Derecho común, y corresponde a la administración y a los jueces laborales definir la naturaleza de la relación para aplicar la convención.",
+    "source_quote": "Si firmada una convención colectiva el patrono se separa del sindicato o grupo patronal que celebró el pacto, éste regirá siempre la relación de aquel patrono con el sindicato o sindicatos o grupo de sus trabajadores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la separación de un patrono del sindicato que firmó una convención colectiva?",
+    "output": "La convención colectiva sigue rigiendo la relación entre ese patrono y el sindicato o grupo de trabajadores.",
+    "source_quote": "Si firmada una convención colectiva el patrono se separa del sindicato o grupo patronal que celebró el pacto, éste regirá siempre la relación de aquel patrono con el sindicato o sindicatos o grupo de sus trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Según la interpretación de la Sala Constitucional, ¿cuándo son inconstitucionales las convenciones colectivas en el sector público?",
+    "output": "Son inconstitucionales cuando se celebran con personal regido por una relación de empleo de naturaleza pública (relación estatutaria).",
+    "source_quote": "son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza la ultraactividad de la convención colectiva, impidiendo que la desvinculación patronal del sindicato firmante deje sin efecto el acuerdo, protegiendo así la estabilidad de las condiciones laborales pactadas.",
+    "source_quote": "Si firmada una convención colectiva el patrono se separa del sindicato o grupo patronal que celebró el pacto, éste regirá siempre la relación de aquel patrono con el sindicato o sindicatos o grupo de sus trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remite al artículo 53 para determinar los efectos jurídicos de la disolución sindical sobre la convención colectiva, asegurando coherencia normativa en el tratamiento de la extinción de los sujetos colectivos.",
+    "source_quote": "En caso de disolución del sindicato de trabajadores o del sindicato de patronos, se observará la regla del artículo 53.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "59",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_59",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el deber de la administración y los jueces laborales de calificar la naturaleza jurídica de la relación de empleo para decidir sobre la aplicabilidad de la convención colectiva en el sector público, conforme a los criterios de constitucionalidad fijados por la Sala Constitucional.",
+    "source_quote": "corresponde a la administración y a los jueces que conocen en los juicios laborales, en su caso, de la aplicación de las convenciones colectivas, determinar si los trabajadores involucrados, dada la naturaleza de las funciones que cumplen o cumplían, están regulados por el Derecho público o el común, a los efectos de definir si pueden o no ser sujetos activos en la aplicación de las convenciones colectivas",
+    "item_index": 3
+  }
+]

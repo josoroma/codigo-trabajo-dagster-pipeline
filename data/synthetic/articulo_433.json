@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 433 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 433 establece que los juzgados laborales pueden conocer de pretensiones que estén relacionadas o conectadas con el conflicto laboral principal, incluso si esas pretensiones, por su propia naturaleza, corresponderían a otra rama del derecho (como civil o comercial). Esto es posible siempre que esas pretensiones conexas surjan de los mismos hechos o estén estrechamente vinculadas con la relación laboral que originó la competencia del juzgado.",
+    "source_quote": "La competencia de los órganos de la jurisdicción laboral se extiende a las pretensiones conexas, aunque consideradas en sí mismas sean de otra naturaleza, siempre y cuando se deriven de los mismos hechos o estén íntimamente vinculadas a la relación substancial que determina la competencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "433",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_433"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "433",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_433",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un juzgado laboral conocer de una pretensión que, por su naturaleza, sería de competencia civil?",
+    "output": "Sí, siempre que sea una pretensión conexa derivada de los mismos hechos o íntimamente vinculada a la relación laboral sustancial que determina la competencia.",
+    "source_quote": "La competencia de los órganos de la jurisdicción laboral se extiende a las pretensiones conexas, aunque consideradas en sí mismas sean de otra naturaleza",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "433",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_433",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones deben cumplirse para que una pretensión conexa sea competencia de la jurisdicción laboral según el artículo 433?",
+    "output": "Debe derivarse de los mismos hechos o estar íntimamente vinculada a la relación sustancial que determina la competencia laboral.",
+    "source_quote": "siempre y cuando se deriven de los mismos hechos o estén íntimamente vinculadas a la relación substancial que determina la competencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "433",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_433",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la competencia de los tribunales laborales para abarcar pretensiones que, individualmente, pertenecerían a otra jurisdicción, siempre que guarden conexidad con el asunto laboral principal.",
+    "source_quote": "La competencia de los órganos de la jurisdicción laboral se extiende a las pretensiones conexas, aunque consideradas en sí mismas sean de otra naturaleza",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "433",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_433",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos que deben cumplir esas pretensiones conexas: deben originarse en los mismos hechos o tener un vínculo estrecho con la relación jurídica laboral que fundamenta la competencia del órgano jurisdiccional.",
+    "source_quote": "siempre y cuando se deriven de los mismos hechos o estén íntimamente vinculadas a la relación substancial que determina la competencia.",
+    "item_index": 2
+  }
+]

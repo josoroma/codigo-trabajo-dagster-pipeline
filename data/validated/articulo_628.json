@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 628 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 628 establece que la omisión en el nombramiento de conciliadores dentro de los plazos legales, la inasistencia injustificada a la conciliación y cualquier conducta que obstaculice este procedimiento son infracciones sancionables con multa de cinco a ocho salarios base mensuales. Para fijar la multa se considera si la persona es empleadora o trabajadora y se aplican los títulos sétimo y el presente. Además, al concluir el procedimiento conciliatorio, el órgano ordenará remitir un testimonio para iniciar el proceso sancionador. Se absuelve y archiva el expediente si se demuestran motivos justos que impidieron absolutamente la asistencia.",
+    "source_quote": "La omisión en el nombramiento de personas conciliadoras en los plazos establecidos en este Código, la inasistencia injustificada a la diligencia de conciliación y cualquier otra conducta tendiente a obstaculizarla constituirá una infracción punible con multa de cinco a ocho salarios base mensuales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "628",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_628"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "628",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_628",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué conductas constituyen una infracción según el artículo 628?",
+    "output": "La omisión en el nombramiento de personas conciliadoras en los plazos establecidos, la inasistencia injustificada a la diligencia de conciliación y cualquier otra conducta tendiente a obstaculizarla.",
+    "source_quote": "La omisión en el nombramiento de personas conciliadoras en los plazos establecidos en este Código, la inasistencia injustificada a la diligencia de conciliación y cualquier otra conducta tendiente a obstaculizarla constituirá una infracción punible con multa de cinco a ocho salarios base mensuales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "628",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_628",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se absuelve a los denunciados y se archiva el expediente?",
+    "output": "Cuando se demuestren motivos justos que impidieron de forma absoluta la asistencia.",
+    "source_quote": "Se absolverá a los denunciados y se ordenará el archivo del expediente, cuando se demuestren motivos justos que impidieron de forma absoluta la asistencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "628",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_628",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las conductas sancionables y la sanción económica aplicable, estableciendo el marco punitivo para garantizar la efectividad del procedimiento conciliatorio.",
+    "source_quote": "La omisión en el nombramiento de personas conciliadoras en los plazos establecidos en este Código, la inasistencia injustificada a la diligencia de conciliación y cualquier otra conducta tendiente a obstaculizarla constituirá una infracción punible con multa de cinco a ocho salarios base mensuales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "628",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_628",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una eximente de responsabilidad cuando existen causas justificadas que imposibilitaron la asistencia, protegiendo a quienes no pudieron comparecer por razones de fuerza mayor.",
+    "source_quote": "Se absolverá a los denunciados y se ordenará el archivo del expediente, cuando se demuestren motivos justos que impidieron de forma absoluta la asistencia.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 450 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 450 permite que las personas que actúan como demandados o coadyuvantes en un proceso laboral puedan litigar juntas bajo una misma representación y dirección, excepto la Contraloría General de la República. Esto es posible siempre que sus posiciones no sean contradictorias y no exista conflicto de intereses entre ellas.",
+    "source_quote": "Quienes actúen como demandados o coadyuvantes, a excepción de la Contraloría General de la República, en los casos en que puede intervenir en los procesos conforme a la ley, podrán litigar unidos bajo una misma representación y dirección, siempre que sus posiciones no sean contradictorias y no exista conflicto de intereses.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "450",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_450"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "450",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_450",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes tienen la posibilidad de litigar unidos bajo una misma representación según el artículo 450 del Código de Trabajo?",
+    "output": "Las personas que actúen como demandados o coadyuvantes, con excepción de la Contraloría General de la República.",
+    "source_quote": "Quienes actúen como demandados o coadyuvantes, a excepción de la Contraloría General de la República, en los casos en que puede intervenir en los procesos conforme a la ley, podrán litigar unidos bajo una misma representación y dirección",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "450",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_450",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos deben cumplir los demandados o coadyuvantes para litigar unidos según este artículo?",
+    "output": "Que sus posiciones no sean contradictorias y que no exista conflicto de intereses entre ellos.",
+    "source_quote": "siempre que sus posiciones no sean contradictorias y no exista conflicto de intereses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "450",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_450",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los sujetos procesales que pueden acogerse a la litigación unificada (demandados y coadyuvantes), exceptúa explícitamente a la Contraloría General de la República cuando interviene conforme a la ley, y autoriza la representación y dirección conjunta.",
+    "source_quote": "Quienes actúen como demandados o coadyuvantes, a excepción de la Contraloría General de la República, en los casos en que puede intervenir en los procesos conforme a la ley, podrán litigar unidos bajo una misma representación y dirección,",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "450",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_450",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone las condiciones indispensables para permitir la unificación: ausencia de contradicción en las posiciones y ausencia de conflicto de intereses entre los litigantes.",
+    "source_quote": "siempre que sus posiciones no sean contradictorias y no exista conflicto de intereses.",
+    "item_index": 2
+  }
+]

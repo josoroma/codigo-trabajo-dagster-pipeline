@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 207 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 207 establece que, para delimitar la responsabilidad de la aseguradora en el seguro de riesgos del trabajo, la cobertura inicia con el pago de la prima (provisional o definitiva) y se extiende hasta la expiración del seguro. Además, la vigencia cesa automáticamente en dos casos: cuando terminan los trabajos asegurados y se avisa a la aseguradora, o por falta de pago de cualquier prima o fracción.",
+    "source_quote": "Únicamente para los efectos de poder delimitarse la responsabilidad subrogada por la institución aseguradora, en virtud del seguro de riesgos del trabajo, se entenderá que la vigencia de éste se inicia al ser pagada la prima provisional o definitiva que se fije, extendiéndose la cobertura hasta el día de la expiración del seguro.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "207",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_207"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "207",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_207",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo inicia la vigencia del seguro de riesgos del trabajo según el artículo 207?",
+    "output": "Inicia al ser pagada la prima provisional o definitiva que se fije.",
+    "source_quote": "se entenderá que la vigencia de éste se inicia al ser pagada la prima provisional o definitiva que se fije",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "207",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_207",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos cesa automáticamente la vigencia del seguro de riesgos del trabajo?",
+    "output": "Cesa por la terminación de los trabajos asegurados, en el momento en que se dé el aviso respectivo a la Institución aseguradora, y por la falta de pago de cualquier prima o fracción de la misma.",
+    "source_quote": "esta vigencia cesará, en forma automática, en los siguientes casos: - Por la terminación de los trabajos asegurados, en el momento en que se dé el aviso respectivo a la Institución aseguradora. - Por la falta de pago de cualquier prima o fracción de las misma.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "207",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_207",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el momento exacto en que inicia la cobertura del seguro y su duración, con el fin de delimitar la responsabilidad de la aseguradora en caso de subrogación.",
+    "source_quote": "Únicamente para los efectos de poder delimitarse la responsabilidad subrogada por la institución aseguradora, en virtud del seguro de riesgos del trabajo, se entenderá que la vigencia de éste se inicia al ser pagada la prima provisional o definitiva que se fije, extendiéndose la cobertura hasta el día de la expiración del seguro.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "207",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_207",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determinar las causales específicas que provocan el cese automático de la cobertura del seguro, liberando a la aseguradora de responsabilidad.",
+    "source_quote": "Sin embargo, esta vigencia cesará, en forma automática, en los siguientes casos: - Por la terminación de los trabajos asegurados, en el momento en que se dé el aviso respectivo a la Institución aseguradora. - Por la falta de pago de cualquier prima o fracción de las misma.",
+    "item_index": 2
+  }
+]

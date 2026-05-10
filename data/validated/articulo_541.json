@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 541 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 541 establece el debido proceso previo al despido para las personas protegidas mencionadas en el artículo 540. Dependiendo del inciso en que se clasifique la persona, el procedimiento se tramita ante la dependencia administrativa competente, la Dirección Nacional de Inspección del Trabajo o el juzgado de trabajo. También permite la suspensión excepcional del trabajador si las faltas son graves, exige que el empleador obtenga autorización por resolución firme para que el despido sea válido, y otorga un mes de plazo para ejecutar el despido una vez autorizado.",
+    "source_quote": "Las personas indicadas en el artículo anterior tendrán derecho a un debido proceso, previo al despido, el cual se regirá por las siguientes disposiciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "541",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_541"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "541",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_541",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué órgano debe gestionarse el debido proceso para despedir a las personas indicadas en los incisos 3), 4), 5), 6) y 9) del artículo 540?",
+    "output": "Debe gestionarse ante la Dirección Nacional de Inspección del Trabajo.",
+    "source_quote": "El debido proceso para el despido de las personas indicadas en los incisos 3), 4), 5), 6) y 9) del artículo anterior deberá gestionarse ante la Dirección Nacional de Inspección del Trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "541",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_541",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el empleador para hacer uso de la autorización de despido una vez que la resolución está firme?",
+    "output": "Un plazo de un mes de caducidad, contado desde la firmeza.",
+    "source_quote": "Autorizado el despido por resolución firme, el empleador o la empleadora gozará de un plazo de un mes de caducidad para hacer uso de la autorización del despido, contado desde la firmeza.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "541",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_541",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que para ciertos trabajadores protegidos el debido proceso se rige por el procedimiento administrativo de la dependencia que los tutela, excepto cuando no exista un debido proceso previsto, en cuyo caso no se aplica.",
+    "source_quote": "El debido proceso de las personas indicadas en los incisos 1), 2) y 8) del artículo anterior se regulará por el procedimiento administrativo de la dependencia competente conforme a la norma de tutela correspondiente, salvo el caso del inciso 8) en que no esté previsto un debido proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "541",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_541",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la suspensión temporal del trabajador como medida cautelar durante el procedimiento de despido, únicamente cuando las faltas imputadas sean tan graves que hagan inviable la continuidad de la relación laboral.",
+    "source_quote": "Excepcionalmente, el órgano del debido proceso podrá ordenar la suspensión de la persona trabajadora mientras se resuelve la gestión de despido, en los casos en que las faltas alegadas sean de tal gravedad que imposibiliten el desarrollo normal de la relación laboral.",
+    "item_index": 2
+  }
+]

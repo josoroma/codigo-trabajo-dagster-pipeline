@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 549 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 549 regula el inicio del proceso para distribuir prestaciones laborales tras el fallecimiento de un trabajador. Establece que cualquier persona con interés puede promoverlo ante el juzgado de trabajo competente, y detalla los requisitos que debe contener la solicitud: identificación del fallecido y del empleador o entidad deudora, lista de posibles beneficiarios con sus direcciones y señalamiento de menores o incapaces, y prueba del fallecimiento y del parentesco relevante.",
+    "source_quote": "El proceso puede ser promovido por cualquiera que tenga interés, ante el juzgado de trabajo competente. La solicitud deberá contener: ...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "549",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_549"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "549",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_549",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede promover el proceso de distribución según el artículo 549?",
+    "output": "Cualquiera que tenga interés.",
+    "source_quote": "El proceso puede ser promovido por cualquiera que tenga interés, ante el juzgado de trabajo competente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "549",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_549",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información sobre los posibles beneficiarios debe incluir la solicitud?",
+    "output": "El nombre de las posibles personas beneficiarias, su dirección, y debe indicarse quiénes son menores de edad o incapaces.",
+    "source_quote": "El nombre de las posibles personas beneficiarias de la distribución, de conformidad con lo dispuesto en el artículo 85 de este Código, así como la dirección de estas. Deberá indicarse quiénes son menores de edad o incapaces.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "549",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_549",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la legitimación amplia para iniciar el proceso y determina la autoridad judicial competente, garantizando el acceso a la justicia laboral para la distribución de derechos.",
+    "source_quote": "El proceso puede ser promovido por cualquiera que tenga interés, ante el juzgado de trabajo competente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "549",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_549",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Obliga a identificar a los beneficiarios que requieren protección especial, permitiendo al juzgado adoptar las medidas necesarias para salvaguardar sus intereses en la distribución.",
+    "source_quote": "Deberá indicarse quiénes son menores de edad o incapaces.",
+    "item_index": 2
+  }
+]

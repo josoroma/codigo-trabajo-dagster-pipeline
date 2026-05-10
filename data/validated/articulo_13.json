@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 13 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 13 del Código de Trabajo de Costa Rica fue anulado por la Sala Constitucional mediante la Resolución Nº 616-99 del 29 de enero de 1999. Por lo tanto, actualmente no tiene contenido ni efectos jurídicos.",
+    "source_quote": "Anulado por Resolución de la Sala Constitucional Nº 616-99 de las 10:00 horas del 29 de enero de 1999.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "13",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_13"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "13",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_13",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 13 del Código de Trabajo de Costa Rica?",
+    "output": "El artículo 13 fue anulado por la Sala Constitucional.",
+    "source_quote": "Anulado por Resolución de la Sala Constitucional Nº 616-99 de las 10:00 horas del 29 de enero de 1999.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "13",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_13",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué resolución anuló el artículo 13 del Código de Trabajo?",
+    "output": "La Resolución de la Sala Constitucional Nº 616-99 del 29 de enero de 1999.",
+    "source_quote": "Anulado por Resolución de la Sala Constitucional Nº 616-99 de las 10:00 horas del 29 de enero de 1999.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "13",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_13",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 13 fue declarado inconstitucional y eliminado del ordenamiento jurídico por la Sala Constitucional, por lo que carece de vigencia y no puede ser aplicado.",
+    "source_quote": "Anulado por Resolución de la Sala Constitucional Nº 616-99 de las 10:00 horas del 29 de enero de 1999.",
+    "item_index": 1
+  }
+]

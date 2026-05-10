@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 415 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 415 establece que cuando las sanciones disciplinarias se imponen mediante un procedimiento formal y quedan registradas en un acto escrito, la posibilidad de ejecutarlas caduca en el plazo de un año, contado desde que el acto queda firme. Esto significa que, transcurrido ese año, la sanción ya no puede hacerse efectiva para ningún efecto legal.",
+    "source_quote": "Cuando sea necesario seguir un procedimiento y consignar las sanciones disciplinarias en un acto escrito, la ejecución de las así impuestas caduca, para todo efecto, en un año desde la firmeza del acto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "415",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_415"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "415",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_415",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de caducidad para ejecutar una sanción disciplinaria impuesta mediante acto escrito?",
+    "output": "El plazo de caducidad es de un año desde la firmeza del acto.",
+    "source_quote": "la ejecución de las así impuestas caduca, para todo efecto, en un año desde la firmeza del acto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "415",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_415",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situaciones se aplica la caducidad prevista en el artículo 415?",
+    "output": "Se aplica cuando sea necesario seguir un procedimiento y consignar las sanciones disciplinarias en un acto escrito.",
+    "source_quote": "Cuando sea necesario seguir un procedimiento y consignar las sanciones disciplinarias en un acto escrito,",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "415",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_415",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho para la aplicación de la caducidad: que las sanciones disciplinarias se hayan impuesto mediante un procedimiento formal y consten en un documento escrito.",
+    "source_quote": "Cuando sea necesario seguir un procedimiento y consignar las sanciones disciplinarias en un acto escrito,",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "415",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_415",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el plazo de caducidad de un año para ejecutar dichas sanciones, contado a partir de que el acto adquiera firmeza, extinguiendo todos sus efectos legales.",
+    "source_quote": "la ejecución de las así impuestas caduca, para todo efecto, en un año desde la firmeza del acto.",
+    "item_index": 2
+  }
+]

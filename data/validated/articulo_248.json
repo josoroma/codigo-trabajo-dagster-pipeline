@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 248 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 248 establece que si un trabajador con incapacidad permanente fallece a causa directa del mismo riesgo laboral que originó esa incapacidad, se deben pagar las prestaciones económicas por muerte previstas en la ley, y las rentas se calculan desde el momento del fallecimiento.",
+    "source_quote": "Cuando el trabajador, al que se le hubiere fijado incapacidad permanente, falleciere, y su muerte se produjera como consecuencia y por efecto directo de ese mismo riesgo, deberán pagarse las prestaciones en dinero, por muerte, que establece esta ley, fijándose las rentas a partir de su muerte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "248",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_248"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "248",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_248",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición debe cumplirse para que se paguen prestaciones por muerte según el artículo 248?",
+    "output": "Que el trabajador tuviera una incapacidad permanente fijada y que su muerte sea consecuencia directa del mismo riesgo laboral que causó esa incapacidad.",
+    "source_quote": "Cuando el trabajador, al que se le hubiere fijado incapacidad permanente, falleciere, y su muerte se produjera como consecuencia y por efecto directo de ese mismo riesgo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "248",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_248",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde qué momento se fijan las rentas por muerte en el caso del artículo 248?",
+    "output": "Las rentas se fijan a partir de la muerte del trabajador.",
+    "source_quote": "fijándose las rentas a partir de su muerte",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "248",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_248",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho: la existencia de una incapacidad permanente previa y el nexo causal directo entre el riesgo laboral original y el fallecimiento, como requisito indispensable para activar la protección.",
+    "source_quote": "Cuando el trabajador, al que se le hubiere fijado incapacidad permanente, falleciere, y su muerte se produjera como consecuencia y por efecto directo de ese mismo riesgo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "248",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_248",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la consecuencia jurídica: la obligación de pagar las prestaciones económicas por muerte conforme a la ley, y precisa el momento inicial para el cálculo de las rentas, que es la fecha del deceso.",
+    "source_quote": "deberán pagarse las prestaciones en dinero, por muerte, que establece esta ley, fijándose las rentas a partir de su muerte",
+    "item_index": 2
+  }
+]

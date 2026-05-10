@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 198_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo asigna al Consejo de Seguridad Ocupacional la función de crear manuales, catálogos y listas de dispositivos de seguridad y equipo de protección para la actividad pesquera, considerando múltiples aspectos como instalaciones eléctricas, mecanismos de tracción, sistemas contra incendios, condiciones de alojamiento y primeros auxilios. Además, obliga a los armadores y propietarios de navíos pesqueros a adoptar medidas de salud ocupacional según el Código y reglamentos, y a velar por la seguridad y salud de los pescadores durante la navegación y faena. Establece que el Ministerio de Obras Públicas y Transportes es responsable de la seguridad en la navegación, y que INCOPESCA debe verificar la certificación de normas de seguridad antes de otorgar o renovar licencias de pesca.",
+    "source_quote": "Compete al Consejo de Seguridad Ocupacional como organismo técnico del Ministerio de Trabajo y Seguridad Social, establecer los manuales, los catálogos, las listas de dispositivos de seguridad, el equipo de protección y de la salud ocupacional de la actividad pesquera en general.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién compete establecer los manuales, catálogos y listas de dispositivos de seguridad y equipo de protección para la actividad pesquera?",
+    "output": "Compete al Consejo de Seguridad Ocupacional como organismo técnico del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Compete al Consejo de Seguridad Ocupacional como organismo técnico del Ministerio de Trabajo y Seguridad Social, establecer los manuales, los catálogos, las listas de dispositivos de seguridad, el equipo de protección y de la salud ocupacional de la actividad pesquera en general.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué entidad es responsable de verificar que las normas de seguridad estén certificadas antes de otorgar o renovar una licencia de pesca?",
+    "output": "Es responsabilidad de INCOPESCA verificar que las normas de seguridad nacionales e internacionales hayan sido certificadas por el Ministerio de Obras Públicas y Transportes.",
+    "source_quote": "Será responsabilidad de INCOPESCA verificar que las normas de seguridad nacionales e internacionales hayan sido certificadas por ese Ministerio, previo a todo trámite de solicitud inicial o de renovación de una licencia de pesca.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita establece la competencia del Consejo de Seguridad Ocupacional para dictar la normativa técnica de seguridad y salud en la pesca, detallando los aspectos que debe considerar para garantizar condiciones laborales seguras a bordo de los navíos pesqueros.",
+    "source_quote": "Compete al Consejo de Seguridad Ocupacional como organismo técnico del Ministerio de Trabajo y Seguridad Social, establecer los manuales, los catálogos, las listas de dispositivos de seguridad, el equipo de protección y de la salud ocupacional de la actividad pesquera en general. Con dicho propósito, el Consejo de Seguridad Ocupacional, en el ámbito de sus atribuciones y competencias, considerará las condiciones de seguridad de instalaciones eléctricas y fuentes de energía de emergencia para los navíos de pesca, según sus características físicas, así como también en cuanto a los componentes de los mecanismos de tracción, de carga-descarga y otros afines, como también aquellos otros relacionados con los sistemas y equipos de radiocomunicación, de detección y de lucha contra incendios, y de las condiciones de los lugares de trabajo, de alojamiento, servicios sanitarios, cocina y comedor, lugares de almacenamiento de la captura y sistemas de refrigeración y ventilación, sin omitir salidas de emergencia, vías de circulación y zonas peligrosas, calidad de pisos, mamparas, techos y puertas, control de ruido y primeros auxilios, así como todos aquellos otros extremos que contribuyan con la seguridad y mejores condiciones laborales a bordo de los navíos de pesca.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita impone a los armadores y propietarios la obligación legal de adoptar medidas de salud ocupacional, vinculándolos al cumplimiento del Código de Trabajo, reglamentos y recomendaciones de las autoridades competentes, con el fin de proteger a los trabajadores pesqueros.",
+    "source_quote": "Todo armador o propietario de navíos de pesca estará obligado a adoptar, en los lugares de trabajo, las medidas para garantizar la salud ocupacional de los trabajadores, conforme con los términos del Código de Trabajo, los reglamentos de salud ocupacional en general y los específicos que se promulguen, y las recomendaciones que formulen, en esta materia, tanto el Consejo de Salud Ocupacional como las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud o del Instituto Nacional de Seguros.",
+    "item_index": 2
+  }
+]

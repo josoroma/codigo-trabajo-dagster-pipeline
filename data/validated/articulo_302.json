@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 302 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 302 establece los requisitos que debe cumplir una persona para ser miembro del Consejo de Salud Ocupacional. Estos requisitos son: ser ciudadano costarricense en pleno ejercicio de sus derechos y contar con formación técnica en salud ocupacional o, en su defecto, poseer conocimientos teóricos o prácticos suficientes en esa materia.",
+    "source_quote": "Para ser miembro del Consejo de Salud Ocupacional se requiere: - Ser ciudadano costarricense en ejercicio; - Ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos suficientes sobre aspectos de la misma materia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "302",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_302"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "302",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_302",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los requisitos para ser miembro del Consejo de Salud Ocupacional según el artículo 302?",
+    "output": "Se requiere ser ciudadano costarricense en ejercicio y ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos suficientes sobre aspectos de la misma materia.",
+    "source_quote": "Para ser miembro del Consejo de Salud Ocupacional se requiere: - Ser ciudadano costarricense en ejercicio; - Ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos suficientes sobre aspectos de la misma materia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "302",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_302",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es indispensable tener un título de técnico en salud ocupacional para integrar el Consejo de Salud Ocupacional?",
+    "output": "No, el artículo permite que, en lugar de ser técnico, la persona tenga conocimientos teóricos o prácticos suficientes sobre salud ocupacional.",
+    "source_quote": "Ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos suficientes sobre aspectos de la misma materia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "302",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_302",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Este fragmento impone el requisito de nacionalidad y de pleno goce de los derechos civiles y políticos, asegurando que los miembros del Consejo tengan un vínculo jurídico activo con el país y capacidad legal para ejercer el cargo.",
+    "source_quote": "Ser ciudadano costarricense en ejercicio;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "302",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_302",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición establece la cualificación profesional mínima exigida, permitiendo que la idoneidad se acredite mediante un título técnico específico o mediante experiencia y saberes equivalentes, garantizando así que el Consejo cuente con personas competentes en la materia.",
+    "source_quote": "Ser técnico en salud ocupacional o tener conocimientos teóricos o prácticos suficientes sobre aspectos de la misma materia.",
+    "item_index": 2
+  }
+]

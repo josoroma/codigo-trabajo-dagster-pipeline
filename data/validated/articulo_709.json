@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 709 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 709 establece que el arbitramento obligatorio se aplica en el sector público, respecto de sus servidores, tanto en el régimen privado como en el público de empleo, cuando se ha agotado una huelga legal.",
+    "source_quote": "Es aplicable en el sector público, en relación con sus servidores, en régimen privado y público de empleo, el arbitramento obligatorio en el supuesto de la huelga legal agotada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "709",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_709"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "709",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_709",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué sector se aplica el arbitramento obligatorio según el artículo 709?",
+    "output": "En el sector público.",
+    "source_quote": "Es aplicable en el sector público, en relación con sus servidores, en régimen privado y público de empleo, el arbitramento obligatorio en el supuesto de la huelga legal agotada.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "709",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_709",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el supuesto que activa el arbitramento obligatorio conforme a este artículo?",
+    "output": "El supuesto de la huelga legal agotada.",
+    "source_quote": "el arbitramento obligatorio en el supuesto de la huelga legal agotada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "709",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_709",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito de aplicación del arbitramento obligatorio, abarcando a todos los servidores del sector público sin distinción del régimen laboral al que estén sujetos.",
+    "source_quote": "Es aplicable en el sector público, en relación con sus servidores, en régimen privado y público de empleo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "709",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_709",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición específica que hace procedente el arbitramento obligatorio, es decir, que se haya agotado una huelga declarada legal.",
+    "source_quote": "el arbitramento obligatorio en el supuesto de la huelga legal agotada",
+    "item_index": 2
+  }
+]

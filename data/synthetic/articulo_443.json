@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 443 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que pueden presentarse ante un tribunal laboral para defender sus derechos personales e intereses legítimos todas aquellas personas que estén ejerciendo sus derechos. Es decir, la capacidad para actuar en juicio se reconoce a quien ya goza del ejercicio de sus derechos, sin exigir requisitos adicionales.",
+    "source_quote": "Tienen capacidad para comparecer en juicio en defensa de sus derechos subjetivos e intereses legítimos, quienes se encuentren en ejercicio de sus derechos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "443",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_443"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "443",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_443",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes tienen capacidad para comparecer en juicio según el artículo 443?",
+    "output": "Quienes se encuentren en ejercicio de sus derechos.",
+    "source_quote": "quienes se encuentren en ejercicio de sus derechos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "443",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_443",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden defender en juicio las personas con capacidad según este artículo?",
+    "output": "Sus derechos subjetivos e intereses legítimos.",
+    "source_quote": "Tienen capacidad para comparecer en juicio en defensa de sus derechos subjetivos e intereses legítimos",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "443",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_443",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la aptitud legal para actuar como parte en un proceso laboral, delimitando el objeto de la defensa a derechos subjetivos e intereses legítimos propios.",
+    "source_quote": "Tienen capacidad para comparecer en juicio en defensa de sus derechos subjetivos e intereses legítimos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "443",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_443",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición habilitante: la persona debe estar en pleno goce de sus derechos, es decir, no estar sujeta a una incapacidad jurídica que le impida ejercerlos por sí misma.",
+    "source_quote": "quienes se encuentren en ejercicio de sus derechos.",
+    "item_index": 2
+  }
+]

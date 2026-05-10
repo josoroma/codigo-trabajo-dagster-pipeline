@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 270 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 270 regula el procedimiento ante órdenes de suspensión o cierre de centros de trabajo. Obliga al patrono a acatar la orden de inmediato, pero le concede el derecho de impugnarla dentro del tercer día ante el Juzgado de Trabajo correspondiente, presentando pruebas. El juez debe dar audiencia a la autoridad que emitió la orden, realizar una investigación sumaria y decidir en un máximo de diez días hábiles si mantiene o levanta la medida. La resolución es inapelable. Además, se presume la responsabilidad del patrono, por lo que debe pagar los salarios de los trabajadores durante el período de suspensión o cierre.",
+    "source_quote": "Todo patrono está obligado a acatar, de inmediato, las órdenes de suspensión o cierre de los centros de trabajo; pero dentro del tercer día podrá impugnarlas ante el Juzgado de Trabajo de la jurisdicción donde se realizan las labores, aportando toda la prueba de descargo que sea del caso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "270",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_270"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "270",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_270",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo puede el patrono impugnar una orden de suspensión o cierre del centro de trabajo?",
+    "output": "Dentro del tercer día.",
+    "source_quote": "pero dentro del tercer día podrá impugnarlas ante el Juzgado de Trabajo de la jurisdicción donde se realizan las labores, aportando toda la prueba de descargo que sea del caso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "270",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_270",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo que tiene el juez para decidir si mantiene o levanta la orden de suspensión o cierre?",
+    "output": "Un plazo máximo de diez días hábiles, contados a partir de la presentación de la impugnación del patrono.",
+    "source_quote": "En un plazo máximo de diez días hábiles, contados a partir de la presentación de la impugnación del patrono, el juez deberá decidir si mantiene la orden o si la levanta.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "270",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_270",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación inmediata de cumplir la orden y, simultáneamente, el derecho a impugnarla en un plazo perentorio, garantizando el debido proceso y la posibilidad de defensa del patrono.",
+    "source_quote": "Todo patrono está obligado a acatar, de inmediato, las órdenes de suspensión o cierre de los centros de trabajo; pero dentro del tercer día podrá impugnarlas ante el Juzgado de Trabajo de la jurisdicción donde se realizan las labores, aportando toda la prueba de descargo que sea del caso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "270",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_270",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra una presunción legal de responsabilidad patronal, trasladando el costo de los salarios al patrono durante la suspensión o cierre, con el fin de proteger el ingreso de los trabajadores afectados.",
+    "source_quote": "Se presume la responsabilidad del patrono, por la orden de suspensión o cierre del trabajo; por ello, los salarios de los trabajadores afectados por esa orden correrán a su cargo, durante el período en que no presten servicio por ese motivo.",
+    "item_index": 2
+  }
+]

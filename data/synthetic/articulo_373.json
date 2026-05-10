@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 373 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 373 define el alcance del derecho de huelga, detallando que comprende desde las actividades preparatorias que no interfieran con las labores normales, la convocatoria, la elección de la modalidad, la adhesión o negativa a una huelga ya convocada, la participación en su desarrollo, la desconvocatoria y la decisión individual de terminar la participación. Además, prohíbe a los huelguistas ausentarse injustificadamente para fines personales o familiares ajenos a la huelga, y establece que, una vez finalizada, el patrono dispone de un mes para actuar según el artículo 414.",
+    "source_quote": "El derecho de huelga comprende la participación en las actividades preparatorias que no interfieran en el desenvolvimiento normal de las labores de la empresa o centro de trabajo, de convocatoria, de elección de su modalidad, de adhesión a una huelga ya convocada o la negativa a participar en ella, de participación en su desarrollo, de desconvocatoria, así como la decisión de dar por terminada la propia participación en la huelga.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "373",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_373"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "373",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_373",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué actividades comprende el derecho de huelga según el artículo 373?",
+    "output": "Comprende la participación en actividades preparatorias que no interfieran en el desenvolvimiento normal de las labores, de convocatoria, de elección de su modalidad, de adhesión a una huelga ya convocada o la negativa a participar en ella, de participación en su desarrollo, de desconvocatoria, así como la decisión de dar por terminada la propia participación en la huelga.",
+    "source_quote": "El derecho de huelga comprende la participación en las actividades preparatorias que no interfieran en el desenvolvimiento normal de las labores de la empresa o centro de trabajo, de convocatoria, de elección de su modalidad, de adhesión a una huelga ya convocada o la negativa a participar en ella, de participación en su desarrollo, de desconvocatoria, así como la decisión de dar por terminada la propia participación en la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "373",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_373",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué está prohibido a los trabajadores que participan en una huelga?",
+    "output": "Queda prohibido ausentarse o separarse injustificadamente para realizar actividades personales o familiares ajenas a los fines que persigue dicho movimiento.",
+    "source_quote": "Queda prohibido a los trabajadores que participan de la huelga ausentarse o separarse injustificadamente para realizar actividades personales o familiares ajenas a los fines que persigue dicho movimiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "373",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_373",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el alcance integral del derecho de huelga, enumerando todas las fases y acciones que lo constituyen, desde la preparación hasta la terminación individual, para garantizar su ejercicio pleno y ordenado.",
+    "source_quote": "El derecho de huelga comprende la participación en las actividades preparatorias que no interfieran en el desenvolvimiento normal de las labores de la empresa o centro de trabajo, de convocatoria, de elección de su modalidad, de adhesión a una huelga ya convocada o la negativa a participar en ella, de participación en su desarrollo, de desconvocatoria, así como la decisión de dar por terminada la propia participación en la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "373",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_373",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limitar la conducta de los huelguistas para preservar la finalidad laboral de la huelga, evitando que se desvirtúe con ausencias injustificadas hacia intereses personales o familiares.",
+    "source_quote": "Queda prohibido a los trabajadores que participan de la huelga ausentarse o separarse injustificadamente para realizar actividades personales o familiares ajenas a los fines que persigue dicho movimiento.",
+    "item_index": 2
+  }
+]

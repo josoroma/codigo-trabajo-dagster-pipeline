@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 281 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 281 dispone que el consejo de salud ocupacional debe elaborar un plan nacional de salud ocupacional con proyecciones de corto, mediano y largo plazo. Esta elaboración se hará en coordinación con la Oficina de Planificación Nacional y Política Económica. Además, los planes anuales de trabajo del consejo deberán ajustarse a ese plan nacional.",
+    "source_quote": "El consejo preparará, en coordinación con la Oficina de Planificación Nacional y Política Económica, un plan nacional de salud ocupacional para corto, mediano y largo plazo, al cual deberá ajustar sus planes anuales de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "281",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_281"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "281",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_281",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué entidad debe coordinarse el consejo para preparar el plan nacional de salud ocupacional?",
+    "output": "Con la Oficina de Planificación Nacional y Política Económica.",
+    "source_quote": "en coordinación con la Oficina de Planificación Nacional y Política Económica",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "281",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_281",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué debe ajustar el consejo sus planes anuales de trabajo?",
+    "output": "Al plan nacional de salud ocupacional.",
+    "source_quote": "al cual deberá ajustar sus planes anuales de trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "281",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_281",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del consejo de elaborar un plan nacional de salud ocupacional con distintos horizontes temporales, en colaboración con la entidad de planificación nacional.",
+    "source_quote": "El consejo preparará, en coordinación con la Oficina de Planificación Nacional y Política Económica, un plan nacional de salud ocupacional para corto, mediano y largo plazo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "281",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_281",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de que los planes anuales de trabajo del consejo sean coherentes y estén alineados con el plan nacional de salud ocupacional.",
+    "source_quote": "al cual deberá ajustar sus planes anuales de trabajo",
+    "item_index": 2
+  }
+]

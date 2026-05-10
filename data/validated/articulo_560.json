@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 560 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 560 regula el contenido y los límites de la sentencia en los procesos laborales. Establece que la sentencia debe dictarse dentro de los límites fijados por las proposiciones de las partes y lo determinado en la fase preliminar de la audiencia de juicio, salvo variaciones legales. La sentencia debe contener tres partes: un preámbulo (donde se indica la clase de proceso, nombres de las partes y sus abogados), una parte considerativa (con síntesis de pretensiones y excepciones, hechos probados y no probados, análisis de pruebas, razones de hecho, jurídicas, doctrinales y jurisprudenciales, y cita de normas jurídicas) y una parte dispositiva (con el fallo, decisión sobre excepciones y costas). Además, detalla requisitos específicos para sentencias de segunda instancia y casación.",
+    "source_quote": "La sentencia se dictará y tendrá como límites los actos de proposición de las partes y lo fijado en la fase preliminar de la audiencia de juicio, sin perjuicio de las variaciones que sean permitidas por la ley. Contendrá un preámbulo, una parte considerativa y una dispositiva.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "560",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_560"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "560",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_560",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los límites que debe respetar la sentencia según el artículo 560?",
+    "output": "Los límites son los actos de proposición de las partes y lo fijado en la fase preliminar de la audiencia de juicio, sin perjuicio de las variaciones permitidas por la ley.",
+    "source_quote": "La sentencia se dictará y tendrá como límites los actos de proposición de las partes y lo fijado en la fase preliminar de la audiencia de juicio, sin perjuicio de las variaciones que sean permitidas por la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "560",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_560",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe incluirse en el preámbulo de la sentencia?",
+    "output": "En el preámbulo se indicará la clase de proceso, el nombre de las partes y sus abogados o abogadas.",
+    "source_quote": "En el preámbulo se indicará la clase de proceso, el nombre de las partes y sus abogados o abogadas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "560",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_560",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de congruencia y los límites del pronunciamiento judicial, vinculando la sentencia a las peticiones de las partes y a lo acordado en la audiencia preliminar, con la posibilidad de variaciones legales.",
+    "source_quote": "La sentencia se dictará y tendrá como límites los actos de proposición de las partes y lo fijado en la fase preliminar de la audiencia de juicio, sin perjuicio de las variaciones que sean permitidas por la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "560",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_560",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de fundamentar jurídicamente la decisión, garantizando que la sentencia se apoye en normas legales expresas y permitiendo el control de legalidad.",
+    "source_quote": "Es indispensable citar las normas jurídicas que sirven de base a las conclusiones sobre la procedencia o improcedencia de las pretensiones o excepciones propuestas.",
+    "item_index": 2
+  }
+]

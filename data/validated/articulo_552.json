@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 552 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 552 establece que las personas que tienen interés en la distribución de prestaciones no pueden reclamar directamente su pago por otras vías legales, pero sí pueden solicitar que dichas prestaciones sean depositadas judicialmente a la orden del juzgado.",
+    "source_quote": "Quienes tengan interés en la distribución no están legitimados para gestionar o demandar en otras vías el pago directo de las prestaciones a distribuir, pero sí para que se depositen judicialmente a la orden del juzgado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "552",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_552"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "552",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_552",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes no están legitimados para gestionar o demandar el pago directo de las prestaciones a distribuir?",
+    "output": "Quienes tengan interés en la distribución.",
+    "source_quote": "Quienes tengan interés en la distribución no están legitimados para gestionar o demandar en otras vías el pago directo de las prestaciones a distribuir",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "552",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_552",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué acción sí pueden realizar quienes tengan interés en la distribución?",
+    "output": "Pueden solicitar que las prestaciones se depositen judicialmente a la orden del juzgado.",
+    "source_quote": "pero sí para que se depositen judicialmente a la orden del juzgado",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "552",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_552",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limitar la legitimación activa de los interesados para reclamar directamente el pago de las prestaciones, impidiendo que utilicen vías distintas a la prevista para la distribución.",
+    "source_quote": "Quienes tengan interés en la distribución no están legitimados para gestionar o demandar en otras vías el pago directo de las prestaciones a distribuir",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "552",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_552",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconocer a los interesados la facultad de solicitar el depósito judicial de las prestaciones, garantizando así su disponibilidad bajo control del juzgado sin permitir el pago directo.",
+    "source_quote": "pero sí para que se depositen judicialmente a la orden del juzgado",
+    "item_index": 2
+  }
+]

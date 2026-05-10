@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 307 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece la obligación del patrono que no haya asegurado a su trabajador de depositar en el Instituto Nacional de Seguros el capital necesario para cubrir las prestaciones debidas, calculado según las bases actuariales del Instituto. Además, debe pagar cualquier otra deuda. El depósito debe realizarse dentro de los diez días siguientes a la notificación del Instituto. Si no se cumple en ese plazo, el Instituto puede exigir el pago por la vía ejecutiva.",
+    "source_quote": "Si el patrono no hubiere asegurado al trabajador estará obligado a depositar, en el Instituto Nacional de Seguros el capital correspondiente a la suma de prestaciones debidas, las cuales se calcularán conforme a las bases actuariales que el Instituto utilice según este Título, además de lo que por cualquier otro concepto adeudare, dentro de los diez días siguientes a la notificación correspondiente, realizada por el Instituto asegurador. Vencido este término, el depósito del capital podrá exigirse por la vía ejecutiva.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "307",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_307"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "307",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_307",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el patrono si no aseguró al trabajador?",
+    "output": "Debe depositar en el Instituto Nacional de Seguros el capital correspondiente a la suma de prestaciones debidas, calculado según las bases actuariales del Instituto, además de cualquier otra deuda.",
+    "source_quote": "Si el patrono no hubiere asegurado al trabajador estará obligado a depositar, en el Instituto Nacional de Seguros el capital correspondiente a la suma de prestaciones debidas, las cuales se calcularán conforme a las bases actuariales que el Instituto utilice según este Título, además de lo que por cualquier otro concepto adeudare",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "307",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_307",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para que el patrono realice el depósito y qué sucede si no lo cumple?",
+    "output": "El depósito debe realizarse dentro de los diez días siguientes a la notificación del Instituto asegurador. Si vence ese plazo sin que se haya hecho, el depósito puede exigirse por la vía ejecutiva.",
+    "source_quote": "dentro de los diez días siguientes a la notificación correspondiente, realizada por el Instituto asegurador. Vencido este término, el depósito del capital podrá exigirse por la vía ejecutiva.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "307",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_307",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación principal del patrono omiso: constituir un depósito en el Instituto Nacional de Seguros que cubra el valor presente de las prestaciones futuras, calculado actuarialmente, y saldar cualquier otra deuda pendiente, garantizando así la protección del trabajador no asegurado.",
+    "source_quote": "Si el patrono no hubiere asegurado al trabajador estará obligado a depositar, en el Instituto Nacional de Seguros el capital correspondiente a la suma de prestaciones debidas, las cuales se calcularán conforme a las bases actuariales que el Instituto utilice según este Título, además de lo que por cualquier otro concepto adeudare",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "307",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_307",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un plazo perentorio de diez días para cumplir con el depósito tras la notificación del Instituto, y otorga a este último la facultad de acudir a la vía ejecutiva para cobrar el capital si el patrono incumple, dotando de eficacia coercitiva a la obligación.",
+    "source_quote": "dentro de los diez días siguientes a la notificación correspondiente, realizada por el Instituto asegurador. Vencido este término, el depósito del capital podrá exigirse por la vía ejecutiva.",
+    "item_index": 2
+  }
+]

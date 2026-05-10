@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 370 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 370 establece que cuando en una empresa existe un sindicato que agrupa a la mayoría absoluta de los trabajadores (la mitad más uno), el empleador tiene prohibido realizar cualquier tipo de negociación colectiva con personas o grupos distintos a ese sindicato. Además, los acuerdos que se celebren violando esta prohibición no serán registrados ni aprobados por el Ministerio de Trabajo y Seguridad Social, y no podrán ser utilizados en perjuicio del sindicato.",
+    "source_quote": "Cuando en una empresa exista un sindicato al que estén afiliados, al menos la mitad más uno de sus trabajadores, al empleador le estará prohibida la negociación colectiva, cualquiera que sea su denominación, cuando esa negociación no sea con el sindicato.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "370",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_370"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "370",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_370",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué circunstancias se prohíbe al empleador negociar colectivamente con alguien que no sea el sindicato?",
+    "output": "Se prohíbe cuando en la empresa existe un sindicato al que están afiliados al menos la mitad más uno de los trabajadores.",
+    "source_quote": "Cuando en una empresa exista un sindicato al que estén afiliados, al menos la mitad más uno de sus trabajadores, al empleador le estará prohibida la negociación colectiva, cualquiera que sea su denominación, cuando esa negociación no sea con el sindicato.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "370",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_370",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencias tienen los acuerdos que violan la prohibición del artículo 370?",
+    "output": "No serán registrados ni homologados por el Ministerio de Trabajo y Seguridad Social, y no podrán ser opuestos a los sindicatos.",
+    "source_quote": "Los acuerdos que se tomen en contra de lo dispuesto en este artículo, no serán registrados ni homologados por el Ministerio de Trabajo y Seguridad Social ni podrán ser opuestos, a los sindicatos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "370",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_370",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición otorga al sindicato mayoritario el monopolio de la negociación colectiva, impidiendo que el empleador negocie con otros grupos o individuos, lo que fortalece la representatividad sindical y evita prácticas que debiliten la organización colectiva de los trabajadores.",
+    "source_quote": "Cuando en una empresa exista un sindicato al que estén afiliados, al menos la mitad más uno de sus trabajadores, al empleador le estará prohibida la negociación colectiva, cualquiera que sea su denominación, cuando esa negociación no sea con el sindicato.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "370",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_370",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta sanción busca garantizar la efectividad de la prohibición, privando de validez oficial a los acuerdos ilegales y protegiendo al sindicato de que dichos acuerdos sean utilizados en su contra, asegurando así el respeto a su exclusividad negociadora.",
+    "source_quote": "Los acuerdos que se tomen en contra de lo dispuesto en este artículo, no serán registrados ni homologados por el Ministerio de Trabajo y Seguridad Social ni podrán ser opuestos, a los sindicatos.",
+    "item_index": 2
+  }
+]

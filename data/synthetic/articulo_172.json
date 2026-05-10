@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 172 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 172 establece reglas sobre la inembargabilidad y embargabilidad de los salarios. Indica que los salarios que no superen el menor salario mínimo mensual vigente son inembargables. Si el salario excede ese límite, se puede embargar una octava parte de la porción que llegue hasta tres veces ese monto y una cuarta parte del resto. Además, todo salario es embargable hasta en un cincuenta por ciento por pensión alimenticia. Define salario como la suma líquida después de deducir las cuotas obligatorias del trabajador, e incluye las dietas. También prohíbe embargar más de la parte permitida aunque haya múltiples causas, y regula la simulación de embargo, permitiendo demostrarla en un incidente y revocarla si se comprueba.",
+    "source_quote": "Son inembargables los salarios que no excedan del que resultare ser el menor salario mensual establecido en el decreto de salarios mínimos, vigente al decretarse el embargo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "172",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_172"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "172",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_172",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué salarios son inembargables según el artículo 172?",
+    "output": "Son inembargables los salarios que no excedan del menor salario mensual establecido en el decreto de salarios mínimos vigente al decretarse el embargo.",
+    "source_quote": "Son inembargables los salarios que no excedan del que resultare ser el menor salario mensual establecido en el decreto de salarios mínimos, vigente al decretarse el embargo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "172",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_172",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué proporción son embargables los salarios que exceden el límite de inembargabilidad?",
+    "output": "Los salarios que excedan ese límite son embargables hasta en una octava parte de la porción que llegue hasta tres veces aquella cantidad y en una cuarta del resto.",
+    "source_quote": "Los salarios que excedan de ese límite son embargables hasta en una octava parte de la porción que llegue hasta tres veces aquella cantidad y en una cuarta del resto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "172",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_172",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la protección del salario mínimo frente a embargos, garantizando que el trabajador conserve un ingreso básico para su subsistencia.",
+    "source_quote": "Son inembargables los salarios que no excedan del que resultare ser el menor salario mensual establecido en el decreto de salarios mínimos, vigente al decretarse el embargo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "172",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_172",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Crea una excepción a la inembargabilidad para asegurar el cumplimiento de obligaciones alimentarias, priorizando el derecho de los acreedores alimentarios.",
+    "source_quote": "Sin embargo, todo salario será embargable hasta en un cincuenta por ciento como pensión alimenticia.",
+    "item_index": 2
+  }
+]

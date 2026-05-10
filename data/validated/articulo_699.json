@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 699 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece un mecanismo para resolver conflictos sobre cuál o cuáles organizaciones sindicales están legitimadas para negociar y firmar una convención colectiva. En caso de desacuerdo, el jerarca de las instituciones o cualquier sindicato involucrado puede pedir al Ministerio de Trabajo y Seguridad Social que designe a la organización u organizaciones correspondientes, siguiendo lo dispuesto en el artículo 56 y las demás normas de este capítulo.",
+    "source_quote": "En caso de conflicto en la determinación de la organización u organizaciones sindicales legitimadas para negociar y suscribir una convención colectiva, el jerarca de las instituciones o cualquiera de las organizaciones sindicales involucradas podrá solicitar, al Ministerio de Trabajo y Seguridad Social, hacer la designación correspondiente, con arreglo a lo dispuesto en el artículo 56 y las disposiciones de este capítulo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "699",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_699"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "699",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_699",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden solicitar al Ministerio de Trabajo la designación de la organización sindical legitimada para negociar una convención colectiva en caso de conflicto?",
+    "output": "El jerarca de las instituciones o cualquiera de las organizaciones sindicales involucradas.",
+    "source_quote": "el jerarca de las instituciones o cualquiera de las organizaciones sindicales involucradas podrá solicitar, al Ministerio de Trabajo y Seguridad Social, hacer la designación correspondiente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "699",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_699",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con arreglo a qué disposiciones debe el Ministerio de Trabajo hacer la designación de la organización sindical legitimada?",
+    "output": "Con arreglo a lo dispuesto en el artículo 56 y las disposiciones de este capítulo.",
+    "source_quote": "con arreglo a lo dispuesto en el artículo 56 y las disposiciones de este capítulo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "699",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_699",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho que activa el procedimiento: la existencia de un conflicto sobre cuál sindicato está legitimado para negociar y firmar una convención colectiva.",
+    "source_quote": "En caso de conflicto en la determinación de la organización u organizaciones sindicales legitimadas para negociar y suscribir una convención colectiva",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "699",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_699",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga legitimación para solicitar la intervención del Ministerio de Trabajo y define el marco normativo que debe seguirse para resolver el conflicto, remitiendo al artículo 56 y a las demás disposiciones del capítulo.",
+    "source_quote": "el jerarca de las instituciones o cualquiera de las organizaciones sindicales involucradas podrá solicitar, al Ministerio de Trabajo y Seguridad Social, hacer la designación correspondiente, con arreglo a lo dispuesto en el artículo 56 y las disposiciones de este capítulo.",
+    "item_index": 2
+  }
+]

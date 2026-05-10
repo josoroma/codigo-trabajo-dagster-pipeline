@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 381 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 381 establece el procedimiento para alcanzar el porcentaje de apoyo mínimo requerido para convocar una huelga. Si existe uno o varios sindicatos que reúnan al menos el 50% de afiliación de los trabajadores, el acuerdo se toma en asamblea general del sindicato o sindicatos convocantes. Si no se alcanza ese porcentaje, se convoca a una votación secreta supervisada por la Inspección de Trabajo, en la que deben participar al menos el 35% del total de trabajadores y la huelga se aprueba con la mitad más uno de los votos emitidos. El empleador debe facilitar la participación, otorgar tiempo con goce de salario y abstenerse de intervenir. Para huelgas de una misma ocupación u oficio, se aplica el mismo procedimiento pero considerando solo a los trabajadores de esa profesión u oficio. El Ministerio de Trabajo debe velar por la transparencia y emitir reglamentación. Se requiere acta notarial o informe de inspección según el caso. Cualquier violación constituye práctica laboral desleal y se sanciona con multa.",
+    "source_quote": "Para alcanzar el porcentaje de apoyo mínimo requerido, conforme a las disposiciones de este título, se seguirá el siguiente procedimiento...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "381",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_381"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "381",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_381",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje de afiliación sindical se requiere para que el acuerdo de huelga se tome en asamblea general del sindicato?",
+    "output": "Se requiere que uno o varios sindicatos, individual o colectivamente, reúnan la afiliación del cincuenta por ciento (50%) de las personas trabajadoras.",
+    "source_quote": "Si en la empresa, institución, establecimiento o centro de trabajo existiera uno o varios sindicatos que, individual o colectivamente, reúnan la afiliación del cincuenta por ciento (50%) de las personas trabajadoras, este se tendrá por satisfecho si en la asamblea general del sindicato o los sindicatos convocantes, según sea el caso, se acuerda la convocatoria a la huelga conforme a lo dispuesto en el inciso e) del artículo 346.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "381",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_381",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones deben cumplirse en la votación secreta para que la huelga se entienda acordada cuando no existe un sindicato con el 50% de afiliación?",
+    "output": "Debe concurrir a votar al menos el treinta y cinco por ciento (35%) del total de los trabajadores y la huelga debe obtener el respaldo de la mitad más uno de los votos emitidos.",
+    "source_quote": "En este caso la huelga se entenderá acordada, si hubiese concurrido a votar al menos treinta y cinco por ciento (35%) del total de los trabajadores de la empresa, institución o el respectivo centro de trabajo, según sea el caso, y si obtiene el respaldo de la mitad más uno de los votos emitidos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "381",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_381",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el primer procedimiento para alcanzar el porcentaje de apoyo mínimo requerido para la huelga, basado en la representatividad sindical existente, permitiendo que el acuerdo se tome en asamblea general cuando los sindicatos afilian al menos al 50% de los trabajadores.",
+    "source_quote": "Si en la empresa, institución, establecimiento o centro de trabajo existiera uno o varios sindicatos que, individual o colectivamente, reúnan la afiliación del cincuenta por ciento (50%) de las personas trabajadoras, este se tendrá por satisfecho si en la asamblea general del sindicato o los sindicatos convocantes, según sea el caso, se acuerda la convocatoria a la huelga conforme a lo dispuesto en el inciso e) del artículo 346.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "381",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_381",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar la legalidad y transparencia del proceso de votación secreta cuando no se alcanza el umbral de afiliación sindical, mediante la supervisión directa de la autoridad laboral.",
+    "source_quote": "Este procedimiento especial de votación deberá ser supervisado por personal de la Dirección Nacional de la Inspección de Trabajo, quienes deberán estar presentes y dejar constancia de la legalidad de su cumplimiento.",
+    "item_index": 2
+  }
+]

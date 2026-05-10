@@ -1,0 +1,33 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 85 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 85 enumera las causas que terminan el contrato de trabajo sin responsabilidad para el trabajador, pero sin extinguir sus derechos a reclamar prestaciones e indemnizaciones. Estas causas incluyen: muerte del trabajador, obligaciones legales como el servicio militar, fuerza mayor o caso fortuito, insolvencia o muerte del patrono (siempre que causen el cierre del negocio y se respete la preferencia de acreedores alimentarios), voluntad del patrono, y acogerse a jubilación o pensión. Además, establece que en caso de muerte del trabajador, las prestaciones pueden ser reclamadas por sus parientes ante la autoridad judicial laboral, sin necesidad de juicio sucesorio ni pago de impuestos, y detalla el orden de prelación: cónyuge e hijos menores o inhábiles, luego hijos mayores y padres (incluidos los de crianza), y finalmente los demás herederos según la ley civil.",
+    "source_quote": "Son causas que terminan con el contrato de trabajo sin responsabilidad para el trabajador y sin que extingan los derechos de éste o de sus causahabientes para reclamar y obtener el pago de las prestaciones e indemnizaciones que pudieran corresponderles en virtud de lo ordenado por el Código o por disposiciones especiales",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "85",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_85"
+  },
+  {
+    "question": "¿Cuáles son las causas que terminan el contrato de trabajo sin responsabilidad para el trabajador según el artículo 85?",
+    "answer": "Las causas son: a) la muerte del trabajador; b) la necesidad de satisfacer obligaciones legales como el servicio militar; c) la fuerza mayor o caso fortuito, y la insolvencia, concurso, quiebra, liquidación, incapacidad o muerte del patrono, siempre que produzcan el cierre del negocio o cesación definitiva de los trabajos y se haya satisfecho la preferencia de los acreedores alimentarios; d) la propia voluntad del patrono; e) cuando el trabajador se acoja a jubilación, pensión de vejez, muerte o retiro concedidas por la Caja Costarricense de Seguro Social u otros sistemas de pensiones.",
+    "source_quote": "a. La muerte del trabajador; b. La necesidad que tuviere éste de satisfacer obligaciones legales... c. La fuerza mayor o el caso fortuito; la insolvencia... d. La propia voluntad del patrono. e. Cuando el trabajador se acoja a los beneficios de jubilación...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "85",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_85",
+    "input": ""
+  },
+  {
+    "question": "¿En qué orden deben entregarse las prestaciones por muerte del trabajador a sus parientes, según el artículo 85?",
+    "answer": "El orden es: 1) el cónyuge y los hijos menores de edad o inhábiles; 2) los hijos e hijas mayores de edad y los padres y madres, incluidos los de crianza; 3) las demás personas que conforme a la ley civil tienen el carácter de herederos. Las personas de cada grupo tienen el mismo derecho individual, y solo en falta de los del grupo anterior entran los del siguiente.",
+    "source_quote": "1. El consorte y los hijos menores de edad o inhábiles; 2. Los hijos e hijas mayores de edad y los padres y madres, incluidos e incluidas los y las de crianza; y 3. Las demás personas que conforme a la ley civil tienen el carácter de herederos. ... Las personas comprendidas en los incisos anteriores tienen el mismo derecho individual, y sólo en falta de las que indica el inciso anterior entran las que se señalan en el siguiente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "85",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_85",
+    "input": ""
+  }
+]

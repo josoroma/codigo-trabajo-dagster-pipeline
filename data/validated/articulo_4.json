@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 4 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 4 define quién es considerado trabajador. Establece que trabajador es toda persona física que presta sus servicios, ya sean materiales, intelectuales o de ambos tipos, a otra u otras personas. Esta prestación de servicios debe darse en virtud de un contrato de trabajo, el cual puede ser expreso o implícito, verbal o escrito, e individual o colectivo.",
+    "source_quote": "Trabajador es toda persona física que presta a otra u otras sus servicios materiales, intelectuales o de ambos géneros en virtud de un contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "4",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_4"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "4",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_4",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es considerado trabajador según el artículo 4 del Código de Trabajo?",
+    "output": "Trabajador es toda persona física que presta a otra u otras sus servicios materiales, intelectuales o de ambos géneros.",
+    "source_quote": "Trabajador es toda persona física que presta a otra u otras sus servicios materiales, intelectuales o de ambos géneros en virtud de un contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "4",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_4",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipos de contrato de trabajo menciona el artículo 4?",
+    "output": "El artículo menciona el contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.",
+    "source_quote": "en virtud de un contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "4",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_4",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita define el concepto de trabajador, limitándolo a personas físicas y abarcando cualquier tipo de servicio (material, intelectual o mixto) que se preste a otra persona, estableciendo así el ámbito personal de aplicación de la legislación laboral.",
+    "source_quote": "Trabajador es toda persona física que presta a otra u otras sus servicios materiales, intelectuales o de ambos géneros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "4",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_4",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte especifica que la prestación de servicios debe originarse en un contrato de trabajo, y reconoce la validez de diversas formas de contratación (expresa o tácita, verbal o escrita, individual o colectiva), garantizando así la protección laboral independientemente de la formalidad del acuerdo.",
+    "source_quote": "en virtud de un contrato de trabajo expreso o implícito, verbal o escrito, individual o colectivo.",
+    "item_index": 2
+  }
+]

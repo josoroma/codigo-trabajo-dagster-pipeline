@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 389 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 389 establece que la reanudación de los trabajos se realizará conforme a las reglas contenidas en el artículo 77 del mismo código. No define un procedimiento propio, sino que remite directamente a esa otra disposición.",
+    "source_quote": "La reanudación de los trabajos se hará de acuerdo con las normas que establece el artículo 77.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "389",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_389"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "389",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_389",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe realizarse la reanudación de los trabajos según el artículo 389?",
+    "output": "Debe realizarse de acuerdo con las normas que establece el artículo 77 del Código de Trabajo.",
+    "source_quote": "La reanudación de los trabajos se hará de acuerdo con las normas que establece el artículo 77.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "389",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_389",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué artículo remite el artículo 389 para regular la reanudación de los trabajos?",
+    "output": "Remite al artículo 77.",
+    "source_quote": "La reanudación de los trabajos se hará de acuerdo con las normas que establece el artículo 77.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "389",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_389",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición establece la regla de remisión: la forma en que se reanudan las labores no se regula en este artículo, sino que se sujeta a lo previsto en el artículo 77, evitando duplicidad normativa y asegurando coherencia en el procedimiento.",
+    "source_quote": "La reanudación de los trabajos se hará de acuerdo con las normas que establece el artículo 77.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "389",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_389",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta nota indica el origen de la reforma que dio al artículo su redacción actual, permitiendo rastrear su historial legislativo y confirmar su vigencia conforme a la Reforma Procesal Laboral.",
+    "source_quote": "(Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  }
+]

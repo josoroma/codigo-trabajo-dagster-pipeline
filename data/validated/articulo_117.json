@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 117 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 117 del Código de Trabajo fue derogado por la Ley de Aprendizaje N° 4903 del 17 de noviembre de 1971, por lo que actualmente no tiene vigencia ni contenido normativo. Su título indicaba que trataba sobre el trabajo en el mar y en las vías navegables, pero su texto fue eliminado del ordenamiento jurídico.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "117",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_117"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "117",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_117",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente el artículo 117 del Código de Trabajo?",
+    "output": "No, el artículo 117 fue derogado por el artículo 29° de la Ley de Aprendizaje N° 4903 del 17 de noviembre de 1971, por lo que no está vigente.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "117",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_117",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué materia regulaba originalmente el artículo 117?",
+    "output": "El artículo 117 regulaba el trabajo en el mar y en las vías navegables, según se desprende de su título.",
+    "source_quote": "Del trabajo en el mar y en las vías navegables",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "117",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_117",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita declara la derogatoria expresa del artículo 117, eliminando su vigencia y efectos jurídicos a partir de la entrada en vigor de la Ley de Aprendizaje.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "117",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_117",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Este título indica la materia que originalmente regulaba el artículo 117, relativa a las condiciones laborales en el ámbito marítimo y fluvial, aunque su contenido normativo ya no existe.",
+    "source_quote": "Del trabajo en el mar y en las vías navegables",
+    "item_index": 2
+  }
+]

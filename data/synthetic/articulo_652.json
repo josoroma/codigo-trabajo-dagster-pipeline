@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 652 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo otorga a los miembros de ciertos órganos la facultad de visitar y examinar lugares de trabajo, así como de exigir respuestas a cuestionarios o preguntas a autoridades, comisiones técnicas, instituciones y personas, con el fin de esclarecer las causas de un conflicto laboral. Además, establece que la obstrucción o negativa a colaborar puede ser sancionada como falta de ayuda a la autoridad según el Código Penal.",
+    "source_quote": "los miembros de esos órganos podrán visitar y examinar los lugares de trabajo, exigir de todas las autoridades, comisiones técnicas, instituciones y personas, la contestación de los cuestionarios o preguntas que crean conveniente formularles para el mejor esclarecimiento de las causas del conflicto. El entorpecimiento o la negativa de ayuda podrá ser sancionada según lo dispuesto en el libro de las contravenciones del Código Penal (falta de ayuda a la autoridad).",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "652",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_652"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "652",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_652",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden hacer los miembros de esos órganos para esclarecer las causas del conflicto?",
+    "output": "Pueden visitar y examinar los lugares de trabajo, y exigir la contestación de cuestionarios o preguntas a todas las autoridades, comisiones técnicas, instituciones y personas.",
+    "source_quote": "visitar y examinar los lugares de trabajo, exigir de todas las autoridades, comisiones técnicas, instituciones y personas, la contestación de los cuestionarios o preguntas que crean conveniente formularles para el mejor esclarecimiento de las causas del conflicto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "652",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_652",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción se aplica si alguien entorpece o niega ayuda a estos órganos?",
+    "output": "El entorpecimiento o la negativa de ayuda podrá ser sancionada según lo dispuesto en el libro de las contravenciones del Código Penal, como falta de ayuda a la autoridad.",
+    "source_quote": "El entorpecimiento o la negativa de ayuda podrá ser sancionada según lo dispuesto en el libro de las contravenciones del Código Penal (falta de ayuda a la autoridad).",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "652",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_652",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las facultades de investigación de los miembros de los órganos para recabar información directamente en los lugares de trabajo y mediante interrogatorios, con el fin de esclarecer las causas del conflicto laboral.",
+    "source_quote": "los miembros de esos órganos podrán visitar y examinar los lugares de trabajo, exigir de todas las autoridades, comisiones técnicas, instituciones y personas, la contestación de los cuestionarios o preguntas que crean conveniente formularles para el mejor esclarecimiento de las causas del conflicto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "652",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_652",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia legal para quien obstaculice o se niegue a colaborar con la investigación, remitiendo a la sanción penal por falta de ayuda a la autoridad.",
+    "source_quote": "El entorpecimiento o la negativa de ayuda podrá ser sancionada según lo dispuesto en el libro de las contravenciones del Código Penal (falta de ayuda a la autoridad).",
+    "item_index": 2
+  }
+]

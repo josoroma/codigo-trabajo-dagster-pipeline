@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 665 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 665 impone a las autoridades policiales y del Ministerio de Trabajo y Seguridad Social el deber de colaborar con los órganos jurisdiccionales cuando estos requieran su ayuda.",
+    "source_quote": "Las autoridades policiales y del Ministerio de Trabajo y Seguridad Social tendrán obligación de colaborar con los órganos jurisdiccionales, cuando estos así lo soliciten.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "665",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_665"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "665",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_665",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están obligados a colaborar con los órganos jurisdiccionales según el artículo 665?",
+    "output": "Las autoridades policiales y del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Las autoridades policiales y del Ministerio de Trabajo y Seguridad Social tendrán obligación de colaborar con los órganos jurisdiccionales, cuando estos así lo soliciten.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "665",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_665",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento surge la obligación de colaboración para estas autoridades?",
+    "output": "Cuando los órganos jurisdiccionales lo soliciten.",
+    "source_quote": "cuando estos así lo soliciten.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "665",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_665",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica a los sujetos obligados a prestar colaboración: las autoridades policiales y las del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Las autoridades policiales y del Ministerio de Trabajo y Seguridad Social tendrán obligación de colaborar",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "665",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_665",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el destinatario de la colaboración (los órganos jurisdiccionales) y la condición que activa el deber (la solicitud expresa de dichos órganos).",
+    "source_quote": "con los órganos jurisdiccionales, cuando estos así lo soliciten.",
+    "item_index": 2
+  }
+]

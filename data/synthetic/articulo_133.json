@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 133 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 133 establece que las normas contenidas en los artículos siguientes del Título Tercero son de aplicación general para todas las relaciones laborales. Sin embargo, aclara que esta aplicación general no impide que se apliquen soluciones especiales previstas en otros capítulos del Código para ciertas modalidades de trabajo, ni que las partes pacten convenios dentro de los límites legales.",
+    "source_quote": "Lo dispuesto en los siguientes artículos de este Título es de observancia general, pero no excluye las soluciones especiales que para ciertas modalidades de trabajo se dan en otros Capítulos del presente Código, ni el convenio que con sujeción a los límites legales realicen las partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "133",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_133"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "133",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_133",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué carácter tienen las disposiciones de los artículos siguientes de este Título según el artículo 133?",
+    "output": "Son de observancia general.",
+    "source_quote": "Lo dispuesto en los siguientes artículos de este Título es de observancia general",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "133",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_133",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepciones contempla el artículo 133 a la observancia general de esas disposiciones?",
+    "output": "No excluye las soluciones especiales para ciertas modalidades de trabajo dadas en otros Capítulos del Código, ni el convenio que realicen las partes con sujeción a los límites legales.",
+    "source_quote": "pero no excluye las soluciones especiales que para ciertas modalidades de trabajo se dan en otros Capítulos del presente Código, ni el convenio que con sujeción a los límites legales realicen las partes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "133",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_133",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de aplicación general de las normas del Título Tercero a todas las relaciones de trabajo, sin distinción.",
+    "source_quote": "Lo dispuesto en los siguientes artículos de este Título es de observancia general",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "133",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_133",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce dos excepciones a la aplicación general: las regulaciones especiales para modalidades específicas de trabajo contenidas en otros capítulos, y la posibilidad de que las partes acuerden condiciones distintas dentro de los límites legales, evitando así una rigidez absoluta.",
+    "source_quote": "pero no excluye las soluciones especiales que para ciertas modalidades de trabajo se dan en otros Capítulos del presente Código, ni el convenio que con sujeción a los límites legales realicen las partes.",
+    "item_index": 2
+  }
+]

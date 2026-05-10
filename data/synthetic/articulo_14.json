@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 14 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 14 establece que el Código de Trabajo es de orden público y, por tanto, se aplica a todas las empresas, explotaciones o establecimientos, públicos o privados, existentes o futuros, y a todos los habitantes sin distinción de sexo o nacionalidad. Luego enumera excepciones: a) disposiciones que el mismo Código limite a ciertas personas o empresas; b) empresas con contratos o concesiones estatales, en cuanto a derechos adquiridos, pero si se prorrogan o novan, quedan sometidas al Código; y c) explotaciones agrícolas o ganaderas con no más de cinco trabajadores permanentes, aunque esta última excepción fue declarada inaplicable por la Corte Suprema de Justicia en 1954.",
+    "source_quote": "Esta ley es de orden público y a sus disposiciones se sujetarán todas las empresas, explotaciones o establecimientos, de cualquier naturaleza que sean, públicos o privados, existentes o que en lo futuro se establezcan en Costa Rica, lo mismo que todos los habitantes de la República, sin distinción de sexos ni de nacionalidades.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "14",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_14"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "14",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_14",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se aplica el Código de Trabajo según el artículo 14?",
+    "output": "Se aplica a todas las empresas, explotaciones o establecimientos, públicos o privados, existentes o futuros, y a todos los habitantes de Costa Rica, sin distinción de sexo ni nacionalidad.",
+    "source_quote": "Esta ley es de orden público y a sus disposiciones se sujetarán todas las empresas, explotaciones o establecimientos, de cualquier naturaleza que sean, públicos o privados, existentes o que en lo futuro se establezcan en Costa Rica, lo mismo que todos los habitantes de la República, sin distinción de sexos ni de nacionalidades.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "14",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_14",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente la excepción para explotaciones agrícolas o ganaderas que ocupen permanentemente no más de cinco trabajadores?",
+    "output": "No, esa excepción fue declarada inaplicable por resolución de la Corte Suprema de Justicia del 22 de julio de 1954.",
+    "source_quote": "(Las explotaciones propiamente agrícolas o ganaderas que ocupen permanentemente no más de cinco trabajadores. Sin embargo, el Poder Ejecutivo podrá determinar mediante decretos cuáles reglas de este Código les irán siendo aplicadas. Al efecto, se empezará por las que no impliquen gravamen de carácter económico para los patronos.) *(El inciso c) destacado en este artículo fue considerado inaplicable mediante resolución de la Corte Suprema de Justicia del 22 de julio de 1954)*",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "14",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_14",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el carácter imperativo y de orden público del Código de Trabajo, determinando su aplicación general a todas las actividades productivas y a todas las personas en el territorio nacional, sin discriminación alguna.",
+    "source_quote": "Esta ley es de orden público y a sus disposiciones se sujetarán todas las empresas, explotaciones o establecimientos, de cualquier naturaleza que sean, públicos o privados, existentes o que en lo futuro se establezcan en Costa Rica, lo mismo que todos los habitantes de la República, sin distinción de sexos ni de nacionalidades.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "14",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_14",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Originalmente exceptuaba a las pequeñas explotaciones agrícolas o ganaderas de la aplicación del Código, permitiendo una incorporación gradual de normas por decreto ejecutivo. Sin embargo, esta excepción fue declarada inaplicable por la Corte Suprema de Justicia, por lo que actualmente carece de efecto.",
+    "source_quote": "(Las explotaciones propiamente agrícolas o ganaderas que ocupen permanentemente no más de cinco trabajadores. Sin embargo, el Poder Ejecutivo podrá determinar mediante decretos cuáles reglas de este Código les irán siendo aplicadas. Al efecto, se empezará por las que no impliquen gravamen de carácter económico para los patronos.) *(El inciso c) destacado en este artículo fue considerado inaplicable mediante resolución de la Corte Suprema de Justicia del 22 de julio de 1954)*",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 65 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 65 establece que cualquier convención colectiva vigente puede ser revisada por el Poder Ejecutivo si las partes, de común acuerdo, lo solicitan por escrito ante el Ministerio de Trabajo y de Seguridad Social. Antes de derogar el decreto que le dio fuerza de ley y emitir uno nuevo, el Poder Ejecutivo debe comprobar que los solicitantes representan la mayoría requerida según los incisos b) y c) del artículo 63.",
+    "source_quote": "Cualquier convención en vigor puede ser revisada por el Poder Ejecutivo si las partes de común acuerdo así lo solicitaren por escrito ante el Ministerio de Trabajo y de Seguridad Social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "65",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_65"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "65",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_65",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede solicitar la revisión de una convención colectiva vigente según el artículo 65?",
+    "output": "Las partes de común acuerdo, mediante solicitud escrita ante el Ministerio de Trabajo y de Seguridad Social.",
+    "source_quote": "Cualquier convención en vigor puede ser revisada por el Poder Ejecutivo si las partes de común acuerdo así lo solicitaren por escrito ante el Ministerio de Trabajo y de Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "65",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_65",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe comprobar el Poder Ejecutivo antes de derogar el decreto de una convención colectiva y emitir uno nuevo?",
+    "output": "Debe comprobar que los peticionarios reúnen la mayoría prevista en los incisos b) y c) del artículo 63.",
+    "source_quote": "El Poder Ejecutivo en este caso, y en el del párrafo segundo del artículo anterior, deberá comprobar que los peticionarios reúnen la mayoría prevista en los incisos b) y c) del artículo 63, antes de proceder a la derogatoria formal del decreto que dio fuerza de ley a la convención y a la expedición del nuevo que corresponda.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "65",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_65",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo de revisión de convenciones colectivas vigentes, requiriendo acuerdo mutuo de las partes y solicitud formal ante la autoridad laboral.",
+    "source_quote": "Cualquier convención en vigor puede ser revisada por el Poder Ejecutivo si las partes de común acuerdo así lo solicitaren por escrito ante el Ministerio de Trabajo y de Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "65",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_65",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al Poder Ejecutivo la obligación de verificar la representatividad mayoritaria de los solicitantes, conforme a los requisitos del artículo 63, como condición previa para derogar el decreto vigente y emitir uno nuevo.",
+    "source_quote": "El Poder Ejecutivo en este caso, y en el del párrafo segundo del artículo anterior, deberá comprobar que los peticionarios reúnen la mayoría prevista en los incisos b) y c) del artículo 63, antes de proceder a la derogatoria formal del decreto que dio fuerza de ley a la convención y a la expedición del nuevo que corresponda.",
+    "item_index": 2
+  }
+]

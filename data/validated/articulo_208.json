@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 208 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 208 establece que el Instituto Nacional de Seguros definirá, con base en criterios técnicos, el sistema de tarifas y las formas de pago del seguro de riesgos del trabajo. Además, obliga a ese Instituto a publicar cada año en el Diario Oficial las normas de aseguramiento, el costo promedio de la estancia hospitalaria, la estructura de las prestaciones vigentes y los balances y estados financieros del último ejercicio.",
+    "source_quote": "El sistema tarifario y las modalidades de pago del seguro de riesgos del trabajo serán establecidos sobre la base técnica que disponga el Instituto Nacional de Seguros. El Instituto publicará, anualmente, en el Diario Oficial, las normas de aseguramiento, costo promedio de la estancia hospitalaria y la estructura de las prestaciones vigentes, así como los balances y estados del último ejercicio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "208",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_208"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "208",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_208",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién establece el sistema tarifario y las modalidades de pago del seguro de riesgos del trabajo?",
+    "output": "El Instituto Nacional de Seguros, sobre la base técnica que disponga.",
+    "source_quote": "El sistema tarifario y las modalidades de pago del seguro de riesgos del trabajo serán establecidos sobre la base técnica que disponga el Instituto Nacional de Seguros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "208",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_208",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe publicar anualmente el Instituto Nacional de Seguros en el Diario Oficial según este artículo?",
+    "output": "Las normas de aseguramiento, el costo promedio de la estancia hospitalaria, la estructura de las prestaciones vigentes y los balances y estados del último ejercicio.",
+    "source_quote": "El Instituto publicará, anualmente, en el Diario Oficial, las normas de aseguramiento, costo promedio de la estancia hospitalaria y la estructura de las prestaciones vigentes, así como los balances y estados del último ejercicio.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "208",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_208",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Instituto Nacional de Seguros la competencia exclusiva para fijar, con fundamento técnico, las tarifas y los mecanismos de pago del seguro de riesgos laborales, garantizando que dichas definiciones respondan a criterios especializados.",
+    "source_quote": "El sistema tarifario y las modalidades de pago del seguro de riesgos del trabajo serán establecidos sobre la base técnica que disponga el Instituto Nacional de Seguros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "208",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_208",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una obligación de transparencia y rendición de cuentas, al exigir la divulgación periódica de los parámetros esenciales del seguro y de los resultados financieros, permitiendo el escrutinio público y la seguridad jurídica de los asegurados.",
+    "source_quote": "El Instituto publicará, anualmente, en el Diario Oficial, las normas de aseguramiento, costo promedio de la estancia hospitalaria y la estructura de las prestaciones vigentes, así como los balances y estados del último ejercicio.",
+    "item_index": 2
+  }
+]

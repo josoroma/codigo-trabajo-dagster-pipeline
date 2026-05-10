@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 123 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 123 establece una prohibición absoluta para terminar cualquier contrato de embarco, incluso por justa causa, mientras la nave se encuentre en viaje. Define que la nave está en viaje cuando permanece en el mar o en un puerto que no sea de los indicados en el artículo 120 para la restitución del trabajador. Como excepción, si estando la nave en cualquier puerto el capitán encuentra un sustituto para el trabajador que desea dejar sus labores, este podrá dar por concluido su contrato, siempre que se ajuste a las prescripciones legales.",
+    "source_quote": "No podrán las partes dar por concluido ningún contrato de embarco, ni aun por justa causa, mientras la nave esté en viaje.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "123",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_123"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "123",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_123",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede dar por concluido un contrato de embarco por justa causa mientras la nave está en viaje?",
+    "output": "No, no se puede dar por concluido ningún contrato de embarco, ni aun por justa causa, mientras la nave esté en viaje.",
+    "source_quote": "No podrán las partes dar por concluido ningún contrato de embarco, ni aun por justa causa, mientras la nave esté en viaje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "123",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_123",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situación un trabajador puede dar por concluido su contrato de embarco estando la nave en cualquier puerto?",
+    "output": "Si el capitán encontrare sustituto para el trabajador que desea dejar sus labores, podrá éste dar por concluido su contrato, ajustándose a las prescripciones legales.",
+    "source_quote": "Sin embargo, si estando la nave en cualquier puerto, el capitán encontrare sustituto para el trabajador que desea dejar sus labores, podrá éste dar por concluido su contrato, ajustándose a las prescripciones legales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "123",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_123",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición absoluta de terminar el contrato de embarco durante el viaje, incluso si existe justa causa, con el fin de garantizar la continuidad de la tripulación y la seguridad de la navegación mientras la nave no se encuentre en un puerto de restitución.",
+    "source_quote": "No podrán las partes dar por concluido ningún contrato de embarco, ni aun por justa causa, mientras la nave esté en viaje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "123",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_123",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción que permite al trabajador terminar su contrato si el capitán halla un reemplazo, siempre que se cumplan las formalidades legales, equilibrando la necesidad de mantener la tripulación con el derecho del trabajador a cesar sus labores cuando no se perjudica la operación.",
+    "source_quote": "Sin embargo, si estando la nave en cualquier puerto, el capitán encontrare sustituto para el trabajador que desea dejar sus labores, podrá éste dar por concluido su contrato, ajustándose a las prescripciones legales.",
+    "item_index": 2
+  }
+]

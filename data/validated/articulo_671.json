@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 671 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 671 regula el procedimiento cuando una acusación presenta defectos formales. Dispone que el juez debe ordenar la corrección de esos defectos y, posteriormente, aplicar el mismo tratamiento que el proceso ordinario prevé para estos casos.",
+    "source_quote": "Si la acusación no estuviera en forma se prevendrá la subsanación que corresponda y se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "671",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_671"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "671",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_671",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una acusación no está en forma según el artículo 671?",
+    "output": "Se prevendrá la subsanación que corresponda y se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario.",
+    "source_quote": "Si la acusación no estuviera en forma se prevendrá la subsanación que corresponda y se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "671",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_671",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de tratamiento se remite el artículo 671 cuando la acusación no está en forma?",
+    "output": "Al mismo tratamiento previsto para esos casos en el proceso ordinario.",
+    "source_quote": "se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "671",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_671",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del juez de ordenar la corrección de los defectos formales que presente la acusación, garantizando el derecho de defensa y la regularidad del proceso.",
+    "source_quote": "Si la acusación no estuviera en forma se prevendrá la subsanación que corresponda",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "671",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_671",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remite a las reglas del proceso ordinario para la tramitación de la subsanación, asegurando uniformidad procedimental y evitando lagunas normativas.",
+    "source_quote": "se le dará al asunto el mismo tratamiento previsto para esos casos en el proceso ordinario",
+    "item_index": 2
+  }
+]

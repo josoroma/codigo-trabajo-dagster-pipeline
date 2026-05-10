@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 503 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 503 establece un listado de excepciones que deben resolverse de manera previa en el proceso laboral. Estas excepciones incluyen el compromiso arbitral, la falta de competencia, la falta de agotamiento de la vía administrativa, la falta de capacidad o representación, defectos en la demanda, litispendencia, indebida acumulación de pretensiones, improcedencia del proceso elegido e indebida integración de la litis. Además, dispone que la excepción de incompetencia se resolverá antes de la etapa de audiencias, mientras que las demás excepciones previas se conocerán en la audiencia preliminar o en la fase preliminar de los procesos de única audiencia, con la práctica de las pruebas correspondientes. También permite que la improcedencia de la vía escogida sea apreciada de oficio para orientar la tramitación.",
+    "source_quote": "Serán de previa resolución las siguientes excepciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "503",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_503"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "503",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_503",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las excepciones que deben resolverse de manera previa según el artículo 503?",
+    "output": "Compromiso arbitral, falta de competencia, falta de agotamiento de la vía administrativa cuando la parte hubiera optado por ese trámite, falta de capacidad de la parte o inexistencia o insuficiencia de la representación, existencia de defectos en el escrito de demanda o contrademanda que impiden verter pronunciamiento válido sobre el fondo, litispendencia, indebida acumulación de pretensiones, improcedencia del proceso elegido e indebida integración de la litis.",
+    "source_quote": "1.- Compromiso arbitral. 2.- Falta de competencia. 3.- Falta de agotamiento de la vía administrativa, cuando la parte hubiera optado por ese trámite. 4.- Falta de capacidad de la parte, inexistencia o insuficiencia de la representación. 5.- Existencia de defectos en el escrito de demanda o contrademanda que a juicio de la parte que la interpone impiden verter pronunciamiento válido sobre el fondo. 6.- Litispendencia. 7.- Indebida acumulación de pretensiones. 8.- Improcedencia del proceso elegido. 9.- Indebida integración de la litis.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "503",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_503",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento procesal se resuelve la excepción de incompetencia?",
+    "output": "Debe ser resuelta antes de la etapa de audiencias.",
+    "source_quote": "La excepción de incompetencia deberá ser resuelta antes de la etapa de audiencias",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "503",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_503",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el catálogo de excepciones que deben ser resueltas de manera previa, es decir, antes de continuar con el trámite del proceso, para garantizar que se cumplan los presupuestos procesales y evitar nulidades o dilaciones innecesarias.",
+    "source_quote": "1.- Compromiso arbitral. 2.- Falta de competencia. 3.- Falta de agotamiento de la vía administrativa, cuando la parte hubiera optado por ese trámite. 4.- Falta de capacidad de la parte, inexistencia o insuficiencia de la representación. 5.- Existencia de defectos en el escrito de demanda o contrademanda que a juicio de la parte que la interpone impiden verter pronunciamiento válido sobre el fondo. 6.- Litispendencia. 7.- Indebida acumulación de pretensiones. 8.- Improcedencia del proceso elegido. 9.- Indebida integración de la litis.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "503",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_503",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el momento procesal en que se conocerán y resolverán las excepciones previas distintas a la de incompetencia, asegurando que se tramiten en la etapa adecuada y con la posibilidad de presentar pruebas.",
+    "source_quote": "Las otras excepciones previas se reservarán para ser conocidas en la audiencia preliminar o en la fase preliminar de ese acto procesal en los procesos de única audiencia, con evacuación de las pruebas que las respalden.",
+    "item_index": 2
+  }
+]

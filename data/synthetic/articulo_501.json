@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 501 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 501 regula el momento y la forma en que deben presentarse u ofrecerse las pruebas de la contrademanda, la réplica y las excepciones. Indica que las pruebas de la contrademanda y la réplica se rigen por las mismas reglas que las de la demanda. En cuanto a las pruebas de las excepciones, deben aportarse cuando la parte deba referirse a ellas. Si el proceso se tramita en dos audiencias, todas estas pruebas pueden presentarse, a más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar.",
+    "source_quote": "Las pruebas de la contrademanda y réplica deben presentarse u ofrecerse en la misma forma establecida para la demanda y las relacionadas con las excepciones en el momento en que la parte deba referirse a ellas o, a más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar, cuando la substanciación del proceso se lleve a cabo en dos audiencias.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "501",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_501"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "501",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_501",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben presentarse u ofrecerse las pruebas de la contrademanda y la réplica?",
+    "output": "Deben presentarse u ofrecerse en la misma forma establecida para la demanda.",
+    "source_quote": "Las pruebas de la contrademanda y réplica deben presentarse u ofrecerse en la misma forma establecida para la demanda",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "501",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_501",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el momento límite para ofrecer las pruebas de las excepciones cuando el proceso se tramita en dos audiencias?",
+    "output": "A más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar.",
+    "source_quote": "o, a más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar, cuando la substanciación del proceso se lleve a cabo en dos audiencias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "501",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_501",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la forma de presentación u ofrecimiento de las pruebas de la contrademanda y la réplica se equipara a la prevista para la demanda, garantizando uniformidad procesal.",
+    "source_quote": "Las pruebas de la contrademanda y réplica deben presentarse u ofrecerse en la misma forma establecida para la demanda",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "501",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_501",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija el momento procesal oportuno para ofrecer las pruebas de las excepciones, permitiendo su presentación hasta la fase preliminar de la audiencia o en la audiencia preliminar exclusivamente en los procesos que se tramitan en dos audiencias.",
+    "source_quote": "las relacionadas con las excepciones en el momento en que la parte deba referirse a ellas o, a más tardar, en la fase preliminar de la audiencia o en la audiencia preliminar, cuando la substanciación del proceso se lleve a cabo en dos audiencias.",
+    "item_index": 2
+  }
+]

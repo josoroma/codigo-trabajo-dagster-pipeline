@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 161 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 161 establece la obligación de dejar constancia escrita sobre la concesión de vacaciones y los acuerdos de acumulación que se realicen conforme al artículo 159, cuando el patrono o el trabajador lo soliciten. Además, en el caso de empresas particulares, si el patrono no puede presentar ese documento firmado por el trabajador (o por dos compañeros si aquel no sabe o no puede firmar) cuando las autoridades de trabajo lo requieran, se presume que las vacaciones no fueron otorgadas, a menos que se demuestre lo contrario.",
+    "source_quote": "De la concesión de vacaciones, así como de las acumulaciones que se pacten dentro de las previsiones del artículo 159, se dejará testimonio escrito a petición de patronos o de trabajadores. Tratándose de empresas particulares se presumirá, salvo prueba en contrario, que las vacaciones no han sido otorgadas si el patrono, a requerimiento de las autoridades de trabajo, no muestra la respectiva constancia firmada directamente por el interesado, o a su ruego por dos compañeros de labores, en el caso de que éste no supiere o no pudiere hacerlo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "161",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_161"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "161",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_161",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de testimonio exige el artículo 161 y sobre qué materias?",
+    "output": "Exige un testimonio escrito sobre la concesión de vacaciones y sobre las acumulaciones que se pacten dentro de las previsiones del artículo 159.",
+    "source_quote": "De la concesión de vacaciones, así como de las acumulaciones que se pacten dentro de las previsiones del artículo 159, se dejará testimonio escrito a petición de patronos o de trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "161",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_161",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué presunción legal se aplica en empresas particulares si el patrono no muestra la constancia de vacaciones firmada?",
+    "output": "Se presume, salvo prueba en contrario, que las vacaciones no han sido otorgadas.",
+    "source_quote": "Tratándose de empresas particulares se presumirá, salvo prueba en contrario, que las vacaciones no han sido otorgadas si el patrono, a requerimiento de las autoridades de trabajo, no muestra la respectiva constancia firmada directamente por el interesado, o a su ruego por dos compañeros de labores, en el caso de que éste no supiere o no pudiere hacerlo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "161",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_161",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición impone la obligación de documentar por escrito tanto el otorgamiento de vacaciones como los pactos de acumulación, a solicitud de cualquiera de las partes. Su finalidad es crear un medio probatorio que brinde certeza jurídica sobre el disfrute efectivo de este derecho laboral y evite disputas futuras.",
+    "source_quote": "De la concesión de vacaciones, así como de las acumulaciones que se pacten dentro de las previsiones del artículo 159, se dejará testimonio escrito a petición de patronos o de trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "161",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_161",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta presunción legal invierte la carga de la prueba en el ámbito de las empresas privadas: si el empleador no exhibe el documento firmado que acredite las vacaciones, se asume que no fueron concedidas. Con ello se protege al trabajador, se incentiva al patrono a cumplir con el deber de documentación y se facilita la labor de fiscalización de las autoridades de trabajo.",
+    "source_quote": "Tratándose de empresas particulares se presumirá, salvo prueba en contrario, que las vacaciones no han sido otorgadas si el patrono, a requerimiento de las autoridades de trabajo, no muestra la respectiva constancia firmada directamente por el interesado, o a su ruego por dos compañeros de labores, en el caso de que éste no supiere o no pudiere hacerlo.",
+    "item_index": 2
+  }
+]

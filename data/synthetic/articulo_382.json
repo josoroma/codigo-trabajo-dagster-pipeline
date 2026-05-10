@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 382 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 382 establece qué personas trabajadoras no se toman en cuenta al calcular el porcentaje mínimo necesario para convocar y apoyar una huelga. Se excluye a quienes ingresaron después de iniciada la conciliación, a quienes están en período de prueba, a las de confianza, a aquellas con contrato suspendido (salvo suspensiones por el artículo 74), a los trabajadores a plazo fijo o por obra determinada que no sean permanentes de contratación discontinua, y a los representantes patronales.",
+    "source_quote": "Para la determinación del porcentaje mínimo de convocatoria y apoyo a la huelga, se debe excluir:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "382",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_382"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "382",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_382",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se excluye a los trabajadores en período de prueba para calcular el porcentaje mínimo de huelga?",
+    "output": "Sí, las personas trabajadoras que se encuentren en período de prueba son excluidas.",
+    "source_quote": "las que se encuentren en período de prueba",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "382",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_382",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Los trabajadores a plazo fijo siempre se excluyen del cálculo del porcentaje de huelga?",
+    "output": "No, se excluyen solo si no son trabajadores permanentes de contratación discontinua. Si son permanentes de contratación discontinua, no se excluyen.",
+    "source_quote": "También, se excluyen los trabajadores a plazo fijo o por obra determinada, siempre y cuando no sean trabajadores permanentes de contratación discontinua.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "382",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_382",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que ciertas categorías de trabajadores no se contabilizan para alcanzar los umbrales legales de la huelga, delimitando así el universo de votantes válidos.",
+    "source_quote": "Para la determinación del porcentaje mínimo de convocatoria y apoyo a la huelga, se debe excluir:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "382",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_382",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Precisa que los contratos suspendidos generalmente se excluyen, pero exceptúa las suspensiones basadas en el artículo 74, evitando que ciertas suspensiones legales reduzcan artificialmente la base de cálculo.",
+    "source_quote": "aquellas cuyo contrato se encuentre suspendido, a excepción de aquellas suspensiones que se hayan producido en aplicación del artículo 74.",
+    "item_index": 2
+  }
+]

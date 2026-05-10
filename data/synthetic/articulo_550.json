@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 550 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 550 establece los pasos inmediatos que debe seguir el juzgado una vez que se presenta correctamente una solicitud de distribución de prestaciones laborales. Estos pasos incluyen: publicar un edicto en el Boletín Judicial para citar a posibles interesados por ocho días hábiles; notificar a las personas ya señaladas en la solicitud; ordenar al obligado a depositar las prestaciones en la cuenta del despacho en cinco días naturales si no las ha consignado; notificar al PANI cuando haya menores de edad con intereses opuestos a su representante legal; y nombrar un representante ad hoc para inhábiles sin curador.",
+    "source_quote": "Presentada en forma la solicitud, se abrirá de inmediato el procedimiento y se dispondrá: 1) La publicación de un edicto en el Boletín Judicial... 2) La notificación a las personas interesadas... 3) Una orden a la persona o institución obligada al pago... 4) Si hay menores de edad interesados, la notificación al Patronato Nacional de la Infancia... 5) Si hubiera inhábiles interesados, no sujetos a curatela, se les nombrará como representante ad hoc a un profesional en derecho de asistencia social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "550",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_550"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "550",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_550",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el obligado al pago para depositar las prestaciones si no las ha consignado?",
+    "output": "Cinco días naturales siguientes a la orden del despacho.",
+    "source_quote": "Una orden a la persona o institución obligada al pago, de que si no hubiera consignado las prestaciones a distribuir las deposite en la cuenta bancaria del despacho, dentro de los cinco días naturales siguientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "550",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_550",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso se notifica al Patronato Nacional de la Infancia según este artículo?",
+    "output": "Cuando hay menores de edad interesados y están en opuesto interés con algún interesado que ejerza su representación legal.",
+    "source_quote": "Si hay menores de edad interesados, la notificación al Patronato Nacional de la Infancia (PANI), institución que asumirá la tutela de sus intereses en el caso de que estén en opuesto interés con algún interesado que ejerza su representación legal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "550",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_550",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar la publicidad del proceso y el derecho de defensa de cualquier persona que pueda tener un interés legítimo en la distribución de las prestaciones, fijando un plazo perentorio de ocho días hábiles para comparecer.",
+    "source_quote": "Presentada en forma la solicitud, se abrirá de inmediato el procedimiento y se dispondrá: 1) La publicación de un edicto en el Boletín Judicial, en el cual se citará y emplazará por ocho días hábiles a toda persona que considere tener interés en la distribución, para que se apersone a hacer valer sus derechos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "550",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_550",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proteger el interés superior del menor cuando existe un conflicto de intereses con su representante legal, asegurando una representación imparcial a través del PANI.",
+    "source_quote": "4) Si hay menores de edad interesados, la notificación al Patronato Nacional de la Infancia (PANI), institución que asumirá la tutela de sus intereses en el caso de que estén en opuesto interés con algún interesado que ejerza su representación legal.",
+    "item_index": 2
+  }
+]

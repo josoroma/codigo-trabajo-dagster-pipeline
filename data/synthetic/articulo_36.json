@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 36 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 36 establece que las deudas que un trabajador tenga con su patrono, o con personas asociadas a este, solo pueden cobrarse mediante descuentos del salario en la misma proporción en que el salario es embargable. Esto aplica tanto a deudas contraídas durante el contrato como antes de este. Hay una excepción mencionada en el artículo 173.",
+    "source_quote": "las deudas que el trabajador contraiga con el patrono o con sus asociados, familiares o dependientes, durante la vigencia del contrato o con anterioridad a la celebración de éste, sólo serán compensables o amortizables, según el caso, en la proporción en que sean embargables los respectivos salarios.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "36",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_36"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "36",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_36",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué proporción pueden compensarse o amortizarse las deudas del trabajador con el patrono según el artículo 36?",
+    "output": "En la proporción en que sean embargables los respectivos salarios.",
+    "source_quote": "sólo serán compensables o amortizables, según el caso, en la proporción en que sean embargables los respectivos salarios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "36",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_36",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción contempla el artículo 36 respecto a la compensación de deudas?",
+    "output": "La excepción es lo dispuesto en el artículo 173 del Código de Trabajo.",
+    "source_quote": "Salvo lo dicho en el artículo 173",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "36",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_36",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción a la regla general, remitiendo al artículo 173 para casos especiales en los que no aplica la limitación de compensación o amortización.",
+    "source_quote": "Salvo lo dicho en el artículo 173",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "36",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_36",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el alcance de la protección: limita la compensación o amortización de deudas laborales a la porción embargable del salario, protegiendo así el ingreso mínimo del trabajador frente a acreedores vinculados al patrono.",
+    "source_quote": "las deudas que el trabajador contraiga con el patrono o con sus asociados, familiares o dependientes, durante la vigencia del contrato o con anterioridad a la celebración de éste, sólo serán compensables o amortizables, según el caso, en la proporción en que sean embargables los respectivos salarios.",
+    "item_index": 2
+  }
+]

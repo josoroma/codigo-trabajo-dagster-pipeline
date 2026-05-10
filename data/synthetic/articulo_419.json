@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 419 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 419 establece que la acción para sancionar las infracciones a las leyes laborales y de seguridad social prescribe en dos años. Este plazo se cuenta desde que se comete la falta o, si es una conducta continuada, desde que cesa la situación. La presentación de la acusación ante los tribunales de trabajo interrumpe la prescripción de manera continua hasta que haya sentencia firme. Además, la prescripción también se interrumpe por cualquier gestión judicial o extrajudicial cuando aún no se ha iniciado un proceso. Finalmente, la prescripción de la sanción ya impuesta en sentencia firme se rige por el artículo 412.",
+    "source_quote": "La acción para sancionar las faltas cometidas contra las leyes de trabajo y de previsión social prescribe en dos años, contados a partir del momento en que se cometan o desde el cese de la situación, cuando se trate de hechos continuados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de prescripción para sancionar las faltas contra las leyes de trabajo y de previsión social?",
+    "output": "El plazo de prescripción es de dos años.",
+    "source_quote": "La acción para sancionar las faltas cometidas contra las leyes de trabajo y de previsión social prescribe en dos años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se interrumpe el plazo de prescripción una vez presentada la acusación ante los tribunales de trabajo?",
+    "output": "Se interrumpe de forma continuada hasta que se dicte sentencia firme.",
+    "source_quote": "La presentación de la acusación ante los tribunales de trabajo interrumpe de forma continuada el plazo de prescripción, hasta que se dicte sentencia firme.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo general de prescripción de dos años y precisa el momento inicial del cómputo, distinguiendo entre infracciones instantáneas y continuadas, para garantizar seguridad jurídica y evitar la persecución indefinida.",
+    "source_quote": "La acción para sancionar las faltas cometidas contra las leyes de trabajo y de previsión social prescribe en dos años, contados a partir del momento en que se cometan o desde el cese de la situación, cuando se trate de hechos continuados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el efecto interruptor de la acusación formal, que suspende el plazo de prescripción de manera continua durante todo el proceso judicial, impidiendo que la acción prescriba mientras se tramita la causa.",
+    "source_quote": "La presentación de la acusación ante los tribunales de trabajo interrumpe de forma continuada el plazo de prescripción, hasta que se dicte sentencia firme.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "419",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_419",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía las causales de interrupción a actuaciones judiciales o extrajudiciales previas al proceso, protegiendo el derecho de acción y permitiendo que gestiones preparatorias o conciliatorias eviten la prescripción.",
+    "source_quote": "La prescripción se interrumpe también por cualquier gestión judicial o por gestión extrajudicial, en los casos en que no se haya presentado un proceso judicial.",
+    "item_index": 3
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 190 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 190 del Código de Trabajo de Costa Rica fue derogado por el artículo 2º de la ley Nº 3372 del 6 de agosto de 1964. Esto significa que su contenido original ha sido eliminado del ordenamiento jurídico y carece de vigencia o aplicación actual.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "190",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_190"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "190",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_190",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente el artículo 190 del Código de Trabajo de Costa Rica?",
+    "output": "No, el artículo 190 fue derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964, por lo que no se encuentra vigente.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "190",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_190",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 190 del Código de Trabajo?",
+    "output": "El artículo 190 fue derogado por el artículo 2º de la ley Nº 3372, promulgada el 6 de agosto de 1964.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "190",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_190",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 190 ha sido derogado, es decir, eliminado del texto legal vigente, mediante una ley posterior. Su propósito es dejar constancia de la pérdida de vigencia de la disposición original y señalar la norma que produjo esa derogación.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 1
+  }
+]

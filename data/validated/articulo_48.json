@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 48 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 48 establece que todas las reglas contenidas en este Capítulo (relativo a los contratos colectivos de trabajo) se aplican también a las modalidades contractuales que se regulan en los capítulos siguientes, a menos que esos capítulos posteriores indiquen expresamente lo contrario.",
+    "source_quote": "Todas las disposiciones de este Capítulo se aplicarán a las modalidades que se regulan en los siguientes, salvo que en éstos haya manifestación en contrario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "48",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_48"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "48",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_48",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué modalidades se aplican las disposiciones de este Capítulo según el artículo 48?",
+    "output": "A las modalidades que se regulan en los capítulos siguientes.",
+    "source_quote": "Todas las disposiciones de este Capítulo se aplicarán a las modalidades que se regulan en los siguientes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "48",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_48",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso no se aplicarían las disposiciones de este Capítulo a las modalidades de los capítulos siguientes?",
+    "output": "Cuando en esos capítulos haya manifestación en contrario.",
+    "source_quote": "salvo que en éstos haya manifestación en contrario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "48",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_48",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara la regla general de aplicación supletoria: el contenido normativo del presente capítulo se extiende a las figuras contractuales que se desarrollan en los capítulos subsiguientes, garantizando coherencia y evitando lagunas.",
+    "source_quote": "Todas las disposiciones de este Capítulo se aplicarán a las modalidades que se regulan en los siguientes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "48",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_48",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción expresa: si los capítulos posteriores contienen una disposición que contradiga o excluya la aplicación de este capítulo, prevalecerá la norma especial, respetando la jerarquía y especialidad normativa.",
+    "source_quote": "salvo que en éstos haya manifestación en contrario.",
+    "item_index": 2
+  }
+]

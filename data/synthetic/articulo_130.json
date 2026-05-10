@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 130 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 130 regula la liquidación de salarios cuando un trabajador fallece durante un viaje. Establece tres reglas según la forma de ajuste del contrato: si es por unidades de tiempo, se pagan las devengadas; si es por viaje, se paga la mitad del ajuste si muere en el viaje de ida y la totalidad si muere de regreso; y si es a la parte, se paga todo lo correspondiente si la muerte ocurre después de comenzado el viaje, pero el patrono no debe nada si el fallecimiento sucede antes de la fecha de salida del barco.",
+    "source_quote": "La liquidación de los salarios del trabajador que muera durante el viaje, se hará de acuerdo con las siguientes reglas:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "130",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_130"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "130",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_130",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se liquida el salario si el contrato se ajustó por unidades de tiempo?",
+    "output": "Se pagan las unidades de tiempo devengadas.",
+    "source_quote": "Por unidades de tiempo devengadas si el ajuste se hubiere realizado en esta forma;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "130",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_130",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué cantidad del ajuste se considera ganada si el contrato fue por viaje y el trabajador muere durante el viaje de ida?",
+    "output": "Se considera que ha ganado la mitad de su ajuste.",
+    "source_quote": "Si el contrato fue por viaje se considerará que ha ganado la mitad de su ajuste cuando falleciere durante el viaje de ida",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "130",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_130",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la liquidación proporcional en contratos por viaje, protegiendo los derechos del trabajador fallecido según el momento del deceso, ya sea en el trayecto de ida o de regreso.",
+    "source_quote": "Si el contrato fue por viaje se considerará que ha ganado la mitad de su ajuste cuando falleciere durante el viaje de ida y la totalidad si muriere de regreso",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "130",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_130",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Exime al patrono de responsabilidad de pago en contratos a la parte cuando el trabajador muere antes de iniciar el viaje, delimitando el momento en que surge la obligación salarial.",
+    "source_quote": "El patrono no estará obligado a ningún pago en el caso de que el fallecimiento ocurriere antes de la fecha en que normalmente debía salir el barco.",
+    "item_index": 2
+  }
+]

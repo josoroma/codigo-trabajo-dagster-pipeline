@@ -1,0 +1,21 @@
+# Local Dagster instance config. `DAGSTER_HOME` should point to a directory
+# that contains this file. The default `dagster dev` workflow auto-creates
+# a temp `DAGSTER_HOME` if none is set; commit-tracked teams usually pin
+# `DAGSTER_HOME=$PWD/.dagster_home`.
+
+# Concurrency pools — Dagster 1.13 uses a default limit for any named pool
+# touched by an op/asset. The LLM-facing asset is tagged with pool `openrouter`,
+# so this caps concurrent OpenRouter steps at 8 unless changed in the UI/CLI.
+concurrency:
+  pools:
+    default_limit: 8
+    granularity: op
+
+# Storage defaults — keep everything local under DAGSTER_HOME.
+storage:
+  sqlite:
+    base_dir: .dagster_home/storage
+
+run_coordinator:
+  module: dagster._core.run_coordinator
+  class: QueuedRunCoordinator

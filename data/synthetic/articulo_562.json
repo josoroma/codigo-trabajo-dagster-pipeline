@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 562 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 562 regula la condena en costas en los procesos laborales. Establece que en toda sentencia (incluidas las anticipadas) y en ciertas resoluciones que extinguen el proceso, se condenará al pago de costas personales y procesales a la parte vencida, a quien satisfizo el derecho o a la parte sancionada. Cuando la sentencia resuelve el fondo o acoge excepciones materiales previas, las costas personales se fijan entre un 15% y un 25% del monto líquido de la condena o absolución. En otros casos o cuando el proceso no es estimable en dinero, la fijación es prudencial. Para determinar el porcentaje o monto prudencial se consideran la labor realizada, la cuantía del litigio y la posición económica de las partes. En asuntos inestimables con trascendencia económica, se toma como base el monto resultante hasta la firmeza de la sentencia, pudiendo agregarse hasta un 50% si se siguen generando resultados económicos futuros; si el resultado es intrascendente, se fija prudencialmente.",
+    "source_quote": "En toda sentencia, incluidas las anticipadas, y las resoluciones que provoquen el perecimiento del proceso por litispendencia, incompetencia por razones del territorio nacional, satisfacción extraprocesal o deserción, se condenará al vencido, a quien ha satisfecho el derecho o a la parte sancionada con la finalización del asunto, al pago de las costas personales y procesales causadas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "562",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_562"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "562",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_562",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se condena al pago de costas personales y procesales según el artículo 562?",
+    "output": "En toda sentencia, incluidas las anticipadas, y en las resoluciones que provoquen el perecimiento del proceso por litispendencia, incompetencia por razones del territorio nacional, satisfacción extraprocesal o deserción.",
+    "source_quote": "En toda sentencia, incluidas las anticipadas, y las resoluciones que provoquen el perecimiento del proceso por litispendencia, incompetencia por razones del territorio nacional, satisfacción extraprocesal o deserción, se condenará al vencido, a quien ha satisfecho el derecho o a la parte sancionada con la finalización del asunto, al pago de las costas personales y procesales causadas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "562",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_562",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el rango porcentual para las costas personales cuando la sentencia resuelve el fondo o acoge excepciones materiales previas?",
+    "output": "No podrán ser menores del quince por ciento (15%) ni mayores del veinticinco por ciento (25%) del importe líquido de la condenatoria o de la absolución, en su caso.",
+    "source_quote": "las personales no podrán ser menores del quince por ciento (15%) ni mayores del veinticinco por ciento (25%) del importe líquido de la condenatoria o de la absolución, en su caso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "562",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_562",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio general de condena en costas en los procesos laborales, enumerando los supuestos procesales en que procede y determinando quién debe asumir el pago de las costas personales y procesales.",
+    "source_quote": "En toda sentencia, incluidas las anticipadas, y las resoluciones que provoquen el perecimiento del proceso por litispendencia, incompetencia por razones del territorio nacional, satisfacción extraprocesal o deserción, se condenará al vencido, a quien ha satisfecho el derecho o a la parte sancionada con la finalización del asunto, al pago de las costas personales y procesales causadas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "562",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_562",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los criterios que el juez debe considerar para determinar el monto de las costas, ya sea mediante un porcentaje o una suma prudencial, con el fin de garantizar una fijación equitativa y proporcional a las circunstancias del caso.",
+    "source_quote": "Para hacer la fijación del porcentaje o del monto prudencial se tomarán en cuenta la labor realizada, la cuantía de la cosa litigada y la posición económica del actor y demandado.",
+    "item_index": 2
+  }
+]

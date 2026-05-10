@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 536 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 536 regula la posibilidad de posponer la conclusión de una audiencia de juicio laboral, incluso después de los alegatos finales, por una sola vez y por un máximo de diez días. Esta posposición procede cuando sea necesario recibir pruebas no evacuadas o cuya importancia surja en la audiencia (ordenadas para mejor proveer), debatir excepciones o cuestiones nuevas alegadas legalmente, o tomar declaración a testigos que desobedecieron la citación, en cuyo caso se ordena su presentación con la Fuerza Pública. En el mismo acto se fija la nueva fecha. Si se trata de debatir excepciones o cuestiones nuevas, se decide sobre la admisión de pruebas. Luego de evacuar las pruebas pendientes, se permite complementar conclusiones y se dicta sentencia conforme al artículo 518. La audiencia puede concluir válidamente con las partes que asistan, y la inasistencia no impide recibir la prueba ni dictar sentencia. Todo se registra en acta y las resoluciones se tienen por notificadas a todos, asistentes o no.",
+    "source_quote": "Podrá posponerse la conclusión de una audiencia de juicio aun después del alegato de conclusiones o reprogramarse por una única vez y que la posposición no sea por más de diez días, cuando sea necesario recibir alguna probanza no evacuada en esa oportunidad o cuya trascendencia surja durante la audiencia, en ambos casos si se ordena para mejor proveer, o bien, cuando sea necesario para debatir adecuadamente sobre excepciones o cuestiones nuevas, legalmente alegadas en la audiencia, o para recibirles declaración a testigos desobedientes de la citación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "536",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_536"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "536",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_536",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede posponer la conclusión de una audiencia de juicio según el artículo 536?",
+    "output": "Cuando sea necesario recibir probanzas no evacuadas o cuya trascendencia surja durante la audiencia (ordenadas para mejor proveer), para debatir excepciones o cuestiones nuevas legalmente alegadas, o para recibir declaración a testigos desobedientes de la citación.",
+    "source_quote": "cuando sea necesario recibir alguna probanza no evacuada en esa oportunidad o cuya trascendencia surja durante la audiencia, en ambos casos si se ordena para mejor proveer, o bien, cuando sea necesario para debatir adecuadamente sobre excepciones o cuestiones nuevas, legalmente alegadas en la audiencia, o para recibirles declaración a testigos desobedientes de la citación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "536",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_536",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si una parte no asiste a la continuación de la audiencia pospuesta?",
+    "output": "La inasistencia no impide la recepción o incorporación de la prueba ordenada y el dictado de la sentencia, que puede hacerse de inmediato o de forma postergada dentro del plazo legal.",
+    "source_quote": "La inasistencia de las partes no impedirá la recepción o la incorporación de la prueba ordenada y el dictado de la sentencia podrá hacerse de inmediato o de forma postergada, dentro del plazo previsto en este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "536",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_536",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que, ante testigos desobedientes, el juez ordena de oficio su comparecencia con auxilio de la Fuerza Pública, garantizando la efectividad de la prueba testimonial.",
+    "source_quote": "En este caso, sin necesidad de petición de la parte, se ordenará la presentación de esos testigos mediante la Fuerza Pública.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "536",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_536",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que las resoluciones dictadas en la audiencia se consideran notificadas automáticamente a todas las partes, presentes o ausentes, asegurando la continuidad del proceso y evitando dilaciones.",
+    "source_quote": "Todo lo que se resuelva se tendrá por notificado tanto a las partes asistentes como a las que dejaron de asistir.",
+    "item_index": 2
+  }
+]

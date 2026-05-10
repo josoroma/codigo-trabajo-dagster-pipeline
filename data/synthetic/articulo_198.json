@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 198 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 198 establece que cuando el trabajo es el factor directo que desencadena, acelera o agrava un riesgo laboral, no se puede reducir el porcentaje de incapacidad por predisposiciones o enfermedades preexistentes del trabajador, siempre que haya una relación clara de causalidad y se determine incapacidad parcial o total permanente. En los demás casos donde no se determina incapacidad permanente, la valoración se hace según lo que el riesgo habría causado sin esos factores preexistentes, y se permite aumentar la incapacidad resultante hasta en un diez por ciento.",
+    "source_quote": "Cuando el trabajo que se ejecuta actúe directamente como factor desencadenante, acelerante o agravante de un riesgo del trabajo, ni la predisposición patológica, orgánica o funcional del trabajador, ni la enfermedad preexistente, serán motivos que permitan la disminución del porcentaje de impedimento que debe establecerse, siempre que medie, en forma clara, relación de casualidad entre el trabajo realizado y el riesgo ocurrido, y que se determine incapacidad parcial o total permanente. En los demás casos en que se agraven las consecuencias de un riesgo de trabajo, sin que se determine incapacidad parcial o total permanente. La incapacidad resultante se valorará de acuerdo con el dictamen médico sobre las consecuencias que, presumiblemente, el riesgo hubiera ocasionado al trabajador, sin la existencia de los citados factores preexistentes, pudiendo aumentar el porcentaje de incapacidad permanente que resulte, hasta en un diez por ciento de la capacidad general.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué circunstancias la predisposición patológica o enfermedad preexistente del trabajador no reduce el porcentaje de incapacidad?",
+    "output": "No reduce el porcentaje cuando el trabajo actúa directamente como factor desencadenante, acelerante o agravante del riesgo, existe una clara relación de causalidad y se determina incapacidad parcial o total permanente.",
+    "source_quote": "Cuando el trabajo que se ejecuta actúe directamente como factor desencadenante, acelerante o agravante de un riesgo del trabajo, ni la predisposición patológica, orgánica o funcional del trabajador, ni la enfermedad preexistente, serán motivos que permitan la disminución del porcentaje de impedimento que debe establecerse, siempre que medie, en forma clara, relación de casualidad entre el trabajo realizado y el riesgo ocurrido, y que se determine incapacidad parcial o total permanente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se valora la incapacidad cuando se agravan las consecuencias de un riesgo laboral pero no hay incapacidad parcial o total permanente?",
+    "output": "Se valora según un dictamen médico que considere las consecuencias que el riesgo habría ocasionado sin los factores preexistentes, y se puede aumentar el porcentaje de incapacidad permanente resultante hasta en un diez por ciento de la capacidad general.",
+    "source_quote": "La incapacidad resultante se valorará de acuerdo con el dictamen médico sobre las consecuencias que, presumiblemente, el riesgo hubiera ocasionado al trabajador, sin la existencia de los citados factores preexistentes, pudiendo aumentar el porcentaje de incapacidad permanente que resulte, hasta en un diez por ciento de la capacidad general.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la regla de que las condiciones preexistentes del trabajador no pueden usarse para disminuir la indemnización por incapacidad cuando el trabajo es la causa directa y se demuestra una relación causal clara, protegiendo así al trabajador de reducciones injustas.",
+    "source_quote": "Cuando el trabajo que se ejecuta actúe directamente como factor desencadenante, acelerante o agravante de un riesgo del trabajo, ni la predisposición patológica, orgánica o funcional del trabajador, ni la enfermedad preexistente, serán motivos que permitan la disminución del porcentaje de impedimento que debe establecerse, siempre que medie, en forma clara, relación de casualidad entre el trabajo realizado y el riesgo ocurrido, y que se determine incapacidad parcial o total permanente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "198",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_198",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición regula los casos en que no hay incapacidad permanente determinada, ordenando una valoración médica hipotética para aislar el efecto de los factores preexistentes y permitiendo un aumento compensatorio limitado, con el fin de ajustar la prestación a la realidad del daño laboral.",
+    "source_quote": "La incapacidad resultante se valorará de acuerdo con el dictamen médico sobre las consecuencias que, presumiblemente, el riesgo hubiera ocasionado al trabajador, sin la existencia de los citados factores preexistentes, pudiendo aumentar el porcentaje de incapacidad permanente que resulte, hasta en un diez por ciento de la capacidad general.",
+    "item_index": 2
+  }
+]

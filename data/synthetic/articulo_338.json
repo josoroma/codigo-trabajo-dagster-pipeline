@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 338 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 338 establece que las organizaciones sociales, como los sindicatos, solo pueden ser sancionadas con dos tipos de penas: multa, cuando el Código de Trabajo así lo disponga, y disolución, únicamente en los casos expresamente señalados en el Título correspondiente. Además, aclara que los directores de estas organizaciones responden personalmente, según las leyes laborales y comunes, por cualquier infracción o abuso que cometan en el ejercicio de sus funciones.",
+    "source_quote": "Las únicas penas que se impondrán a las organizaciones sociales son la de multa, siempre que de conformidad con el presente Código se hagan acreedoras a ella, y la de disolución, en los casos expresamente señalados en ese Título. No obstante, sus directores serán responsables conforme a las leyes de trabajo y a las de orden común de todas las infracciones o abusos que cometan en el desempeño de sus cargos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "338",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_338"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "338",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_338",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las únicas penas que se pueden imponer a las organizaciones sociales según el artículo 338?",
+    "output": "Las únicas penas son la multa, cuando el Código de Trabajo las haga acreedoras a ella, y la disolución, en los casos expresamente señalados en ese Título.",
+    "source_quote": "Las únicas penas que se impondrán a las organizaciones sociales son la de multa, siempre que de conformidad con el presente Código se hagan acreedoras a ella, y la de disolución, en los casos expresamente señalados en ese Título.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "338",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_338",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué responsabilidad tienen los directores de las organizaciones sociales según este artículo?",
+    "output": "Los directores son responsables conforme a las leyes de trabajo y a las de orden común por todas las infracciones o abusos que cometan en el desempeño de sus cargos.",
+    "source_quote": "No obstante, sus directores serán responsables conforme a las leyes de trabajo y a las de orden común de todas las infracciones o abusos que cometan en el desempeño de sus cargos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "338",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_338",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita delimita taxativamente las sanciones aplicables a las organizaciones sociales, garantizando que no se impongan penas distintas a la multa o la disolución, y solo en los supuestos previstos por el Código, lo que protege a estas entidades de castigos arbitrarios.",
+    "source_quote": "Las únicas penas que se impondrán a las organizaciones sociales son la de multa, siempre que de conformidad con el presente Código se hagan acreedoras a ella, y la de disolución, en los casos expresamente señalados en ese Título.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "338",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_338",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición establece la responsabilidad personal de los directores, separándola de la de la organización, para que respondan individualmente por actos ilícitos o abusivos cometidos en el ejercicio de sus funciones, conforme a la normativa laboral y civil o penal aplicable.",
+    "source_quote": "No obstante, sus directores serán responsables conforme a las leyes de trabajo y a las de orden común de todas las infracciones o abusos que cometan en el desempeño de sus cargos.",
+    "item_index": 2
+  }
+]

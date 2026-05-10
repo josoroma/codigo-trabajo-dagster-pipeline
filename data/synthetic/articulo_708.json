@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 708 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 708 permite que, durante una huelga ya declarada, las partes puedan negociar directamente arreglos o convenios para solucionar el conflicto, siempre que esos acuerdos respeten las normas establecidas en el mismo título del Código.",
+    "source_quote": "Durante la huelga declarada pueden realizarse arreglos o convenios tendientes a la solución del conflicto en forma directa, los cuales deben respetar el ordenamiento en la forma indicada en este título.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "708",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_708"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "708",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_708",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de acuerdos pueden realizarse durante una huelga declarada?",
+    "output": "Arreglos o convenios tendientes a la solución del conflicto en forma directa.",
+    "source_quote": "Durante la huelga declarada pueden realizarse arreglos o convenios tendientes a la solución del conflicto en forma directa",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "708",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_708",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir esos arreglos o convenios?",
+    "output": "Deben respetar el ordenamiento en la forma indicada en este título.",
+    "source_quote": "los cuales deben respetar el ordenamiento en la forma indicada en este título",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "708",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_708",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la posibilidad de que las partes en conflicto negocien directamente acuerdos para resolver la huelga, sin necesidad de intervención de terceros, durante la vigencia de la huelga declarada.",
+    "source_quote": "Durante la huelga declarada pueden realizarse arreglos o convenios tendientes a la solución del conflicto en forma directa",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "708",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_708",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone como límite que dichos arreglos o convenios deben ajustarse a las disposiciones legales contenidas en el título del Código de Trabajo que regula las huelgas, garantizando su legalidad.",
+    "source_quote": "los cuales deben respetar el ordenamiento en la forma indicada en este título",
+    "item_index": 2
+  }
+]

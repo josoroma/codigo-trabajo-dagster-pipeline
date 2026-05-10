@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 71 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 71 del Código de Trabajo enumera las obligaciones de los trabajadores, adicionales a las previstas en otros artículos del mismo Código, sus reglamentos y leyes supletorias o conexas. Estas obligaciones incluyen: desempeñar el servicio bajo la dirección del patrono; ejecutar el trabajo con intensidad, cuidado y esmero; restituir materiales no usados y conservar en buen estado los instrumentos y útiles; observar buenas costumbres durante las horas de trabajo; prestar auxilio en caso de siniestro o riesgo inminente; guardar rigurosamente secretos técnicos, comerciales o de fabricación y asuntos administrativos reservados; y observar medidas preventivas de seguridad. El inciso f fue derogado por la Ley General sobre el VIH SIDA.",
+    "source_quote": "Fuera de las contenidas en otros artículos de este Código, en sus Reglamentos y en sus leyes supletorias o conexas, son obligaciones de los trabajadores:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "71",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_71"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "71",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_71",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el trabajador con los materiales no usados y los instrumentos que le faciliten para el trabajo?",
+    "output": "Debe restituir al patrono los materiales no usados y conservar en buen estado los instrumentos y útiles. No será responsable por el deterioro normal ni por el ocasionado por caso fortuito, fuerza mayor, mala calidad o defectuosa construcción.",
+    "source_quote": "Restituir al patrono los materiales no usados y conservar en buen estado los instrumentos y útiles que se les faciliten para el trabajo; es entendido que no serán responsables por deterioro normal ni del que ocasione por caso fortuito, fuerza mayor, mala calidad o defectuosa construcción;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "71",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_71",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Tiene derecho el trabajador a una remuneración adicional por prestar auxilio en caso de siniestro o riesgo inminente?",
+    "output": "No, el artículo establece que prestar los auxilios necesarios en caso de siniestro o riesgo inminente no le dará derecho a remuneración adicional.",
+    "source_quote": "Prestar los auxilios necesarios en caso de siniestro o riesgo inminente en que las personas o intereses del patrono, o de algún compañero de trabajo estén en peligro, nada de lo cual le dará derecho a remuneración adicional;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "71",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_71",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase introductoria delimita el alcance del artículo, aclarando que las obligaciones aquí listadas son adicionales a las ya establecidas en otras normas del Código, sus reglamentos y leyes supletorias o conexas, evitando contradicciones y asegurando una aplicación complementaria.",
+    "source_quote": "Fuera de las contenidas en otros artículos de este Código, en sus Reglamentos y en sus leyes supletorias o conexas, son obligaciones de los trabajadores:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "71",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_71",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta obligación protege la información confidencial del empleador, imponiendo al trabajador el deber de reserva sobre secretos industriales, comerciales y asuntos administrativos, con el fin de prevenir perjuicios económicos o competitivos derivados de su divulgación.",
+    "source_quote": "Guardar rigurosamente los secretos técnicos, comerciales o de fabricación de los productos a cuya elaboración concurran directa o indirectamente, o de los cuales tenga conocimiento por razón del trabajo que ejecutan; así como de los asuntos administrativos reservados, cuya divulgación pueda causar perjuicios al patrono,",
+    "item_index": 2
+  }
+]

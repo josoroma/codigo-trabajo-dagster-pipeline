@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 217 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo permite que los trabajadores que ya tienen una incapacidad permanente por un accidente laboral anterior puedan ser asegurados nuevamente contra riesgos del trabajo. Sin embargo, aclara que si ocurre un nuevo accidente que afecte el mismo órgano o función, el porcentaje de incapacidad previa no se tomará en cuenta para calcular la nueva incapacidad.",
+    "source_quote": "Podrán ser asegurados contra los riesgos del trabajo, los trabajadores a quienes en oportunidad precedente se les haya fijado algún tipo de incapacidad permanente, como consecuencia de un infortunio laboral, en el entendido de que el porcentaje de incapacidad permanente anterior, quedará excluido de la fijación de impedimento, sobre el mismo órgano o función, por cualquier riesgo sobreviviente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "217",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_217"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "217",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_217",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un trabajador con una incapacidad permanente previa por un accidente laboral ser asegurado nuevamente contra riesgos del trabajo?",
+    "output": "Sí, los trabajadores con una incapacidad permanente anterior por un infortunio laboral pueden ser asegurados nuevamente contra riesgos del trabajo.",
+    "source_quote": "Podrán ser asegurados contra los riesgos del trabajo, los trabajadores a quienes en oportunidad precedente se les haya fijado algún tipo de incapacidad permanente, como consecuencia de un infortunio laboral.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "217",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_217",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con el porcentaje de incapacidad permanente anterior si ocurre un nuevo accidente que afecta el mismo órgano o función?",
+    "output": "El porcentaje de incapacidad permanente anterior queda excluido de la fijación del nuevo impedimento sobre el mismo órgano o función.",
+    "source_quote": "en el entendido de que el porcentaje de incapacidad permanente anterior, quedará excluido de la fijación de impedimento, sobre el mismo órgano o función, por cualquier riesgo sobreviviente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "217",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_217",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la posibilidad de asegurar nuevamente a trabajadores con incapacidades permanentes previas, garantizando su acceso a la protección contra riesgos laborales a pesar de su condición preexistente.",
+    "source_quote": "Podrán ser asegurados contra los riesgos del trabajo, los trabajadores a quienes en oportunidad precedente se les haya fijado algún tipo de incapacidad permanente, como consecuencia de un infortunio laboral.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "217",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_217",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la regla de exclusión del porcentaje de incapacidad anterior al calcular un nuevo impedimento sobre el mismo órgano o función, evitando la duplicación de indemnizaciones por la misma lesión preexistente.",
+    "source_quote": "en el entendido de que el porcentaje de incapacidad permanente anterior, quedará excluido de la fijación de impedimento, sobre el mismo órgano o función, por cualquier riesgo sobreviviente.",
+    "item_index": 2
+  }
+]

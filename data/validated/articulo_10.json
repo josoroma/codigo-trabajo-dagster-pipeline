@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 10 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 10 establece que están libres de impuestos de papel sellado y timbre todos los actos jurídicos, solicitudes y actuaciones que se realicen ante el Ministerio de Trabajo y Seguridad Social, sus representantes o los Tribunales de Trabajo, así como las legalizaciones que los trabajadores necesiten hacer en procesos de sucesión, insolvencia, concurso o quiebra. Además, la misma exención aplica para los contratos y convenciones de trabajo, tanto individuales como colectivos, que se celebren y ejecuten en Costa Rica.",
+    "source_quote": "Quedan exentos de los impuestos de papel sellado y timbre todos los actos jurídicos, solicitudes y actuaciones de cualquier especie que se tramiten ante el Ministerio de Trabajo y Seguridad Social, ante los funcionarios que actúen en su representación y ante los Tribunales de Trabajo, así como para las legalizaciones que los trabajadores tuvieren que hacer en juicios de sucesión, insolvencia, concurso o quiebra",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "10",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_10"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "10",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_10",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de actos están exentos de los impuestos de papel sellado y timbre según el artículo 10?",
+    "output": "Todos los actos jurídicos, solicitudes y actuaciones de cualquier especie que se tramiten ante el Ministerio de Trabajo y Seguridad Social, ante los funcionarios que actúen en su representación y ante los Tribunales de Trabajo, así como las legalizaciones que los trabajadores tuvieren que hacer en juicios de sucesión, insolvencia, concurso o quiebra.",
+    "source_quote": "Quedan exentos de los impuestos de papel sellado y timbre todos los actos jurídicos, solicitudes y actuaciones de cualquier especie que se tramiten ante el Ministerio de Trabajo y Seguridad Social, ante los funcionarios que actúen en su representación y ante los Tribunales de Trabajo, así como para las legalizaciones que los trabajadores tuvieren que hacer en juicios de sucesión, insolvencia, concurso o quiebra",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "10",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_10",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se aplica la exención de impuestos a los contratos de trabajo?",
+    "output": "Sí, la misma exoneración rige para los contratos y convenciones de trabajo, individuales o colectivos, que se celebren y ejecuten en el territorio de la República.",
+    "source_quote": "Igual exoneración regirá para los contratos y convenciones de trabajo, individuales o colectivos, que se celebren y ejecuten en el territorio de la República.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "10",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_10",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición busca facilitar el acceso a la justicia laboral y a los trámites administrativos laborales, eliminando barreras económicas como los impuestos de papel sellado y timbre, y protege a los trabajadores en procesos concursales o sucesorios al eximir de esos costos las legalizaciones necesarias.",
+    "source_quote": "Quedan exentos de los impuestos de papel sellado y timbre todos los actos jurídicos, solicitudes y actuaciones de cualquier especie que se tramiten ante el Ministerio de Trabajo y Seguridad Social, ante los funcionarios que actúen en su representación y ante los Tribunales de Trabajo, así como para las legalizaciones que los trabajadores tuvieren que hacer en juicios de sucesión, insolvencia, concurso o quiebra",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "10",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_10",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la exención tributaria a los contratos laborales, individuales y colectivos, para promover la formalización de las relaciones de trabajo sin cargas fiscales adicionales, siempre que se celebren y ejecuten dentro del país.",
+    "source_quote": "Igual exoneración regirá para los contratos y convenciones de trabajo, individuales o colectivos, que se celebren y ejecuten en el territorio de la República.",
+    "item_index": 2
+  }
+]

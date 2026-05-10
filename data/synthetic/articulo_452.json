@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 452 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 452 dispone que el Patronato Nacional de la Infancia (PANI) debe intervenir como parte en los procesos judiciales laborales cuando participen menores de edad o madres que reclamen derechos vinculados a la maternidad.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) será parte en los procesos en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "452",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_452"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "452",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_452",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de procesos judiciales el PANI debe ser parte según el artículo 452?",
+    "output": "En los procesos en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) será parte en los procesos en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "452",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_452",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué institución está obligada a participar cuando una madre reclama derechos de maternidad en un proceso laboral?",
+    "output": "El Patronato Nacional de la Infancia (PANI).",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) será parte en los procesos en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "452",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_452",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del PANI de intervenir como sujeto procesal, garantizando su presencia activa en determinados litigios laborales.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) será parte en los procesos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "452",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_452",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la norma, especificando que la participación del PANI procede únicamente cuando en el proceso figuren personas menores de edad o madres que reclamen prestaciones o derechos derivados de la maternidad.",
+    "source_quote": "en los cuales intervengan menores de edad o madres que demanden derechos relacionados con la maternidad.",
+    "item_index": 2
+  }
+]

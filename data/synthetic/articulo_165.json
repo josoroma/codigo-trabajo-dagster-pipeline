@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 165 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 165 regula la forma de pago del salario. Establece que, cuando el salario se pacta en dinero, debe pagarse en moneda de curso legal y prohíbe el pago mediante mercaderías, vales, fichas, cupones u otros signos representativos. Como excepción, permite que en las fincas de café, durante la recolección, se entreguen dichos signos a los trabajadores, siempre que se conviertan en dinero dentro de la semana siguiente. Además, dispone que las sanciones se aplicarán en su grado máximo si las órdenes de pago solo pueden canjearse por mercaderías en establecimientos determinados.",
+    "source_quote": "El salario deberá pagarse en moneda de curso legal siempre que se estipule en dinero.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué moneda debe pagarse el salario cuando se estipula en dinero?",
+    "output": "En moneda de curso legal.",
+    "source_quote": "El salario deberá pagarse en moneda de curso legal siempre que se estipule en dinero.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción existe para las fincas de café durante la recolección de cosechas respecto a la prohibición de pagar con signos representativos?",
+    "output": "Se permite entregar a los trabajadores dedicados a la recolección cualquiera de los signos representativos prohibidos, siempre que su conversión por dinero se verifique necesariamente dentro de la semana de su entrega.",
+    "source_quote": "Se exceptúan de la prohibición anterior las fincas dedicadas al cultivo del café donde en la época de la recolección de las cosechas se acostumbre entregar a los trabajadores dedicados a esa faena, cualquiera de los signos representativos a que se refiere este artículo, siempre que su conversión por dinero se verifique necesariamente dentro de la semana de su entrega.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se aplican las sanciones legales en su grado máximo según este artículo?",
+    "output": "Cuando las órdenes de pago sólo son canjeables por mercaderías en determinados establecimientos.",
+    "source_quote": "Las sanciones legales se aplicarán en su máximum cuando las órdenes de pago sólo fueren canjeables por mercaderías en determinados establecimientos.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de pago del salario en moneda de curso legal y prohíbe de manera absoluta el pago en especie o mediante sustitutos monetarios, protegiendo al trabajador de prácticas que podrían perjudicar su poder adquisitivo.",
+    "source_quote": "El salario deberá pagarse en moneda de curso legal siempre que se estipule en dinero. Queda absolutamente prohibido hacerlo en mercaderías, vales, fichas, cupones o cualquier otro signo representativo con que se pretenda sustituir la moneda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "165",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_165",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción limitada para las fincas cafetaleras durante la recolección, permitiendo el uso de signos representativos bajo la condición estricta de que sean convertidos en dinero dentro de la semana, equilibrando las prácticas agrícolas con la protección salarial.",
+    "source_quote": "Se exceptúan de la prohibición anterior las fincas dedicadas al cultivo del café donde en la época de la recolección de las cosechas se acostumbre entregar a los trabajadores dedicados a esa faena, cualquiera de los signos representativos a que se refiere este artículo, siempre que su conversión por dinero se verifique necesariamente dentro de la semana de su entrega.",
+    "item_index": 2
+  }
+]

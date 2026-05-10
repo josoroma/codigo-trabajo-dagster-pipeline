@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 376_quater del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo regula la huelga en servicios de importancia trascendental, exigiendo que se garantice la continuidad del servicio mediante un esquema de servicios mínimos. Las partes deben acordar esos servicios mínimos con criterios técnicos y depositarlo en el Ministerio de Trabajo antes de la huelga. Si no hay acuerdo, un juez de trabajo lo define en tres días, con posibilidad de apelación. El patrono designa a los trabajadores que cumplirán esos servicios. La fijación de servicios mínimos no prejuzga la legalidad de la huelga, pero su incumplimiento la hace ilegal. El abandono injustificado de esas labores es falta grave. La huelga en estos servicios no puede durar más de diez días naturales; si no hay acuerdo, se procede según el artículo 707.",
+    "source_quote": "La huelga en servicios de importancia trascendental deberá garantizar su continuidad mediante el esquema de prestación de servicios mínimos de atención a las personas usuarias.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quater",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quater"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quater",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quater",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe garantizarse durante una huelga en servicios de importancia trascendental?",
+    "output": "Debe garantizarse la continuidad del servicio mediante un esquema de prestación de servicios mínimos de atención a las personas usuarias.",
+    "source_quote": "La huelga en servicios de importancia trascendental deberá garantizar su continuidad mediante el esquema de prestación de servicios mínimos de atención a las personas usuarias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quater",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quater",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si las partes no logran un acuerdo sobre los servicios mínimos?",
+    "output": "Cualquiera de las partes puede solicitar al juez de trabajo que defina el plan de servicio mínimo, quien lo hará en un plazo perentorio de tres días, previa audiencia a la parte contraria. La resolución es recurrible ante el Tribunal de Trabajo dentro de las veinticuatro horas siguientes, y el tribunal resolverá en un plazo máximo de tres días.",
+    "source_quote": "De no haber acuerdo en la fijación de los servicios mínimos, cualquiera de las partes podrá solicitar al juez de trabajo que defina el plan de servicio mínimo. Esta fijación la realizará el juez en un plazo perentorio de tres días, previa audiencia a la parte contraria. Dicha resolución será recurrible ante el Tribunal de Trabajo dentro de las veinticuatro horas siguientes. El tribunal resolverá la apelación en un plazo máximo de tres días.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quater",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quater",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el procedimiento y los criterios que deben guiar la determinación de los servicios mínimos, priorizando el acuerdo entre las partes y la aplicación de principios técnicos y jurídicos para asegurar que la medida sea equilibrada y justificada.",
+    "source_quote": "La fijación de los servicios mínimos se definirá mediante acuerdo de las partes, sobre la base de criterios técnicos, considerando la extensión personal y territorial de la huelga, su duración, modalidad de ejecución, la entidad del servicio y cualquier otro factor relevante, conforme a los criterios de necesidad, razonabilidad y proporcionalidad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quater",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quater",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define una consecuencia jurídica automática: el incumplimiento de los servicios mínimos convierte la huelga en ilegal, sin necesidad de evaluar otros aspectos, lo que refuerza la obligatoriedad de su cumplimiento.",
+    "source_quote": "La no prestación de los servicios mínimos fijados determinará por sí sola la ilegalidad del movimiento de huelga.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 530 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 530 regula la forma en que se dictan y notifican las resoluciones durante una audiencia laboral. Establece que todas las decisiones se emiten oralmente y quedan notificadas a las partes con su sola lectura, debiendo registrarse en el acta los fundamentos de hecho y de derecho. Excepto la sentencia, contra estas resoluciones procede el recurso de revocatoria, que se interpone y resuelve oralmente de inmediato. Si cabe apelación, debe interponerse oralmente justo después de la notificación; de lo contrario, el punto queda resuelto definitivamente. La apelación solo se tramita de inmediato si la resolución impide continuar la audiencia; en los demás casos, se reserva para resolverse junto con el recurso contra la sentencia.",
+    "source_quote": "Las resoluciones de las cuestiones que deban conocerse o que se planteen dentro de la audiencia se dictarán oralmente y quedarán notificadas a las partes en ese mismo acto con la sola lectura, debiendo consignarse en el acta, al menos sucintamente, los fundamentos jurídicos y de hecho del pronunciamiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "530",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_530"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "530",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_530",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se notifican las resoluciones dictadas en la audiencia según el artículo 530?",
+    "output": "Se notifican a las partes en ese mismo acto con la sola lectura de la resolución.",
+    "source_quote": "quedarán notificadas a las partes en ese mismo acto con la sola lectura",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "530",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_530",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué recurso cabe contra las resoluciones dictadas en la audiencia, exceptuando la sentencia, y cómo debe interponerse?",
+    "output": "Cabe el recurso de revocatoria, el cual debe interponerse de forma oral y resolverse de inmediato de la misma forma.",
+    "source_quote": "A excepción de la sentencia, contra las resoluciones dictadas en la audiencia cabrá el recurso de revocatoria, el cual deberá interponerse de forma oral y resolverse de esa misma forma, de inmediato.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "530",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_530",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de oralidad e inmediación en la emisión y notificación de las resoluciones durante la audiencia, garantizando que las partes conozcan la decisión al instante y que quede constancia escrita de sus fundamentos esenciales.",
+    "source_quote": "Las resoluciones de las cuestiones que deban conocerse o que se planteen dentro de la audiencia se dictarán oralmente y quedarán notificadas a las partes en ese mismo acto con la sola lectura, debiendo consignarse en el acta, al menos sucintamente, los fundamentos jurídicos y de hecho del pronunciamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "530",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_530",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el recurso de revocatoria como mecanismo de impugnación inmediato y oral para las resoluciones que no sean sentencia, asegurando celeridad y evitando dilaciones en el desarrollo de la audiencia.",
+    "source_quote": "A excepción de la sentencia, contra las resoluciones dictadas en la audiencia cabrá el recurso de revocatoria, el cual deberá interponerse de forma oral y resolverse de esa misma forma, de inmediato.",
+    "item_index": 2
+  }
+]

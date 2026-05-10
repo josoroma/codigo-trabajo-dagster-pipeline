@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 564 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 564 regula el contrato de cuota litis en materia laboral. Dispone que, como regla general, este contrato se rige por las normas del procedimiento civil. Sin embargo, cuando la parte trabajadora es quien contrata al abogado, se establece un límite máximo de honorarios: estos no pueden superar el 25% del beneficio económico que se obtenga en la sentencia.",
+    "source_quote": "los honorarios que deba pagar a su abogado o abogada no podrán ser superiores en ningún caso al veinticinco por ciento (25%) del beneficio económico que se adquiera en la sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "564",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_564"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "564",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_564",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normativa rige el contrato de cuota litis en materia laboral?",
+    "output": "Las disposiciones del procedimiento civil.",
+    "source_quote": "El contrato de cuota litis en materia laboral se regirá por las disposiciones del procedimiento civil.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "564",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_564",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de honorarios que puede cobrar un abogado a la parte trabajadora en un contrato de cuota litis laboral?",
+    "output": "El 25% del beneficio económico que se adquiera en la sentencia.",
+    "source_quote": "los honorarios que deba pagar a su abogado o abogada no podrán ser superiores en ningún caso al veinticinco por ciento (25%) del beneficio económico que se adquiera en la sentencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "564",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_564",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la remisión normativa general para los contratos de cuota litis en el ámbito laboral, indicando que se aplican las reglas del procedimiento civil.",
+    "source_quote": "El contrato de cuota litis en materia laboral se regirá por las disposiciones del procedimiento civil.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "564",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_564",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción protectora para la parte trabajadora, limitando el porcentaje máximo de honorarios que puede pactarse en un contrato de cuota litis, con el fin de evitar abusos y garantizar que el trabajador reciba una parte sustancial del beneficio obtenido.",
+    "source_quote": "Sin embargo, tratándose de la parte trabajadora, los honorarios que deba pagar a su abogado o abogada no podrán ser superiores en ningún caso al veinticinco por ciento (25%) del beneficio económico que se adquiera en la sentencia.",
+    "item_index": 2
+  }
+]

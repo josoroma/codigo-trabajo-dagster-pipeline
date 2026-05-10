@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 326 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 326 del Código de Trabajo fue derogado por el artículo 4° de la Ley N° 9343 del 25 de enero de 2016, denominada 'Reforma Procesal Laboral'. Esto significa que el artículo ha sido eliminado del texto legal y ya no tiene vigencia ni contenido normativo.",
+    "source_quote": "ARTICULO 326.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "326",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_326"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "326",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_326",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 326 del Código de Trabajo?",
+    "output": "El artículo 326 está derogado, es decir, no se encuentra vigente.",
+    "source_quote": "ARTICULO 326.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "326",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_326",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ley derogó el artículo 326 del Código de Trabajo?",
+    "output": "Fue derogado por el artículo 4° de la Ley N° 9343 del 25 de enero de 2016, conocida como Reforma Procesal Laboral.",
+    "source_quote": "ARTICULO 326.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "326",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_326",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "El propósito de esta disposición es informar que el artículo 326 ha sido derogado, es decir, eliminado del ordenamiento jurídico, mediante una reforma procesal laboral. La cita identifica la ley derogatoria y su fecha, lo que permite rastrear la modificación legislativa y confirma que el artículo carece de efectos legales actuales.",
+    "source_quote": "ARTICULO 326.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  }
+]

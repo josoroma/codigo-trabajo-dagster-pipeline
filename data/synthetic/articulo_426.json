@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 426 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 426 establece que los jueces no deben usar formalidades exageradas, abusivas o innecesarias en los procesos laborales. Señala como ejemplos de estas prácticas contrarias a la justicia laboral el decretar nulidades en exceso, no aplicar el principio de saneamiento y conservación del proceso cuando corresponde, hacer prevenciones repetidas que pudieron resolverse en un solo acto, dar traslados no autorizados por la ley, priorizar normas procesales sobre las de fondo o aplicar formalidades de manera inadecuada, así como cualquier otra práctica procesal abusiva.",
+    "source_quote": "Se consideran contrarias al sistema de administración de justicia laboral la utilización por parte de los juzgadores de formalidades exageradas, abusivas e innecesarias.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "426",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_426"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "426",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_426",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de formalidades se consideran contrarias al sistema de administración de justicia laboral según el artículo 426?",
+    "output": "Las formalidades exageradas, abusivas e innecesarias.",
+    "source_quote": "Se consideran contrarias al sistema de administración de justicia laboral la utilización por parte de los juzgadores de formalidades exageradas, abusivas e innecesarias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "426",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_426",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Mencione al menos tres ejemplos de prácticas que el artículo 426 considera contrarias a la justicia laboral.",
+    "output": "El decreto excesivo de nulidades, la falta de aplicación del principio de saneamiento y conservación del proceso cuando proceda, y la disposición reiterada de prevenciones que debieron hacerse en una sola resolución.",
+    "source_quote": "Como tales formalidades, se tendrán el decreto excesivo de nulidades, la falta de aplicación del principio de saneamiento y conservación del proceso, cuando ello fuera procedente; la disposición reiterada de prevenciones que debieron haberse hecho en una sola resolución; el otorgamiento de traslados no previstos en la ley; darles preeminencia a las normas procesales sobre las de fondo o aplicar, inconducentemente, formalidades y en general cualquier práctica procesal abusiva.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "426",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_426",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición general para los jueces de emplear formalismos desmedidos que entorpezcan la justicia laboral, fijando el principio rector del artículo.",
+    "source_quote": "Se consideran contrarias al sistema de administración de justicia laboral la utilización por parte de los juzgadores de formalidades exageradas, abusivas e innecesarias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "426",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_426",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera de manera ejemplificativa las conductas procesales que se consideran abusivas o innecesarias, orientando a los juzgadores sobre qué prácticas deben evitar para garantizar un proceso laboral eficiente y justo.",
+    "source_quote": "Como tales formalidades, se tendrán el decreto excesivo de nulidades, la falta de aplicación del principio de saneamiento y conservación del proceso, cuando ello fuera procedente; la disposición reiterada de prevenciones que debieron haberse hecho en una sola resolución; el otorgamiento de traslados no previstos en la ley; darles preeminencia a las normas procesales sobre las de fondo o aplicar, inconducentemente, formalidades y en general cualquier práctica procesal abusiva.",
+    "item_index": 2
+  }
+]

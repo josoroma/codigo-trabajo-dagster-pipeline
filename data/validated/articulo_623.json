@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 623 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 623 establece que, en los procedimientos de conciliación laboral, el empleador o la empleadora, o bien su representante legal que tenga facultades suficientes para obligarlo, pueden comparecer personalmente sin necesidad de enviar a un delegado. Además, quien comparezca debe comunicar esta decisión al órgano conciliador.",
+    "source_quote": "El empleador, la empleadora o su representante legal con facultades suficientes para obligarlo pueden actuar personalmente y no por medio de delegados, lo cual deberá hacerlo saber al órgano conciliador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "623",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_623"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "623",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_623",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden actuar personalmente en la conciliación según el artículo 623?",
+    "output": "El empleador, la empleadora o su representante legal con facultades suficientes para obligarlo.",
+    "source_quote": "El empleador, la empleadora o su representante legal con facultades suficientes para obligarlo pueden actuar personalmente y no por medio de delegados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "623",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_623",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer quien actúe personalmente conforme al artículo 623?",
+    "output": "Debe hacerlo saber al órgano conciliador.",
+    "source_quote": "lo cual deberá hacerlo saber al órgano conciliador",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "623",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_623",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte otorga la facultad al empleador o a su representante legal con poder suficiente para comparecer directamente en la conciliación, evitando la intermediación de delegados, lo que agiliza el proceso y asegura una representación con plena capacidad de decisión.",
+    "source_quote": "El empleador, la empleadora o su representante legal con facultades suficientes para obligarlo pueden actuar personalmente y no por medio de delegados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "623",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_623",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte impone la obligación de comunicar al órgano conciliador la decisión de actuar personalmente, garantizando la transparencia y el conocimiento formal de quién ejerce la representación en el procedimiento.",
+    "source_quote": "lo cual deberá hacerlo saber al órgano conciliador",
+    "item_index": 2
+  }
+]

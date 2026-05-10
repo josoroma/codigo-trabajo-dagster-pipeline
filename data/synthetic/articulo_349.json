@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 349 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 349 enumera las obligaciones de los sindicatos: llevar libros de actas, socios y contabilidad autorizados por la Oficina de Sindicatos; suministrar informes a las autoridades laborales sobre su actuación sindical; comunicar cambios en la Junta Directiva dentro de diez días; enviar anualmente una nómina de miembros y una dirección electrónica para notificaciones, con consecuencias por incumplimiento; e iniciar trámites de aprobación de reformas estatutarias en quince días. Incluye un transitorio para el cumplimiento del inciso d).",
+    "source_quote": "Los sindicatos están obligados: a. A llevar libros de actas, de socios y de contabilidad debidamente sellados y autorizados por la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "349",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_349"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "349",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_349",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué libros deben llevar los sindicatos según el artículo 349?",
+    "output": "Libros de actas, de socios y de contabilidad, debidamente sellados y autorizados por la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "a. A llevar libros de actas, de socios y de contabilidad debidamente sellados y autorizados por la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "349",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_349",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para comunicar los cambios en la Junta Directiva de un sindicato?",
+    "output": "Dentro de los diez días siguientes a su elección.",
+    "source_quote": "c. A comunicar a la Inspección General de Trabajo, dentro de los diez días siguientes a su elección, los cambios ocurridos en su Junta Directiva",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "349",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_349",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la obligación de documentar la actividad sindical mediante libros oficiales, garantizando transparencia y control estatal.",
+    "source_quote": "a. A llevar libros de actas, de socios y de contabilidad debidamente sellados y autorizados por la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "349",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_349",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regular la comunicación oficial con el sindicato, imponiendo la carga de mantener actualizado un medio electrónico y sancionando su omisión con la notificación automática.",
+    "source_quote": "d. A enviar cada año, al mismo Departamento, una nómina completa de sus miembros y señalar un medio electrónico para atender notificaciones. Dicha dirección electrónica debe estar debidamente registrada y actualizada ante el Ministerio de Trabajo y será utilizada exclusivamente para recibir notificaciones en los trámites de calificación de movimientos huelguísticos regulados en este Código y para los efectos del trámite del artículo 375 bis de este Código. El Ministerio de Trabajo brindará acceso público y en línea a la lista de medios electrónicos establecidos por cada una de las organizaciones sindicales registradas. En caso de incumplimiento de este requisito, las resoluciones que se dicten se tendrán por notificadas de forma automática.",
+    "item_index": 2
+  }
+]

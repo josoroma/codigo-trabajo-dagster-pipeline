@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 663 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 663 regula el procedimiento judicial para la calificación de una huelga. Establece que, presentada la solicitud, el juez de trabajo tiene un plazo improrrogable de 24 horas para resolver. Si la solicitud está incompleta, se ordena subsanarla en 24 horas bajo apercibimiento de inadmisibilidad. Una vez en forma, el juez dicta una resolución en 24 horas que incluye: admitir el proceso, notificar a los contradictores (sindicatos, coaliciones de trabajadores y empleadores), intimar a la parte contraria con los hechos y fundamentos de la ilegalidad, dar 24 horas para alegar, requerir el pliego de peticiones en conflictos económicos, y convocar a una audiencia oral sumarísima y privada en 72 horas. La audiencia tiene una fase preliminar donde se informa a las partes, se aclaran proposiciones, se resuelven vicios procesales y se admiten o rechazan pruebas.",
+    "source_quote": "Presentada la solicitud de calificación de huelga, el juez de trabajo correspondiente tendrá un plazo improrrogable de veinticuatro horas para resolver la solicitud.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "663",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_663"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "663",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_663",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo que tiene el juez para resolver la solicitud de calificación de huelga?",
+    "output": "El juez tiene un plazo improrrogable de veinticuatro horas para resolver la solicitud.",
+    "source_quote": "el juez de trabajo correspondiente tendrá un plazo improrrogable de veinticuatro horas para resolver la solicitud.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "663",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_663",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la solicitud de calificación de huelga no está en forma?",
+    "output": "Se previene la subsanación en un plazo de veinticuatro horas, bajo apercibimiento de declarar la inadmisibilidad de la gestión.",
+    "source_quote": "Si la solicitud no estuviera en forma, se prevendrá la subsanación en un plazo de veinticuatro horas, bajo el apercibimiento de declarar la inadmisibilidad de la gestión.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "663",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_663",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la celeridad y el carácter perentorio del trámite, fijando un plazo breve e improrrogable para que el juez actúe, garantizando una respuesta judicial rápida en conflictos de huelga.",
+    "source_quote": "Presentada la solicitud de calificación de huelga, el juez de trabajo correspondiente tendrá un plazo improrrogable de veinticuatro horas para resolver la solicitud.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "663",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_663",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la estructura de la audiencia para asegurar un orden procesal que permita resolver primero las cuestiones preliminares y luego el fondo, optimizando el debate y la decisión judicial.",
+    "source_quote": "La audiencia oral sumarísima se desarrollará en dos fases: la fase preliminar y la fase complementaria.",
+    "item_index": 2
+  }
+]

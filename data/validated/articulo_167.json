@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 167 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 167 establece que para fijar el salario se debe considerar la cantidad y calidad del trabajo realizado. Además, consagra el principio de igualdad salarial: si el trabajo es igual, se realiza en el mismo puesto, con la misma jornada y en condiciones de eficiencia iguales, el salario debe ser igual, incluyendo pagos diarios, beneficios como habitación u otros bienes. Finalmente, prohíbe cualquier diferencia salarial basada en edad, sexo o nacionalidad.",
+    "source_quote": "A trabajo igual, desempeñado en puesto, jornada y condiciones de eficiencia iguales, corresponde salario igual, comprendido en este tanto los pagos por cuota diaria, cuanto las percepciones, servicios como el de habitación y cualquier otro bien que se diere a un trabajador a cambio de su labor ordinaria;",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "167",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_167"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "167",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_167",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué criterios se deben considerar para fijar el salario según el artículo 167?",
+    "output": "La cantidad y calidad del trabajo.",
+    "source_quote": "Para fijar el importe del salario en cada clase de trabajo se tendrán en cuenta la cantidad y calidad del mismo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "167",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_167",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Por qué motivos no se pueden establecer diferencias salariales de acuerdo con este artículo?",
+    "output": "Por consideración a edad, sexo o nacionalidad.",
+    "source_quote": "No podrán establecerse diferencias por consideración a edad, sexo o nacionalidad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "167",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_167",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los factores objetivos que deben guiar la determinación del salario, vinculándolo al rendimiento y la naturaleza de la labor, para evitar fijaciones arbitrarias.",
+    "source_quote": "Para fijar el importe del salario en cada clase de trabajo se tendrán en cuenta la cantidad y calidad del mismo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "167",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_167",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra la prohibición absoluta de discriminación salarial por motivos personales, garantizando la igualdad de trato en la remuneración sin importar esas características.",
+    "source_quote": "No podrán establecerse diferencias por consideración a edad, sexo o nacionalidad.",
+    "item_index": 2
+  }
+]

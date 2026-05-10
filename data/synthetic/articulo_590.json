@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 590 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 590 regula los requisitos formales de los recursos de apelación y casación en materia laboral. Exige que el escrito de apelación contenga razones claras y precisas para la revocatoria, incluyendo alegaciones de nulidad, bajo pena de inadmisibilidad. Para la casación, se deben puntualizar los motivos de violación del ordenamiento jurídico, primero los formales y luego los sustanciales. No es obligatorio citar las normas violadas, y los errores en su mención no causan inadmisibilidad. Si existe apelación reservada, debe mantenerse el agravio. Los motivos del recurso no pueden modificarse ni ampliarse, y delimitan la competencia del tribunal superior.",
+    "source_quote": "El escrito en que se interponga el recurso de apelación deberá contener, bajo pena de ser declarado inadmisible, las razones claras y precisas que ameritan la revocatoria del pronunciamiento, incluidas las alegaciones de nulidad concomitante que se estimen de interés.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "590",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_590"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "590",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_590",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe contener el escrito de apelación para no ser declarado inadmisible?",
+    "output": "Debe contener las razones claras y precisas que ameritan la revocatoria del pronunciamiento, incluidas las alegaciones de nulidad concomitante que se estimen de interés.",
+    "source_quote": "El escrito en que se interponga el recurso de apelación deberá contener, bajo pena de ser declarado inadmisible, las razones claras y precisas que ameritan la revocatoria del pronunciamiento, incluidas las alegaciones de nulidad concomitante que se estimen de interés.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "590",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_590",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es obligatorio citar las normas jurídicas violadas en el recurso de casación?",
+    "output": "No, en ningún caso será necesario citar las normas jurídicas que se consideran violadas, pero la reclamación debe ser clara en las razones por las cuales la parte se considera afectada.",
+    "source_quote": "En ningún caso será necesario citar las normas jurídicas que se consideran violadas, pero la reclamación debe ser clara en las razones por las cuales la parte se considera afectada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "590",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_590",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el contenido mínimo del recurso de apelación y la consecuencia de su incumplimiento (inadmisibilidad), garantizando que el recurso se fundamente adecuadamente y evitando impugnaciones infundadas.",
+    "source_quote": "El escrito en que se interponga el recurso de apelación deberá contener, bajo pena de ser declarado inadmisible, las razones claras y precisas que ameritan la revocatoria del pronunciamiento, incluidas las alegaciones de nulidad concomitante que se estimen de interés.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "590",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_590",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija la inmutabilidad de los motivos del recurso, lo que asegura la delimitación del objeto del debate y la competencia del tribunal de alzada, evitando sorpresas procesales y garantizando el principio de congruencia.",
+    "source_quote": "Los motivos del recurso no podrán modificarse o ampliarse y delimitarán el debate a su respecto y la competencia del órgano de alzada para resolver.",
+    "item_index": 2
+  }
+]

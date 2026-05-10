@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 471 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 471 enumera las causas por las cuales las actuaciones procesales pueden ser declaradas nulas en el proceso laboral. Estas incluyen falta de competencia, integración indebida del tribunal, impedimentos, incapacidad procesal, defectos de notificación que causen indefensión, impedir la intervención de las partes, violación de inmediación, actuar contra normas prohibitivas, impedir el acceso a la justicia o defensa, y otros casos previstos en la ley.",
+    "source_quote": "Procederá la nulidad:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "471",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_471"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "471",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_471",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos procede la nulidad de las actuaciones realizadas por quien no tiene competencia?",
+    "output": "Procede cuando la ley no le confiera competencia y no haya posibilidad de prórroga, o porque la potestad jurisdiccional le esté suspendida o se haya extinguido de acuerdo con la ley, o bien, porque se haya declarado con lugar una recusación contra quien emitió el acto o participó en él.",
+    "source_quote": "1) De las actuaciones realizadas por quien no tiene competencia para llevarlas a cabo, porque la ley no se la confiera y no haya posibilidad de prórroga, o porque la potestad jurisdiccional le esté suspendida o se haya extinguido de acuerdo con la ley, o bien, porque se haya declarado con lugar una recusación contra quien emitió el acto o participó en él.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "471",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_471",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo procede la nulidad por falta de emplazamiento o notificación defectuosa?",
+    "output": "Procede cuando la falta de emplazamiento o la notificación defectuosa produzca indefensión a las partes o intervinientes procesales, así como por falta de citación para actividades que impliquen indefensión u omisión de traslados para probanzas y alegatos.",
+    "source_quote": "5) Por la falta del emplazamiento, notificación defectuosa que produzca indefensión a las partes o intervinientes procesales, falta de citación a la parte para alguna actividad procesal que implique indefensión, omisión de traslados para referirse a probanzas y formular, cuando ello esté previsto, alegatos de conclusiones o de expresión de agravios.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "471",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_471",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la nulidad por incompetencia del funcionario, ya sea por falta de atribución legal, suspensión o extinción de la potestad, o por recusación aceptada, garantizando que solo quien tiene jurisdicción válida pueda actuar.",
+    "source_quote": "1) De las actuaciones realizadas por quien no tiene competencia para llevarlas a cabo, porque la ley no se la confiera y no haya posibilidad de prórroga, o porque la potestad jurisdiccional le esté suspendida o se haya extinguido de acuerdo con la ley, o bien, porque se haya declarado con lugar una recusación contra quien emitió el acto o participó en él.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "471",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_471",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra la nulidad como remedio ante la violación de garantías fundamentales del proceso, protegiendo el acceso a la justicia, el derecho de defensa y el debido proceso como pilares del ordenamiento procesal laboral.",
+    "source_quote": "9) Cuando de alguna manera se ha impedido el acceso a la justicia o al derecho de defensa, o se ha incurrido en la violación del debido proceso.",
+    "item_index": 2
+  }
+]

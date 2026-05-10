@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 676 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 676 establece que cuando una organización social o una persona jurídica comete una infracción contra las leyes laborales o de seguridad social, será citada al proceso por medio de sus representantes. Estas entidades son consideradas responsables directas de las faltas cometidas y, además, pueden ser declaradas responsables solidarias de las consecuencias económicas que resulten del proceso, conforme a lo dispuesto en el artículo 399.",
+    "source_quote": "Las organizaciones sociales y, en general, las personas jurídicas a cuyo nombre se realizó la actuación reputada como infractora de las leyes de trabajo y seguridad social serán citadas, por medio de sus representantes, como responsables directas de las faltas y eventuales responsables solidarias de las resultas económicas del proceso, en los términos señalados en el artículo 399.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "676",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_676"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "676",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_676",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son citados como responsables directos de las faltas según el artículo 676?",
+    "output": "Las organizaciones sociales y las personas jurídicas a cuyo nombre se realizó la actuación reputada como infractora de las leyes de trabajo y seguridad social.",
+    "source_quote": "Las organizaciones sociales y, en general, las personas jurídicas a cuyo nombre se realizó la actuación reputada como infractora de las leyes de trabajo y seguridad social serán citadas, por medio de sus representantes, como responsables directas de las faltas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "676",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_676",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De qué manera son citadas estas entidades al proceso?",
+    "output": "Son citadas por medio de sus representantes.",
+    "source_quote": "serán citadas, por medio de sus representantes",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "676",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_676",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica a los sujetos que deben ser citados (organizaciones sociales y personas jurídicas) y establece su responsabilidad directa por las infracciones cometidas, indicando que la citación se hará a través de sus representantes.",
+    "source_quote": "Las organizaciones sociales y, en general, las personas jurídicas a cuyo nombre se realizó la actuación reputada como infractora de las leyes de trabajo y seguridad social serán citadas, por medio de sus representantes, como responsables directas de las faltas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "676",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_676",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que estas entidades pueden ser consideradas responsables solidarias de las consecuencias económicas derivadas del proceso, y remite al artículo 399 para regular los alcances y condiciones de dicha responsabilidad solidaria.",
+    "source_quote": "eventuales responsables solidarias de las resultas económicas del proceso, en los términos señalados en el artículo 399.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 233 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 233 establece que un trabajador que abandone la asistencia médica o de rehabilitación, o se niegue sin causa justificada a seguir las prescripciones médicas, pierde el derecho a las prestaciones del Código, excepto la del inciso c) del artículo 218. Para aplicar esta sanción, el Instituto asegurador debe primero advertirle administrativamente sobre las consecuencias. Si el trabajador persiste, el Instituto avisa a un juez de trabajo, quien notifica al trabajador para que manifieste su voluntad de someterse al tratamiento o exponga sus motivos. El juez puede solicitar la intervención del Departamento de Medicina Legal o del Consejo Médico Forense para determinar la asistencia requerida. Si el trabajador no comparece sin causa justificada en diez días hábiles, el juez absuelve al ente asegurador de responsabilidad sobre las prestaciones, y el trabajador no podrá reclamarlas después. En caso contrario, el juez obliga al ente asegurador a suministrar la asistencia determinada.",
+    "source_quote": "El trabajador que hiciere abandono de la asistencia médico-sanitaria o de rehabilitación que se le otorga, o que se negare, sin causa justificada, a seguir las prescripciones médicas, perderá el derecho a las prestaciones que dispone este Código, salvo el contemplado en el inciso c) del artículo 218.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "233",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_233"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "233",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_233",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia principal tiene para el trabajador el abandono injustificado de la asistencia médica o la negativa a seguir prescripciones médicas según el artículo 233?",
+    "output": "Pierde el derecho a las prestaciones que dispone el Código de Trabajo, salvo la prestación contemplada en el inciso c) del artículo 218.",
+    "source_quote": "El trabajador que hiciere abandono de la asistencia médico-sanitaria o de rehabilitación que se le otorga, o que se negare, sin causa justificada, a seguir las prescripciones médicas, perderá el derecho a las prestaciones que dispone este Código, salvo el contemplado en el inciso c) del artículo 218.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "233",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_233",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el Instituto asegurador antes de dar aviso al juez de trabajo sobre el abandono del trabajador?",
+    "output": "Debe imponer administrativamente al trabajador acerca de las posibles consecuencias legales y perjudiciales que podría ocasionarle esa conducta.",
+    "source_quote": "El Instituto asegurador, administrativamente, impondrá al trabajador acerca de las posibles consecuencias legales y perjudiciales que podría ocasionarle esa conducta, en detrimento de su propia salud y situación jurídica.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "233",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_233",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la sanción principal por incumplimiento del trabajador: la pérdida de las prestaciones, exceptuando una específica, para desincentivar el abandono del tratamiento.",
+    "source_quote": "El trabajador que hiciere abandono de la asistencia médico-sanitaria o de rehabilitación que se le otorga, o que se negare, sin causa justificada, a seguir las prescripciones médicas, perderá el derecho a las prestaciones que dispone este Código, salvo el contemplado en el inciso c) del artículo 218.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "233",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_233",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el plazo y las condiciones para que el juez libere definitivamente al ente asegurador de responsabilidad, garantizando el debido proceso y la oportunidad del trabajador de defenderse.",
+    "source_quote": "En caso de que el trabajador no compareciera sin causa justificada, ante el juzgado de trabajo, dentro de diez días hábiles contados a partir de la notificación a que se refiere el párrafo anterior, o ante el Organismo de Investigación Judicial, dentro del mismo término, una vez avisado por éste por dos veces, el juzgado, en fallo razonado, absolverá al ente asegurador de toda responsabilidad en cuanto a las prestaciones a que se refiere este Código, sin que pueda luego el trabajador invocar al Instituto su suministro o el costo de las mismas.",
+    "item_index": 2
+  }
+]

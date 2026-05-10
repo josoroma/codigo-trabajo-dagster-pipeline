@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 156 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 156 establece que las vacaciones son absolutamente incompensables, es decir, no pueden pagarse en dinero en lugar de otorgar el descanso, salvo tres excepciones: cuando el trabajador cesa en su trabajo, cuando el trabajo es ocasional o a destajo, y cuando por circunstancia justificada se puede compensar el exceso del mínimo de dos semanas por cada cincuenta semanas laboradas, hasta un máximo de tres períodos acumulados, siempre que no se haya recibido ese beneficio en los dos años anteriores. Además, obliga al patrono a velar por el goce anual de las vacaciones y respeta los derechos adquiridos.",
+    "source_quote": "Las vacaciones serán absolutamente incompensables, salvo las siguientes excepciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "156",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_156"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "156",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_156",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se permite la compensación de vacaciones según el artículo 156?",
+    "output": "Se permite en tres casos: cuando el trabajador cesa en su trabajo por cualquier causa, cuando el trabajo es ocasional o a destajo, y cuando por circunstancia justificada el trabajador no ha disfrutado sus vacaciones y conviene con el patrono el pago del exceso del mínimo de dos semanas por cada cincuenta semanas, sin superar tres períodos acumulados y no habiendo recibido este beneficio en los dos años anteriores.",
+    "source_quote": "a) Cuando el trabajador cese en su trabajo por cualquier causa, tendrá derecho a recibir en dinero el importe correspondiente por las vacaciones no disfrutadas. b) Cuando el trabajo sea ocasional o a destajo. c) Cuando por alguna circunstancia justificada el trabajador no haya disfrutado de sus vacaciones, podrá convenir con el patrono el pago del exceso del mínimo de dos semanas de vacaciones por cada cincuenta semanas, siempre que no supere el equivalente a tres períodos acumulados. Esta compensación no podrá otorgarse, si el trabajador ha recibido este beneficio en los dos años anteriores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "156",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_156",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite para la compensación de vacaciones en el caso de circunstancia justificada?",
+    "output": "El límite es el pago del exceso del mínimo de dos semanas de vacaciones por cada cincuenta semanas laboradas, sin superar el equivalente a tres períodos acumulados, y no se puede otorgar si el trabajador ha recibido este beneficio en los dos años anteriores.",
+    "source_quote": "podrá convenir con el patrono el pago del exceso del mínimo de dos semanas de vacaciones por cada cincuenta semanas, siempre que no supere el equivalente a tres períodos acumulados. Esta compensación no podrá otorgarse, si el trabajador ha recibido este beneficio en los dos años anteriores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "156",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_156",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que las vacaciones no pueden ser sustituidas por dinero, protegiendo el derecho al descanso, y anuncia las excepciones taxativas que permiten la compensación en circunstancias específicas.",
+    "source_quote": "Las vacaciones serán absolutamente incompensables, salvo las siguientes excepciones:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "156",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_156",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono la obligación de garantizar que los trabajadores disfruten efectivamente de sus vacaciones cada año, reforzando la naturaleza irrenunciable del descanso, y protege los derechos ya consolidados, evitando que las excepciones menoscaben el disfrute regular de las vacaciones.",
+    "source_quote": "Sin perjuicio de lo establecido en los incisos anteriores, el patrono velará porque sus empleados gocen de las vacaciones a las cuales tengan derecho anualmente. En todo caso, se respetarán los derechos adquiridos en materia de vacaciones.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 556 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 556 establece que, una vez presentada correctamente una solicitud, el juez ordena de inmediato al empleador, según lo reclamado, que reponga al trabajador en su puesto, lo reubique conforme a una recomendación médica o le pague las prestaciones legales, todo en un plazo de ocho días. Además, en esa misma resolución se le advierte al empleador que dentro de ese mismo plazo puede oponerse a la pretensión y presentar pruebas.",
+    "source_quote": "Presentada en debida forma la solicitud, de inmediato se le ordenará a la parte empleadora, de acuerdo con la prestación deducida, reponer a la persona a su puesto de trabajo, reubicarlo en los términos de la recomendación médica o pagarle las prestaciones legales, lo que deberá hacer dentro del término de ocho días. En la misma resolución se advertirá a esa parte que dentro de ese mismo lapso puede objetar la pretensión y ofrecer, en tal caso, las pruebas que sean de su interés.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "556",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_556"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "556",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_556",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe ordenar el juez de inmediato al empleador cuando se presenta una solicitud en debida forma?",
+    "output": "Ordenar reponer al trabajador en su puesto, reubicarlo según recomendación médica o pagar las prestaciones legales, según la prestación deducida.",
+    "source_quote": "de inmediato se le ordenará a la parte empleadora, de acuerdo con la prestación deducida, reponer a la persona a su puesto de trabajo, reubicarlo en los términos de la recomendación médica o pagarle las prestaciones legales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "556",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_556",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe cumplir el empleador la orden y qué puede hacer en ese mismo lapso?",
+    "output": "Debe cumplir dentro de ocho días, y en ese mismo plazo puede objetar la pretensión y ofrecer pruebas.",
+    "source_quote": "lo que deberá hacer dentro del término de ocho días. En la misma resolución se advertirá a esa parte que dentro de ese mismo lapso puede objetar la pretensión y ofrecer, en tal caso, las pruebas que sean de su interés.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "556",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_556",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del juez de dictar una orden inmediata al empleador, detallando las tres posibles medidas según la pretensión del trabajador y fijando un plazo perentorio de ocho días para su cumplimiento.",
+    "source_quote": "Presentada en debida forma la solicitud, de inmediato se le ordenará a la parte empleadora, de acuerdo con la prestación deducida, reponer a la persona a su puesto de trabajo, reubicarlo en los términos de la recomendación médica o pagarle las prestaciones legales, lo que deberá hacer dentro del término de ocho días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "556",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_556",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho de defensa del empleador al permitirle, dentro del mismo plazo de ocho días, oponerse a la solicitud y presentar las pruebas que considere pertinentes, todo en la misma resolución inicial.",
+    "source_quote": "En la misma resolución se advertirá a esa parte que dentro de ese mismo lapso puede objetar la pretensión y ofrecer, en tal caso, las pruebas que sean de su interés.",
+    "item_index": 2
+  }
+]

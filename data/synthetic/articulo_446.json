@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 446 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 446 regula la legitimación de los sindicatos para actuar en defensa de sus intereses. Les reconoce capacidad para proteger sus propios intereses económicos y sociales. Para defender derechos individuales de sus afiliados, necesitan un poder suficiente. En cambio, para reclamar derechos colectivos no requieren ningún poder. Cuando se admite una demanda colectiva, se convoca a todos los interesados mediante un edicto en el Boletín Judicial y un aviso en un lugar público de la zona o sector, y el plazo de emplazamiento corre desde el día hábil siguiente a la publicación o notificación.",
+    "source_quote": "Los sindicatos tendrán legitimación para la defensa de los intereses económicos y sociales que les son propios. Para ejercer derechos subjetivos de sus afiliados es indispensable el otorgamiento de poder suficiente. Para demandar la tutela de derechos colectivos jurídicos no requieren poder alguno.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "446",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_446"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "446",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_446",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos un sindicato necesita un poder suficiente para actuar en nombre de sus afiliados?",
+    "output": "Necesita poder suficiente para ejercer derechos subjetivos de sus afiliados.",
+    "source_quote": "Para ejercer derechos subjetivos de sus afiliados es indispensable el otorgamiento de poder suficiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "446",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_446",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se notifica a los interesados en un proceso sobre derechos colectivos según este artículo?",
+    "output": "Se les llama mediante un edicto publicado en el Boletín Judicial y, al mismo tiempo, se coloca al menos un aviso en un lugar público y visible de la zona o sector involucrado.",
+    "source_quote": "Admitida la demanda para su trámite, se llamará al proceso a todo aquel que tenga interés en él ... mediante edicto que se publicará en el Boletín Judicial. ... se colocará por lo menos un aviso en un lugar público y visible de la zona o del sector involucrado",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "446",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_446",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la capacidad legal de los sindicatos para actuar en protección de sus intereses colectivos de naturaleza económica y social, sin necesidad de autorización adicional.",
+    "source_quote": "Los sindicatos tendrán legitimación para la defensa de los intereses económicos y sociales que les son propios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "446",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_446",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Facilita el acceso a la justicia para la defensa de derechos colectivos, eliminando la exigencia de un mandato individual de los afiliados, lo que agiliza la acción sindical.",
+    "source_quote": "Para demandar la tutela de derechos colectivos jurídicos no requieren poder alguno.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 380 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que una huelga legal suspende los contratos de trabajo vigentes en el lugar donde se declara, durante todo el tiempo que dure. Si la huelga solo afecta a un departamento, sección o categoría específica de trabajadores, la suspensión se limita únicamente a esos trabajadores.",
+    "source_quote": "La huelga legal suspende los contratos de trabajo vigentes en los establecimientos, negocios, departamentos o centros de trabajo en que esta se declare, por todo el tiempo que ella dure.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "380",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_380"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "380",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_380",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene una huelga legal sobre los contratos de trabajo vigentes?",
+    "output": "Los suspende por todo el tiempo que dure la huelga.",
+    "source_quote": "La huelga legal suspende los contratos de trabajo vigentes en los establecimientos, negocios, departamentos o centros de trabajo en que esta se declare, por todo el tiempo que ella dure.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "380",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_380",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Si una huelga se declara solo en un departamento específico de una empresa, ¿a quiénes afecta la suspensión de contratos?",
+    "output": "La suspensión opera únicamente respecto a los trabajadores de ese departamento, sección o categoría específica.",
+    "source_quote": "En los casos en que la huelga no se haya declarado en la totalidad del centro, sino en uno de los departamentos, secciones o categoría de trabajadores específicos, la suspensión operará únicamente respecto a estos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "380",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_380",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la regla general: la huelga legal produce la suspensión automática de los contratos de trabajo en el ámbito donde se declara, durante toda su duración, sin extinguir la relación laboral.",
+    "source_quote": "La huelga legal suspende los contratos de trabajo vigentes en los establecimientos, negocios, departamentos o centros de trabajo en que esta se declare, por todo el tiempo que ella dure.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "380",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_380",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción para huelgas parciales, limitando el efecto suspensivo exclusivamente a los trabajadores del departamento, sección o categoría involucrada, evitando afectar a quienes no participan en el conflicto.",
+    "source_quote": "En los casos en que la huelga no se haya declarado en la totalidad del centro, sino en uno de los departamentos, secciones o categoría de trabajadores específicos, la suspensión operará únicamente respecto a estos.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 232 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 232 establece que si un trabajador no asegurado sufre un riesgo laboral y acude a un centro de salud público o privado, tiene derecho a recibir de inmediato los servicios médicos y de rehabilitación necesarios. El patrono puede nombrar un médico para controlar el tratamiento. Las instituciones que brindan la asistencia cobrarán el costo al patrono para quien el trabajador laboraba al ocurrir el riesgo. Para el cobro, ciertas certificaciones constituyen título ejecutivo, y el Instituto Nacional de Seguros sigue el mismo procedimiento para cobrar sumas adeudadas por el régimen de riesgos del trabajo.",
+    "source_quote": "Cuando un trabajador que no esté asegurado sufra un riesgo del trabajo, y acuda al Instituto Nacional de Seguros, o a cualquier hospital, clínica o centro de salud, público o privado, en demanda de las prestaciones médico-sanitarias y de rehabilitación que establece este Título, tendrá derecho a que se le suministren de inmediato los servicios que su caso requiera.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "232",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_232"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "232",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_232",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho tiene un trabajador no asegurado que sufre un riesgo del trabajo y acude a un centro de salud?",
+    "output": "Tiene derecho a que se le suministren de inmediato los servicios médicos y de rehabilitación que su caso requiera.",
+    "source_quote": "tendrá derecho a que se le suministren de inmediato los servicios que su caso requiera.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "232",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_232",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume el costo de la asistencia médica brindada a un trabajador no asegurado por un riesgo laboral?",
+    "output": "El costo lo asume el patrono para el cual el trabajador prestaba sus servicios al ocurrir el riesgo.",
+    "source_quote": "Las instituciones prestatarias de esa asistencia cobrarán el costo de ésta al patrono, para el cual el trabajador prestaba sus servicios al ocurrir el riesgo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "232",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_232",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar el acceso inmediato a la atención médica y rehabilitación para trabajadores no asegurados que sufren riesgos laborales, sin importar si acuden a instituciones públicas o privadas.",
+    "source_quote": "Cuando un trabajador que no esté asegurado sufra un riesgo del trabajo, y acuda al Instituto Nacional de Seguros, o a cualquier hospital, clínica o centro de salud, público o privado, en demanda de las prestaciones médico-sanitarias y de rehabilitación que establece este Título, tendrá derecho a que se le suministren de inmediato los servicios que su caso requiera.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "232",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_232",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Facilitar el cobro de los costos de asistencia al patrono mediante certificaciones que tienen fuerza de título ejecutivo, agilizando el proceso de recuperación de gastos por parte de las instituciones prestadoras de servicios.",
+    "source_quote": "Para los efectos del cobro, constituirán título ejecutivo, de acuerdo con los términos del artículo 425 del Código de Procedimientos Civiles, las certificaciones expedidas por el Jefe del Departamento de Riesgos de Trabajo del Instituto Nacional de Seguros, por la Subgerencia Médica de la Caja Costarricense de Seguro Social, o por directores de las instituciones privadas.",
+    "item_index": 2
+  }
+]

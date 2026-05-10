@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 9 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo prohíbe que se instalen expendios de bebidas o drogas embriagantes, juegos de azar y prostíbulos en todas las zonas de trabajo. Si la zona de trabajo está fuera de las poblaciones, la prohibición se aplica en un radio de tres kilómetros alrededor de dicha zona. Si la zona de trabajo está dentro de una población, se aplican las leyes respectivas de esa localidad.",
+    "source_quote": "Queda prohibido en todas las zonas de trabajo el establecimiento de expendios de bebidas o drogas embriagantes, de juegos de azar y de prostíbulos. Es entendido que esta prohibición se limita a un radio de tres kilómetros de las zonas de trabajo establecidas fuera de las poblaciones, ya que en cuanto a estas últimas rigen las disposiciones de las leyes respectivas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "9",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_9"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "9",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_9",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de establecimientos están prohibidos en las zonas de trabajo según el artículo 9?",
+    "output": "Están prohibidos los expendios de bebidas o drogas embriagantes, los juegos de azar y los prostíbulos.",
+    "source_quote": "Queda prohibido en todas las zonas de trabajo el establecimiento de expendios de bebidas o drogas embriagantes, de juegos de azar y de prostíbulos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "9",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_9",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el alcance geográfico de la prohibición cuando la zona de trabajo está fuera de las poblaciones?",
+    "output": "La prohibición se limita a un radio de tres kilómetros de las zonas de trabajo establecidas fuera de las poblaciones.",
+    "source_quote": "Es entendido que esta prohibición se limita a un radio de tres kilómetros de las zonas de trabajo establecidas fuera de las poblaciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "9",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_9",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición absoluta de ciertos establecimientos considerados perjudiciales para el ambiente laboral, protegiendo la moral, la seguridad y la productividad en todas las zonas de trabajo.",
+    "source_quote": "Queda prohibido en todas las zonas de trabajo el establecimiento de expendios de bebidas o drogas embriagantes, de juegos de azar y de prostíbulos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "9",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_9",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito territorial de la prohibición para zonas de trabajo rurales o aisladas, y aclara que en zonas urbanas la regulación corresponde a otras leyes, evitando conflictos normativos.",
+    "source_quote": "Es entendido que esta prohibición se limita a un radio de tres kilómetros de las zonas de trabajo establecidas fuera de las poblaciones, ya que en cuanto a estas últimas rigen las disposiciones de las leyes respectivas.",
+    "item_index": 2
+  }
+]

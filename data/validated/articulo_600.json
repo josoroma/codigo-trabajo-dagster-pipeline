@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 600 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 600 regula un recurso de casación especial denominado 'en interés del ordenamiento jurídico', que procede ante la Sala Segunda de la Corte contra sentencias firmes con autoridad de cosa juzgada material que no son recurribles por la vía ordinaria de casación, cuando se considera que violan el ordenamiento jurídico. Puede ser interpuesto en cualquier momento por el procurador general, el contralor general, el defensor de los habitantes, la Dirección Nacional de Inspección General de Trabajo, las confederaciones sindicales inscritas y las uniones de cámaras empresariales acreditadas. El escrito debe contener las razones claras y precisas de la violación y las normas quebrantadas. Se da audiencia a confederaciones sindicales y uniones de cámaras empresariales mediante un aviso único en el Boletín Judicial. La sentencia que se dicte no afecta las situaciones jurídicas derivadas de la recurrida ni las consolidadas; si es estimatoria, solo fija la interpretación correcta del ordenamiento, se publica en La Gaceta y no genera responsabilidad para los tribunales que fallaron de manera distinta.",
+    "source_quote": "Cabrá el recurso de casación en interés del ordenamiento jurídico, ante la Sala Segunda de la Corte, contra sentencias firmes con autoridad de cosa juzgada material no recurribles para ante el órgano de casación, cuando se estimen violatorias del ordenamiento jurídico.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "600",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_600"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "600",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_600",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden interponer el recurso de casación en interés del ordenamiento jurídico según el artículo 600?",
+    "output": "El procurador o procuradora general de la República, el contralor o contralora general de la República, el defensor o defensora de los habitantes, la Dirección Nacional de Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social, las confederaciones sindicales debidamente inscritas en el Departamento de Organizaciones Sociales del Ministerio de Trabajo y Seguridad Social y las uniones de cámaras empresariales que se acrediten ante el proceso.",
+    "source_quote": "El recurso podrá ser interpuesto, en cualquier momento, por el procurador o la procuradora general de la República, el contralor o la contralora general de la República, el defensor o la defensora de los habitantes o la Dirección Nacional de Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social, por las confederaciones sindicales debidamente inscritas en el Departamento de Organizaciones Sociales del Ministerio de Trabajo y Seguridad Social y por las uniones de cámaras empresariales que se acrediten ante el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "600",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_600",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efectos produce una sentencia estimatoria en este recurso?",
+    "output": "No afecta situaciones jurídicas derivadas de la sentencia recurrida ni las consolidadas; se limita a fijar la correcta interpretación y aplicación del ordenamiento jurídico, debe publicarse en una sección especializada del diario oficial La Gaceta y no implica responsabilidad para los tribunales que hayan resuelto de manera distinta.",
+    "source_quote": "La sentencia que se dicte no afectará situaciones jurídicas derivadas de la sentencia recurrida, tampoco afectará situaciones jurídicas consolidadas. Cuando sea estimatoria se limitará a fijar la correcta interpretación y aplicación del ordenamiento jurídico y deberá publicarse en una sección especializada del diario oficial La Gaceta, y no implicará responsabilidad para los tribunales que hayan resuelto de manera distinta.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "600",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_600",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la naturaleza del recurso, el tribunal competente y los presupuestos de procedencia: sentencias firmes con cosa juzgada material que no admiten casación ordinaria y que se consideren contrarias al ordenamiento jurídico.",
+    "source_quote": "Cabrá el recurso de casación en interés del ordenamiento jurídico, ante la Sala Segunda de la Corte, contra sentencias firmes con autoridad de cosa juzgada material no recurribles para ante el órgano de casación, cuando se estimen violatorias del ordenamiento jurídico.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "600",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_600",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos formales del recurso, exigiendo una fundamentación detallada y la identificación expresa de las normas infringidas para garantizar su seriedad y viabilidad.",
+    "source_quote": "El escrito respectivo deberá contener las razones claras y precisas por las cuales se estima que el ordenamiento ha sido violado, así como indicación concreta de las normas jurídicas que se consideran quebrantadas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 517 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 517 regula la fase preliminar del proceso laboral, en la cual se informa a las partes sobre el objeto y orden del proceso, se aclaran y subsanan proposiciones oscuras u omisas, se intenta una conciliación para resolver el conflicto de forma amistosa, y si no se logra, se recibe prueba y se resuelven cuestiones como nulidades, vicios de procedimiento y excepciones previas, pudiendo ordenar correcciones, inadmitir demandas o dar al proceso la orientación que corresponda.",
+    "source_quote": "En la fase preliminar se realizarán las siguientes actuaciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se hace si las proposiciones de las partes son oscuras u omisas respecto de derechos irrenunciables?",
+    "output": "El juzgado ordena su aclaración, ajuste y subsanación, dando la palabra primero a la parte actora y después a la demandada para que manifiesten lo que sea de su interés.",
+    "source_quote": "Aclaración, ajuste y subsanación de las proposiciones de las partes, cuando a criterio del juzgado sean oscuras, imprecisas u omisas respecto de derechos irrenunciables, tanto en extremos principales o accesorios... se le dará al respecto la palabra primero a la parte actora y después a la demandada, para que manifiesten lo que sea de su interés.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe dirigir preferentemente la conciliación durante la fase preliminar?",
+    "output": "Preferentemente un conciliador judicial, si existe y está disponible en el juzgado o circuito judicial; en su defecto, la dirige otro juez del mismo despacho o quien esté juzgando el caso.",
+    "source_quote": "La conciliación estará a cargo preferentemente de un conciliador judicial, si lo existiera en el juzgado o en el respectivo circuito judicial y estuviera disponible... De no haberlo, la conciliación la dirigirá otro juez del mismo despacho o por quien esté juzgado el caso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si durante la fase preliminar se detectan vicios u omisiones en el proceso?",
+    "output": "En un único pronunciamiento se ordenan las correcciones, nulidades y reposiciones necesarias; si se trata de requisitos omitidos, se ordena subsanarlos en el mismo acto o se concede un plazo prudencial, y si no se cumple, se dispone la inadmisibilidad de la demanda y el archivo del expediente.",
+    "source_quote": "De existir vicios u omisiones, en un único pronunciamiento ordenará las correcciones, nulidades y reposiciones que sean necesarias. Cuando se trate del cumplimiento de requisitos o formalidades omitidas, se ordenará a la parte subsanarlas en ese mismo acto o, de ser necesario, se le dará un plazo prudencial para cumplirlas. Si no se cumpliera lo ordenado, se dispondrá la inadmisibilidad de la demanda o contrademanda y el archivo del expediente.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la conciliación debe ser conducida por un especialista imparcial, separando esta función de la persona juzgadora para fomentar un acuerdo sin que las manifestaciones de las partes puedan usarse en su contra, protegiendo la confidencialidad.",
+    "source_quote": "La conciliación estará a cargo preferentemente de un conciliador judicial, si lo existiera en el juzgado o en el respectivo circuito judicial y estuviera disponible, en cuyo caso la asumirá en la misma audiencia, sustituyendo a quien la dirige, para esa única actividad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que las discusiones durante la conciliación no prejuzguen el caso ni obliguen a las partes, preservando su derecho a litigar si no hay acuerdo, y asegurando la confidencialidad de lo dialogado.",
+    "source_quote": "En el acta no se incluirán manifestaciones hechas por las partes con motivo de la conciliación y lo afirmado por ellas no podrá interpretarse como aceptación de las proposiciones efectuadas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "517",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_517",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Facilita la subsanación inmediata de defectos procesales para evitar dilaciones, concentrando las decisiones en una sola resolución y otorgando plazos breves para no entorpecer el avance del proceso.",
+    "source_quote": "De existir vicios u omisiones, en un único pronunciamiento ordenará las correcciones, nulidades y reposiciones que sean necesarias. Cuando se trate del cumplimiento de requisitos o formalidades omitidas, se ordenará a la parte subsanarlas en ese mismo acto o, de ser necesario, se le dará un plazo prudencial para cumplirlas.",
+    "item_index": 3
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 428 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 428 establece cómo resolver la falta de normas procesales específicas en el proceso laboral. Primero, se aplican por analogía otras disposiciones del mismo Código y sus principios, si son compatibles. En procesos contra el Estado o instituciones, se puede recurrir supletoriamente a la legislación procesal civil y contencioso-administrativa, siempre que no contradiga los principios del título. Si aún hay omisiones, los jueces laborales pueden diseñar el procedimiento más adecuado para resolver con prontitud e imparcialidad, garantizando el debido proceso y respetando los recursos previstos taxativamente en el Código.",
+    "source_quote": "La inexistencia de normas procesales expresamente previstas para un caso o situación concreta se llenará mediante la aplicación analógica de las otras disposiciones de este mismo Código y sus principios, en cuanto resulten compatibles.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "428",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_428"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "428",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_428",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se llena la inexistencia de normas procesales en el Código de Trabajo?",
+    "output": "Mediante la aplicación analógica de las otras disposiciones del mismo Código y sus principios, en cuanto resulten compatibles.",
+    "source_quote": "La inexistencia de normas procesales expresamente previstas para un caso o situación concreta se llenará mediante la aplicación analógica de las otras disposiciones de este mismo Código y sus principios, en cuanto resulten compatibles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "428",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_428",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué legislación se aplica supletoriamente en los procesos laborales contra el Estado y las instituciones?",
+    "output": "La legislación procesal civil y la procesal contencioso-administrativa, con la condición de que no contraríen el texto y los principios procesales de este título.",
+    "source_quote": "La legislación procesal civil y la procesal contencioso-administrativa, en los procesos contra el Estado y las instituciones, serán de aplicación supletoria, para llenar los vacíos normativos de este Código o para utilizar institutos procesales no regulados expresamente, que sea necesario aplicar para la tutela de los derechos de las partes y los fines del proceso, con la condición de que no contraríen el texto y los principios procesales de este título.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "428",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_428",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo principal para integrar lagunas normativas en el proceso laboral, priorizando la analogía interna y los principios del Código.",
+    "source_quote": "La inexistencia de normas procesales expresamente previstas para un caso o situación concreta se llenará mediante la aplicación analógica de las otras disposiciones de este mismo Código y sus principios, en cuanto resulten compatibles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "428",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_428",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a los jueces laborales una facultad creativa para suplir omisiones procedimentales, asegurando celeridad e imparcialidad, pero limitada por el respeto al debido proceso y a los recursos taxativamente previstos.",
+    "source_quote": "En todo caso, si hubiera omisión acerca de la forma de proceder, los órganos de la jurisdicción laboral estarán autorizados para idear el procedimiento más conveniente, a fin de que pueda dictarse con prontitud la resolución que decida imparcialmente las pretensiones de las partes, con tal de que se les garantice a estas el debido proceso. En todo caso, se respetará la enunciación taxativa de los recursos hecha en este Código.",
+    "item_index": 2
+  }
+]

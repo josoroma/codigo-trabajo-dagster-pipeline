@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 28 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 28 regula la terminación del contrato de trabajo por tiempo indefinido sin justa causa, estableciendo que cualquiera de las partes puede finalizarlo mediante un aviso previo por escrito. Los plazos de preaviso dependen del tiempo de trabajo continuo: una semana si ha trabajado entre tres y seis meses, quince días si ha trabajado más de seis meses y hasta un año, y un mes si ha trabajado más de un año. Si el contrato es verbal, el trabajador puede dar el aviso verbalmente ante dos testigos. En lugar de dar el preaviso, se puede pagar a la otra parte el salario correspondiente a ese plazo, sin que esto afecte el derecho al auxilio de cesantía. Durante el preaviso, el patrono debe conceder al trabajador un día de asueto semanal para buscar nuevo empleo.",
+    "source_quote": "En el contrato por tiempo indefinido cada una de las partes puede ponerle término, sin justa causa, dando aviso previo a la otra, de acuerdo con las siguientes reglas:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "28",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_28"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "28",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_28",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de preaviso que debe otorgar un trabajador si ha laborado de manera continua por cuatro meses?",
+    "output": "Una semana de anticipación.",
+    "source_quote": "Después de un trabajo continuo no menor de tres meses ni mayor de seis, con un mínimo de una semana de anticipación;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "28",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_28",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer una parte si no desea dar el aviso previo de terminación del contrato?",
+    "output": "Puede omitir el aviso pagando a la otra parte una cantidad igual al salario correspondiente a los plazos de preaviso, sin perjuicio del auxilio de cesantía.",
+    "source_quote": "pueden omitirse, sin perjuicio del auxilio de cesantía, por cualquiera de las dos partes, pagando a la otra una cantidad igual al salario correspondiente a los plazos anteriores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "28",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_28",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho de ambas partes a terminar unilateralmente el contrato de trabajo por tiempo indefinido sin necesidad de justa causa, siempre que se otorgue un aviso previo, regulando así la estabilidad laboral y la previsibilidad en la relación de trabajo.",
+    "source_quote": "En el contrato por tiempo indefinido cada una de las partes puede ponerle término, sin justa causa, dando aviso previo a la otra, de acuerdo con las siguientes reglas:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "28",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_28",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono la obligación de facilitar al trabajador tiempo remunerado para buscar un nuevo empleo durante el período de preaviso, protegiendo así la reinserción laboral del trabajador.",
+    "source_quote": "Durante el término del aviso el patrono estará obligado a conceder un día de asueto al trabajador, cada semana, para que busque colocación.",
+    "item_index": 2
+  }
+]

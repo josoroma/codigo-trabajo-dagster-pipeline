@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 669 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 669 establece que el procedimiento para juzgar las infracciones a las leyes laborales y de previsión social es de naturaleza sancionatoria laboral y debe iniciarse mediante una acusación. Indica quiénes están legitimados para presentar esa acusación: las personas o instituciones públicas perjudicadas, las organizaciones de protección de los trabajadores y sindicales, y las autoridades de la Dirección Nacional de Inspección General de Trabajo. Además, obliga a cualquier particular o autoridad que conozca de una infracción a ponerlo en conocimiento de las instituciones afectadas y de dichas autoridades. Impide que una autoridad judicial que haya denunciado el hecho conozca de la causa. Impone a las autoridades administrativas de trabajo el deber de acusar sin incurrir en responsabilidad, y exige que estas agoten los procedimientos de inspección administrativos antes de acudir al tribunal laboral. El acusador es parte en el proceso.",
+    "source_quote": "El procedimiento para juzgar las infracciones contra las leyes de trabajo y de previsión social tendrá naturaleza sancionatoria laboral y deberá iniciarse mediante acusación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "669",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_669"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "669",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_669",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están legitimados para iniciar una acusación por infracciones a las leyes de trabajo y de previsión social?",
+    "output": "Están legitimados las personas o instituciones públicas perjudicadas, las organizaciones de protección de las personas trabajadoras y sindicales, y las autoridades de la Dirección Nacional de Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Están legitimados para accionar las personas o instituciones públicas perjudicadas, las organizaciones de protección de las personas trabajadoras y sindicales, y las autoridades de la Dirección Nacional de Inspección General de Trabajo del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "669",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_669",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen las autoridades administrativas de trabajo cuando conocen de una infracción a las leyes laborales?",
+    "output": "Tienen la obligación de acusar, sin que por ello incurran en responsabilidad de ningún tipo.",
+    "source_quote": "Tienen obligación de acusar, sin que por ello incurran en responsabilidad de ningún tipo, las autoridades administrativas de trabajo que en el ejercicio de sus funciones tuvieran conocimiento de alguna de dichas infracciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "669",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_669",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la naturaleza del procedimiento como sancionatorio laboral y establece que su inicio requiere una acusación, delimitando así la vía procesal aplicable.",
+    "source_quote": "El procedimiento para juzgar las infracciones contra las leyes de trabajo y de previsión social tendrá naturaleza sancionatoria laboral y deberá iniciarse mediante acusación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "669",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_669",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un deber legal de acusar a las autoridades administrativas de trabajo, eximiéndolas de responsabilidad para garantizar que actúen sin temor a represalias cuando detecten infracciones.",
+    "source_quote": "Tienen obligación de acusar, sin que por ello incurran en responsabilidad de ningún tipo, las autoridades administrativas de trabajo que en el ejercicio de sus funciones tuvieran conocimiento de alguna de dichas infracciones.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 2 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 2 define quién es patrono. Indica que patrono es cualquier persona física o jurídica, ya sea particular o de Derecho Público, que contrata los servicios de una o más personas mediante un contrato de trabajo. Este contrato puede ser expreso o implícito, verbal o escrito, individual o colectivo.",
+    "source_quote": "Patrono es toda persona física o jurídica, particular o de Derecho Público, que emplea los servicios de otra u otras, en virtud de un contrato de trabajo, expreso o implícito, verbal o escrito, individual o colectivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "2",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_2"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "2",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_2",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es considerado patrono según el artículo 2 del Código de Trabajo?",
+    "output": "Toda persona física o jurídica, particular o de Derecho Público, que emplea los servicios de otra u otras en virtud de un contrato de trabajo.",
+    "source_quote": "Patrono es toda persona física o jurídica, particular o de Derecho Público, que emplea los servicios de otra u otras, en virtud de un contrato de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "2",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_2",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipos de contrato de trabajo menciona el artículo 2?",
+    "output": "El contrato de trabajo puede ser expreso o implícito, verbal o escrito, individual o colectivo.",
+    "source_quote": "contrato de trabajo, expreso o implícito, verbal o escrito, individual o colectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "2",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_2",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición legal de patrono, abarcando tanto a personas físicas como jurídicas, del sector privado o público, que contratan servicios bajo un contrato de trabajo.",
+    "source_quote": "Patrono es toda persona física o jurídica, particular o de Derecho Público, que emplea los servicios de otra u otras, en virtud de un contrato de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "2",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_2",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Especifica las modalidades que puede adoptar el contrato de trabajo, reconociendo su validez independientemente de su forma o del número de trabajadores involucrados.",
+    "source_quote": "expreso o implícito, verbal o escrito, individual o colectivo.",
+    "item_index": 2
+  }
+]

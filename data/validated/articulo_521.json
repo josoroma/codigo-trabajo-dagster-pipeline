@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 521 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 521 regula el procedimiento cuando un proceso laboral debe realizarse en dos audiencias. Indica que se seguirá lo dispuesto en el artículo 513 y que, en la misma resolución que fija la fecha de la audiencia preliminar, el juzgado se limitará a decidir sobre la admisión de las pruebas que se presentarán en esa audiencia.",
+    "source_quote": "Cuando el proceso deba ventilarse en dos audiencias, se procederá conforme a lo indicado en el artículo 513 y en la misma resolución que haga el señalamiento para la audiencia preliminar, el juzgado se pronunciará únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "521",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_521"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "521",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_521",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el juzgado cuando el proceso se ventile en dos audiencias?",
+    "output": "Debe proceder conforme al artículo 513 y, en la resolución que señala la audiencia preliminar, pronunciarse únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "source_quote": "Cuando el proceso deba ventilarse en dos audiencias, se procederá conforme a lo indicado en el artículo 513 y en la misma resolución que haga el señalamiento para la audiencia preliminar, el juzgado se pronunciará únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "521",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_521",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre qué aspecto se pronuncia el juzgado en la resolución que señala la audiencia preliminar?",
+    "output": "Se pronuncia únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "source_quote": "en la misma resolución que haga el señalamiento para la audiencia preliminar, el juzgado se pronunciará únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "521",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_521",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la remisión al artículo 513 como procedimiento aplicable cuando el proceso se desarrolla en dos audiencias.",
+    "source_quote": "Cuando el proceso deba ventilarse en dos audiencias, se procederá conforme a lo indicado en el artículo 513",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "521",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_521",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el alcance del pronunciamiento judicial en la resolución de señalamiento, limitándolo exclusivamente a la admisibilidad de las pruebas de la audiencia preliminar.",
+    "source_quote": "en la misma resolución que haga el señalamiento para la audiencia preliminar, el juzgado se pronunciará únicamente sobre la admisibilidad de las pruebas que deban evacuarse en esa audiencia.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 472 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 472 regula el procedimiento para solicitar y tramitar la nulidad de actuaciones procesales en materia laboral. Establece que la nulidad solo se decreta a petición de parte y detalla cómo se tramita según el momento procesal: antes de la audiencia, durante ella, en actuaciones posteriores, en resoluciones con vicios intrínsecos y después de concluido el proceso.",
+    "source_quote": "La nulidad podrá decretarse a solicitud de parte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "472",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_472"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "472",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_472",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se tramita la solicitud de nulidad si se presenta antes de la audiencia?",
+    "output": "El órgano puede decretarla oyendo a la parte contraria por tres días.",
+    "source_quote": "Si se pidiera antes de la audiencia, el órgano puede decretarla oyendo a la parte contraria por tres días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "472",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_472",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene para pedir la nulidad de una resolución que no admite ulterior recurso?",
+    "output": "Debe pedirse dentro del tercer día después de notificada la resolución.",
+    "source_quote": "Cuando no tengan ulterior recurso, la nulidad deberá pedirse dentro del tercer día, después de notificada la resolución.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "472",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_472",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que la nulidad solo se decreta a petición de parte y el procedimiento cuando se solicita antes de la audiencia, garantizando el derecho de audiencia de la contraparte.",
+    "source_quote": "La nulidad podrá decretarse a solicitud de parte. Si se pidiera antes de la audiencia, el órgano puede decretarla oyendo a la parte contraria por tres días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "472",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_472",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el momento y la forma de impugnar la nulidad de resoluciones, vinculándola a los recursos disponibles o fijando un plazo perentorio cuando no hay recurso, para dar seguridad jurídica.",
+    "source_quote": "La nulidad de las resoluciones, por vicios intrínsecos a ellas, deberá alegarse concomitantemente con los recursos que quepan contra el respectivo pronunciamiento. Cuando no tengan ulterior recurso, la nulidad deberá pedirse dentro del tercer día, después de notificada la resolución.",
+    "item_index": 2
+  }
+]

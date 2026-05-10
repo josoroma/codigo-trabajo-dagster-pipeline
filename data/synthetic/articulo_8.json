@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 8 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 8 protege la libertad de trabajo, garantizando que ninguna persona pueda ser obligada a dejar de trabajar o se le impida dedicarse a la profesión, industria o comercio que desee, siempre que cumpla con las leyes y reglamentos aplicables. Solo se puede restringir el trabajo cuando se vulneren derechos de terceros o se ofenda a la sociedad, y únicamente mediante una resolución de autoridad competente dictada conforme a la ley. Además, aclara que no se considera una restricción a esta libertad cuando se actúa según las facultades que otorgan el propio Código, sus reglamentos y leyes conexas.",
+    "source_quote": "A ningún individuo se le coartará la libertad de trabajo, ni se le podrá impedir que se dedique a la profesión, industria o comercio que le plazca, siempre que cumpla las prescripciones de las leyes y reglamentos respectivos. Solamente cuando se ataquen los derechos de terceros o se ofendan los de la sociedad, podrá impedirse el trabajo y ello mediante resolución de las autoridades competentes, dictada conforme a la ley. No se entenderá coartada la libertad de trabajo cuando se actúe en uso de las facultades que prescriban este Código, sus Reglamentos y sus leyes conexas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "8",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_8"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "8",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_8",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condiciones se puede impedir el trabajo a una persona según el artículo 8?",
+    "output": "Solo se puede impedir el trabajo cuando se ataquen los derechos de terceros o se ofendan los de la sociedad, y únicamente mediante resolución de las autoridades competentes dictada conforme a la ley.",
+    "source_quote": "Solamente cuando se ataquen los derechos de terceros o se ofendan los de la sociedad, podrá impedirse el trabajo y ello mediante resolución de las autoridades competentes, dictada conforme a la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "8",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_8",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo no se considera coartada la libertad de trabajo según este artículo?",
+    "output": "No se considera coartada la libertad de trabajo cuando se actúa en uso de las facultades que prescriban el Código de Trabajo, sus Reglamentos y sus leyes conexas.",
+    "source_quote": "No se entenderá coartada la libertad de trabajo cuando se actúe en uso de las facultades que prescriban este Código, sus Reglamentos y sus leyes conexas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "8",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_8",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio general de libertad de trabajo, prohibiendo cualquier coacción o impedimento para ejercer una actividad laboral o económica, condicionado únicamente al cumplimiento de la normativa vigente.",
+    "source_quote": "A ningún individuo se le coartará la libertad de trabajo, ni se le podrá impedir que se dedique a la profesión, industria o comercio que le plazca, siempre que cumpla las prescripciones de las leyes y reglamentos respectivos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "8",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_8",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las excepciones taxativas a la libertad de trabajo, exigiendo que cualquier restricción se base en la protección de derechos ajenos o el interés social y se materialice a través de un acto formal de autoridad legalmente fundamentado.",
+    "source_quote": "Solamente cuando se ataquen los derechos de terceros o se ofendan los de la sociedad, podrá impedirse el trabajo y ello mediante resolución de las autoridades competentes, dictada conforme a la ley.",
+    "item_index": 2
+  }
+]

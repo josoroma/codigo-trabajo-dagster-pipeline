@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 700 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 700 establece el procedimiento para designar a los representantes de la parte empleadora y de los sindicatos en una negociación de convención colectiva. Una vez que se determina cuáles sindicatos están legitimados para negociar y se presenta el proyecto de convención, la parte empleadora debe escoger y apoderar a su comisión negociadora en un plazo máximo de quince días naturales. Los sindicatos deben acreditar a sus representantes en el mismo plazo, y su número no puede superar al de la delegación patronal. Para convenciones colectivas por sector que involucren varias instituciones o empresas, la acreditación sindical se rige por el artículo 697 y requiere que el Ministerio de Trabajo determine previamente el total de sindicalizados, los porcentajes por sindicato en cada entidad y el número de afiliados por sindicato en el sector.",
+    "source_quote": "Una vez determinada en firme la legitimación de la organización u organizaciones sindicales facultadas para negociar y presentado formalmente ante cada institución o dependencia un proyecto de convención colectiva, se procederá a la escogencia y el apoderamiento de la comisión que representará a la parte empleadora... El plazo para hacer dicha designación no podrá extenderse más allá de quince días naturales...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "700",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_700"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "700",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_700",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para que la parte empleadora designe a su comisión negociadora una vez cumplidos los requisitos previos?",
+    "output": "El plazo máximo es de quince días naturales.",
+    "source_quote": "El plazo para hacer dicha designación no podrá extenderse más allá de quince días naturales, contado a partir de la fecha en que queden cumplidos los requisitos a que se refiere este artículo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "700",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_700",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué limitación existe respecto al número de representantes que los sindicatos pueden acreditar en la negociación?",
+    "output": "El número de representantes sindicales no podrá ser superior al conjunto de la delegación patronal.",
+    "source_quote": "Los sindicatos deberán acreditar dentro del mismo plazo a las personas que los representarán y este número no podrá ser superior al conjunto de la delegación patronal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "700",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_700",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el momento procesal y el plazo perentorio de quince días naturales para que la parte empleadora conforme su comisión negociadora, garantizando celeridad en el inicio de la negociación colectiva.",
+    "source_quote": "Una vez determinada en firme la legitimación de la organización u organizaciones sindicales facultadas para negociar y presentado formalmente ante cada institución o dependencia un proyecto de convención colectiva, se procederá a la escogencia y el apoderamiento de la comisión que representará a la parte empleadora, a que se refiere la sección anterior. El plazo para hacer dicha designación no podrá extenderse más allá de quince días naturales, contado a partir de la fecha en que queden cumplidos los requisitos a que se refiere este artículo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "700",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_700",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los sindicatos la obligación de acreditar a sus representantes en idéntico plazo y fija un límite cuantitativo para equilibrar la composición de las delegaciones negociadoras, evitando una desproporción numérica.",
+    "source_quote": "Los sindicatos deberán acreditar dentro del mismo plazo a las personas que los representarán y este número no podrá ser superior al conjunto de la delegación patronal.",
+    "item_index": 2
+  }
+]

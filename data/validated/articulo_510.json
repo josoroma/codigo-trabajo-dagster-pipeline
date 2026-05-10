@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 510 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que la improponibilidad y la caducidad solo pueden ser declaradas de oficio por el juzgado de instancia, pero antes debe escucharse a las partes durante tres días. Además, si en los casos de los dos artículos anteriores se requiere evacuar pruebas sobre hechos que sustenten o enerven la excepción o la intención oficiosa, la decisión se pospone hasta la etapa de audiencia.",
+    "source_quote": "La improponibilidad y la caducidad pueden declararse de oficio únicamente por el juzgado de instancia, pero de previo deberá oírse al respecto a las partes por tres días. Si en alguno de los casos tratados en los dos artículos anteriores fuera necesario evacuar pruebas de hechos sustentantes o enervantes de la excepción o intención oficiosa, se postergará la resolución para la etapa de la audiencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "510",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_510"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "510",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_510",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede declarar de oficio la improponibilidad y la caducidad según el artículo 510?",
+    "output": "Únicamente el juzgado de instancia.",
+    "source_quote": "La improponibilidad y la caducidad pueden declararse de oficio únicamente por el juzgado de instancia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "510",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_510",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito previo debe cumplirse antes de que el juzgado declare de oficio la improponibilidad o la caducidad?",
+    "output": "Debe oírse a las partes por tres días.",
+    "source_quote": "pero de previo deberá oírse al respecto a las partes por tres días.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "510",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_510",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la competencia exclusiva del juzgado de instancia para declarar de oficio la improponibilidad y la caducidad, y garantiza el derecho de audiencia de las partes como requisito previo, asegurando el debido proceso.",
+    "source_quote": "La improponibilidad y la caducidad pueden declararse de oficio únicamente por el juzgado de instancia, pero de previo deberá oírse al respecto a las partes por tres días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "510",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_510",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición regula el procedimiento cuando se requiere actividad probatoria sobre los hechos que fundamentan o contradicen la excepción o la declaración oficiosa, posponiendo la decisión hasta la audiencia para permitir la evacuación de pruebas y proteger el contradictorio.",
+    "source_quote": "Si en alguno de los casos tratados en los dos artículos anteriores fuera necesario evacuar pruebas de hechos sustentantes o enervantes de la excepción o intención oficiosa, se postergará la resolución para la etapa de la audiencia.",
+    "item_index": 2
+  }
+]

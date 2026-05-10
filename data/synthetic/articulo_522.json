@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 522 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 522 establece las actuaciones que debe realizar el tribunal al finalizar la audiencia preliminar: resolver sobre las pruebas ofrecidas por las partes en cuanto al fondo del asunto, fijar los honorarios de los peritos no oficiales, dar traslado sumarísimo de las pruebas incorporadas al expediente por disposición previa, ordenar pruebas complementarias o para mejor proveer si las considera indispensables (a petición de parte o de oficio, siempre que se refieran a hechos ya introducidos legalmente al debate), y señalar la fecha y hora para la audiencia complementaria o de juicio, la cual debe celebrarse dentro del mes siguiente.",
+    "source_quote": "Al concluirse la audiencia preliminar se emitirá pronunciamiento sobre las pruebas ofrecidas por las partes, respecto de las cuestiones de fondo debatidas; se fijarán los honorarios de los peritos no oficiales; se dará traslado sumarísimo sobre las pruebas allegadas al expediente que se hubieran dispuesto al cursarse la demanda o reconvención y, en su caso, se ordenarán las pruebas que el tribunal juzgue indispensables como complementarias o para mejor proveer, a indicación de las partes o por propia iniciativa, siempre y cuando versen sobre los hechos introducidos legalmente a debate en el proceso, y se hará señalamiento de la hora y fecha para la audiencia complementaria o de juicio, cuando así se requiera, la cual necesariamente deberá llevarse a cabo dentro del mes siguiente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "522",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_522"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "522",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_522",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el tribunal al concluir la audiencia preliminar respecto de las pruebas ofrecidas por las partes?",
+    "output": "Emitir un pronunciamiento sobre las pruebas ofrecidas por las partes, en relación con las cuestiones de fondo debatidas.",
+    "source_quote": "se emitirá pronunciamiento sobre las pruebas ofrecidas por las partes, respecto de las cuestiones de fondo debatidas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "522",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_522",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe llevarse a cabo la audiencia complementaria o de juicio cuando se requiera?",
+    "output": "Necesariamente dentro del mes siguiente al señalamiento.",
+    "source_quote": "la cual necesariamente deberá llevarse a cabo dentro del mes siguiente",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "522",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_522",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Obliga al tribunal a resolver sobre la admisibilidad y pertinencia de las pruebas propuestas, limitando el debate probatorio a los hechos sustanciales del proceso.",
+    "source_quote": "se emitirá pronunciamiento sobre las pruebas ofrecidas por las partes, respecto de las cuestiones de fondo debatidas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "522",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_522",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un plazo máximo de un mes para la celebración de la audiencia complementaria, garantizando la celeridad y evitando dilaciones indebidas en el proceso laboral.",
+    "source_quote": "se hará señalamiento de la hora y fecha para la audiencia complementaria o de juicio, cuando así se requiera, la cual necesariamente deberá llevarse a cabo dentro del mes siguiente",
+    "item_index": 2
+  }
+]

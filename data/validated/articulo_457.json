@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 457 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 457 establece que en cualquier proceso de conciliación laboral se deben proteger los derechos de los trabajadores que son irrenunciables, indisponibles e indiscutibles. Esto significa que no se puede llegar a acuerdos que impliquen renunciar a derechos fundamentales, ni disponer de ellos o cuestionarlos, garantizando así una protección mínima para la persona trabajadora.",
+    "source_quote": "En toda conciliación deberán respetarse los derechos irrenunciables, indisponibles e indiscutibles de las personas trabajadoras.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "457",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_457"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "457",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_457",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de derechos deben respetarse en toda conciliación según el artículo 457?",
+    "output": "Los derechos irrenunciables, indisponibles e indiscutibles de las personas trabajadoras.",
+    "source_quote": "deberán respetarse los derechos irrenunciables, indisponibles e indiscutibles de las personas trabajadoras.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "457",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_457",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué ámbito se aplica la obligación de respetar estos derechos?",
+    "output": "En toda conciliación.",
+    "source_quote": "En toda conciliación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "457",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_457",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la norma, indicando que la obligación de respeto aplica sin excepción a cualquier procedimiento conciliatorio en materia laboral.",
+    "source_quote": "En toda conciliación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "457",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_457",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mandato imperativo de proteger los derechos laborales que por su naturaleza no pueden ser objeto de renuncia, disposición o controversia, asegurando un núcleo mínimo de protección para el trabajador incluso en acuerdos conciliatorios.",
+    "source_quote": "deberán respetarse los derechos irrenunciables, indisponibles e indiscutibles de las personas trabajadoras.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 106 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 106 otorga a las personas trabajadoras domésticas el derecho a una indemnización cuando su contrato termina por despido injustificado, renuncia motivada por faltas graves del empleador o de quienes conviven con él, muerte o fuerza mayor. La indemnización se rige por el artículo 29 del Código. Si la jornada es inferior a la ordinaria, el derecho se mantiene proporcionalmente, y para menores de edad se aplica el Código de la Niñez y la Adolescencia.",
+    "source_quote": "Si el contrato de las personas trabajadoras domésticas concluye por despido injustificado, por renuncia originada en faltas graves de las personas empleadoras o de las personas que habitan con ellos, por muerte o fuerza mayor, la persona trabajadora o, en su caso, los derecho-habientes a que se refiere el artículo 85 de este Código tendrán derecho a una indemnización, de acuerdo con las reglas establecidas en el artículo 29 de esta Ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "106",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_106"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "106",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_106",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos una persona trabajadora doméstica tiene derecho a indemnización según el artículo 106?",
+    "output": "Cuando el contrato concluye por despido injustificado, renuncia originada en faltas graves de las personas empleadoras o de quienes habitan con ellos, muerte o fuerza mayor.",
+    "source_quote": "Si el contrato de las personas trabajadoras domésticas concluye por despido injustificado, por renuncia originada en faltas graves de las personas empleadoras o de las personas que habitan con ellos, por muerte o fuerza mayor, la persona trabajadora ... tendrán derecho a una indemnización",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "106",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_106",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se aplica la indemnización en jornadas inferiores a la ordinaria para personas trabajadoras domésticas?",
+    "output": "Los derechos se mantienen proporcionalmente.",
+    "source_quote": "En el caso de jornadas inferiores a la ordinaria, estos derechos se mantendrán proporcionalmente",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "106",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_106",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el derecho indemnizatorio de las personas trabajadoras domésticas y sus causahabientes en los supuestos de terminación contractual por causas ajenas a su voluntad, remitiendo al artículo 29 para el cálculo de la indemnización.",
+    "source_quote": "Si el contrato de las personas trabajadoras domésticas concluye por despido injustificado, por renuncia originada en faltas graves de las personas empleadoras o de las personas que habitan con ellos, por muerte o fuerza mayor, la persona trabajadora o, en su caso, los derecho-habientes a que se refiere el artículo 85 de este Código tendrán derecho a una indemnización, de acuerdo con las reglas establecidas en el artículo 29 de esta Ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "106",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_106",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Precisar que la indemnización se ajusta proporcionalmente cuando la jornada es reducida y que, tratándose de menores de edad, se aplica la normativa especial de protección de la niñez y la adolescencia.",
+    "source_quote": "En el caso de jornadas inferiores a la ordinaria, estos derechos se mantendrán proporcionalmente, igualmente para las personas menores de edad, de acuerdo con el Código de la Niñez y la Adolescencia.",
+    "item_index": 2
+  }
+]

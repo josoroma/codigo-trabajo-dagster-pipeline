@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 193 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 193 establece que todo empleador, sin importar si es una entidad pública o privada, tiene la obligación de asegurar a sus trabajadores contra los riesgos laborales. Este seguro debe contratarse exclusivamente a través del Instituto Nacional de Seguros, conforme a lo dispuesto en los artículos 4 y 18 del mismo Código. Además, la responsabilidad del empleador de asegurar se mantiene incluso cuando el trabajador está bajo la dirección de intermediarios que el empleador utilice para realizar los trabajos.",
+    "source_quote": "Todo patrono, sea persona de Derecho Público o de Derecho Privado, está obligado a asegurar a sus trabajadores contra riesgos del trabajo, por medio del Instituto Nacional de Seguros, según los artículos 4º y 18 del Código de Trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "193",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_193"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "193",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_193",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a asegurar a los trabajadores contra riesgos del trabajo según el artículo 193?",
+    "output": "Todo patrono, sea persona de Derecho Público o de Derecho Privado.",
+    "source_quote": "Todo patrono, sea persona de Derecho Público o de Derecho Privado, está obligado a asegurar a sus trabajadores contra riesgos del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "193",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_193",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Subsiste la responsabilidad del patrono de asegurar contra riesgos del trabajo si el trabajador está bajo la dirección de intermediarios?",
+    "output": "Sí, la responsabilidad subsiste aun en ese caso.",
+    "source_quote": "La responsabilidad del patrono, en cuanto a asegurar contra riesgos del trabajo, subsiste aun en el caso de que el trabajador esté bajo la dirección de intermediarios.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "193",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_193",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación universal de aseguramiento de riesgos laborales para todos los empleadores, sin distinción de su naturaleza jurídica, y designa al Instituto Nacional de Seguros como la entidad aseguradora exclusiva, remitiendo a los artículos 4 y 18 del Código de Trabajo para los detalles de esa obligación.",
+    "source_quote": "Todo patrono, sea persona de Derecho Público o de Derecho Privado, está obligado a asegurar a sus trabajadores contra riesgos del trabajo, por medio del Instituto Nacional de Seguros, según los artículos 4º y 18 del Código de Trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "193",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_193",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la responsabilidad patronal de aseguramiento incluso cuando el trabajador no está bajo su dirección directa, sino a través de intermediarios contratados por el patrono, evitando que se eluda la obligación mediante figuras de intermediación laboral.",
+    "source_quote": "La responsabilidad del patrono, en cuanto a asegurar contra riesgos del trabajo, subsiste aun en el caso de que el trabajador esté bajo la dirección de intermediarios, de quienes el patrono se valga para la ejecución o realización de los trabajos.",
+    "item_index": 2
+  }
+]

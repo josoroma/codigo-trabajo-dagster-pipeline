@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 138 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 138 regula la jornada mixta, estableciendo que su duración máxima es de siete horas. Además, dispone que si se laboran tres horas y media o más entre las 19:00 y las 5:00, la jornada se considerará nocturna. Esta norma aplica sin perjuicio de lo indicado en el artículo 136.",
+    "source_quote": "la jornada mixta en ningún caso excederá de siete horas, pero se calificará de nocturna cuando se trabajen tres horas y media o más entre las diecinueve y las cinco horas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "138",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_138"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "138",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_138",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la duración máxima de la jornada mixta según el artículo 138?",
+    "output": "La jornada mixta en ningún caso excederá de siete horas.",
+    "source_quote": "la jornada mixta en ningún caso excederá de siete horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "138",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_138",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se califica una jornada mixta como nocturna de acuerdo con este artículo?",
+    "output": "Se califica de nocturna cuando se trabajen tres horas y media o más entre las diecinueve y las cinco horas.",
+    "source_quote": "se calificará de nocturna cuando se trabajen tres horas y media o más entre las diecinueve y las cinco horas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "138",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_138",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija el límite máximo de duración de la jornada mixta, garantizando que no se impongan horarios excesivos a los trabajadores.",
+    "source_quote": "la jornada mixta en ningún caso excederá de siete horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "138",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_138",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el criterio objetivo para que una jornada mixta sea reclasificada como nocturna, basándose en la cantidad de horas laboradas dentro del período nocturno definido.",
+    "source_quote": "se calificará de nocturna cuando se trabajen tres horas y media o más entre las diecinueve y las cinco horas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 633 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 633 establece que los procedimientos de conciliación no pueden durar más de veinte días hábiles desde que se constituye legalmente el órgano conciliador. Sin embargo, permite ampliar ese plazo si las partes lo acuerdan. Si no hay ampliación, al vencer el plazo el procedimiento se agota automáticamente, y el órgano debe emitir un informe en 48 horas.",
+    "source_quote": "En ningún caso los procedimientos de conciliación podrán durar más de veinte días hábiles, contados a partir del momento en que haya quedado legalmente constituido el órgano de conciliación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "633",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_633"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "633",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_633",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo de duración de los procedimientos de conciliación según el artículo 633?",
+    "output": "Veinte días hábiles, contados a partir del momento en que haya quedado legalmente constituido el órgano de conciliación.",
+    "source_quote": "En ningún caso los procedimientos de conciliación podrán durar más de veinte días hábiles, contados a partir del momento en que haya quedado legalmente constituido el órgano de conciliación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "633",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_633",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si no se acuerda una ampliación del plazo y este vence?",
+    "output": "Se tendrá de pleno derecho por definitivamente agotado el procedimiento de conciliación, y el órgano conciliador deberá elaborar el informe indicado en el artículo 630 en un término perentorio de cuarenta y ocho horas.",
+    "source_quote": "Salvo que se acuerde dicha ampliación, al vencimiento del plazo se tendrá de pleno derecho por definitivamente agotado el procedimiento de conciliación. En tal caso, el órgano conciliador deberá elaborar el informe indicado en el artículo 630, en un término perentorio de cuarenta y ocho horas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "633",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_633",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un límite temporal máximo para la conciliación, promoviendo la celeridad y evitando dilaciones indefinidas.",
+    "source_quote": "En ningún caso los procedimientos de conciliación podrán durar más de veinte días hábiles, contados a partir del momento en que haya quedado legalmente constituido el órgano de conciliación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "633",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_633",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce flexibilidad al permitir que las partes, de mutuo acuerdo, extiendan el plazo más allá de los veinte días hábiles, respetando su autonomía.",
+    "source_quote": "No obstante lo anterior, dicho órgano podrá ampliar este plazo hasta por el tiempo que las partes convengan de común acuerdo.",
+    "item_index": 2
+  }
+]

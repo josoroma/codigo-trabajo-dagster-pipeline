@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 604 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 604 establece que los laudos arbitrales solo obligan a las partes si se emiten dentro de procesos arbitrales que cumplan las reglas de este capítulo. Estos procesos deben regirse por los principios del derecho laboral, tanto sustantivos como procesales, excepto en el empleo público, donde se aplican solo si son compatibles con el derecho de la función pública. Una vez firmado el compromiso arbitral, el tribunal arbitral es el único que puede resolver el conflicto, y si alguien demanda el mismo caso en tribunales ordinarios, la parte interesada puede alegar litispendencia.",
+    "source_quote": "Las sentencias arbitrales solo producirán efectos vinculantes para las partes si se dictan en el marco de procesos arbitrales seguidos, de acuerdo con la normativa de este capítulo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "604",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_604"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "604",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_604",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo producen efectos vinculantes las sentencias arbitrales según el artículo 604?",
+    "output": "Solo producen efectos vinculantes para las partes si se dictan en el marco de procesos arbitrales seguidos de acuerdo con la normativa de este capítulo.",
+    "source_quote": "Las sentencias arbitrales solo producirán efectos vinculantes para las partes si se dictan en el marco de procesos arbitrales seguidos, de acuerdo con la normativa de este capítulo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "604",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_604",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción puede formular la parte legitimada si se plantea una demanda sobre el mismo conflicto ante los tribunales comunes?",
+    "output": "La excepción de litispendencia.",
+    "source_quote": "La parte legitimada podrá formular la excepción de litispendencia en el caso de que sea planteada demanda sobre el mismo conflicto ante los tribunales comunes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "604",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_604",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la fuerza vinculante de los laudos arbitrales al cumplimiento de las reglas procesales establecidas en el capítulo, garantizando que solo los arbitrajes ajustados a derecho obliguen a las partes.",
+    "source_quote": "Las sentencias arbitrales solo producirán efectos vinculantes para las partes si se dictan en el marco de procesos arbitrales seguidos, de acuerdo con la normativa de este capítulo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "604",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_604",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Atribuye competencia exclusiva al tribunal arbitral desde la firma del compromiso, evitando la intervención paralela de los tribunales ordinarios y reforzando la eficacia del arbitraje.",
+    "source_quote": "Una vez suscrito el compromiso a que se refiere este capítulo, el tribunal arbitral será el único competente para conocer del respectivo conflicto.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 421 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 421 establece los principios que rigen el proceso laboral, incluyendo tanto los principios generales de todo proceso judicial como los principios procesales básicos específicos del ámbito laboral. Entre los generales se mencionan la exclusividad y obligatoriedad de la función jurisdiccional, la independencia judicial, la contradicción, la publicidad, la obligatoriedad de los procedimientos legales, la motivación de las resoluciones y la preclusión. Los principios específicos del proceso laboral son la conciliación, la oralidad, la sencillez, el informalismo, la oficiosidad relativa, la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o costo mínimo.",
+    "source_quote": "el proceso laboral se rige por los siguientes principios procesales básicos: la conciliación, las actuaciones prioritariamente orales, la sencillez, el informalismo, la oficiosidad relativa, así como por la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o el costo mínimo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "421",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_421"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "421",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_421",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los principios procesales básicos que rigen el proceso laboral según el artículo 421?",
+    "output": "Los principios procesales básicos del proceso laboral son: la conciliación, las actuaciones prioritariamente orales, la sencillez, el informalismo, la oficiosidad relativa, la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o el costo mínimo.",
+    "source_quote": "el proceso laboral se rige por los siguientes principios procesales básicos: la conciliación, las actuaciones prioritariamente orales, la sencillez, el informalismo, la oficiosidad relativa, así como por la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o el costo mínimo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "421",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_421",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué principios generales correspondientes a todo proceso se mencionan en el artículo 421?",
+    "output": "Los principios generales mencionados son: exclusividad y obligatoriedad de la función jurisdiccional, independencia de los órganos jurisdiccionales, contradicción o audiencia bilateral, publicidad, obligatoriedad de los procedimientos legales, necesaria motivación de las resoluciones judiciales y preclusión.",
+    "source_quote": "Además de los principios generales correspondientes a todo proceso, como son los de exclusividad y obligatoriedad de la función jurisdiccional, independencia de los órganos jurisdiccionales, contradicción o audiencia bilateral, publicidad, obligatoriedad de los procedimientos legales, de la necesaria motivación de las resoluciones judiciales y de preclusión",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "421",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_421",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita enumera los principios generales que rigen cualquier proceso judicial, los cuales también son aplicables al proceso laboral, garantizando así un marco común de justicia y debido proceso.",
+    "source_quote": "Además de los principios generales correspondientes a todo proceso, como son los de exclusividad y obligatoriedad de la función jurisdiccional, independencia de los órganos jurisdiccionales, contradicción o audiencia bilateral, publicidad, obligatoriedad de los procedimientos legales, de la necesaria motivación de las resoluciones judiciales y de preclusión",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "421",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_421",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita establece los principios específicos que caracterizan el proceso laboral, orientados a hacerlo más ágil, accesible y eficaz para las partes, con énfasis en la oralidad, la conciliación y la búsqueda de la verdad material.",
+    "source_quote": "el proceso laboral se rige por los siguientes principios procesales básicos: la conciliación, las actuaciones prioritariamente orales, la sencillez, el informalismo, la oficiosidad relativa, así como por la celeridad, la concentración, la inmediación, la búsqueda de la verdad real, la libertad probatoria, la lealtad procesal y la gratuidad o el costo mínimo.",
+    "item_index": 2
+  }
+]

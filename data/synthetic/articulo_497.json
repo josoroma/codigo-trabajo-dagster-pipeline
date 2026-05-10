@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 497 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 497 regula la contestación de la demanda laboral. Una vez presentada la demanda correctamente, se concede al demandado un plazo perentorio de diez días para contestar. En su escrito, debe manifestar claramente si rechaza los hechos o los admite con variantes o rectificaciones, ofrecer todas sus pruebas y señalar el lugar y medio para recibir notificaciones. Además, en el procedimiento ordinario, el demandado puede presentar una contrademanda, la cual, si es declarada inadmisible, no podrá reiterarse en el mismo proceso. Para conflictos colectivos jurídicos, se remite a lo dispuesto en el artículo 446.",
+    "source_quote": "Presentada la demanda en debida forma, se dará traslado de esta por un plazo perentorio de diez días para su contestación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "497",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_497"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "497",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_497",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para contestar la demanda según el artículo 497?",
+    "output": "El plazo es de diez días perentorios.",
+    "source_quote": "plazo perentorio de diez días para su contestación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "497",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_497",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de procedimiento se puede presentar una contrademanda de acuerdo con este artículo?",
+    "output": "Solo en el procedimiento ordinario.",
+    "source_quote": "Esta última solo es posible proponerla en el procedimiento ordinario",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "497",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_497",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo perentorio para la contestación de la demanda y los requisitos de contenido del escrito de contestación, garantizando el derecho de defensa y la celeridad procesal.",
+    "source_quote": "Presentada la demanda en debida forma, se dará traslado de esta por un plazo perentorio de diez días para su contestación. En esta se expondrá con claridad si se rechazan los hechos o si se admiten con variantes o rectificaciones, y se deberán ofrecer todas las pruebas de interés para la parte y hacer el respectivo señalamiento del lugar y la forma o medio para notificaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "497",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_497",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite al demandado formular una contrademanda exclusivamente en el procedimiento ordinario, y advierte que su inadmisibilidad impide volver a plantearla en el mismo proceso, evitando dilaciones indebidas.",
+    "source_quote": "También, en el escrito de contestación podrá presentarse contrademanda. Esta última solo es posible proponerla en el procedimiento ordinario y se regirá en lo pertinente por lo dispuesto en los dos artículos anteriores, pero la declaratoria de inadmisibilidad hará imposible su reiteración dentro del mismo proceso.",
+    "item_index": 2
+  }
+]

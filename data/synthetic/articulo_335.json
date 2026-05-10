@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 335 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 335 establece una limitación y una excepción sobre la sindicalización en las cooperativas. Por un lado, prohíbe que los socios de una cooperativa formen sindicatos para defender sus intereses frente a la propia cooperativa. Por otro lado, permite que se constituyan sindicatos de trabajadores dentro de las cooperativas cuando estas actúan como empleadoras, es decir, cuando contratan personal asalariado.",
+    "source_quote": "Los socios de las cooperativas no podrán sindicalizarse para defender sus intereses ante ellas, pero sí podrán formarse sindicatos de trabajadores dentro de las cooperativas cuando éstas actúen como patronos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "335",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_335"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "335",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_335",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden los socios de una cooperativa sindicalizarse para defender sus intereses ante la cooperativa?",
+    "output": "No, los socios de las cooperativas no pueden sindicalizarse para defender sus intereses ante ellas.",
+    "source_quote": "Los socios de las cooperativas no podrán sindicalizarse para defender sus intereses ante ellas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "335",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_335",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situación se permite la formación de sindicatos dentro de una cooperativa?",
+    "output": "Se permite la formación de sindicatos de trabajadores dentro de las cooperativas cuando estas actúan como patronos.",
+    "source_quote": "pero sí podrán formarse sindicatos de trabajadores dentro de las cooperativas cuando éstas actúen como patronos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "335",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_335",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta prohibición busca preservar la naturaleza asociativa y autogestionaria de la cooperativa, evitando que los socios, como dueños y gestores, utilicen la figura sindical para plantear conflictos colectivos contra la entidad de la que forman parte.",
+    "source_quote": "Los socios de las cooperativas no podrán sindicalizarse para defender sus intereses ante ellas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "335",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_335",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta excepción garantiza el derecho de sindicalización a los trabajadores asalariados que laboran para la cooperativa, reconociendo que cuando la cooperativa actúa como empleadora, existe una relación laboral subordinada que justifica la protección sindical.",
+    "source_quote": "pero sí podrán formarse sindicatos de trabajadores dentro de las cooperativas cuando éstas actúen como patronos.",
+    "item_index": 2
+  }
+]

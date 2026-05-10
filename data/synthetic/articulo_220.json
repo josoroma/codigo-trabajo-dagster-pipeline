@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 220 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 220 establece las obligaciones del patrono cuando ocurre un riesgo del trabajo. Debe proporcionar de inmediato al trabajador las prestaciones médico-sanitarias necesarias y brindar primeros auxilios, para lo cual cada centro de trabajo debe contar con un botiquín de emergencia según el reglamento. Para cumplir, el patrono debe usar preferentemente los servicios del Instituto, salvo en emergencias calificadas donde puede acudir al centro médico más cercano, informando de inmediato al Instituto. El Instituto reembolsará los gastos médicos al patrono, excepto los del botiquín, siempre que el patrono comunique el riesgo dentro de las 48 horas siguientes.",
+    "source_quote": "Cuando ocurra un riesgo del trabajo, todo patrono está obligado a procurar al trabajador, de inmediato, el suministro de las prestaciones médico-sanitarias que su estado requiera, sin perjuicio de la obligación que tiene de brindarle los primeros auxilios, para lo cual, en cada centro de trabajo deberá instalarse un botiquín de emergencia, con los artículos y medicamentos que disponga el reglamento de esta ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "220",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_220"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "220",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_220",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el patrono inmediatamente cuando ocurre un riesgo del trabajo?",
+    "output": "Procurar al trabajador el suministro de las prestaciones médico-sanitarias que su estado requiera, sin perjuicio de brindarle los primeros auxilios.",
+    "source_quote": "Cuando ocurra un riesgo del trabajo, todo patrono está obligado a procurar al trabajador, de inmediato, el suministro de las prestaciones médico-sanitarias que su estado requiera, sin perjuicio de la obligación que tiene de brindarle los primeros auxilios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "220",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_220",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el patrono puede recurrir al centro médico más cercano en lugar de los servicios del Instituto?",
+    "output": "En casos de emergencia calificada.",
+    "source_quote": "salvo en aquellos casos de emergencia calificada, en que podrá recurrir al centro médico más cercano, hecho que deberá hacer del conocimiento inmediato del Instituto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "220",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_220",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación primaria del patrono de garantizar atención médica inmediata y primeros auxilios, así como la obligación de mantener un botiquín de emergencia en el centro de trabajo, cuyo contenido será definido por el reglamento de la ley.",
+    "source_quote": "Cuando ocurra un riesgo del trabajo, todo patrono está obligado a procurar al trabajador, de inmediato, el suministro de las prestaciones médico-sanitarias que su estado requiera, sin perjuicio de la obligación que tiene de brindarle los primeros auxilios, para lo cual, en cada centro de trabajo deberá instalarse un botiquín de emergencia, con los artículos y medicamentos que disponga el reglamento de esta ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "220",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_220",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las condiciones para que el patrono obtenga el reembolso de los gastos médicos por parte del Instituto: excluye los gastos del botiquín de emergencia y exige que el patrono comunique la ocurrencia del riesgo dentro de las 48 horas siguientes.",
+    "source_quote": "Excepto en lo referente al botiquín de emergencia, y siempre que se le comunique esa circunstancia dentro de las cuarenta y ocho horas siguientes a la ocurrencia del riesgo, el Instituto reembolsará al patrono el monto de los gastos en que incurra, según lo dispuesto en este artículo.",
+    "item_index": 2
+  }
+]

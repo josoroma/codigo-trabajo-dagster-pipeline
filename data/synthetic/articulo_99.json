@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 99 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 99 establece que el subsidio por maternidad, correspondiente a los períodos inmediatamente anteriores y posteriores al parto, está condicionado a que la trabajadora guarde reposo. Si el patrono solicita una verificación y la autoridad administrativa de trabajo comprueba que la trabajadora realiza otros trabajos remunerados, distintos de las labores domésticas compatibles con su estado, se le puede suspender dicho subsidio.",
+    "source_quote": "El subsidio durante los períodos inmediatamente anteriores y posteriores al parto se subordina al reposo de la trabajadora: podrá suspendérsele si la autoridad administrativa de trabajo comprueba, a instancia del patrono, que ésta, fuera de las labores domésticas compatibles con su estado, se dedica a otros trabajos remunerados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "99",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_99"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "99",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_99",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De qué depende el subsidio durante los períodos inmediatamente anteriores y posteriores al parto?",
+    "output": "Depende del reposo de la trabajadora.",
+    "source_quote": "El subsidio durante los períodos inmediatamente anteriores y posteriores al parto se subordina al reposo de la trabajadora",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "99",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_99",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer el patrono si sospecha que la trabajadora no está guardando reposo?",
+    "output": "Puede solicitar a la autoridad administrativa de trabajo que compruebe si la trabajadora se dedica a otros trabajos remunerados, y si se comprueba, se le puede suspender el subsidio.",
+    "source_quote": "podrá suspendérsele si la autoridad administrativa de trabajo comprueba, a instancia del patrono, que ésta, fuera de las labores domésticas compatibles con su estado, se dedica a otros trabajos remunerados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "99",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_99",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición fundamental para el goce del subsidio: el reposo de la trabajadora.",
+    "source_quote": "El subsidio durante los períodos inmediatamente anteriores y posteriores al parto se subordina al reposo de la trabajadora",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "99",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_99",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la causal y el procedimiento para la suspensión del subsidio, protegiendo el derecho del patrono a denunciar y la verificación por la autoridad laboral.",
+    "source_quote": "podrá suspendérsele si la autoridad administrativa de trabajo comprueba, a instancia del patrono, que ésta, fuera de las labores domésticas compatibles con su estado, se dedica a otros trabajos remunerados.",
+    "item_index": 2
+  }
+]

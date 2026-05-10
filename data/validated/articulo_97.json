@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 97 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 97 establece el derecho de toda madre en periodo de lactancia a disponer de una hora remunerada durante la jornada ordinaria para alimentar a su bebé, pudiendo elegir entre tres modalidades: quince minutos cada dos horas, media hora dos veces al día, o entrar una hora más tarde o salir una hora más temprano. Además, regula un descanso adicional en jornadas extraordinarias y el derecho de la madre adoptante a un periodo de lactancia con certificación médica.",
+    "source_quote": "Toda madre en periodo de lactancia deberá disponer de una hora, en jornada ordinaria, para alimentar a su bebé, en los lugares donde trabaje y durante sus horas laborales, de un intervalo, al día a elegir, de: a) Quince minutos cada dos horas en jornadas ordinarias. b) Media hora dos veces al día. c) O bien, podrá escoger entrar una hora más tarde o salir una hora más temprano de su sitio de trabajo. Para cualquiera de estas tres opciones, la hora deberá ser remunerada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las tres opciones que tiene una madre en periodo de lactancia para disponer de la hora de lactancia en jornada ordinaria?",
+    "output": "Puede elegir entre quince minutos cada dos horas, media hora dos veces al día, o entrar una hora más tarde o salir una hora más temprano de su sitio de trabajo.",
+    "source_quote": "a) Quince minutos cada dos horas en jornadas ordinarias. b) Media hora dos veces al día. c) O bien, podrá escoger entrar una hora más tarde o salir una hora más temprano de su sitio de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho adicional tienen las mujeres en periodo de lactancia durante las jornadas extraordinarias?",
+    "output": "Tienen un periodo de quince minutos cada tres horas, adicional a la hora de jornada ordinaria, para alimentar a su hijo o hija.",
+    "source_quote": "En el caso de jornadas extraordinarias, las mujeres en periodo de lactancia tendrán un periodo de quince minutos cada tres horas, adicional a la hora de jornada ordinaria, para alimentar a su hijo o hija.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar que el tiempo destinado a la lactancia no afecte la remuneración de la trabajadora, protegiendo su derecho a la alimentación del bebé sin perjuicio económico.",
+    "source_quote": "Para cualquiera de estas tres opciones, la hora deberá ser remunerada.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extender el derecho de lactancia a las madres adoptantes, condicionándolo a una certificación médica que acredite la necesidad del periodo de inducción, equiparando así la protección a la maternidad adoptiva.",
+    "source_quote": "En casos de adopción, la madre adoptante tendrá derecho a un periodo de lactancia materna para facilitar el proceso de inducción a la lactancia. Para ello, deberá presentar la certificación correspondiente, emitida por un profesional especializado en salud, en la que se indique el periodo requerido para realizar el proceso.",
+    "item_index": 2
+  }
+]

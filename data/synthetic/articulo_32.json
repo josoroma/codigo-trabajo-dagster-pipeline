@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 32 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 32 permite al patrono renunciar, de forma expresa o tácita, a los derechos que le confieren los artículos 28 y 31. Además, establece que se presume legalmente la renuncia tácita si el patrono no presenta su reclamo dentro de los treinta días siguientes a la fecha en que el trabajador finalizó el contrato.",
+    "source_quote": "El patrono puede renunciar expresa o tácitamente los derechos que le otorgan los artículos 28 y 31. La renuncia se presumirá de pleno derecho siempre que no formule su reclamo antes de treinta días contados a partir de aquél en que el trabajador puso término al contrato.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "32",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_32"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "32",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_32",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué derechos puede renunciar el patrono según el artículo 32?",
+    "output": "A los derechos que le otorgan los artículos 28 y 31 del Código de Trabajo.",
+    "source_quote": "El patrono puede renunciar expresa o tácitamente los derechos que le otorgan los artículos 28 y 31.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "32",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_32",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se presume de pleno derecho la renuncia tácita del patrono?",
+    "output": "Se presume cuando el patrono no formula su reclamo antes de treinta días contados a partir de que el trabajador puso término al contrato.",
+    "source_quote": "La renuncia se presumirá de pleno derecho siempre que no formule su reclamo antes de treinta días contados a partir de aquél en que el trabajador puso término al contrato.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "32",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_32",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la facultad del patrono para disponer de los derechos previstos en los artículos 28 y 31, ya sea mediante manifestación explícita o por conducta que implique abandono de tales derechos.",
+    "source_quote": "El patrono puede renunciar expresa o tácitamente los derechos que le otorgan los artículos 28 y 31.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "32",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_32",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una presunción legal de renuncia tácita cuando el patrono omite reclamar dentro del plazo de treinta días posteriores a la terminación del contrato por parte del trabajador, otorgando certeza jurídica a la situación.",
+    "source_quote": "La renuncia se presumirá de pleno derecho siempre que no formule su reclamo antes de treinta días contados a partir de aquél en que el trabajador puso término al contrato.",
+    "item_index": 2
+  }
+]

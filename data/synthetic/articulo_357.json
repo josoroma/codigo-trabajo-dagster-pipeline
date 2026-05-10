@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 357 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 357 permite que dos o más sindicatos se fusionen, siempre que acuerden disolverse y constituir uno nuevo.",
+    "source_quote": "Dos o más sindicatos podrán fusionarse entre sí, una vez que acuerden sus respectivas disoluciones y firmen uno nuevo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "357",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_357"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "357",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_357",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir dos o más sindicatos para fusionarse según el artículo 357?",
+    "output": "Deben acordar sus respectivas disoluciones y firmar un nuevo sindicato.",
+    "source_quote": "una vez que acuerden sus respectivas disoluciones y firmen uno nuevo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "357",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_357",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos sindicatos pueden fusionarse según este artículo?",
+    "output": "Dos o más sindicatos.",
+    "source_quote": "Dos o más sindicatos podrán fusionarse entre sí.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "357",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_357",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la posibilidad de fusión entre sindicatos, indicando el número mínimo de participantes.",
+    "source_quote": "Dos o más sindicatos podrán fusionarse entre sí",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "357",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_357",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones necesarias para la fusión: el acuerdo de disolución de los sindicatos originales y la firma de un nuevo sindicato.",
+    "source_quote": "una vez que acuerden sus respectivas disoluciones y firmen uno nuevo",
+    "item_index": 2
+  }
+]

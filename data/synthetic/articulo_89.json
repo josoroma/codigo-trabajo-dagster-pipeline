@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 89 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 89 prohíbe el trabajo de menores de edad en ciertas condiciones, estableciendo jornadas máximas según la edad: para los mayores de quince y menores de dieciocho años, máximo siete horas diarias y cuarenta y dos semanales; para los menores de quince y mayores de doce, cinco horas diarias y treinta semanales; prohíbe totalmente el trabajo de menores de doce años; y prohíbe la ocupación de menores en edad escolar que no hayan completado la instrucción obligatoria o cuyo trabajo lo impida. Como excepción, permite el trabajo diurno en explotaciones agrícolas o ganaderas para mayores de doce y menores de dieciocho años, con limitaciones del Capítulo Segundo del Título Tercero y cumpliendo los incisos b) y c) del artículo 91. Una nota aclara que el Código de la Niñez y la Adolescencia fijó una jornada diurna máxima de seis horas diarias y treinta y seis semanales para los trabajadores adolescentes de quince años.",
+    "source_quote": "Igualmente queda prohibido: - El trabajo durante más de siete horas diarias y cuarenta y dos semanales para los mayores de quince años y menores de dieciocho; - El trabajo durante más de cinco horas diarias y treinta semanales para los menores de quince años y mayores de doce; - El trabajo de los menores de doce años, y - En general, la ocupación de menores comprendidos en la edad escolar que no hayan completado, o cuyo trabajo no les permita completar, la instrucción obligatoria.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la jornada máxima diaria y semanal permitida para los mayores de quince años y menores de dieciocho según el artículo 89?",
+    "output": "Siete horas diarias y cuarenta y dos semanales.",
+    "source_quote": "El trabajo durante más de siete horas diarias y cuarenta y dos semanales para los mayores de quince años y menores de dieciocho;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción permite el artículo 89 para el trabajo de menores en explotaciones agrícolas o ganaderas?",
+    "output": "Se permite el trabajo diurno de los mayores de doce y menores de dieciocho años, dentro de las limitaciones del Capítulo Segundo del Título Tercero y siempre que se cumplan los incisos b) y c) del artículo 91.",
+    "source_quote": "No obstante, en tratándose de explotaciones agrícolas o ganaderas, se permitirá el trabajo diurno de los mayores de doce y menores de dieciocho años, dentro de las limitaciones que establece el Capítulo Segundo del Título Tercero y siempre que en cada caso se cumplan las disposiciones del artículo 91, incisos b) y c)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Según la nota incluida en el artículo 89, ¿qué jornada máxima estableció el Código de la Niñez y la Adolescencia para los trabajadores adolescentes de quince años?",
+    "output": "Una jornada diurna máxima de seis horas diarias y treinta y seis semanales.",
+    "source_quote": "El Código de la Niñez y la Adolescencia, Ley N° 7739 del 6 de febrero de 1998, estableció una jornada diurna máxima de seis horas diarias y de treinta y seis semanales para los trabajadores adolescentes (Quince Años)",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece prohibiciones absolutas y límites de jornada para proteger la salud, desarrollo y educación de los menores, impidiendo su explotación laboral y garantizando que el trabajo no interfiera con su formación escolar obligatoria.",
+    "source_quote": "Igualmente queda prohibido: - El trabajo durante más de siete horas diarias y cuarenta y dos semanales para los mayores de quince años y menores de dieciocho; - El trabajo durante más de cinco horas diarias y treinta semanales para los menores de quince años y mayores de doce; - El trabajo de los menores de doce años, y - En general, la ocupación de menores comprendidos en la edad escolar que no hayan completado, o cuyo trabajo no les permita completar, la instrucción obligatoria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción para el sector agropecuario, permitiendo el trabajo diurno de menores bajo condiciones controladas, remitiendo a otras normas que regulan la seguridad y condiciones laborales, equilibrando la realidad del trabajo rural con la protección del menor.",
+    "source_quote": "No obstante, en tratándose de explotaciones agrícolas o ganaderas, se permitirá el trabajo diurno de los mayores de doce y menores de dieciocho años, dentro de las limitaciones que establece el Capítulo Segundo del Título Tercero y siempre que en cada caso se cumplan las disposiciones del artículo 91, incisos b) y c)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "89",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_89",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Actualiza la jornada laboral para los adolescentes de quince años, reduciéndola respecto a lo dispuesto originalmente en el artículo, en concordancia con la legislación especial de niñez y adolescencia que prima sobre el Código de Trabajo en esta materia.",
+    "source_quote": "El Código de la Niñez y la Adolescencia, Ley N° 7739 del 6 de febrero de 1998, estableció una jornada diurna máxima de seis horas diarias y de treinta y seis semanales para los trabajadores adolescentes (Quince Años)",
+    "item_index": 3
+  }
+]

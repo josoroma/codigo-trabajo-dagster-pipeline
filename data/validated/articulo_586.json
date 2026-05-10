@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 586 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 586 regula la procedencia de los recursos de casación y apelación en materia laboral. Establece que el recurso de casación cabe contra sentencias de procesos ordinarios y otros pronunciamientos con autoridad de cosa juzgada material, por motivos procesales o sustantivos, siempre que el proceso sea inestimable o su cuantía supere el monto fijado por la Corte Suprema de Justicia. En los demás casos y en procesos por riesgos de trabajo, sin importar la cuantía, solo procede el recurso de apelación. Además, fija los plazos para interponerlos: diez días para casación y tres días para apelación, contados desde la notificación de la sentencia.",
+    "source_quote": "Procede el recurso para ante el órgano de casación contra la sentencia del proceso ordinario y también, salvo disposición expresa en contrario, contra los demás pronunciamientos con autoridad de cosa juzgada material, por razones procesales y sustantivas, siempre y cuando en el proceso en que se dicten sea inestimable o, en caso contrario, de una cuantía determinada exclusivamente por el valor de las pretensiones no accesorias, que sea superior al monto fijado por la Corte Suprema de Justicia...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "586",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_586"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "586",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_586",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de procesos laborales solo se admite el recurso de apelación según el artículo 586?",
+    "output": "En los procesos por riesgos de trabajo, cualquiera sea su cuantía, y en los demás casos que no cumplan los requisitos para el recurso de casación.",
+    "source_quote": "En los demás casos, así como en los procesos por riesgos de trabajo, cualquiera sea su cuantía, la sentencia admite únicamente el recurso de apelación para ante el tribunal de apelaciones competente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "586",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_586",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para presentar el recurso de casación según el artículo 586?",
+    "output": "Dentro de diez días a partir de la notificación de la sentencia.",
+    "source_quote": "Los recursos de casación y de apelación deberán ser presentados ante el juzgado; el primero dentro de diez días y el segundo dentro de tres días, a partir de la notificación de la sentencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "586",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_586",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los supuestos de admisibilidad del recurso de casación en materia laboral, limitándolo a procesos de cuantía elevada o inestimable y a resoluciones con efecto de cosa juzgada material, garantizando así que solo los asuntos de mayor relevancia económica o jurídica accedan a esta instancia extraordinaria.",
+    "source_quote": "Procede el recurso para ante el órgano de casación contra la sentencia del proceso ordinario y también, salvo disposición expresa en contrario, contra los demás pronunciamientos con autoridad de cosa juzgada material, por razones procesales y sustantivas, siempre y cuando en el proceso en que se dicten sea inestimable o, en caso contrario, de una cuantía determinada exclusivamente por el valor de las pretensiones no accesorias, que sea superior al monto fijado por la Corte Suprema de Justicia para la procedencia del recurso de casación, según la competencia otorgada al efecto por la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "586",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_586",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los plazos perentorios y el órgano ante el cual se interponen ambos recursos, asegurando la celeridad procesal y la seguridad jurídica al fijar términos breves y uniformes para la impugnación de sentencias laborales.",
+    "source_quote": "Los recursos de casación y de apelación deberán ser presentados ante el juzgado; el primero dentro de diez días y el segundo dentro de tres días, a partir de la notificación de la sentencia.",
+    "item_index": 2
+  }
+]

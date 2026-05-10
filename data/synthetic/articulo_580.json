@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 580 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 580 establece que contra las providencias escritas no se admite ningún recurso. No obstante, el órgano que las emitió puede dejarlas sin efecto o modificarlas dentro de los tres días posteriores a su notificación, ya sea por iniciativa propia o a partir de observaciones presentadas por las partes. Si dichas observaciones se consideran improcedentes, el órgano está obligado a dictar una resolución que así lo declare.",
+    "source_quote": "Contra las providencias escritas no cabrá recurso alguno, pero el órgano podrá dejarlas sin efecto o modificarlas dentro de los tres días siguientes a la notificación, de oficio o en virtud de observaciones de las partes. Si estas se juzgaran improcedentes, será necesario dictar resolución.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "580",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_580"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "580",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_580",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Contra qué tipo de resoluciones no cabe recurso según el artículo 580?",
+    "output": "Contra las providencias escritas.",
+    "source_quote": "Contra las providencias escritas no cabrá recurso alguno",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "580",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_580",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el órgano si las observaciones de las partes se juzgan improcedentes?",
+    "output": "Debe dictar una resolución.",
+    "source_quote": "Si estas se juzgaran improcedentes, será necesario dictar resolución.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "580",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_580",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la inimpugnabilidad de las providencias escritas, es decir, que no admiten ningún recurso, otorgándoles firmeza procesal inmediata.",
+    "source_quote": "Contra las providencias escritas no cabrá recurso alguno",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "580",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_580",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al órgano la facultad de revisar sus propias providencias escritas en un plazo breve, ya sea por iniciativa propia o a instancia de parte, como mecanismo de control interno. Además, impone la obligación de emitir una resolución formal cuando se desestimen las observaciones, garantizando una respuesta motivada y el derecho de defensa.",
+    "source_quote": "el órgano podrá dejarlas sin efecto o modificarlas dentro de los tres días siguientes a la notificación, de oficio o en virtud de observaciones de las partes. Si estas se juzgaran improcedentes, será necesario dictar resolución.",
+    "item_index": 2
+  }
+]

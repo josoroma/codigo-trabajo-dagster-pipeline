@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 58 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 58 del Código de Trabajo detalla los elementos que debe contener una convención colectiva, tales como la intensidad y calidad del trabajo, jornada laboral, descansos, vacaciones, salarios, profesiones y lugares cubiertos. Además, regula la duración de la convención (entre uno y tres años), su prórroga automática y las condiciones para denunciarla, exigiendo que la denuncia sea presentada con un mes de anticipación y que represente al menos el sesenta por ciento de los miembros del sindicato o patronos afectados. También prohíbe cláusulas que obliguen al patrono a renovar personal a solicitud del sindicato o que pongan en inferioridad manifiesta a los no sindicalizados.",
+    "source_quote": "En la convención colectiva se especificará todo lo relativo a: - La intensidad y calidad del trabajo; - La jornada de trabajo, los descansos y las vacaciones; - Los salarios; - Los profesiones, oficios, actividades y lugares que comprenda; - La duración de la convención y el día en que comenzará a regir.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "58",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_58"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "58",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_58",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo mínimo y máximo de vigencia de una convención colectiva según el artículo 58?",
+    "output": "No podrá fijarse su vigencia por un plazo menor de un año ni mayor de tres.",
+    "source_quote": "no podrá fijarse su vigencia por un plazo menor de un año ni mayor de tres",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "58",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_58",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje de representación sindical se requiere para que los trabajadores denuncien la convención colectiva?",
+    "output": "Por lo menos el sesenta por ciento de la totalidad de los miembros que tenían el sindicato o sindicatos que la hubieren celebrado.",
+    "source_quote": "Cuando la denuncia la hicieren los trabajadores, deberán representar por lo menos el sesenta por ciento de la totalidad de los miembros que tenían el sindicato o sindicatos que la hubieren celebrado",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "58",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_58",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las reglas para la duración y renovación de la convención colectiva, protegiendo la estabilidad de la relación laboral colectiva al fijar plazos máximos y mínimos, y estableciendo un mecanismo de prórroga automática que requiere denuncia expresa con anticipación y mayorías calificadas.",
+    "source_quote": "La duración de la convención y el día en que comenzará a regir. Es entendido que no podrá fijarse su vigencia por un plazo menor de un año ni mayor de tres, pero que en cada ocasión se prorrogará automáticamente durante un período igual al estipulado, si ninguna de las partes la denuncia con un mes de anticipación al respectivo vencimiento. Cuando la denuncia la hicieren los trabajadores, deberán representar por lo menos el sesenta por ciento de la totalidad de los miembros que tenían el sindicato o sindicatos que la hubieren celebrado; y cuando la formulen los patronos, éstos deberán en ese momento tener trabajando por lo menos igual porcentaje de los afectados por la convención.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "58",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_58",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohíbe cláusulas que atenten contra la igualdad de los trabajadores o que comprometan la gestión del empleador de manera abusiva, como la renovación forzosa de personal a petición sindical o la discriminación contra los no sindicalizados.",
+    "source_quote": "No será válida la cláusula que obligue al patrono a renovar el personal a solicitud del sindicato de trabajadores, o cualquier otra que ponga en condiciones de manifiesta inferioridad a los no sindicalizados",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 149 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 149 prohíbe de manera absoluta que los patronos hagan trabajar a sus empleados en días feriados. Si un patrono incumple esta prohibición, se le impondrá una multa legal y deberá indemnizar a los trabajadores según lo establecido en el párrafo segundo del artículo 152.",
+    "source_quote": "Queda absolutamente prohibido a los patronos ocupar a sus trabajadores durante los días feriados; y el que lo hiciere sufrirá la multa de ley y deberá indemnizarlos en la forma que determina el párrafo segundo del artículo 152.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "149",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_149"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "149",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_149",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitido que un patrono ocupe a sus trabajadores en días feriados?",
+    "output": "No, está absolutamente prohibido.",
+    "source_quote": "Queda absolutamente prohibido a los patronos ocupar a sus trabajadores durante los días feriados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "149",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_149",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencias enfrenta un patrono que ocupa a sus trabajadores en días feriados?",
+    "output": "Sufrirá la multa de ley y deberá indemnizarlos según el párrafo segundo del artículo 152.",
+    "source_quote": "el que lo hiciere sufrirá la multa de ley y deberá indemnizarlos en la forma que determina el párrafo segundo del artículo 152.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "149",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_149",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de trabajar en días feriados, protegiendo el derecho al descanso de los trabajadores en esas fechas.",
+    "source_quote": "Queda absolutamente prohibido a los patronos ocupar a sus trabajadores durante los días feriados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "149",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_149",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las consecuencias legales para el patrono que incumpla la prohibición: una multa y la obligación de indemnizar a los trabajadores conforme a lo dispuesto en otra norma del mismo código.",
+    "source_quote": "el que lo hiciere sufrirá la multa de ley y deberá indemnizarlos en la forma que determina el párrafo segundo del artículo 152.",
+    "item_index": 2
+  }
+]

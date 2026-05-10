@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 547 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que si los funcionarios responsables no cumplen con los plazos o el trámite prioritario indicados en esta sección sobre distribución de prestaciones de trabajadores fallecidos, esa omisión se considera una falta de servicio y debe ser sancionada disciplinariamente.",
+    "source_quote": "El incumplimiento de los plazos o del trámite prioritario establecidos en esta sección se considerará falta de servicio de los funcionarios responsables y será sancionado disciplinariamente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "547",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_547"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "547",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_547",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene el incumplimiento de los plazos o del trámite prioritario en la distribución de prestaciones de trabajadores fallecidos?",
+    "output": "Se considera falta de servicio de los funcionarios responsables y se sanciona disciplinariamente.",
+    "source_quote": "El incumplimiento de los plazos o del trámite prioritario establecidos en esta sección se considerará falta de servicio de los funcionarios responsables y será sancionado disciplinariamente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "547",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_547",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se les aplica la sanción por no respetar los plazos o el trámite prioritario según este artículo?",
+    "output": "A los funcionarios responsables del incumplimiento.",
+    "source_quote": "se considerará falta de servicio de los funcionarios responsables",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "547",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_547",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la conducta que activa la consecuencia legal: no respetar los tiempos o el procedimiento preferente fijados para la distribución de prestaciones de trabajadores fallecidos.",
+    "source_quote": "El incumplimiento de los plazos o del trámite prioritario establecidos en esta sección",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "547",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_547",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la calificación jurídica de la omisión como falta de servicio y la obligación de imponer una sanción disciplinaria a los funcionarios que incurran en ella.",
+    "source_quote": "se considerará falta de servicio de los funcionarios responsables y será sancionado disciplinariamente.",
+    "item_index": 2
+  }
+]

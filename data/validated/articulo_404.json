@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 404 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 404 establece una prohibición absoluta de cualquier discriminación en el ámbito laboral, enumerando una lista amplia de motivos protegidos como edad, etnia, sexo, religión, raza, orientación sexual, estado civil, opinión política, ascendencia nacional, origen social, filiación, condición de salud, discapacidad, afiliación sindical, presentación de denuncias por corrupción, situación económica, y cualquier otra forma análoga de discriminación.",
+    "source_quote": "Se prohíbe toda discriminación en el trabajo por razones de edad, etnia, sexo, religión, raza, orientación sexual, estado civil, opinión política, ascendencia nacional, origen social, filiación, condición de salud, discapacidad, afiliación sindical, presentación de denuncias o rendición de testimonio sobre actos de corrupción conforme a lo dispuesto en el artículo 3, inciso 1), de la Ley de Promoción de Denuncias y Protección de las Personas Denunciantes y Testigos de Actos de Corrupción contra Represalias Laborales, situación económica o cualquier otra forma análoga de discriminación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "404",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_404"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "404",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_404",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está prohibida la discriminación laboral por orientación sexual según el artículo 404?",
+    "output": "Sí, el artículo 404 prohíbe expresamente la discriminación en el trabajo por razones de orientación sexual.",
+    "source_quote": "por razones de edad, etnia, sexo, religión, raza, orientación sexual",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "404",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_404",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Protege el artículo 404 contra represalias por denunciar actos de corrupción?",
+    "output": "Sí, prohíbe la discriminación laboral por la presentación de denuncias o el rendimiento de testimonio sobre actos de corrupción.",
+    "source_quote": "presentación de denuncias o rendición de testimonio sobre actos de corrupción",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "404",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_404",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición amplia de discriminación laboral, enumerando categorías protegidas para garantizar la igualdad de trato en el empleo.",
+    "source_quote": "Se prohíbe toda discriminación en el trabajo por razones de edad, etnia, sexo, religión, raza, orientación sexual, estado civil, opinión política, ascendencia nacional, origen social, filiación, condición de salud, discapacidad, afiliación sindical",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "404",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_404",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la protección a quienes denuncian corrupción, remitiendo a una ley específica, e incluye una cláusula abierta para cubrir otras formas de discriminación no enumeradas explícitamente.",
+    "source_quote": "presentación de denuncias o rendición de testimonio sobre actos de corrupción conforme a lo dispuesto en el artículo 3, inciso 1), de la Ley de Promoción de Denuncias y Protección de las Personas Denunciantes y Testigos de Actos de Corrupción contra Represalias Laborales, situación económica o cualquier otra forma análoga de discriminación",
+    "item_index": 2
+  }
+]

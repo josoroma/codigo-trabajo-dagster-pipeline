@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 31 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 31 regula la terminación anticipada de contratos a tiempo fijo o por obra determinada sin necesidad de justa causa. Permite que cualquiera de las partes dé por finalizado el contrato antes del plazo o de la conclusión de la obra, siempre que pague a la otra los daños y perjuicios que se demuestren. Si es el patrono quien termina el contrato, además de esos daños, debe pagar al trabajador una indemnización adicional equivalente a un día de salario por cada siete días trabajados, con un mínimo de tres días de salario. Si el contrato es por seis meses o más, o la obra debe durar ese tiempo o más, esa indemnización adicional nunca puede ser inferior a veintidós días de salario.",
+    "source_quote": "En los contratos a tiempo fijo y para obra determinada, cada una de las partes puede ponerles término, sin justa causa, antes del advenimiento del plazo o de la conclusión de la obra, pagando a la otra los daños y perjuicios concretos que demuestre...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "31",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_31"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "31",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_31",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de contratos permite terminar anticipadamente el artículo 31 sin justa causa?",
+    "output": "Los contratos a tiempo fijo y para obra determinada.",
+    "source_quote": "En los contratos a tiempo fijo y para obra determinada, cada una de las partes puede ponerles término, sin justa causa...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "31",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_31",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el monto mínimo de la indemnización adicional que debe pagar el patrono si el contrato es por seis meses o más?",
+    "output": "Veintidós días de salario.",
+    "source_quote": "No obstante, si el contrato se ha estipulado por seis meses o más o la ejecución de la obra, por su naturaleza o importancia, deba durar este plazo u otro mayor, la referida indemnización adicional nunca podrá ser inferior a veintidós días de salario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "31",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_31",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad de ambas partes de terminar anticipadamente contratos de duración determinada sin justa causa, condicionada al pago de daños y perjuicios demostrables, cuyos criterios de cuantificación quedan a discreción judicial.",
+    "source_quote": "En los contratos a tiempo fijo y para obra determinada, cada una de las partes puede ponerles término, sin justa causa, antes del advenimiento del plazo o de la conclusión de la obra, pagando a la otra los daños y perjuicios concretos que demuestre, en relación con el tiempo de duración del contrato resuelto, con la importancia de la función desempeñada y con la dificultad que el trabajador tenga para procurarse cargo o empleo equivalente, o el patrono para encontrar sustituto, todo a juicio de los Tribunales de Trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "31",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_31",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono una indemnización adicional automática y proporcional al tiempo trabajado cuando ejerce la terminación anticipada, con pisos mínimos de tres o veintidós días de salario según la duración pactada del contrato, para proteger al trabajador frente a la pérdida intempestiva del empleo.",
+    "source_quote": "Cuando el patrono ejercite la facultad aludida en el párrafo anterior, además deberá pagar al trabajador, en el mismo momento de dar por concluido el contrato, el importe correspondiente a un día de salario por cada siete días de trabajo continuo ejecutado o fracción de tiempo menor, si no se hubiera ajustado dicho término; pero en ningún caso esta suma podrá ser inferior a tres días de salario. No obstante, si el contrato se ha estipulado por seis meses o más o la ejecución de la obra, por su naturaleza o importancia, deba durar este plazo u otro mayor, la referida indemnización adicional nunca podrá ser inferior a veintidós días de salario.",
+    "item_index": 2
+  }
+]

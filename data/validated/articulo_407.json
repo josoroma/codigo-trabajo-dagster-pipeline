@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 407 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 407 establece una prohibición expresa para las personas empleadoras: no pueden discriminar por razón de edad cuando solicitan un servicio o cuando seleccionan a una persona trabajadora. Esto significa que en procesos de contratación o al requerir algún servicio, la edad no puede ser un factor de exclusión o preferencia.",
+    "source_quote": "Queda prohibido a las personas empleadoras discriminar por edad al solicitar un servicio o seleccionar a un trabajador o una trabajadora.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "407",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_407"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "407",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_407",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe expresamente el artículo 407 del Código de Trabajo?",
+    "output": "Prohíbe a las personas empleadoras discriminar por edad al solicitar un servicio o al seleccionar a un trabajador o una trabajadora.",
+    "source_quote": "Queda prohibido a las personas empleadoras discriminar por edad al solicitar un servicio o seleccionar a un trabajador o una trabajadora.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "407",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_407",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se dirige la prohibición de discriminación por edad según el artículo 407?",
+    "output": "Se dirige a las personas empleadoras.",
+    "source_quote": "Queda prohibido a las personas empleadoras discriminar por edad...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "407",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_407",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de discriminación por edad, identificando al sujeto obligado: las personas empleadoras. Su propósito es eliminar cualquier práctica que excluya o limite a las personas por su edad en el ámbito laboral.",
+    "source_quote": "Queda prohibido a las personas empleadoras discriminar por edad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "407",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_407",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita los contextos en los que aplica la prohibición: cuando el empleador solicita un servicio o cuando realiza la selección de personal. Así se cubren tanto las relaciones de contratación de servicios como las de trabajo subordinado, garantizando igualdad de oportunidades sin distinción de edad.",
+    "source_quote": "al solicitar un servicio o seleccionar a un trabajador o una trabajadora",
+    "item_index": 2
+  }
+]

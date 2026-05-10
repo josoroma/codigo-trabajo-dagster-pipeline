@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 553 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 553 regula el procedimiento para solicitar autorización judicial cuando la ley exige esa autorización para realizar un acto. La parte interesada debe presentar una solicitud por escrito, cumpliendo los requisitos de una demanda. Luego, se da traslado por tres días a la persona que podría ser afectada. Si no se necesita prueba testimonial o técnica, el juez dicta sentencia en cinco días tras recibir la contestación o vencer el plazo sin respuesta. Si se requieren esas pruebas, se convoca a una audiencia.",
+    "source_quote": "Cuando de acuerdo con la ley se requiera la autorización de un órgano jurisdiccional para llevar a cabo un determinado acto, la parte interesada lo solicitará por escrito y cumplirá en lo que resulte pertinente los requisitos de la demanda. Respecto de la solicitud, se dará traslado por tres días a quien se pretenda afectar con el acto, en la misma forma prevista para la demanda. Si no fuera del caso la evacuación de pruebas testimonial o técnica, se dictará sentencia dentro de los cinco días siguientes al recibido de la contestación o del plazo para contestar cuando no se hubiera respondido el emplazamiento. De lo contrario, se convocará a audiencia y al respecto se deberá estar dispuesto para esta actividad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "553",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_553"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "553",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_553",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe presentarse la solicitud de autorización judicial según el artículo 553?",
+    "output": "La solicitud debe presentarse por escrito y cumplir, en lo que resulte pertinente, los requisitos de la demanda.",
+    "source_quote": "la parte interesada lo solicitará por escrito y cumplirá en lo que resulte pertinente los requisitos de la demanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "553",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_553",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo se dicta sentencia si no se requiere prueba testimonial o técnica?",
+    "output": "Se dicta sentencia dentro de los cinco días siguientes al recibido de la contestación o del plazo para contestar cuando no se hubiera respondido el emplazamiento.",
+    "source_quote": "Si no fuera del caso la evacuación de pruebas testimonial o técnica, se dictará sentencia dentro de los cinco días siguientes al recibido de la contestación o del plazo para contestar cuando no se hubiera respondido el emplazamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "553",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_553",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el requisito de solicitud escrita y el cumplimiento de las formalidades propias de una demanda para obtener la autorización judicial, asegurando que la petición cumpla con los estándares procesales básicos.",
+    "source_quote": "Cuando de acuerdo con la ley se requiera la autorización de un órgano jurisdiccional para llevar a cabo un determinado acto, la parte interesada lo solicitará por escrito y cumplirá en lo que resulte pertinente los requisitos de la demanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "553",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_553",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho de audiencia y defensa de la persona que podría resultar afectada por el acto, otorgándole un plazo de tres días para pronunciarse, en igualdad de condiciones procesales.",
+    "source_quote": "Respecto de la solicitud, se dará traslado por tres días a quien se pretenda afectar con el acto, en la misma forma prevista para la demanda.",
+    "item_index": 2
+  }
+]

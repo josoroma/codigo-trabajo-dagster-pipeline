@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 287 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 287 establece que los trabajadores excluidos de la cobertura del Título IV, según lo dispuesto en el artículo 194, quedan sujetos a las normas de este Capítulo. Sin embargo, las obligaciones que normalmente corresponderían al patrono serán asumidas, dependiendo de la situación, por el jefe de familia o por los propios trabajadores.",
+    "source_quote": "Los trabajadores que no están amparados por este Título, conforme al artículo 194, quedan sometidos a las disposiciones de este Capítulo, pero las obligaciones correspondientes al patrono, recaerán, según el caso, sobre el jefe de familia o los propios trabajadores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "287",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_287"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "287",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_287",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué trabajadores se aplica este artículo?",
+    "output": "A los trabajadores que no están amparados por este Título, conforme al artículo 194.",
+    "source_quote": "Los trabajadores que no están amparados por este Título, conforme al artículo 194",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "287",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_287",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre quién recaen las obligaciones correspondientes al patrono según este artículo?",
+    "output": "Según el caso, sobre el jefe de familia o los propios trabajadores.",
+    "source_quote": "las obligaciones correspondientes al patrono, recaerán, según el caso, sobre el jefe de familia o los propios trabajadores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "287",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_287",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito personal de aplicación del capítulo, indicando que los trabajadores no cubiertos por el Título IV (según el artículo 194) se regirán por estas normas.",
+    "source_quote": "Los trabajadores que no están amparados por este Título, conforme al artículo 194, quedan sometidos a las disposiciones de este Capítulo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "287",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_287",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción a la regla general de imputación de obligaciones patronales, trasladándolas al jefe de familia o a los propios trabajadores, según la situación concreta.",
+    "source_quote": "pero las obligaciones correspondientes al patrono, recaerán, según el caso, sobre el jefe de familia o los propios trabajadores.",
+    "item_index": 2
+  }
+]

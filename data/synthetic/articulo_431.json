@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 431 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 431 regula la competencia territorial de los órganos jurisdiccionales laborales. Establece que su competencia está limitada al territorio asignado, salvo cuando sea necesario trasladarse para realizar actuaciones indelegables, cuyos gastos cubre la parte interesada, excepto si es la persona trabajadora, en cuyo caso los paga el Estado. La competencia solo puede prorrogarse en beneficio de la persona trabajadora, nunca en su perjuicio, y se presume que la presentación de la demanda por ella en un determinado órgano le beneficia. Luego enumera reglas específicas para determinar el juzgado competente según el tipo de conflicto, favoreciendo generalmente la elección del demandante.",
+    "source_quote": "Los órganos tienen limitada su competencia al territorio señalado para ejercerla, excepto los casos en que sea necesario su traslado a otro territorio para practicar actuaciones indelegables. Los gastos de traslado correrán por cuenta de la parte interesada, salvo cuando se trate de las personas trabajadoras, en cuyo caso serán cubiertos por el Estado. Únicamente podrá prorrogarse la competencia en beneficio de la persona trabajadora, nunca en su perjuicio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "431",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_431"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "431",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_431",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la regla general para determinar el juzgado competente en materia laboral?",
+    "output": "Será competente el juzgado del lugar de la prestación de los servicios o el del domicilio del demandante, a elección de este último.",
+    "source_quote": "Como regla general, será juzgado competente el del lugar de la prestación de los servicios, o el del domicilio del demandante, a elección de este último.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "431",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_431",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume los gastos de traslado cuando un órgano jurisdiccional debe desplazarse a otro territorio para realizar actuaciones indelegables?",
+    "output": "Los gastos los cubre la parte interesada, salvo cuando se trate de personas trabajadoras, en cuyo caso los cubre el Estado.",
+    "source_quote": "Los gastos de traslado correrán por cuenta de la parte interesada, salvo cuando se trate de las personas trabajadoras, en cuyo caso serán cubiertos por el Estado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "431",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_431",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de limitación territorial de la competencia y la excepción para actos indelegables, asignando los costos del traslado de manera que se protege a la persona trabajadora al eximirla de esos gastos.",
+    "source_quote": "Los órganos tienen limitada su competencia al territorio señalado para ejercerla, excepto los casos en que sea necesario su traslado a otro territorio para practicar actuaciones indelegables. Los gastos de traslado correrán por cuenta de la parte interesada, salvo cuando se trate de las personas trabajadoras, en cuyo caso serán cubiertos por el Estado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "431",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_431",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra una garantía procesal en favor de la persona trabajadora, impidiendo que la competencia se extienda en su contra y creando una presunción legal de beneficio cuando ella elige el tribunal, lo que refuerza su protección en el proceso laboral.",
+    "source_quote": "Únicamente podrá prorrogarse la competencia en beneficio de la persona trabajadora, nunca en su perjuicio. La presentación de la demanda por esa persona, en un determinado órgano jurisdiccional, hace presumir que la correspondiente competencia territorial representa un beneficio para ella.",
+    "item_index": 2
+  }
+]

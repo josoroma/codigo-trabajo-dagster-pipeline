@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 599 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 599 regula los efectos de diversos recursos. Dispone que los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión se rigen por la legislación procesal civil. Además, establece que el recurso de casación produce efectos suspensivos, y que las reglas de la apelación por inadmisión se aplican al recurso de casación con las modificaciones pertinentes. Finalmente, señala que contra las resoluciones del tribunal de apelación o del órgano de casación no cabe recurso alguno.",
+    "source_quote": "Los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión se regirán por lo dispuesto en la legislación procesal civil.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "599",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_599"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "599",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_599",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué legislación rige los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión según el artículo 599?",
+    "output": "La legislación procesal civil.",
+    "source_quote": "Los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión se regirán por lo dispuesto en la legislación procesal civil.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "599",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_599",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efectos produce el recurso de casación de acuerdo con este artículo?",
+    "output": "Efectos suspensivos.",
+    "source_quote": "El recurso de casación producirá efectos suspensivos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "599",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_599",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remitir la regulación de los efectos de esos recursos a la normativa procesal civil, evitando duplicidad normativa y asegurando coherencia con el sistema general de recursos.",
+    "source_quote": "Los efectos de la apelación, la apelación adhesiva y la apelación por inadmisión se regirán por lo dispuesto en la legislación procesal civil.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "599",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_599",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la inimpugnabilidad de las decisiones de esos órganos, garantizando la firmeza de las resoluciones y la seguridad jurídica.",
+    "source_quote": "Contra lo resuelto por el tribunal de apelación o el órgano de casación no cabe ulterior recurso.",
+    "item_index": 2
+  }
+]

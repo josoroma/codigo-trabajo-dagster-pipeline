@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 188 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 188 del Código de Trabajo fue derogado, es decir, eliminado del ordenamiento jurídico, por el artículo 2º de la ley Nº 3372 del 6 de agosto de 1964. Actualmente no tiene contenido ni vigencia.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "188",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_188"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "188",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_188",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿El artículo 188 del Código de Trabajo está actualmente vigente?",
+    "output": "No, el artículo 188 fue derogado y no está vigente.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "188",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_188",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Mediante qué norma se derogó el artículo 188 del Código de Trabajo?",
+    "output": "Fue derogado por el artículo 2º de la ley Nº 3372, promulgada el 6 de agosto de 1964.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "188",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_188",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta anotación indica que el artículo 188 ha sido eliminado del texto legal por una ley posterior, dejando constancia de la fecha y el instrumento normativo que produjo la derogatoria, para efectos de certeza jurídica y trazabilidad histórica.",
+    "source_quote": "(Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964)",
+    "item_index": 1
+  }
+]

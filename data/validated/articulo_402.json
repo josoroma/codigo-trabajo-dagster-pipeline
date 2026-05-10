@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 402 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 402 sanciona con una multa a toda persona que, actuando de mala fe, incite públicamente a realizar una huelga o un paro que vaya en contra de las normas establecidas en el Título Sétimo del Código de Trabajo. La multa oscila entre cinco y diez salarios base.",
+    "source_quote": "Toda persona que de mala fe incite públicamente a que una huelga o un paro se efectúe contra las disposiciones de este título, será sancionada con una multa de cinco a diez salarios base.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "402",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_402"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "402",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_402",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción se impone a quien incite públicamente de mala fe a una huelga o paro contra las disposiciones del Título Sétimo?",
+    "output": "Se impone una multa de cinco a diez salarios base.",
+    "source_quote": "será sancionada con una multa de cinco a diez salarios base.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "402",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_402",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué elemento subjetivo exige el artículo 402 para que la incitación pública sea sancionable?",
+    "output": "Exige que la incitación se realice de mala fe.",
+    "source_quote": "Toda persona que de mala fe incite públicamente...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "402",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_402",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la conducta prohibida: la incitación pública y maliciosa a una huelga o paro ilegal, es decir, contrario a las normas del Título Sétimo sobre conflictos colectivos.",
+    "source_quote": "Toda persona que de mala fe incite públicamente a que una huelga o un paro se efectúe contra las disposiciones de este título",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "402",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_402",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia jurídica para quien incurra en la conducta descrita, fijando una sanción pecuniaria dentro de un rango determinado.",
+    "source_quote": "será sancionada con una multa de cinco a diez salarios base",
+    "item_index": 2
+  }
+]

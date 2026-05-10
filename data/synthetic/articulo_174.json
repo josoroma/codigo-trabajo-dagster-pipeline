@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 174 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 174 establece que los salarios solo pueden ser cedidos, vendidos o gravados a favor de terceras personas en la misma proporción en que pueden ser embargados. Sin embargo, se exceptúan de esta regla las operaciones legales realizadas con cooperativas o con instituciones de crédito legalmente constituidas que se rijan por los mismos principios de las cooperativas.",
+    "source_quote": "Los salarios sólo podrán cederse, venderse o gravarse a favor de terceras personas, en la proporción en que sean embargables. Quedan a salvo las operaciones legales que se hagan con las cooperativas o con las instituciones de crédito legalmente constituidas, que se rijan por los mismos principios de aquéllas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "174",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_174"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "174",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_174",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué proporción pueden cederse, venderse o gravarse los salarios a favor de terceras personas?",
+    "output": "En la proporción en que sean embargables.",
+    "source_quote": "Los salarios sólo podrán cederse, venderse o gravarse a favor de terceras personas, en la proporción en que sean embargables.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "174",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_174",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué operaciones quedan a salvo de la limitación para ceder, vender o gravar salarios?",
+    "output": "Las operaciones legales que se hagan con las cooperativas o con las instituciones de crédito legalmente constituidas, que se rijan por los mismos principios de aquéllas.",
+    "source_quote": "Quedan a salvo las operaciones legales que se hagan con las cooperativas o con las instituciones de crédito legalmente constituidas, que se rijan por los mismos principios de aquéllas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "174",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_174",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general que limita la disposición de los salarios a favor de terceros, vinculándola a los límites del embargo, con el fin de proteger una parte del salario del trabajador.",
+    "source_quote": "Los salarios sólo podrán cederse, venderse o gravarse a favor de terceras personas, en la proporción en que sean embargables.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "174",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_174",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Crea una excepción a la regla general, permitiendo que los salarios puedan ser objeto de operaciones con cooperativas o entidades crediticias asimiladas, sin la limitación de la proporción embargable, para facilitar el acceso al crédito bajo principios cooperativos.",
+    "source_quote": "Quedan a salvo las operaciones legales que se hagan con las cooperativas o con las instituciones de crédito legalmente constituidas, que se rijan por los mismos principios de aquéllas.",
+    "item_index": 2
+  }
+]

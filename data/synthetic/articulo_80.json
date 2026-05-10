@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 80 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 80 del Código de Trabajo fue anulado por la Sala Constitucional, por lo que actualmente no tiene contenido normativo vigente ni produce efectos jurídicos.",
+    "source_quote": "Anulado mediante resolución de la Sala Constitucional N° 18356 del 2 de diciembre de 2009.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "80",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_80"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "80",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_80",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 80 del Código de Trabajo?",
+    "output": "Se encuentra anulado.",
+    "source_quote": "Anulado mediante resolución de la Sala Constitucional N° 18356 del 2 de diciembre de 2009.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "80",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_80",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué órgano anuló el artículo 80 del Código de Trabajo?",
+    "output": "La Sala Constitucional.",
+    "source_quote": "Anulado mediante resolución de la Sala Constitucional N° 18356 del 2 de diciembre de 2009.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "80",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_80",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Informar que el artículo fue declarado inconstitucional y, en consecuencia, ha perdido toda vigencia y aplicabilidad jurídica.",
+    "source_quote": "Anulado mediante resolución de la Sala Constitucional N° 18356 del 2 de diciembre de 2009.",
+    "item_index": 1
+  }
+]

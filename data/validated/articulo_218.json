@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 218 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 218 enumera las prestaciones a las que tiene derecho un trabajador que sufre un riesgo del trabajo. Estas incluyen asistencia médica, quirúrgica, hospitalaria, farmacéutica y de rehabilitación; prótesis y aparatos médicos para corregir deficiencias funcionales; indemnizaciones en dinero por incapacidad temporal, permanente o muerte; gastos de traslado según reglamento; gastos de hospedaje y alimentación cuando deba trasladarse para recibir atención, los cuales pueden ser sustituidos por la institución aseguradora si cuenta con centros propios o contratados, debiendo el trabajador cumplir con las normas de conducta exigidas por su estado; y readaptación, reubicación y rehabilitación laboral a través de instituciones especializadas.",
+    "source_quote": "El trabajador al que le ocurra un riesgo del trabajo tiene derecho a las siguientes prestaciones: - Asistencia médico- quirúrgica, hospitalaria, farmacéutica y de rehabilitación. - Prótesis y aparatos médicos que se requieran para corregir deficiencias funcionales. - Prestaciones en dinero que, como indemnización por incapacidad temporal, permanente o por la muerte, se fijan en este Código. ch) Gastos de traslado, en los términos y condiciones que establezca el reglamento de este Código. - Gastos de hospedaje y alimentación, cuando el trabajador, con motivo del suministro de las prestaciones médico-sanitarias o de rehabilitación, deba trasladarse a un lugar distinto de la residencia habitual o lugar de trabajo. [...] - Readaptación, reubicación y rehabilitación laboral que sea factible otorgar, por medio de las instituciones públicas nacionales especializadas en esta materia, o extranjeras, cuando así lo determine el ente asegurador o, en su caso, lo ordene una sentencia de los tribunales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "218",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_218"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "218",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_218",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de asistencia médica tiene derecho a recibir un trabajador que sufre un riesgo del trabajo según el artículo 218?",
+    "output": "Tiene derecho a asistencia médico-quirúrgica, hospitalaria, farmacéutica y de rehabilitación.",
+    "source_quote": "Asistencia médico- quirúrgica, hospitalaria, farmacéutica y de rehabilitación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "218",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_218",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos la institución aseguradora puede sustituir la prestación en dinero por gastos de hospedaje y alimentación?",
+    "output": "Cuando la institución aseguradora disponga de centros propios destinados a ese efecto o contrate dichos servicios en lugares adecuados, puede sustituir la prestación en dinero ubicando a los trabajadores en ellos.",
+    "source_quote": "Cuando la institución aseguradora disponga de centros propios, destinados a ese efecto, o contrate dichos servicios en lugares adecuados para ello, podrá sustituir esta prestación en dinero, ubicando a los trabajadores en ellos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "218",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_218",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el catálogo básico de prestaciones en especie y en dinero que garantizan la recuperación de la salud y la compensación económica del trabajador afectado por un riesgo laboral.",
+    "source_quote": "El trabajador al que le ocurra un riesgo del trabajo tiene derecho a las siguientes prestaciones: - Asistencia médico- quirúrgica, hospitalaria, farmacéutica y de rehabilitación. - Prótesis y aparatos médicos que se requieran para corregir deficiencias funcionales. - Prestaciones en dinero que, como indemnización por incapacidad temporal, permanente o por la muerte, se fijan en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "218",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_218",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regular la facultad de la aseguradora de sustituir el pago de hospedaje y alimentación por la provisión directa de estos servicios, condicionando dicha sustitución al cumplimiento por parte del trabajador de las normas de conducta necesarias para su recuperación, y eximiendo de responsabilidad a la institución por agravaciones derivadas del incumplimiento injustificado de tales normas.",
+    "source_quote": "Cuando la institución aseguradora disponga de centros propios, destinados a ese efecto, o contrate dichos servicios en lugares adecuados para ello, podrá sustituir esta prestación en dinero, ubicando a los trabajadores en ellos. En ambos casos, el trabajador deberá someterse a los requisitos de conducta que su estado exige. Si no lo hiciere, justificadamente, la institución no tendrá responsabilidad por las agravaciones que puedan surgir como consecuencia directa de la conducta del trabajador.",
+    "item_index": 2
+  }
+]

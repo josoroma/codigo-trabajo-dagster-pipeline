@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 511 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 511 establece que en los procesos laborales que son de puro derecho, el juez debe dictar la sentencia en un plazo máximo de quince días. Este plazo se cuenta a partir de que se contesta la demanda o la contrademanda, o bien, desde que se interponen las excepciones. Además, antes de emitir el fallo, se debe otorgar a las partes un traslado para que presenten sus conclusiones.",
+    "source_quote": "En los asuntos de puro derecho se dictará la sentencia dentro de los quince días posteriores a la contestación de la demanda o contrademanda o, en su caso, de las excepciones interpuestas, previo traslado para conclusiones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "511",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_511"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "511",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_511",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de asuntos se aplica el plazo de quince días para dictar sentencia según el artículo 511?",
+    "output": "En los asuntos de puro derecho.",
+    "source_quote": "En los asuntos de puro derecho",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "511",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_511",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo que establece el artículo 511 para dictar sentencia en asuntos de puro derecho?",
+    "output": "Quince días posteriores a la contestación de la demanda o contrademanda o, en su caso, de las excepciones interpuestas.",
+    "source_quote": "se dictará la sentencia dentro de los quince días posteriores a la contestación de la demanda o contrademanda o, en su caso, de las excepciones interpuestas",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "511",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_511",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo perentorio de quince días para que el juez emita la sentencia en procesos de puro derecho, contado desde el acto procesal que cierra la etapa de alegaciones (contestación o excepciones), garantizando celeridad en este tipo de asuntos.",
+    "source_quote": "En los asuntos de puro derecho se dictará la sentencia dentro de los quince días posteriores a la contestación de la demanda o contrademanda o, en su caso, de las excepciones interpuestas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "511",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_511",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un requisito procesal previo e ineludible: antes de dictar sentencia, se debe dar traslado a las partes para que presenten sus conclusiones, lo que asegura el ejercicio del derecho de defensa y la posibilidad de alegar sobre el fondo del asunto.",
+    "source_quote": "previo traslado para conclusiones",
+    "item_index": 2
+  }
+]

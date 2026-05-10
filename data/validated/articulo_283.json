@@ -1,0 +1,13 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 283 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 283 ordena al Poder Ejecutivo que, en un plazo máximo de un año desde la entrada en vigor de la modificación, emita los reglamentos de salud ocupacional necesarios. Estos reglamentos deben tener como objetivos directos proteger la salud e integridad física, moral y social de los trabajadores, así como prevenir y controlar los riesgos laborales. Además, detalla catorce aspectos que la reglamentación debe cubrir, como la planificación de centros de trabajo, condiciones ambientales, equipos de seguridad, manejo de sustancias peligrosas, jornadas laborales y servicios de salud ocupacional, entre otros.",
+    "source_quote": "El Poder Ejecutivo, en un plazo no superior a un año, contado a partir de la vigencia de la presente modificación, promulgará los reglamentos de salud ocupacional que sean necesarios y que tengan por objetivo directo - La protección de la salud y la preservación de la integridad física, moral y social de los trabajadores; y - La prevención y control de los riesgos del trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "283",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_283"
+  }
+]

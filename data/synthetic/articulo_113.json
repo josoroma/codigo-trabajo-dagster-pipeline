@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 113 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 113 permite a las autoridades sanitarias o de trabajo prohibir el trabajo a domicilio cuando existan condiciones muy insalubres o un caso de enfermedad contagiosa como tuberculosis. La prohibición se comunica formalmente al patrono y al trabajador. Una vez que se comprueba que esas condiciones cesaron, o que el enfermo se fue o se recuperó y se desinfectó el lugar, se autoriza reanudar la labor.",
+    "source_quote": "Las autoridades sanitarias o de trabajo prohibirán la ejecución de labores a domicilio, mediante notificación formal que harán al patrono y al trabajador, cuando en el lugar de trabajo imperen condiciones marcadamente antihigiénicas, o se presente un caso de tuberculosis o de enfermedad infecto-contagiosa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "113",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_113"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "113",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_113",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están facultados para prohibir las labores a domicilio según el artículo 113?",
+    "output": "Las autoridades sanitarias o de trabajo.",
+    "source_quote": "Las autoridades sanitarias o de trabajo prohibirán la ejecución de labores a domicilio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "113",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_113",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones deben cumplirse para que se otorgue permiso de reanudar el trabajo a domicilio después de una prohibición?",
+    "output": "La cesación comprobada de las condiciones antihigiénicas o del caso de enfermedad, o la salida o restablecimiento del enfermo y la debida desinfección del lugar.",
+    "source_quote": "A la cesación comprobada de estas circunstancias, o a la salida o restablecimiento del enfermo y debida desinfección del lugar, se otorgará permiso de reanudar el trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "113",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_113",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la potestad de las autoridades para suspender el trabajo a domicilio por riesgos sanitarios graves, asegurando que la medida se comunique oficialmente a ambas partes de la relación laboral.",
+    "source_quote": "Las autoridades sanitarias o de trabajo prohibirán la ejecución de labores a domicilio, mediante notificación formal que harán al patrono y al trabajador, cuando en el lugar de trabajo imperen condiciones marcadamente antihigiénicas, o se presente un caso de tuberculosis o de enfermedad infecto-contagiosa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "113",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_113",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las condiciones objetivas que permiten levantar la prohibición, protegiendo la salud pública y restableciendo la actividad laboral solo cuando el peligro ha sido eliminado.",
+    "source_quote": "A la cesación comprobada de estas circunstancias, o a la salida o restablecimiento del enfermo y debida desinfección del lugar, se otorgará permiso de reanudar el trabajo.",
+    "item_index": 2
+  }
+]

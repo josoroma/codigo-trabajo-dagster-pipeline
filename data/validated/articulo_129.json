@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 129 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 129 establece que si un trabajador se enferma mientras la nave está en viaje, el patrono debe costear su atención médica tanto a bordo como en tierra, pagarle la mitad de su sueldo durante la enfermedad y, una vez sano, restituirlo en su puesto si así lo solicita, conforme a los artículos 120 y 121. Además, aclara que cuando el caso esté cubierto por la Ley de Seguro Social o por normas sobre riesgos profesionales, se aplicarán esas disposiciones en lugar de este artículo.",
+    "source_quote": "El trabajador que sufriere de alguna enfermedad mientras la nave esté en viaje, tendrá derecho a ser atendido por cuenta del patrono, tanto a bordo como en tierra, con goce de la mitad de su sueldo, y a ser restituido cuando haya sanado, de acuerdo con lo dispuesto por los artículos 120 y 121, si así lo pidiere.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "129",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_129"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "129",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_129",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tiene derecho un trabajador que se enferma mientras la nave está en viaje?",
+    "output": "Tiene derecho a ser atendido por cuenta del patrono, tanto a bordo como en tierra, a recibir la mitad de su sueldo y a ser restituido en su puesto cuando sane, si así lo pide, conforme a los artículos 120 y 121.",
+    "source_quote": "El trabajador que sufriere de alguna enfermedad mientras la nave esté en viaje, tendrá derecho a ser atendido por cuenta del patrono, tanto a bordo como en tierra, con goce de la mitad de su sueldo, y a ser restituido cuando haya sanado, de acuerdo con lo dispuesto por los artículos 120 y 121, si así lo pidiere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "129",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_129",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la enfermedad del trabajador está cubierta por la Ley de Seguro Social o por disposiciones sobre riesgos profesionales?",
+    "output": "En esos casos, se aplicará lo que dispongan la Ley de Seguro Social y las normas sobre riesgos profesionales, y no lo establecido en este artículo.",
+    "source_quote": "Los casos comprendidos por la Ley de Seguro Social y las disposiciones sobre riesgos profesionales se regirán de acuerdo con lo que ellas dispongan.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "129",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_129",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece el derecho del trabajador marítimo a recibir atención médica pagada por el patrono, a conservar la mitad de su salario durante la enfermedad y a ser reincorporado al trabajo tras su recuperación, remitiendo a los artículos 120 y 121 para los detalles del procedimiento de restitución.",
+    "source_quote": "El trabajador que sufriere de alguna enfermedad mientras la nave esté en viaje, tendrá derecho a ser atendido por cuenta del patrono, tanto a bordo como en tierra, con goce de la mitad de su sueldo, y a ser restituido cuando haya sanado, de acuerdo con lo dispuesto por los artículos 120 y 121, si así lo pidiere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "129",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_129",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición aclara que, cuando la enfermedad esté cubierta por el régimen de seguro social o por la normativa de riesgos laborales, prevalecerán esas regulaciones especiales sobre las reglas generales del artículo 129, evitando conflictos normativos.",
+    "source_quote": "Los casos comprendidos por la Ley de Seguro Social y las disposiciones sobre riesgos profesionales se regirán de acuerdo con lo que ellas dispongan.",
+    "item_index": 2
+  }
+]

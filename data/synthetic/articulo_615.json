@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 615 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 615 establece que patronos y trabajadores deben intentar resolver sus diferencias mediante arreglo directo, ya sea entre ellos o con la ayuda de amigables componedores. Para ello, los trabajadores pueden formar consejos o comités permanentes de hasta tres miembros en cada lugar de trabajo, encargados de presentar quejas o solicitudes al patrono de forma verbal o escrita. Estas gestiones deben hacerse con respeto, y el patrono está obligado a recibirlos sin demora. Además, cuando se constituya uno de estos comités, sus miembros deben notificarlo por escrito al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social dentro de los cinco días siguientes a su nombramiento.",
+    "source_quote": "Los patronos y trabajadores tratarán de resolver sus diferencias por medio del arreglo directo, con la sola intervención de ellos o con la de cualesquiera otros amigables componedores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "615",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_615"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "615",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_615",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el número máximo de miembros que pueden integrar los consejos o comités permanentes de trabajadores en un lugar de trabajo?",
+    "output": "No más de tres miembros.",
+    "source_quote": "compuestos por no más de tres miembros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "615",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_615",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dentro de qué plazo deben informar los miembros del consejo o comité su formación al Departamento de Relaciones de Trabajo?",
+    "output": "Dentro de los cinco días posteriores a su nombramiento.",
+    "source_quote": "dentro de los cinco días posteriores a su nombramiento",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "615",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_615",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de solución directa y amigable de conflictos laborales, fomentando la autocomposición antes de recurrir a otras vías.",
+    "source_quote": "Los patronos y trabajadores tratarán de resolver sus diferencias por medio del arreglo directo, con la sola intervención de ellos o con la de cualesquiera otros amigables componedores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "615",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_615",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un deber de notificación administrativa para que el Ministerio tenga conocimiento y control de la constitución de estos órganos de representación laboral.",
+    "source_quote": "Cada vez que se forme uno de los consejos o comités a que se refiere el párrafo anterior, sus miembros lo informarán al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, mediante una nota que suscribirán y enviarán dentro de los cinco días posteriores a su nombramiento.",
+    "item_index": 2
+  }
+]

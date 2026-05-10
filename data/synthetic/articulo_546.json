@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 546 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 546 regula el tratamiento procesal cuando una pretensión no corresponde al procedimiento especial de tutela o se acumula con pretensiones ordinarias. Si la pretensión no es de tutela, se redirige al trámite adecuado. Si se presenta una tutela junto con otras pretensiones de vía ordinaria, se separan y la tutela se tramita según esta sección especial, sin afectar las demás. Además, si la tutela se concede en sentencia firme, puede dar por terminado el proceso ordinario por falta de interés, total o parcialmente, sin condena en costas.",
+    "source_quote": "Cuando se presente alguna pretensión de tutela correspondiente a este procedimiento, de forma acumulada con otra u otras cuyo trámite deba realizarse en la vía ordinaria, será desacumulada y tramitada según lo previsto en esta sección, sin perjuicio del curso de las otras pretensiones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una pretensión no corresponde al procedimiento especial de tutela?",
+    "output": "Se orientará la tramitación de la forma que proceda.",
+    "source_quote": "Si la pretensión deducida no corresponde a este procedimiento especial, se orientará la tramitación de la forma que proceda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre cuando se presenta una pretensión de tutela acumulada con otras pretensiones de vía ordinaria?",
+    "output": "Será desacumulada y tramitada según lo previsto en esta sección, sin perjuicio del curso de las otras pretensiones.",
+    "source_quote": "Cuando se presente alguna pretensión de tutela correspondiente a este procedimiento, de forma acumulada con otra u otras cuyo trámite deba realizarse en la vía ordinaria, será desacumulada y tramitada según lo previsto en esta sección, sin perjuicio del curso de las otras pretensiones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla de reconducción procesal cuando la pretensión no es de tutela, evitando que se tramite por una vía inadecuada.",
+    "source_quote": "Si la pretensión deducida no corresponde a este procedimiento especial, se orientará la tramitación de la forma que proceda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la separación de pretensiones acumuladas para que la tutela se tramite de forma especial y célere, sin afectar las demás pretensiones ordinarias.",
+    "source_quote": "Cuando se presente alguna pretensión de tutela correspondiente a este procedimiento, de forma acumulada con otra u otras cuyo trámite deba realizarse en la vía ordinaria, será desacumulada y tramitada según lo previsto en esta sección, sin perjuicio del curso de las otras pretensiones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "546",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_546",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que la concesión firme de la tutela puede extinguir el proceso ordinario por pérdida de interés, evitando costas, para evitar duplicidad y sanciones innecesarias.",
+    "source_quote": "La tutela, una vez otorgada en sentencia firme, producirá la conclusión del proceso ordinario cuando se produzca una falta de interés. En ese supuesto se dará por concluido el proceso total o parcialmente, según proceda, sin sanción de costas.",
+    "item_index": 3
+  }
+]

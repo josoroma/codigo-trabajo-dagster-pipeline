@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 285 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 285 establece las obligaciones de los trabajadores en materia de salud ocupacional. Deben cumplir con la ley, sus reglamentos y las recomendaciones de las autoridades. Además, deben someterse a exámenes médicos, colaborar en programas de capacitación, participar en la planificación y ejecución de programas de salud ocupacional, y utilizar y cuidar el equipo de protección personal suministrado.",
+    "source_quote": "Todo trabajador deberá acatar y cumplir, en lo que le sea aplicable, con los términos de esta ley, su reglamento, los reglamentos de salud ocupacional, que se promulguen y las recomendaciones que, en esta materia, les formulen las autoridades competentes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "285",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_285"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "285",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_285",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son algunas de las obligaciones específicas del trabajador según el artículo 285?",
+    "output": "Someterse a exámenes médicos, colaborar y asistir a programas de capacitación en salud ocupacional, participar en la elaboración, planificación y ejecución de programas de salud ocupacional, y utilizar, conservar y cuidar el equipo y elementos de protección personal y de seguridad en el trabajo.",
+    "source_quote": "Serán obligaciones del trabajador, además de las que señalan otras disposiciones de esta ley, las siguientes: - Someterse a los exámenes médicos que establezca el reglamento de la ley u ordenen las autoridades competentes, de cuyos resultados deberá ser informado; - Colaborar y asistir a los programas que procuren su capacitación, en materia de salud ocupacional; - Participar en la elaboración, planificación y ejecución de los programas de salud ocupacional en los centros de trabajo; y ch) Utilizar, conservar y cuidar el equipo y elementos de protección personal y de seguridad en el trabajo, que se le suministren.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "285",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_285",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Debe el trabajador ser informado de los resultados de los exámenes médicos que se le practiquen?",
+    "output": "Sí, el artículo 285 establece que el trabajador debe ser informado de los resultados de los exámenes médicos a los que se someta.",
+    "source_quote": "Someterse a los exámenes médicos que establezca el reglamento de la ley u ordenen las autoridades competentes, de cuyos resultados deberá ser informado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "285",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_285",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el deber general del trabajador de cumplir con la normativa de salud ocupacional, incluyendo leyes, reglamentos y recomendaciones de autoridades, como base de sus obligaciones en esta materia.",
+    "source_quote": "Todo trabajador deberá acatar y cumplir, en lo que le sea aplicable, con los términos de esta ley, su reglamento, los reglamentos de salud ocupacional, que se promulguen y las recomendaciones que, en esta materia, les formulen las autoridades competentes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "285",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_285",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al trabajador la responsabilidad directa de usar y mantener adecuadamente los equipos de protección personal proporcionados, con el fin de garantizar su propia seguridad y salud en el entorno laboral.",
+    "source_quote": "Utilizar, conservar y cuidar el equipo y elementos de protección personal y de seguridad en el trabajo, que se le suministren.",
+    "item_index": 2
+  }
+]

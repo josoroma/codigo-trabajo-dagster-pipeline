@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 206 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 206 establece que, una vez emitido el seguro de riesgos del trabajo, la institución aseguradora asume la responsabilidad de proporcionar al trabajador todas las prestaciones médicas, de rehabilitación y económicas que el Código señala, sustituyendo al patrono. Las prestaciones en dinero se calculan según los salarios informados por el patrono antes del siniestro, pudiendo usarse planillas u otros documentos para verificar el monto real. Si el patrono declaró salarios inferiores, la aseguradora paga lo correcto y puede repetir contra el patrono por el exceso más intereses. Además, el trabajador puede presentar disconformidades administrativas sobre las prestaciones, y la aseguradora debe resolver en 15 días hábiles; para el cálculo de prestaciones económicas, el trabajador puede aportar cualquier prueba a su favor.",
+    "source_quote": "Emitido el seguro contra los riesgos del trabajo, en ente asegurador responderá ante el trabajador por el suministro y pago de todas las prestaciones médico- sanitarias, de rehabilitación y en dinero, que se establezcan en este Código, subrogando al patrono en los derechos y obligaciones que le corresponden.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "206",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_206"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "206",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_206",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién responde ante el trabajador por las prestaciones una vez emitido el seguro de riesgos del trabajo?",
+    "output": "El ente asegurador.",
+    "source_quote": "Emitido el seguro contra los riesgos del trabajo, en ente asegurador responderá ante el trabajador por el suministro y pago de todas las prestaciones médico- sanitarias, de rehabilitación y en dinero, que se establezcan en este Código, subrogando al patrono en los derechos y obligaciones que le corresponden.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "206",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_206",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si los salarios declarados en planillas son menores a los realmente devengados por el trabajador?",
+    "output": "La institución aseguradora pagará las sumas correctas que correspondan y conservará la acción contra el patrono por las sumas pagadas en exceso, más los intereses del caso.",
+    "source_quote": "Si los salarios declarados en planillas fueren menores de los que el trabajador realmente devengó, la institución aseguradora pagará, al trabajador o a sus causahabientes, las sumas correctas que en derecho correspondan y conservará la acción contra el patrono, por las sumas pagadas en exceso, más los intereses del caso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "206",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_206",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la subrogación del patrono por el ente asegurador en la responsabilidad de brindar las prestaciones laborales por riesgos del trabajo, garantizando al trabajador el acceso directo a dichos beneficios.",
+    "source_quote": "Emitido el seguro contra los riesgos del trabajo, en ente asegurador responderá ante el trabajador por el suministro y pago de todas las prestaciones médico- sanitarias, de rehabilitación y en dinero, que se establezcan en este Código, subrogando al patrono en los derechos y obligaciones que le corresponden.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "206",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_206",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege al trabajador frente a declaraciones salariales inexactas del patrono, asegurando que reciba las prestaciones económicas correctas y permitiendo a la aseguradora recuperar del patrono el exceso pagado con intereses.",
+    "source_quote": "Si los salarios declarados en planillas fueren menores de los que el trabajador realmente devengó, la institución aseguradora pagará, al trabajador o a sus causahabientes, las sumas correctas que en derecho correspondan y conservará la acción contra el patrono, por las sumas pagadas en exceso, más los intereses del caso.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 360 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 360 otorga a la Junta Directiva de cualquier sindicato, federación o confederación de sindicatos de trabajadores la capacidad legal para representar judicial y extrajudicialmente a cada uno de sus afiliados en la defensa de sus intereses individuales de carácter económico-social, siempre que el afiliado lo solicite de manera expresa. Además, permite que la Junta Directiva delegue esa representación en cualquiera de sus miembros, y establece que la delegación se acredita mediante certificación del acuerdo correspondiente.",
+    "source_quote": "La Junta Directiva de todo sindicato, federación o confederación de sindicatos de trabajadores, tiene personería para representar judicial y extrajudicialmente a cada uno de sus afiliados en la defensa de sus intereses individuales de carácter económico- social, siempre que ellos expresamente lo soliciten.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "360",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_360"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "360",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_360",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién tiene la personería para representar a los afiliados de un sindicato según el artículo 360?",
+    "output": "La Junta Directiva de todo sindicato, federación o confederación de sindicatos de trabajadores.",
+    "source_quote": "La Junta Directiva de todo sindicato, federación o confederación de sindicatos de trabajadores, tiene personería para representar judicial y extrajudicialmente a cada uno de sus afiliados...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "360",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_360",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir un afiliado para que la Junta Directiva lo represente en la defensa de sus intereses individuales?",
+    "output": "Debe solicitarlo expresamente.",
+    "source_quote": "siempre que ellos expresamente lo soliciten.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "360",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_360",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la capacidad de representación legal de la junta directiva, tanto en sede judicial como extrajudicial, para defender los intereses individuales económico-sociales de los afiliados, condicionada a la solicitud expresa de estos.",
+    "source_quote": "La Junta Directiva de todo sindicato, federación o confederación de sindicatos de trabajadores, tiene personería para representar judicial y extrajudicialmente a cada uno de sus afiliados en la defensa de sus intereses individuales de carácter económico- social, siempre que ellos expresamente lo soliciten.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "360",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_360",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite que la junta directiva delegue la representación en uno de sus integrantes y fija el medio probatorio de esa delegación: la certificación del acuerdo que la autoriza.",
+    "source_quote": "La Junta Directiva podrá delegar esa personería en cualquiera de sus miembros; y la delegación se comprobará con certificación del correspondiente acuerdo.",
+    "item_index": 2
+  }
+]

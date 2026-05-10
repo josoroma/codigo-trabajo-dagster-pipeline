@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 659 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 659 establece que se puede calificar la legalidad o ilegalidad de dos tipos de movimientos: aquellos de huelga o paro en los que fracasó el procedimiento de conciliación, y cualquier otro movimiento en el sector privado o público realizado al margen de dicho procedimiento que implique una huelga o un paro.",
+    "source_quote": "Podrá ser objeto de calificación, para establecer su legalidad o ilegalidad, tanto el movimiento de huelga o de paro sobre el que hubiera fracasado el procedimiento de conciliación, como cualquier otro movimiento realizado en el sector privado o público, al margen de ese procedimiento, que implique una u otra cosa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "659",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_659"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "659",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_659",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué movimientos pueden ser objeto de calificación según el artículo 659?",
+    "output": "Tanto el movimiento de huelga o de paro sobre el que hubiera fracasado el procedimiento de conciliación, como cualquier otro movimiento realizado en el sector privado o público, al margen de ese procedimiento, que implique una u otra cosa.",
+    "source_quote": "Podrá ser objeto de calificación, para establecer su legalidad o ilegalidad, tanto el movimiento de huelga o de paro sobre el que hubiera fracasado el procedimiento de conciliación, como cualquier otro movimiento realizado en el sector privado o público, al margen de ese procedimiento, que implique una u otra cosa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "659",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_659",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad de la calificación mencionada en el artículo 659?",
+    "output": "Establecer su legalidad o ilegalidad.",
+    "source_quote": "para establecer su legalidad o ilegalidad",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "659",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_659",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el primer supuesto de calificación: los movimientos de huelga o paro donde la conciliación previa no tuvo éxito, permitiendo determinar si son legales o ilegales.",
+    "source_quote": "Podrá ser objeto de calificación, para establecer su legalidad o ilegalidad, tanto el movimiento de huelga o de paro sobre el que hubiera fracasado el procedimiento de conciliación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "659",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_659",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la calificación a cualquier otro movimiento, en cualquier sector, que se realice sin seguir el procedimiento de conciliación y que constituya una huelga o un paro, para evaluar su legalidad.",
+    "source_quote": "como cualquier otro movimiento realizado en el sector privado o público, al margen de ese procedimiento, que implique una u otra cosa.",
+    "item_index": 2
+  }
+]

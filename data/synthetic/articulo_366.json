@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 366 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 366 regula el procedimiento posterior a una audiencia sobre prácticas laborales desleales. Si se comprueban dichas prácticas, se levanta un acta y el Director Nacional e Inspector General de Trabajo presenta una demanda judicial con prioridad, solicitando las sanciones legales y otras medidas judiciales. Si no se constatan o no hay mérito, se archiva el expediente mediante resolución fundada, la cual admite recursos de revocatoria y apelación ante el Ministro de Trabajo, quien agota la vía administrativa.",
+    "source_quote": "Sin perjuicio del resultado de la audiencia indicada en el artículo anterior, si se constata la existencia de prácticas laborales desleales, se levantará un acta y el Director Nacional e Inspector General de Trabajo entablará la demanda judicial correspondiente, con prioridad respecto de cualquier otro asunto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "366",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_366"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "366",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_366",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué acción debe tomar el Director Nacional e Inspector General de Trabajo si se constatan prácticas laborales desleales?",
+    "output": "Debe levantar un acta y entablar la demanda judicial correspondiente, con prioridad respecto de cualquier otro asunto, solicitando imponer las sanciones previstas en la legislación laboral vigente y cualquier otra medida judicial que pueda ordenarse.",
+    "source_quote": "si se constata la existencia de prácticas laborales desleales, se levantará un acta y el Director Nacional e Inspector General de Trabajo entablará la demanda judicial correspondiente, con prioridad respecto de cualquier otro asunto. Con el propósito de salvaguardar los derechos protegidos por esta Ley solicitará imponer las sanciones previstas en la legislación laboral vigente, sin perjuicio de cualquier otra medida judicial que pueda ordenarse.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "366",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_366",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué recursos proceden contra la resolución que ordena archivar el expediente por no constatarse prácticas laborales desleales?",
+    "output": "Proceden los recursos ordinarios de revocatoria y de apelación; la apelación se interpone ante el Ministro de Trabajo y Seguridad Social, quien agota la vía administrativa.",
+    "source_quote": "Esta resolución tendrá los recursos ordinarios de revocatoria y de apelación; este último se interpondrá para ante el Ministro de Trabajo y Seguridad Social, quien agota la vía administrativa para todos los efectos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "366",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_366",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de iniciar una acción judicial prioritaria y solicitar sanciones cuando se comprueban prácticas laborales desleales, con el fin de proteger los derechos laborales y permitir medidas judiciales adicionales.",
+    "source_quote": "Sin perjuicio del resultado de la audiencia indicada en el artículo anterior, si se constata la existencia de prácticas laborales desleales, se levantará un acta y el Director Nacional e Inspector General de Trabajo entablará la demanda judicial correspondiente, con prioridad respecto de cualquier otro asunto. Con el propósito de salvaguardar los derechos protegidos por esta Ley solicitará imponer las sanciones previstas en la legislación laboral vigente, sin perjuicio de cualquier otra medida judicial que pueda ordenarse.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "366",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_366",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el archivo del expediente cuando no se acreditan las prácticas desleales, exigiendo una resolución motivada y garantizando el derecho a impugnar mediante revocatoria y apelación, con el Ministro como última instancia administrativa.",
+    "source_quote": "Si no hay mérito para conocer sobre el fondo del asunto o no se constata la existencia de prácticas laborales desleales, se ordenará archivar el expediente, mediante resolución fundada. Esta resolución tendrá los recursos ordinarios de revocatoria y de apelación; este último se interpondrá para ante el Ministro de Trabajo y Seguridad Social, quien agota la vía administrativa para todos los efectos.",
+    "item_index": 2
+  }
+]

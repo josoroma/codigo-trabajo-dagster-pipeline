@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 289 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 289 establece que todo centro de trabajo que se instale, amplíe, modifique, traslade o varíe instalaciones después de la entrada en vigencia de la ley debe cumplir con las disposiciones de salud ocupacional. Los centros de trabajo que ya estaban operando deben ajustarse a la ley conforme a lo que disponga el reglamento respectivo.",
+    "source_quote": "Todo centro de trabajo que se instale, amplíe, modifique, traslade o varíe instalaciones, con posteridad a la vigencia de la presente ley, deberá ajustarse a sus disposiciones, en cuanto a salud ocupacional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "289",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_289"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "289",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_289",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen los centros de trabajo que se instalen o modifiquen después de la vigencia de la ley?",
+    "output": "Deben ajustarse a las disposiciones de salud ocupacional de la ley.",
+    "source_quote": "Todo centro de trabajo que se instale, amplíe, modifique, traslade o varíe instalaciones, con posteridad a la vigencia de la presente ley, deberá ajustarse a sus disposiciones, en cuanto a salud ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "289",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_289",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben cumplir con la ley los centros de trabajo que ya estaban operando?",
+    "output": "Deben conformarse a la ley de acuerdo con lo que se establezca en el reglamento respectivo.",
+    "source_quote": "Los centros de trabajo que ya estuvieran operando deberán conformarse a ley, de acuerdo con lo que se establezca en el reglamento respectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "289",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_289",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de cumplir con las normas de salud ocupacional para los centros de trabajo nuevos o modificados después de la entrada en vigor de la ley.",
+    "source_quote": "Todo centro de trabajo que se instale, amplíe, modifique, traslade o varíe instalaciones, con posteridad a la vigencia de la presente ley, deberá ajustarse a sus disposiciones, en cuanto a salud ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "289",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_289",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que los centros de trabajo preexistentes deben adecuarse a la ley según lo que determine el reglamento, permitiendo una transición normativa.",
+    "source_quote": "Los centros de trabajo que ya estuvieran operando deberán conformarse a ley, de acuerdo con lo que se establezca en el reglamento respectivo.",
+    "item_index": 2
+  }
+]

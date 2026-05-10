@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 262 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo crea una junta médica con independencia funcional para calificar la incapacidad para el trabajo. Esta junta se compone de cinco miembros que representan a los Ministerios de Trabajo y Seguridad Social, y de Salud, al Colegio de Médicos y Cirujanos, al Instituto Nacional de Seguros y a los trabajadores. Las instituciones nombran directamente a sus representantes, mientras que el representante de los trabajadores es designado por el Poder Ejecutivo de manera rotativa a partir de ternas presentadas por confederaciones legalmente constituidas, realizándose un sorteo en la primera designación para fijar el orden.",
+    "source_quote": "Créase la junta médica calificadora de la incapacidad para el trabajo, con independencia funcional, la cual estará integrada por cinco miembros, en la que deberán estar representados los Ministerios de Trabajo y Seguridad Social, y de Salud, el Colegio de Médicos y Cirujanos, el Instituto Nacional de Seguros y los trabajadores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "262",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_262"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "262",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_262",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos miembros integran la junta médica calificadora de la incapacidad para el trabajo y qué entidades deben estar representadas?",
+    "output": "La junta está integrada por cinco miembros, en representación de los Ministerios de Trabajo y Seguridad Social, y de Salud, el Colegio de Médicos y Cirujanos, el Instituto Nacional de Seguros y los trabajadores.",
+    "source_quote": "la cual estará integrada por cinco miembros, en la que deberán estar representados los Ministerios de Trabajo y Seguridad Social, y de Salud, el Colegio de Médicos y Cirujanos, el Instituto Nacional de Seguros y los trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "262",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_262",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se designa al representante de los trabajadores en la junta médica?",
+    "output": "El Poder Ejecutivo lo designa en forma rotativa de las ternas sometidas por las confederaciones legalmente constituidas, y en la primera designación se realiza un sorteo para establecer el orden respectivo.",
+    "source_quote": "El Poder Ejecutivo designará, en forma rotativa, al representante de los trabajadores, de las ternas que le sean sometidas por las confederaciones legalmente constituidas. En la primera oportunidad, en la designación se hará el sorteo correspondiente para establecer el orden respectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "262",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_262",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la creación de un órgano especializado con autonomía para evaluar la incapacidad laboral, garantizando imparcialidad en sus dictámenes.",
+    "source_quote": "Créase la junta médica calificadora de la incapacidad para el trabajo, con independencia funcional",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "262",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_262",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de designación directa para los representantes de las entidades públicas y colegiadas, asegurando su participación institucional en la junta.",
+    "source_quote": "Las instituciones mencionadas nombrarán directamente sus representantes.",
+    "item_index": 2
+  }
+]

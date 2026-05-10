@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 273 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 273 declara de interés público todo lo relacionado con la salud ocupacional, estableciendo que su finalidad es promover el bienestar físico, mental y social de los trabajadores, prevenir daños a su salud por las condiciones laborales, protegerlos contra riesgos de agentes nocivos y colocarlos en empleos acordes a sus aptitudes fisiológicas y psicológicas, buscando adaptar el trabajo a la persona y a cada persona a su tarea.",
+    "source_quote": "Declárase de interés público todo lo referente a salud ocupacional, que tiene como finalidad promover y mantener el más alto nivel de bienestar físico, mental y social del trabajador en general; prevenir todo daño causado a la salud de éste por las condiciones del trabajo; protegerlo en su empleo contra los riesgos resultantes de la existencia de agentes nocivos a la salud; colocar y mantener al trabajador en un empleo con sus aptitudes fisiológicas y sicológicas y, en síntesis, adaptar el trabajo al hombre y cada hombre a su tarea.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "273",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_273"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "273",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_273",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué declara de interés público el artículo 273 del Código de Trabajo?",
+    "output": "Todo lo referente a salud ocupacional.",
+    "source_quote": "Declárase de interés público todo lo referente a salud ocupacional",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "273",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_273",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los objetivos de la salud ocupacional según este artículo?",
+    "output": "Promover y mantener el más alto nivel de bienestar físico, mental y social del trabajador; prevenir daños a la salud por condiciones de trabajo; protegerlo contra riesgos de agentes nocivos; colocarlo en un empleo acorde a sus aptitudes fisiológicas y psicológicas; y adaptar el trabajo al hombre y cada hombre a su tarea.",
+    "source_quote": "que tiene como finalidad promover y mantener el más alto nivel de bienestar físico, mental y social del trabajador en general; prevenir todo daño causado a la salud de éste por las condiciones del trabajo; protegerlo en su empleo contra los riesgos resultantes de la existencia de agentes nocivos a la salud; colocar y mantener al trabajador en un empleo con sus aptitudes fisiológicas y sicológicas y, en síntesis, adaptar el trabajo al hombre y cada hombre a su tarea.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "273",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_273",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la salud ocupacional es un asunto de interés público, lo que implica que el Estado debe priorizar su regulación, promoción y protección en beneficio de los trabajadores.",
+    "source_quote": "Declárase de interés público todo lo referente a salud ocupacional",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "273",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_273",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Detalla los objetivos específicos de la salud ocupacional, que incluyen la promoción del bienestar integral, la prevención de daños, la protección contra riesgos laborales y la adecuación del trabajo a las capacidades fisiológicas y psicológicas de cada trabajador.",
+    "source_quote": "que tiene como finalidad promover y mantener el más alto nivel de bienestar físico, mental y social del trabajador en general; prevenir todo daño causado a la salud de éste por las condiciones del trabajo; protegerlo en su empleo contra los riesgos resultantes de la existencia de agentes nocivos a la salud; colocar y mantener al trabajador en un empleo con sus aptitudes fisiológicas y sicológicas y, en síntesis, adaptar el trabajo al hombre y cada hombre a su tarea.",
+    "item_index": 2
+  }
+]

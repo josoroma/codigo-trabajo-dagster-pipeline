@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 125 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 125 permite que empleadores y trabajadores del sector marítimo acuerden libremente las condiciones de trabajo, como jornadas, descansos, turnos y vacaciones. Para ello, deben considerar factores como la naturaleza de las labores, la urgencia de las tareas, si la nave está en puerto o en el mar, y otros aspectos similares. Esta libertad está sujeta a los límites establecidos por la ley.",
+    "source_quote": "Tomando en cuenta la naturaleza de las labores que cada trabajador desempeñe, la menor o mayor urgencia de éstas en caso determinado, la circunstancia de estar la nave en el puerto o en el mar y los demás factores análogos que sean de su interés, las partes gozarán, dentro de los límites legales, de una amplia libertad para fijar lo relativo a jornadas, descansos, turnos, vacaciones y otras de índole semejante.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "125",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_125"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "125",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_125",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores deben considerar las partes al fijar las condiciones laborales según el artículo 125?",
+    "output": "Deben considerar la naturaleza de las labores, la urgencia de las tareas, si la nave está en puerto o en el mar, y otros factores análogos de interés.",
+    "source_quote": "Tomando en cuenta la naturaleza de las labores que cada trabajador desempeñe, la menor o mayor urgencia de éstas en caso determinado, la circunstancia de estar la nave en el puerto o en el mar y los demás factores análogos que sean de su interés.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "125",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_125",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre qué aspectos laborales pueden las partes ejercer su libertad de acuerdo con este artículo?",
+    "output": "Pueden fijar lo relativo a jornadas, descansos, turnos, vacaciones y otras condiciones semejantes.",
+    "source_quote": "las partes gozarán, dentro de los límites legales, de una amplia libertad para fijar lo relativo a jornadas, descansos, turnos, vacaciones y otras de índole semejante.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "125",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_125",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los criterios específicos que deben guiar la negociación de las condiciones laborales en el ámbito marítimo, adaptándolas a las circunstancias cambiantes del trabajo en el mar.",
+    "source_quote": "Tomando en cuenta la naturaleza de las labores que cada trabajador desempeñe, la menor o mayor urgencia de éstas en caso determinado, la circunstancia de estar la nave en el puerto o en el mar y los demás factores análogos que sean de su interés.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "125",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_125",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la autonomía de empleadores y trabajadores para acordar los aspectos fundamentales de la relación laboral, siempre que se respeten los límites impuestos por la legislación laboral.",
+    "source_quote": "las partes gozarán, dentro de los límites legales, de una amplia libertad para fijar lo relativo a jornadas, descansos, turnos, vacaciones y otras de índole semejante.",
+    "item_index": 2
+  }
+]

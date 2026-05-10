@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 383 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 383 permite que la parte empleadora afectada por una huelga solicite ante un juez laboral que se declare ilegal el movimiento, cuando los trabajadores o sus sindicatos no hayan cumplido con los requisitos establecidos en los artículos 371, 377 y 381 del Código de Trabajo.",
+    "source_quote": "La parte o las partes empleadoras afectadas por la huelga podrán solicitar, ante la jurisdicción de trabajo, la declaratoria de ilegalidad del movimiento, cuando los trabajadores, las trabajadoras o sus organizaciones sindicales no se hubieran ajustado en el ejercicio del derecho de huelga a las previsiones y los requisitos establecidos en los artículos 371, 377 y 381 de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "383",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_383"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "383",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_383",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden solicitar la declaratoria de ilegalidad de una huelga según el artículo 383?",
+    "output": "La parte o las partes empleadoras afectadas por la huelga.",
+    "source_quote": "La parte o las partes empleadoras afectadas por la huelga podrán solicitar, ante la jurisdicción de trabajo, la declaratoria de ilegalidad del movimiento",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "383",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_383",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la condición para que se declare ilegal una huelga de acuerdo con este artículo?",
+    "output": "Que los trabajadores, las trabajadoras o sus organizaciones sindicales no se hayan ajustado a las previsiones y requisitos de los artículos 371, 377 y 381 del Código de Trabajo.",
+    "source_quote": "cuando los trabajadores, las trabajadoras o sus organizaciones sindicales no se hubieran ajustado en el ejercicio del derecho de huelga a las previsiones y los requisitos establecidos en los artículos 371, 377 y 381 de este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "383",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_383",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la legitimación activa de los empleadores afectados y la vía judicial competente para solicitar la declaración de ilegalidad de una huelga.",
+    "source_quote": "La parte o las partes empleadoras afectadas por la huelga podrán solicitar, ante la jurisdicción de trabajo, la declaratoria de ilegalidad del movimiento",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "383",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_383",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la causal sustantiva para la declaratoria de ilegalidad, remitiendo a los artículos que contienen los requisitos formales y sustanciales que deben cumplir los trabajadores al ejercer el derecho de huelga.",
+    "source_quote": "cuando los trabajadores, las trabajadoras o sus organizaciones sindicales no se hubieran ajustado en el ejercicio del derecho de huelga a las previsiones y los requisitos establecidos en los artículos 371, 377 y 381 de este Código.",
+    "item_index": 2
+  }
+]

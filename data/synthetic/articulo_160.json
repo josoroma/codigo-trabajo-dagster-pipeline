@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 160 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 160 regula que las ausencias injustificadas al trabajo solo pueden ser descontadas del período de vacaciones si el empleador ya pagó al trabajador por esos días de falta. Esto significa que no se permite descontar días de vacaciones por faltas que no fueron remuneradas.",
+    "source_quote": "Las faltas injustificadas de asistencia al trabajo sólo podrán descontarse del período de vacaciones cuando se hubieren pagado al trabajador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "160",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_160"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "160",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_160",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición se pueden descontar las faltas injustificadas del período de vacaciones?",
+    "output": "Solo se pueden descontar cuando esas faltas hayan sido pagadas al trabajador.",
+    "source_quote": "sólo podrán descontarse del período de vacaciones cuando se hubieren pagado al trabajador.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "160",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_160",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de faltas de asistencia regula el artículo 160?",
+    "output": "Regula las faltas injustificadas de asistencia al trabajo.",
+    "source_quote": "Las faltas injustificadas de asistencia al trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "160",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_160",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación del artículo a las ausencias laborales que carecen de justificación, excluyendo las faltas justificadas.",
+    "source_quote": "Las faltas injustificadas de asistencia al trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "160",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_160",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición indispensable para que el empleador pueda deducir esas faltas del período vacacional: que el trabajador haya recibido el pago correspondiente a esos días, protegiendo así su derecho a vacaciones remuneradas.",
+    "source_quote": "sólo podrán descontarse del período de vacaciones cuando se hubieren pagado al trabajador",
+    "item_index": 2
+  }
+]

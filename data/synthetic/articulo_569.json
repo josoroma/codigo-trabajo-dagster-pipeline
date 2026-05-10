@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 569 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 569 establece qué sentencias laborales producen cosa juzgada material (definitiva e inmutable) y cuáles solo cosa juzgada formal (susceptible de revisión). Las sentencias del ordinario laboral, incluidas las anticipadas, y las de procesos especiales sobre seguridad social, fueros especiales, restitución por riesgo de trabajo y distribución de prestaciones de fallecidos, producen cosa juzgada material. Las demás sentencias producen únicamente cosa juzgada formal, salvo que la ley disponga lo contrario.",
+    "source_quote": "Las sentencias del ordinario laboral, incluidas las anticipadas y las dictadas en los procesos especiales sobre seguridad social, protección de fueros especiales, restitución o reubicación de trabajadores o trabajadoras en caso de riesgo de trabajo, así como en contenciones surgidas en el proceso de distribución de prestaciones de personas fallecidas regulado en este Código, producirán los efectos de la cosa juzgada material.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "569",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_NOVENO_articulo_569"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "569",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_NOVENO_articulo_569",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de sentencias laborales producen cosa juzgada material según el artículo 569?",
+    "output": "Las sentencias del ordinario laboral, incluidas las anticipadas, y las dictadas en procesos especiales sobre seguridad social, protección de fueros especiales, restitución o reubicación por riesgo de trabajo, y contenciones en la distribución de prestaciones de personas fallecidas.",
+    "source_quote": "Las sentencias del ordinario laboral, incluidas las anticipadas y las dictadas en los procesos especiales sobre seguridad social, protección de fueros especiales, restitución o reubicación de trabajadores o trabajadoras en caso de riesgo de trabajo, así como en contenciones surgidas en el proceso de distribución de prestaciones de personas fallecidas regulado en este Código, producirán los efectos de la cosa juzgada material.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "569",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_NOVENO_articulo_569",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto producen las demás sentencias laborales no mencionadas en el artículo 569?",
+    "output": "Producen únicamente cosa juzgada formal, salvo disposición en contrario en la ley.",
+    "source_quote": "Las demás sentencias, salvo disposición en contrario en la ley, producirán únicamente cosa juzgada formal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "569",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_NOVENO_articulo_569",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer de manera taxativa las sentencias que adquieren la autoridad de cosa juzgada material, impidiendo su revisión futura y garantizando seguridad jurídica en estas materias.",
+    "source_quote": "Las sentencias del ordinario laboral, incluidas las anticipadas y las dictadas en los procesos especiales sobre seguridad social, protección de fueros especiales, restitución o reubicación de trabajadores o trabajadoras en caso de riesgo de trabajo, así como en contenciones surgidas en el proceso de distribución de prestaciones de personas fallecidas regulado en este Código, producirán los efectos de la cosa juzgada material.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "569",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_NOVENO_articulo_569",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determinar que el resto de sentencias solo producen cosa juzgada formal, permitiendo su posible modificación, a menos que la ley expresamente les otorgue efectos de cosa juzgada material.",
+    "source_quote": "Las demás sentencias, salvo disposición en contrario en la ley, producirán únicamente cosa juzgada formal.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 437 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 437 establece que la competencia por la materia en asuntos laborales no puede ser modificada por acuerdo de las partes (es improrrogable). Solo la parte interesada puede protestar esa competencia al contestar la demanda o la contrademanda. Si las pretensiones son claramente de naturaleza laboral, la excepción de incompetencia será rechazada de inmediato, sin que esa decisión limite al juez al dictar sentencia, quien deberá basarse en las pruebas sobre la relación sustancial.",
+    "source_quote": "La competencia por la materia es improrrogable. Únicamente podrá ser protestada por la parte interesada, al contestar la demanda o contrademanda.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "437",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_437"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "437",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_437",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento procesal puede la parte interesada protestar la competencia por la materia?",
+    "output": "Al contestar la demanda o la contrademanda.",
+    "source_quote": "Únicamente podrá ser protestada por la parte interesada, al contestar la demanda o contrademanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "437",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_437",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con la excepción de incompetencia cuando las pretensiones son de naturaleza laboral incuestionable?",
+    "output": "Será rechazada de plano.",
+    "source_quote": "La excepción de incompetencia será rechazada de plano, cuando las pretensiones deducidas en la demanda o reconvención sean de naturaleza laboral incuestionable.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "437",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_437",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el carácter absoluto de la competencia material en materia laboral, impidiendo que las partes la modifiquen voluntariamente, y fija el momento procesal oportuno para cuestionarla, garantizando orden y seguridad jurídica.",
+    "source_quote": "La competencia por la materia es improrrogable. Únicamente podrá ser protestada por la parte interesada, al contestar la demanda o contrademanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "437",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_437",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Agiliza el proceso al evitar discusiones dilatorias cuando la materia es evidentemente laboral, y preserva la independencia del juez para decidir el fondo del asunto con base en la prueba de la relación sustancial, sin que el rechazo preliminar de la excepción prejuzgue el resultado.",
+    "source_quote": "La excepción de incompetencia será rechazada de plano, cuando las pretensiones deducidas en la demanda o reconvención sean de naturaleza laboral incuestionable. Esta resolución no condicionará el criterio del juez a la hora de resolver las pretensiones correspondientes en sentencia, atendiendo a las probanzas sobre la relación substancial que les sirvan de base.",
+    "item_index": 2
+  }
+]

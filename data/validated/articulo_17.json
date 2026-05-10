@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 17 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 17 establece una regla de interpretación para el Código de Trabajo, sus reglamentos y leyes conexas. Indica que, al interpretar estas normas, se deben considerar de manera fundamental dos criterios: el interés de los trabajadores y la conveniencia social. Esto significa que cualquier duda o ambigüedad en la aplicación de la legislación laboral debe resolverse priorizando la protección de los trabajadores y el beneficio de la sociedad.",
+    "source_quote": "Para los efectos de interpretar el presente Código, sus Reglamentos y sus leyes conexas, se tomarán en cuenta, fundamentalmente, el interés de los trabajadores y la conveniencia social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "17",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_17"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "17",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_17",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué criterios deben considerarse fundamentalmente al interpretar el Código de Trabajo y sus leyes conexas?",
+    "output": "El interés de los trabajadores y la conveniencia social.",
+    "source_quote": "se tomarán en cuenta, fundamentalmente, el interés de los trabajadores y la conveniencia social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "17",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_17",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué normativa se aplica el criterio de interpretación establecido en el artículo 17?",
+    "output": "Al Código de Trabajo, sus Reglamentos y sus leyes conexas.",
+    "source_quote": "Para los efectos de interpretar el presente Código, sus Reglamentos y sus leyes conexas",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "17",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_17",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la regla interpretativa, señalando que se aplica a la interpretación del Código de Trabajo, sus reglamentos y cualquier ley relacionada con la materia laboral.",
+    "source_quote": "Para los efectos de interpretar el presente Código, sus Reglamentos y sus leyes conexas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "17",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_17",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los criterios hermenéuticos primordiales que deben guiar la labor interpretativa, otorgando preeminencia a la protección de los derechos e intereses de los trabajadores y al bienestar general de la sociedad.",
+    "source_quote": "se tomarán en cuenta, fundamentalmente, el interés de los trabajadores y la conveniencia social.",
+    "item_index": 2
+  }
+]

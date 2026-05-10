@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 166 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 166 define el salario en especie como los bienes que recibe el trabajador o su familia para consumo personal inmediato, tales como alimentos, habitación y vestidos. En actividades agrícolas o ganaderas, también incluye el terreno cedido para siembra y cosecha. Establece que, si no se fija su valor en cada caso, se estimará como el 50% del salario en dinero. Además, excluye expresamente los suministros gratuitos otorgados por el patrono, los cuales no pueden deducirse del salario en efectivo ni considerarse para el salario mínimo.",
+    "source_quote": "Por salario en especie se entiende únicamente lo que reciba el trabajador o su familia en alimentos, habitación, vestidos y demás artículos destinados a su consumo personal inmediato.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "166",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_166"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "166",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_166",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se entiende por salario en especie según el artículo 166 del Código de Trabajo?",
+    "output": "Únicamente lo que reciba el trabajador o su familia en alimentos, habitación, vestidos y demás artículos destinados a su consumo personal inmediato.",
+    "source_quote": "Por salario en especie se entiende únicamente lo que reciba el trabajador o su familia en alimentos, habitación, vestidos y demás artículos destinados a su consumo personal inmediato.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "166",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_166",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se valora la remuneración en especie cuando no se ha determinado su valor en cada caso concreto?",
+    "output": "Se estimará equivalente al cincuenta por ciento del salario que perciba en dinero el trabajador.",
+    "source_quote": "Para todos los efectos legales, mientras no se determine en cada caso concreto el valor de la remuneración en especie, se estimará ésta equivalente al cincuenta por ciento del salario que perciba en dinero el trabajador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "166",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_166",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de salario en especie, limitándolo a bienes de consumo personal inmediato del trabajador o su familia.",
+    "source_quote": "Por salario en especie se entiende únicamente lo que reciba el trabajador o su familia en alimentos, habitación, vestidos y demás artículos destinados a su consumo personal inmediato.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "166",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_166",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Excluye del salario en especie los suministros gratuitos, protegiendo el salario en dinero y el salario mínimo de deducciones o ajustes indebidos.",
+    "source_quote": "No obstante lo dispuesto en los tres párrafos anteriores, no se computarán como salario en especie los suministros de carácter indudablemente gratuito que otorgue el patrono al trabajador, los cuales no podrán ser deducidos del salario en dinero ni tomados en cuenta para la fijación del salario mínimo.",
+    "item_index": 2
+  }
+]

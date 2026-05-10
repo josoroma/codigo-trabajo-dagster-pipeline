@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 306 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 306 regula la responsabilidad de terceros cuando un riesgo laboral es causado por un delito. Permite al trabajador o sus causahabientes reclamar daños y perjuicios a esos terceros ante los tribunales comunes, sin perder los derechos que otorga el Título de Riesgos del Trabajo. Además, establece que la indemnización de terceros incluye las prestaciones económicas de la ley si no se han pagado, y si ya se recibieron, se descuentan. También prevé una acción subrogatoria para el patrono no asegurado que deposite las prestaciones en el INS, o para el INS si el patrono está asegurado, contra los responsables. Finalmente, define quiénes son considerados terceros, excluyendo al patrono, sus representantes y trabajadores dependientes.",
+    "source_quote": "Si el riesgo del trabajo fuere causado por dolo, falta, negligencia o imprudencia, que constituya delito atribuible a terceros, el trabajador y sus causahabientes podrán reclamar a éstos, lo daños y perjuicios que correspondan, de acuerdo con las leyes de orden común ante los tribunales respectivos, simultáneamente y sin menoscabo de los derechos y acciones que pueden interponerse en virtud de las disposiciones de este Título.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "306",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_306"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "306",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_306",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son considerados terceros según el artículo 306?",
+    "output": "Toda persona con exclusión del patrono, sus representantes en la dirección del trabajo o los trabajadores de él dependientes.",
+    "source_quote": "Para los efectos de este artículo, se entiende por terceros a toda persona con exclusión del patrono, sus representantes en la dirección del trabajo o los trabajadores de él dependientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "306",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_306",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué acción tiene el patrono no asegurado que deposita la suma para prestaciones en el Instituto Nacional de Seguros?",
+    "output": "Tendrá acción subrogatoria hasta por el monto de su desembolso, contra los responsables del riesgo ocurrido, la que se ejercerá ante los tribunales comunes.",
+    "source_quote": "el patrono que no estuviese asegurado y que depositare a la orden del trabajador o de sus derecho habientes, en el Instituto Nacional de Seguros, la suma necesaria para satisfacer las prestaciones previstas en este Título, tendrá acción subrogatoria hasta por el monto de su desembolso, contra los responsables del riesgo ocurrido, la que se ejercerá ante los tribunales comunes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "306",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_306",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho del trabajador y sus causahabientes a demandar civilmente a terceros por daños derivados de un delito laboral, sin que ello afecte las prestaciones del régimen de riesgos del trabajo.",
+    "source_quote": "Si el riesgo del trabajo fuere causado por dolo, falta, negligencia o imprudencia, que constituya delito atribuible a terceros, el trabajador y sus causahabientes podrán reclamar a éstos, lo daños y perjuicios que correspondan, de acuerdo con las leyes de orden común ante los tribunales respectivos, simultáneamente y sin menoscabo de los derechos y acciones que pueden interponerse en virtud de las disposiciones de este Título.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "306",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_306",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina que la indemnización a cargo de terceros incluye las prestaciones económicas laborales si aún no han sido pagadas, evitando un doble cobro por el mismo concepto.",
+    "source_quote": "Los daños y perjuicios que deben satisfacer dichos terceros comprenderán también la totalidad de las prestaciones en dinero que se concedan en esta ley, siempre que el trabajador o sus causahabientes no hayan obtenido el pago de éstas.",
+    "item_index": 2
+  }
+]

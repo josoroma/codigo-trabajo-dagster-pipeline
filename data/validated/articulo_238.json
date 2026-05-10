@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 238 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 238 establece que cuando se declara una incapacidad menor permanente, el trabajador tiene derecho a recibir una renta anual, pagada en doce cuotas mensuales, durante cinco años. El monto se calcula multiplicando el porcentaje de incapacidad fijado (según los artículos 224 y 225) por el salario anual determinado.",
+    "source_quote": "La declaración de incapacidad menor permanente establece para el trabajador el derecho a percibir un renta anual, pagadera en dozavos, durante un plazo de cinco años, la cual se calculará aplicando el porcentaje de incapacidad que se le ha fijado, conforme a los términos de los artículos 224 y 225, al salario anual que se determine.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "238",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_238"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "238",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_238",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho otorga al trabajador la declaración de incapacidad menor permanente según el artículo 238?",
+    "output": "El derecho a percibir una renta anual, pagadera en dozavos, durante un plazo de cinco años.",
+    "source_quote": "La declaración de incapacidad menor permanente establece para el trabajador el derecho a percibir un renta anual, pagadera en dozavos, durante un plazo de cinco años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "238",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_238",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se calcula la renta anual que corresponde al trabajador con incapacidad menor permanente?",
+    "output": "Se calcula aplicando el porcentaje de incapacidad fijado, conforme a los artículos 224 y 225, al salario anual que se determine.",
+    "source_quote": "la cual se calculará aplicando el porcentaje de incapacidad que se le ha fijado, conforme a los términos de los artículos 224 y 225, al salario anual que se determine.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "238",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_238",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho sustantivo del trabajador a una prestación económica periódica cuando sufre una incapacidad menor permanente, definiendo la forma de pago (mensual) y la duración del beneficio (cinco años).",
+    "source_quote": "La declaración de incapacidad menor permanente establece para el trabajador el derecho a percibir un renta anual, pagadera en dozavos, durante un plazo de cinco años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "238",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_238",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el método de cálculo de la renta, vinculando el monto al grado de incapacidad y al salario anual, y remitiendo a los artículos 224 y 225 para la determinación del porcentaje.",
+    "source_quote": "la cual se calculará aplicando el porcentaje de incapacidad que se le ha fijado, conforme a los términos de los artículos 224 y 225, al salario anual que se determine.",
+    "item_index": 2
+  }
+]

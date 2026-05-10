@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 170 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 170 regula el lugar y las condiciones en que debe realizarse el pago del salario. Establece que, por regla general, el pago se hará en el sitio donde el trabajador presta sus servicios, a menos que exista un acuerdo escrito que disponga otro lugar. Además, permite que el pago se efectúe durante la jornada laboral o al finalizarla, pero prohíbe expresamente que se realice en centros de vicio, lugares de recreo, sitios de venta de mercaderías o expendios de bebidas alcohólicas, salvo que el pago se haga precisamente en el establecimiento donde tales actividades se desarrollan.",
+    "source_quote": "Salvo convenio escrito en contrario, los pagos se verificarán en el lugar donde los trabajadores presten sus servicios. Podrá pagarse durante el trabajo o inmediatamente que éste cese, pero no en centros de vicio ni en lugares de recreo, venta de mercaderías o expendio de bebidas alcohólicas, a no ser que se trate del establecimiento donde se hace el pago.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "170",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_170"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "170",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_170",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dónde deben realizarse los pagos de salario según el artículo 170?",
+    "output": "En el lugar donde los trabajadores presten sus servicios, salvo que exista un convenio escrito que establezca un lugar diferente.",
+    "source_quote": "Salvo convenio escrito en contrario, los pagos se verificarán en el lugar donde los trabajadores presten sus servicios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "170",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_170",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué lugares está prohibido pagar el salario de acuerdo con este artículo?",
+    "output": "Está prohibido pagar en centros de vicio, lugares de recreo, sitios de venta de mercaderías o expendios de bebidas alcohólicas, a menos que se trate del mismo establecimiento donde se realiza el pago.",
+    "source_quote": "pero no en centros de vicio ni en lugares de recreo, venta de mercaderías o expendio de bebidas alcohólicas, a no ser que se trate del establecimiento donde se hace el pago.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "170",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_170",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la regla general sobre el lugar de pago del salario, fijándolo en el centro de trabajo para comodidad y seguridad del trabajador, pero permite que las partes acuerden por escrito un lugar distinto, otorgando flexibilidad contractual.",
+    "source_quote": "Salvo convenio escrito en contrario, los pagos se verificarán en el lugar donde los trabajadores presten sus servicios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "170",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_170",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición regula el momento oportuno para el pago (durante o al finalizar la jornada) y prohíbe realizarlo en lugares que puedan inducir al trabajador a gastar su salario de manera perjudicial, protegiendo así su bienestar económico y moral. La excepción reconoce que si el pago se efectúa en el mismo establecimiento donde se desarrollan esas actividades, no hay riesgo adicional.",
+    "source_quote": "Podrá pagarse durante el trabajo o inmediatamente que éste cese, pero no en centros de vicio ni en lugares de recreo, venta de mercaderías o expendio de bebidas alcohólicas, a no ser que se trate del establecimiento donde se hace el pago.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 375 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 375 originalmente prohibía la huelga en los servicios públicos y establecía que cualquier diferencia entre patronos y trabajadores en esos servicios, así como en otros casos donde se prohíbe la huelga, debía someterse obligatoriamente a los Tribunales de Trabajo. Sin embargo, la Sala Constitucional, mediante resolución N° 1696 del 23 de junio de 1992, declaró inconstitucional este artículo respecto de las administraciones públicas con régimen de empleo de naturaleza pública, y excluyó de esa prohibición a los obreros, trabajadores y empleados que no participan de la gestión pública y son contratados por el Estado bajo derecho privado. Por lo tanto, la prohibición de huelga y la obligación de acudir a los tribunales quedaron limitadas en su aplicación a ciertos ámbitos del sector público.",
+    "source_quote": "No será permitida la huelga en los servicios públicos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitida la huelga en los servicios públicos según el texto original del artículo 375?",
+    "output": "No, el artículo 375 establece que no será permitida la huelga en los servicios públicos.",
+    "source_quote": "No será permitida la huelga en los servicios públicos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué mecanismo de solución de conflictos se impone cuando ocurren diferencias en los servicios públicos o en otros casos donde se prohíbe la huelga?",
+    "output": "Las diferencias se someterán obligatoriamente al conocimiento y resolución de los Tribunales de Trabajo.",
+    "source_quote": "Las diferencias que en éstos ocurran entre patronos y trabajadores, así como en todos los demás casos en que se prohíbe la huelga, se someterán obligatoriamente al conocimiento y resolución de los Tribunales de Trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición absoluta de huelga en los servicios públicos, con el fin de garantizar la continuidad de actividades esenciales para la comunidad.",
+    "source_quote": "No será permitida la huelga en los servicios públicos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la jurisdicción obligatoria de los Tribunales de Trabajo para resolver conflictos laborales en servicios públicos y en cualquier otro supuesto de huelga prohibida, sustituyendo la autocomposición por una solución judicial.",
+    "source_quote": "Las diferencias que en éstos ocurran entre patronos y trabajadores, así como en todos los demás casos en que se prohíbe la huelga, se someterán obligatoriamente al conocimiento y resolución de los Tribunales de Trabajo.",
+    "item_index": 2
+  }
+]

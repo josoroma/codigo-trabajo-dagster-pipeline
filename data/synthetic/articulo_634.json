@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 634 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 634 regula el cierre del procedimiento de conciliación cuando no se alcanza un arreglo ni se acuerda someterse a arbitraje. En ese caso, el órgano competente declara formalmente concluido el procedimiento. A partir de ese momento, los trabajadores disponen de un plazo de veinte días para declarar la huelga, contado desde el día siguiente a la notificación de la resolución final del procedimiento de calificación, siempre que hayan solicitado dicha calificación previa. La misma regla aplica para los empleadores, pero su plazo se inicia al vencimiento del mes mencionado en el artículo 388.",
+    "source_quote": "En caso de que no hubiera arreglo ni compromiso de ir al arbitraje, el órgano dará por formalmente concluido el procedimiento y los trabajadores y las trabajadoras gozarán de un plazo de veinte días para declarar la huelga.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "634",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_634"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "634",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_634",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tienen los trabajadores para declarar la huelga una vez concluido el procedimiento sin arreglo ni arbitraje?",
+    "output": "Veinte días.",
+    "source_quote": "los trabajadores y las trabajadoras gozarán de un plazo de veinte días para declarar la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "634",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_634",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo empieza a correr el plazo para que los empleadores puedan declarar el paro según este artículo?",
+    "output": "Desde el vencimiento del mes a que se refiere el artículo 388.",
+    "source_quote": "Igual regla rige para los empleadores o las empleadoras, pero el plazo se comenzará a contar desde el vencimiento del mes a que se refiere el artículo 388.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "634",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_634",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia jurídica de la falta de acuerdo en el procedimiento conciliatorio, otorgando a los trabajadores un plazo perentorio para ejercer el derecho a huelga.",
+    "source_quote": "En caso de que no hubiera arreglo ni compromiso de ir al arbitraje, el órgano dará por formalmente concluido el procedimiento y los trabajadores y las trabajadoras gozarán de un plazo de veinte días para declarar la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "634",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_634",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el momento exacto en que inicia el cómputo del plazo para los trabajadores, vinculándolo a la notificación de la calificación previa si fue solicitada, garantizando certeza temporal.",
+    "source_quote": "Este término correrá a partir del día siguiente a aquel en que quede notificada la resolución final del procedimiento de calificación, cuando ellos hayan solicitado la calificación previa.",
+    "item_index": 2
+  }
+]

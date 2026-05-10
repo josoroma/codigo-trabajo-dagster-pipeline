@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 107 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que las normas generales del Código de Trabajo y las leyes supletorias o conexas se aplican al trabajo doméstico remunerado, siempre que no exista una disposición en contrario y únicamente en aquellos aspectos que no estén regulados por el capítulo específico sobre este tipo de trabajo.",
+    "source_quote": "Las disposiciones de este Código, así como las leyes supletorias o conexas, se aplicarán, salvo disposiciones en contrario, al régimen del trabajo doméstico remunerado en lo no previsto por el presente capítulo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "107",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_107"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "107",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_107",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normas se aplican al trabajo doméstico remunerado cuando el capítulo correspondiente no regula algún aspecto?",
+    "output": "Se aplican las disposiciones del Código de Trabajo y las leyes supletorias o conexas, salvo que exista una disposición en contrario.",
+    "source_quote": "Las disposiciones de este Código, así como las leyes supletorias o conexas, se aplicarán, salvo disposiciones en contrario, al régimen del trabajo doméstico remunerado en lo no previsto por el presente capítulo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "107",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_107",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos no se aplican las disposiciones generales del Código al trabajo doméstico remunerado?",
+    "output": "No se aplican cuando exista una disposición en contrario o cuando el asunto ya esté previsto en el capítulo específico sobre trabajo doméstico.",
+    "source_quote": "salvo disposiciones en contrario, al régimen del trabajo doméstico remunerado en lo no previsto por el presente capítulo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "107",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_107",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que el trabajo doméstico remunerado se rige por el Código de Trabajo y sus leyes complementarias, a menos que una norma específica indique lo contrario.",
+    "source_quote": "Las disposiciones de este Código, así como las leyes supletorias o conexas, se aplicarán, salvo disposiciones en contrario, al régimen del trabajo doméstico remunerado",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "107",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_107",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita la aplicación supletoria únicamente a las materias que no están reguladas en el capítulo dedicado al trabajo doméstico, evitando conflictos normativos.",
+    "source_quote": "en lo no previsto por el presente capítulo",
+    "item_index": 2
+  }
+]

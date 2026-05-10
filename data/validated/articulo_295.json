@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 295 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 295 establece que cuando los trabajadores, por la naturaleza de su labor, necesiten dormir en el lugar de trabajo o en instalaciones anexas, el patrono está obligado a proporcionar espacios destinados exclusivamente para dormir, que deben ser adecuados e higiénicos.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben dormir en los centros de trabajo o en instalaciones accesorias, el patrono deberá instalar locales específicos e higiénicos para tal efecto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "295",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_295"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "295",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_295",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el patrono debe instalar locales para dormir?",
+    "output": "Cuando por la índole del trabajo los trabajadores deban dormir en los centros de trabajo o en instalaciones accesorias.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben dormir en los centros de trabajo o en instalaciones accesorias, el patrono deberá instalar locales específicos e higiénicos para tal efecto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "295",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_295",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué características deben tener los locales que el patrono instale para dormir?",
+    "output": "Deben ser específicos e higiénicos.",
+    "source_quote": "locales específicos e higiénicos para tal efecto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "295",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_295",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición que activa la obligación patronal: que la naturaleza de la labor exija que los trabajadores pernocten en el lugar de trabajo o en instalaciones anexas.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben dormir en los centros de trabajo o en instalaciones accesorias",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "295",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_295",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono la obligación de proveer dormitorios exclusivos para ese fin, los cuales deben cumplir con condiciones de higiene y estar destinados específicamente al descanso de los trabajadores.",
+    "source_quote": "el patrono deberá instalar locales específicos e higiénicos para tal efecto",
+    "item_index": 2
+  }
+]

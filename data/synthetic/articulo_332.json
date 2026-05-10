@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 332 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 332 declara de interés público la formación legal de las organizaciones sociales, específicamente los sindicatos, por considerarlos un medio muy eficaz para apoyar el mantenimiento y desarrollo de la cultura popular y la democracia en Costa Rica.",
+    "source_quote": "Declarase de interés público la constitución legal de las organizaciones sociales, sean sindicatos, como uno de los medios más eficaces de contribuir al sostenimiento y desarrollo de la cultura popular y de la democracia costarricenses.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "332",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_332"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "332",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_332",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de organizaciones declara de interés público el artículo 332?",
+    "output": "Declara de interés público la constitución legal de las organizaciones sociales, sean sindicatos.",
+    "source_quote": "Declarase de interés público la constitución legal de las organizaciones sociales, sean sindicatos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "332",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_332",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad de declarar de interés público la constitución legal de los sindicatos según este artículo?",
+    "output": "Contribuir al sostenimiento y desarrollo de la cultura popular y de la democracia costarricenses.",
+    "source_quote": "como uno de los medios más eficaces de contribuir al sostenimiento y desarrollo de la cultura popular y de la democracia costarricenses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "332",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_332",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la formación legal de sindicatos es un asunto de interés público, otorgándoles un reconocimiento especial y protección estatal por su relevancia social.",
+    "source_quote": "Declarase de interés público la constitución legal de las organizaciones sociales, sean sindicatos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "332",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_332",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Justifica la declaración de interés público al señalar que los sindicatos son instrumentos fundamentales para preservar la cultura popular y fortalecer la democracia en Costa Rica.",
+    "source_quote": "como uno de los medios más eficaces de contribuir al sostenimiento y desarrollo de la cultura popular y de la democracia costarricenses.",
+    "item_index": 2
+  }
+]

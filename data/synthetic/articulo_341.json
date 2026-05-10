@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 341 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 341 protege la libertad sindical al prohibir que se obligue a alguien a afiliarse o a no afiliarse a un sindicato. También aclara que si una persona decide separarse voluntariamente, no queda eximida de pagar las deudas económicas que tenga pendientes con el sindicato.",
+    "source_quote": "A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "341",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_341"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "341",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_341",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede obligar a una persona a afiliarse a un sindicato?",
+    "output": "No, a nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.",
+    "source_quote": "A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "341",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_341",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Si un trabajador se separa voluntariamente de un sindicato, ¿queda liberado de sus deudas con el sindicato?",
+    "output": "No, el ejercicio de la facultad de libre separación no exonera a la persona saliente de cubrir las obligaciones de carácter económico que tenga pendientes con el sindicato.",
+    "source_quote": "El ejercicio de la facultad de libre separación no exonera a la persona saliente de cubrir las obligaciones de carácter económico que tenga pendientes con el sindicato.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "341",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_341",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra la libertad sindical negativa, garantizando que la afiliación sindical sea voluntaria y que ninguna persona pueda ser coaccionada para unirse o para abstenerse de unirse a un sindicato.",
+    "source_quote": "A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "341",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_341",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la decisión de retirarse del sindicato no extingue las deudas económicas preexistentes, protegiendo así los derechos crediticios de la organización sindical.",
+    "source_quote": "El ejercicio de la facultad de libre separación no exonera a la persona saliente de cubrir las obligaciones de carácter económico que tenga pendientes con el sindicato.",
+    "item_index": 2
+  }
+]

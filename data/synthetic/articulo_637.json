@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 637 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 637 establece cómo se integra un tribunal de arbitraje laboral: con dos personas propuestas por las partes y un tercero que lo preside (el juez de trabajo, un funcionario administrativo o del centro de arbitraje). Además, regula el plazo de tres días para recusar a sus miembros o plantear excepciones dilatorias, tras el cual ya no se admiten discusiones sobre esos puntos, salvo recusaciones en segunda instancia. También obliga a los miembros del tribunal a manifestar por escrito cualquier impedimento o excusa antes de que venza ese plazo, so pena de destitución.",
+    "source_quote": "El tribunal de arbitraje estará constituido por las dos personas propuestas al efecto por las partes interesadas y por la persona titular del juzgado de trabajo, funcionario administrativo competente o del centro de arbitraje elegido, en su caso, quien lo presidirá.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "637",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_637"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "637",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_637",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes integran el tribunal de arbitraje según el artículo 637?",
+    "output": "Las dos personas propuestas por las partes interesadas y la persona titular del juzgado de trabajo, funcionario administrativo competente o del centro de arbitraje elegido, quien lo presidirá.",
+    "source_quote": "El tribunal de arbitraje estará constituido por las dos personas propuestas al efecto por las partes interesadas y por la persona titular del juzgado de trabajo, funcionario administrativo competente o del centro de arbitraje elegido, en su caso, quien lo presidirá.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "637",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_637",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tienen las partes para formular recusaciones y excepciones dilatorias contra la integración del tribunal?",
+    "output": "Tres días, contados a partir de que se les da traslado de la comunicación sobre la integración.",
+    "source_quote": "Recibida la comunicación, se dará traslado a los delegados o a la parte acerca de la integración del tribunal por tres días, para que formulen las recusaciones y excepciones dilatorias que crean de su derecho.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "637",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_637",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la composición tripartita del tribunal de arbitraje, asegurando representación de las partes y una presidencia imparcial.",
+    "source_quote": "El tribunal de arbitraje estará constituido por las dos personas propuestas al efecto por las partes interesadas y por la persona titular del juzgado de trabajo, funcionario administrativo competente o del centro de arbitraje elegido, en su caso, quien lo presidirá.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "637",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_637",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de los árbitros de declarar impedimentos o excusas de manera oportuna, con sanción de destitución para garantizar la imparcialidad y transparencia.",
+    "source_quote": "Antes de que venza la referida audiencia, los miembros del tribunal que tengan motivo de impedimento o causal de excusa y conozcan uno u otra harán forzosamente la manifestación escrita correspondiente, bajo pena de destitución si no la hicieran o la hicieran con posterioridad.",
+    "item_index": 2
+  }
+]

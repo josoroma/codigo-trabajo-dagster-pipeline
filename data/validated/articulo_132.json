@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 132 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 132 establece que la huelga declarada por los trabajadores de una embarcación es ilegal cuando el barco se encuentra navegando o anclado fuera del puerto. Esta norma busca proteger la seguridad marítima y evitar interrupciones en alta mar.",
+    "source_quote": "Será ilícita la huelga que declaren los trabajadores cuando la embarcación se encontrare navegando o fondeada fuera del puerto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "132",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_132"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "132",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_132",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo es ilícita la huelga de los trabajadores de una embarcación según el artículo 132?",
+    "output": "Es ilícita cuando la embarcación se encuentra navegando o fondeada fuera del puerto.",
+    "source_quote": "cuando la embarcación se encontrare navegando o fondeada fuera del puerto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "132",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_132",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición debe cumplir la embarcación para que la huelga de sus trabajadores sea considerada ilícita?",
+    "output": "La embarcación debe estar navegando o fondeada fuera del puerto.",
+    "source_quote": "cuando la embarcación se encontrare navegando o fondeada fuera del puerto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "132",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_132",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara la ilegalidad de la huelga en el contexto marítimo, estableciendo una prohibición expresa para los trabajadores de embarcaciones.",
+    "source_quote": "Será ilícita la huelga que declaren los trabajadores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "132",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_PRIMERO_articulo_132",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la circunstancia específica que activa la ilicitud: que la nave esté en movimiento o anclada lejos de puerto, protegiendo la operación segura y continua de la embarcación.",
+    "source_quote": "cuando la embarcación se encontrare navegando o fondeada fuera del puerto.",
+    "item_index": 2
+  }
+]

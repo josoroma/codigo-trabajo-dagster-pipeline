@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 478 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 478 establece cómo se distribuye la carga de la prueba en los conflictos laborales. La persona trabajadora debe demostrar que prestó sus servicios personalmente. La parte empleadora debe probar los hechos que impiden la pretensión del trabajador y todos aquellos que está obligada a documentar o registrar. Además, cuando no haya acuerdo sobre ciertos puntos específicos (como fecha de ingreso, salario, jornada, causas de despido, entre otros), corresponde al empleador probar su versión, porque tiene más facilidad para acceder a esas pruebas.",
+    "source_quote": "En los conflictos derivados de los contratos de trabajo, le corresponde a la parte trabajadora la prueba de la prestación personal de los servicios y, a la parte empleadora, la demostración de los hechos impeditivos que invoque y de todos aquellos que tiene la obligación de mantener debidamente documentados o registrados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "478",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_478"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "478",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_478",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién le corresponde probar la prestación personal de los servicios en un conflicto laboral?",
+    "output": "A la parte trabajadora.",
+    "source_quote": "le corresponde a la parte trabajadora la prueba de la prestación personal de los servicios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "478",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_478",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Cuando no hay acuerdo sobre la fecha de ingreso del trabajador, ¿quién debe probar su dicho?",
+    "output": "El empleador o la empleadora.",
+    "source_quote": "le corresponderá al empleador o la empleadora probar su dicho, cuando no exista acuerdo sobre: 1) La fecha de ingreso del trabajador o la trabajadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "478",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_478",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de distribución de la carga probatoria: el trabajador prueba la existencia de la relación laboral mediante la prestación del servicio, mientras que el empleador debe acreditar los hechos que extinguen, modifican o impiden sus obligaciones, así como el contenido de los documentos y registros que legalmente debe conservar.",
+    "source_quote": "En los conflictos derivados de los contratos de trabajo, le corresponde a la parte trabajadora la prueba de la prestación personal de los servicios y, a la parte empleadora, la demostración de los hechos impeditivos que invoque y de todos aquellos que tiene la obligación de mantener debidamente documentados o registrados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "478",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_478",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera de manera taxativa las materias sobre las cuales, ante falta de acuerdo, la carga de la prueba se invierte o recae directamente en el empleador, en razón de su posición de garante de la documentación laboral y su mayor facilidad probatoria, garantizando así el equilibrio procesal y la protección del trabajador.",
+    "source_quote": "En todo caso, le corresponderá al empleador o la empleadora probar su dicho, cuando no exista acuerdo sobre: 1) La fecha de ingreso del trabajador o la trabajadora. 2) La antigüedad laboral. 3) El puesto o cargo desempeñado y la naturaleza o las características de las labores ejecutadas. 4) Las causas de la extinción del contrato. 5) La entrega a la persona trabajadora de la carta de despido, con indicación de las razones que motivaron la extinción de la relación laboral. 6) El pago completo de las obligaciones salariales, incluidos sus montos y componentes, cuando así se requiera; las participaciones en utilidades, ventas o cobros; incentivos y demás pluses, convencional o legalmente establecidos. 7) La clase y duración de la jornada de trabajo. 8) El pago o disfrute de los días feriados, descansos, licencias, aguinaldo y vacaciones. 9) El cumplimiento de las obligaciones correspondientes al sistema de seguridad social. 10) La justificación de la objetividad, racionalidad y proporcionalidad de las medidas o las conductas señaladas como discriminatorias en todas las demandas relacionadas con discriminaciones. 11) Cualquier otra situación fáctica cuya fuente probatoria le sea de más fácil acceso que al trabajador o la trabajadora.",
+    "item_index": 2
+  }
+]

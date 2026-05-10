@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 619 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 619 regula el procedimiento inicial para la presentación de un pliego de peticiones de carácter económico-social por parte de los delegados. Estos deben suscribir el documento por duplicado, entregar una copia al órgano conciliador competente (directamente o a través de una autoridad administrativa local, la cual está obligada a remitirlo con la mayor rapidez, so pena de destitución), obtener una certificación de la hora exacta de entrega, enviar el original de inmediato a la otra parte afectada y, en el mismo pliego, designar a una persona que reúna los requisitos legales para integrar el tribunal de conciliación.",
+    "source_quote": "Los delegados suscribirán por duplicado un pliego de peticiones de orden económico-social, cuya copia entregarán al respectivo órgano conciliador competente, directamente o por medio de cualquier autoridad administrativa local.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "619",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_619"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "619",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_619",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de pliego deben suscribir los delegados según el artículo 619?",
+    "output": "Un pliego de peticiones de orden económico-social.",
+    "source_quote": "Los delegados suscribirán por duplicado un pliego de peticiones de orden económico-social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "619",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_619",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción enfrenta la autoridad administrativa local si no envía el pliego con la mayor rapidez posible?",
+    "output": "Pena de destitución.",
+    "source_quote": "Esta última queda obligada, bajo pena de destitución, a hacer el envío correspondiente con la mayor rapidez posible.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "619",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_619",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de los delegados de formalizar sus demandas mediante un documento duplicado y de asegurar que la copia llegue al órgano conciliador, ya sea directamente o a través de una autoridad local, iniciando así el procedimiento de conciliación.",
+    "source_quote": "Los delegados suscribirán por duplicado un pliego de peticiones de orden económico-social, cuya copia entregarán al respectivo órgano conciliador competente, directamente o por medio de cualquier autoridad administrativa local.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "619",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_619",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Obliga a los delegados a proponer desde el inicio a una persona que cumpla con los requisitos legales para ser parte del tribunal de conciliación, agilizando la integración de dicho órgano.",
+    "source_quote": "En ese mismo pliego indicarán el nombre de una persona, la cual debe reunir los requisitos indicados en este título, para que integre el tribunal de conciliación.",
+    "item_index": 2
+  }
+]

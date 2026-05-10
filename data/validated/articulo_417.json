@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 417 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 417 establece que los derechos y las acciones que tienen los empleadores para reclamar contra trabajadores que abandonan su puesto de manera injustificada caducan, es decir, se extinguen por el paso del tiempo, según lo dispuesto en el artículo 32 del mismo Código.",
+    "source_quote": "Los derechos y las acciones de los empleadores o las empleadoras, para reclamar contra quienes se separen injustificadamente de sus puestos, caducarán de acuerdo con lo previsto en el artículo 32 de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "417",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_417"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "417",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_417",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derechos y acciones de los empleadores regula el artículo 417?",
+    "output": "Regula los derechos y las acciones para reclamar contra quienes se separen injustificadamente de sus puestos.",
+    "source_quote": "Los derechos y las acciones de los empleadores o las empleadoras, para reclamar contra quienes se separen injustificadamente de sus puestos, caducarán...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "417",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_417",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Conforme a qué norma caducan esos derechos y acciones?",
+    "output": "Caducan de acuerdo con lo previsto en el artículo 32 del Código de Trabajo.",
+    "source_quote": "de acuerdo con lo previsto en el artículo 32 de este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "417",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_417",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el objeto de la caducidad: las facultades del empleador para exigir responsabilidades por el abandono injustificado del trabajo, estableciendo que tales derechos se extinguen por el transcurso del tiempo.",
+    "source_quote": "Los derechos y las acciones de los empleadores o las empleadoras, para reclamar contra quienes se separen injustificadamente de sus puestos, caducarán",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "417",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_417",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remite al artículo 32 para determinar el plazo y las condiciones en que opera la caducidad, integrando así la regulación general de la prescripción de acciones laborales a este supuesto específico.",
+    "source_quote": "de acuerdo con lo previsto en el artículo 32 de este Código.",
+    "item_index": 2
+  }
+]

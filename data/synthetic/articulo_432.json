@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 432 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 432 establece cómo deben proceder los tribunales laborales al dictar sentencia. Cuando se trata de derechos irrenunciables, pueden ajustar los montos a lo que legalmente corresponda, incluso si eso supera lo solicitado en la demanda, siempre que exista prueba documental o probatoria indubitable. En cambio, para los derechos renunciables, las cantidades fijadas en la demanda actúan como límite máximo que el tribunal no puede sobrepasar.",
+    "source_quote": "Cuando se trate de derechos irrenunciables, los órganos de trabajo, al dictar sus sentencias, ajustarán los montos respectivos a lo que legalmente corresponda, aunque resulten superiores a lo indicado en la pretensión, cuando algún documento o medio probatorio lo sustente de forma indubitable.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "432",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_432"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "432",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_432",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden hacer los órganos de trabajo cuando se trate de derechos irrenunciables?",
+    "output": "Pueden ajustar los montos a lo que legalmente corresponda, incluso si resultan superiores a lo pedido, siempre que exista un documento o medio probatorio que lo sustente de forma indubitable.",
+    "source_quote": "Cuando se trate de derechos irrenunciables, los órganos de trabajo, al dictar sus sentencias, ajustarán los montos respectivos a lo que legalmente corresponda, aunque resulten superiores a lo indicado en la pretensión, cuando algún documento o medio probatorio lo sustente de forma indubitable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "432",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_432",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué límite tienen los órganos de trabajo respecto de los extremos renunciables?",
+    "output": "Las estimaciones o fijaciones hechas en la demanda rigen como límites que no pueden sobrepasar.",
+    "source_quote": "Respecto de los extremos renunciables, las estimaciones o las fijaciones hechas en la demanda regirán como límites que los órganos de trabajo no podrán sobrepasar.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "432",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_432",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a los tribunales laborales la facultad de conceder montos superiores a los reclamados en casos de derechos irrenunciables, siempre que exista prueba indubitable, con el fin de proteger estos derechos fundamentales y garantizar que se cumpla lo legalmente establecido.",
+    "source_quote": "Cuando se trate de derechos irrenunciables, los órganos de trabajo, al dictar sus sentencias, ajustarán los montos respectivos a lo que legalmente corresponda, aunque resulten superiores a lo indicado en la pretensión, cuando algún documento o medio probatorio lo sustente de forma indubitable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "432",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_432",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un límite máximo para los derechos renunciables, impidiendo que los tribunales otorguen más de lo solicitado por las partes, en respeto a la autonomía de la voluntad y al principio dispositivo en estos extremos.",
+    "source_quote": "Respecto de los extremos renunciables, las estimaciones o las fijaciones hechas en la demanda regirán como límites que los órganos de trabajo no podrán sobrepasar.",
+    "item_index": 2
+  }
+]

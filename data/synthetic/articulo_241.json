@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 241 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 241 establece que si un trabajador es declarado con gran invalidez, tiene derecho a una renta anual vitalicia pagada en doceavos. Esta renta se calcula como el 100% del salario anual hasta un límite de treinta y seis mil colones, más el 67% sobre el exceso de esa suma. Además, fija una renta mensual mínima de mil quinientos colones y una suma mensual fija adicional de quinientos colones. También permite que por vía reglamentaria se aumente el salario anual máximo para el cálculo del 100% y la cuantía básica de la renta.",
+    "source_quote": "La declaratoria de gran invalidez determina para el trabajador, el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "241",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_241"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "241",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_241",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje del salario anual recibe un trabajador con gran invalidez sobre el exceso de treinta y seis mil colones?",
+    "output": "Recibe el 67% sobre el exceso de treinta y seis mil colones.",
+    "source_quote": "igual al 100% del salario anual hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "241",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_241",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la renta mensual mínima que se fija por gran invalidez según este artículo?",
+    "output": "La renta mensual mínima es de mil quinientos colones.",
+    "source_quote": "Ninguna renta mensual que se fije por gran invalidez será inferior a mil quinientos colones",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "241",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_241",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el derecho principal del trabajador con gran invalidez: una renta vitalicia calculada con un tramo fijo al 100% y un tramo variable al 67%, estableciendo así la fórmula de cálculo de la prestación económica.",
+    "source_quote": "La declaratoria de gran invalidez determina para el trabajador, el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "241",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_241",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un piso mínimo de protección económica para el trabajador con gran invalidez, garantizando una renta mensual no menor a mil quinientos colones y un complemento fijo adicional de quinientos colones.",
+    "source_quote": "Ninguna renta mensual que se fije por gran invalidez será inferior a mil quinientos colones y en todos los casos, adicionalmente, se reconocerá una suma mensual fija de quinientos colones.",
+    "item_index": 2
+  }
+]

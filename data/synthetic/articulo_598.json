@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 598 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 598 establece que, si se anula una sentencia, la audiencia debe repetirse y, en esa repetición, debe intervenir una persona juzgadora diferente a la que dictó la sentencia anulada.",
+    "source_quote": "En cualquier caso en que se anule una sentencia, la audiencia se repetirá siempre con la intervención de otra persona como juzgadora.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "598",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_598"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "598",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_598",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con la audiencia cuando se anula una sentencia según el artículo 598?",
+    "output": "La audiencia se repetirá siempre.",
+    "source_quote": "la audiencia se repetirá siempre",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "598",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_598",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe intervenir en la nueva audiencia tras la anulación de una sentencia?",
+    "output": "Debe intervenir otra persona como juzgadora, distinta a la que emitió la sentencia anulada.",
+    "source_quote": "con la intervención de otra persona como juzgadora",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "598",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_598",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho que activa la regla: la anulación de una sentencia, sin excepción.",
+    "source_quote": "En cualquier caso en que se anule una sentencia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "598",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_598",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la consecuencia procesal obligatoria: repetición de la audiencia con un juzgador diferente, garantizando imparcialidad y evitando que la misma persona resuelva nuevamente.",
+    "source_quote": "la audiencia se repetirá siempre con la intervención de otra persona como juzgadora",
+    "item_index": 2
+  }
+]

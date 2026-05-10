@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 617 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 617 regula el procedimiento cuando patronos y trabajadores llegan a un acuerdo en sus negociaciones. Establece que se debe levantar un acta del acuerdo y enviar una copia auténtica al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social dentro de las 24 horas siguientes a la firma. La remisión corresponde a los patronos y, si ellos no lo hacen, a los trabajadores. La Inspección General de Trabajo supervisa que estos acuerdos no violen las leyes protectoras de los trabajadores y que se cumplan estrictamente. El incumplimiento de lo pactado se sanciona con multas: de uno a tres salarios base mensuales para trabajadores, y de doce a quince salarios base mensuales para patronos, sin perjuicio de que la parte cumplidora pueda exigir judicialmente la ejecución del acuerdo o el pago de daños y perjuicios.",
+    "source_quote": "Cuando las negociaciones entre patronos y trabajadores conduzcan a un arreglo, se levantará acta de lo acordado y se enviará copia auténtica al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, dentro de las veinticuatro horas posteriores a la firma.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "617",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_617"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "617",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_617",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es responsable de enviar la copia auténtica del acuerdo al Ministerio de Trabajo?",
+    "output": "Los patronos son los responsables de enviar la copia; en su defecto, lo harán los trabajadores, directamente o por medio de una autoridad política o de trabajo local.",
+    "source_quote": "La remisión la harán los patronos y, en su defecto, los trabajadores, sea directamente o por medio de autoridad política o de trabajo local.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "617",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_617",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la multa para los patronos que incumplen lo pactado en el acuerdo?",
+    "output": "La multa para los patronos infractores es de doce a quince salarios base mensuales.",
+    "source_quote": "de doce a quince salarios base mensuales, en caso de que los infractores sean patronos",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "617",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_617",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de documentar formalmente el acuerdo y notificarlo de inmediato a la autoridad laboral, garantizando la transparencia y el control oficial sobre los pactos colectivos.",
+    "source_quote": "Cuando las negociaciones entre patronos y trabajadores conduzcan a un arreglo, se levantará acta de lo acordado y se enviará copia auténtica al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, dentro de las veinticuatro horas posteriores a la firma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "617",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_617",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las consecuencias económicas del incumplimiento, diferenciando la gravedad según la parte infractora, y preserva el derecho de la parte cumplidora a reclamar judicialmente el cumplimiento forzoso o la indemnización de perjuicios.",
+    "source_quote": "La contravención a lo pactado se sancionará con multa de uno a tres salarios base mensuales, si se tratara de trabajadores, y de doce a quince salarios base mensuales, en caso de que los infractores sean patronos, según lo establecido en los incisos 1) y 4) del artículo 398 de esta ley, sin perjuicio de que la parte que ha cumplido pueda exigir ante los tribunales de trabajo la ejecución del acuerdo o el pago de los daños y perjuicios que se le hubieran causado.",
+    "item_index": 2
+  }
+]

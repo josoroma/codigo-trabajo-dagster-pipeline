@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 643 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que, mientras no se incumpla un fallo arbitral, no se pueden iniciar nuevos procedimientos de solución de conflictos económicos y sociales sobre los mismos temas que originaron ese juicio. Solo se permite reabrir el debate si hay incumplimiento del fallo o si factores como el alza del costo de la vida, la devaluación del colón u otros análogos alteran de manera importante las condiciones económico-sociales existentes al momento de dictarse la sentencia, lo cual será valorado por los tribunales de trabajo. Además, obliga a enviar copia certificada de todo fallo arbitral firme a la Inspección General de Trabajo.",
+    "source_quote": "Mientras no haya incumplimiento del fallo arbitral no podrán plantearse los procedimientos de solución de conflictos económicos y sociales a que se refiere este Código sobre las materias que dieron origen al juicio, a menos que el alza del costo de la vida, la baja del valor del colón u otros factores análogos, que los tribunales de trabajo apreciarán en cada oportunidad, alteren sensiblemente las condiciones económico sociales vigentes en el momento de dictar la sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "643",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_643"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "643",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_643",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se pueden plantear nuevos procedimientos de solución de conflictos económicos y sociales sobre las mismas materias de un fallo arbitral?",
+    "output": "Se pueden plantear si hay incumplimiento del fallo arbitral o si el alza del costo de la vida, la baja del valor del colón u otros factores análogos alteran sensiblemente las condiciones económico sociales vigentes al momento de dictar la sentencia, según apreciación de los tribunales de trabajo.",
+    "source_quote": "Mientras no haya incumplimiento del fallo arbitral no podrán plantearse los procedimientos de solución de conflictos económicos y sociales a que se refiere este Código sobre las materias que dieron origen al juicio, a menos que el alza del costo de la vida, la baja del valor del colón u otros factores análogos, que los tribunales de trabajo apreciarán en cada oportunidad, alteren sensiblemente las condiciones económico sociales vigentes en el momento de dictar la sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "643",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_643",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacerse con un fallo arbitral firme según este artículo?",
+    "output": "Debe enviarse copia certificada a la Inspección General de Trabajo.",
+    "source_quote": "De todo fallo arbitral firme se enviará copia certificada a la Inspección General de Trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "643",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_643",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el efecto de cosa juzgada material del fallo arbitral en conflictos económicos y sociales, impidiendo reabrir la discusión sobre las mismas materias, salvo que exista incumplimiento o un cambio sustancial en las condiciones económico-sociales, lo cual otorga estabilidad a las decisiones arbitrales pero permite su revisión ante circunstancias sobrevinientes.",
+    "source_quote": "Mientras no haya incumplimiento del fallo arbitral no podrán plantearse los procedimientos de solución de conflictos económicos y sociales a que se refiere este Código sobre las materias que dieron origen al juicio, a menos que el alza del costo de la vida, la baja del valor del colón u otros factores análogos, que los tribunales de trabajo apreciarán en cada oportunidad, alteren sensiblemente las condiciones económico sociales vigentes en el momento de dictar la sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "643",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_643",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una obligación administrativa de remitir copia certificada del fallo arbitral firme a la Inspección General de Trabajo, con el fin de garantizar el registro, control y publicidad de estas decisiones ante la autoridad laboral.",
+    "source_quote": "De todo fallo arbitral firme se enviará copia certificada a la Inspección General de Trabajo.",
+    "item_index": 2
+  }
+]

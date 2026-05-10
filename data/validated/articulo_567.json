@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 567 del Código de Trabajo.",
+    "input": "",
+    "output": "Cuando una sentencia firme condena al empleador a pagar salarios atrasados, además de pagar al trabajador lo que le corresponde según su contrato y antigüedad, el empleador también debe pagar a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y otras deudas de seguridad social del período trabajado, incluso si la CCSS no participó en el juicio.",
+    "source_quote": "deberá pagarle a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y demás obligaciones adeudadas a la seguridad social correspondientes al período laborado, aun cuando dicha institución no haya sido parte en el proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "567",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_567"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "567",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_567",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación adicional tiene la parte demandada cuando es condenada en sentencia firme a pagar salarios adeudados?",
+    "output": "Debe pagar a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y demás obligaciones de seguridad social correspondientes al período laborado, aunque la CCSS no haya sido parte en el proceso.",
+    "source_quote": "deberá pagarle a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y demás obligaciones adeudadas a la seguridad social correspondientes al período laborado, aun cuando dicha institución no haya sido parte en el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "567",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_567",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es necesario que la CCSS sea parte en el proceso judicial para que el empleador condenado deba pagar las cuotas de seguridad social?",
+    "output": "No, la obligación de pago a la CCSS existe aun cuando dicha institución no haya sido parte en el proceso.",
+    "source_quote": "aun cuando dicha institución no haya sido parte en el proceso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "567",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_567",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho: una condena firme por salarios adeudados, y aclara que el pago al trabajador incluye el salario contractual y los derechos de antigüedad, delimitando el alcance de la obligación principal.",
+    "source_quote": "Cuando en sentencia firme se condene a la parte demandada a pagar salarios adeudados, además del pago al trabajador del salario que le corresponda, de acuerdo con el contrato de trabajo y a los derechos derivados de la antigüedad acumulada",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "567",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_567",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una obligación accesoria de pagar las cuotas de seguridad social a la CCSS, incluso sin que esta haya sido parte en el proceso, para garantizar la cobertura del trabajador y el cumplimiento de las obligaciones patronales.",
+    "source_quote": "deberá pagarle a la Caja Costarricense de Seguro Social (CCSS) las cuotas obrero-patronales y demás obligaciones adeudadas a la seguridad social correspondientes al período laborado, aun cuando dicha institución no haya sido parte en el proceso.",
+    "item_index": 2
+  }
+]

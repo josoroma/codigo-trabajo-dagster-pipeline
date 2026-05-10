@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 480 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 480 establece qué hechos y normas no necesitan ser probados en un proceso laboral, como las normas publicadas, hechos notorios, presunciones legales y hechos ya probados, admitidos o confesados. También regula que si una parte invoca una norma convencional o reglamentaria interna de la parte demandada, debe acreditar su existencia; el tribunal puede ordenar a la empleadora que la aporte, y si no lo hace, se considera deslealtad procesal y la norma se tiene por existente como fue invocada. Además, permite incorporar pruebas de un proceso a otro sin ratificación cuando sea imposible o innecesario repetirlas, salvo la declaración de testigos si las partes son distintas. Finalmente, los procesos administrativos se integran como prueba en los procesos judiciales por la misma causa, salvo que se impugne su validez y se estime procedente.",
+    "source_quote": "No requieren prueba las normas de derecho internacional o interno debidamente publicadas, los hechos notorios, los que se encuentren amparados por una presunción legal y los ya probados, admitidos o confesados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "480",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_480"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "480",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_480",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué hechos no requieren prueba según el artículo 480?",
+    "output": "No requieren prueba las normas de derecho internacional o interno debidamente publicadas, los hechos notorios, los que se encuentren amparados por una presunción legal y los ya probados, admitidos o confesados.",
+    "source_quote": "No requieren prueba las normas de derecho internacional o interno debidamente publicadas, los hechos notorios, los que se encuentren amparados por una presunción legal y los ya probados, admitidos o confesados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "480",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_480",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para la parte demandada no aportar un ejemplar de la normativa convencional o reglamentaria interna cuando el tribunal se lo previene?",
+    "output": "El incumplimiento de la prevención se tendrá como un acto de deslealtad procesal y la existencia de la norma o disposición podrá reputarse como existente, en los términos en que fue invocada por la parte demandante.",
+    "source_quote": "El incumplimiento de la prevención se tendrá como un acto de deslealtad procesal y la existencia de la norma o disposición podrá reputarse como existente, en los términos en que fue invocada por la parte demandante.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "480",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_480",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una lista taxativa de hechos y normas que están exentos de prueba, aligerando la carga probatoria de las partes y agilizando el proceso al evitar la demostración de cuestiones ya conocidas o de fácil verificación.",
+    "source_quote": "No requieren prueba las normas de derecho internacional o interno debidamente publicadas, los hechos notorios, los que se encuentren amparados por una presunción legal y los ya probados, admitidos o confesados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "480",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_480",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la economía procesal y la eficiencia judicial al reutilizar pruebas válidas de otros procesos, evitando duplicidades innecesarias, siempre que el tribunal considere que repetirlas es imposible o innecesario.",
+    "source_quote": "Las pruebas practicadas o evacuadas válidamente en un proceso podrán incorporarse en otro sin necesidad de ratificación, cuando sea imposible o innecesario, a criterio del tribunal, repetirlas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 342 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 342 clasifica los sindicatos en cuatro tipos según la profesión u oficio de sus miembros y el lugar donde prestan servicios: gremiales (misma profesión), de empresa (varias profesiones en una misma empresa), industriales (varias profesiones en dos o más empresas de la misma clase) y mixtos o de oficios varios (actividades diversas o inconexas, solo cuando no se alcanza el mínimo legal de trabajadores del mismo gremio). Además, permite que la Junta Directiva de cualquier sindicato esté integrada por personas que no cumplan las condiciones de afiliación del artículo.",
+    "source_quote": "Los sindicatos son: - Gremiales: los formados por individuos de una misma profesión, oficio o especialidad; - De Empresa: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en una misma empresa; - Industriales: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en dos o más empresas de la misma clase, y - Mixtos o de Oficios Varios: los formados por trabajadores que se ocupen en actividades diversas o inconexas. Estos sindicatos sólo podrán constituirse cuando en determinado cantón o empresa el número de trabajadores de un mismo gremio no alcance el mínimum legal. La Junta Directiva de todo Sindicato podrá estar integrada por personas que no reúnan las condiciones que este artículo establece.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "342",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_342"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "342",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_342",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los cuatro tipos de sindicatos según el artículo 342?",
+    "output": "Gremiales, de empresa, industriales y mixtos o de oficios varios.",
+    "source_quote": "Los sindicatos son: - Gremiales: los formados por individuos de una misma profesión, oficio o especialidad; - De Empresa: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en una misma empresa; - Industriales: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en dos o más empresas de la misma clase, y - Mixtos o de Oficios Varios: los formados por trabajadores que se ocupen en actividades diversas o inconexas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "342",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_342",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se puede constituir un sindicato mixto o de oficios varios?",
+    "output": "Solo cuando en determinado cantón o empresa el número de trabajadores de un mismo gremio no alcance el mínimo legal.",
+    "source_quote": "Estos sindicatos sólo podrán constituirse cuando en determinado cantón o empresa el número de trabajadores de un mismo gremio no alcance el mínimum legal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "342",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_342",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la clasificación legal de los sindicatos según la homogeneidad profesional y el ámbito empresarial de sus miembros, definiendo los criterios para cada tipo.",
+    "source_quote": "Los sindicatos son: - Gremiales: los formados por individuos de una misma profesión, oficio o especialidad; - De Empresa: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en una misma empresa; - Industriales: los formados por individuos de varias profesiones, oficios o especialidades, que presten sus servicios en dos o más empresas de la misma clase, y - Mixtos o de Oficios Varios: los formados por trabajadores que se ocupen en actividades diversas o inconexas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "342",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_342",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permitir que los directivos del sindicato no necesariamente cumplan con los requisitos de afiliación del tipo sindical correspondiente, flexibilizando la composición de la Junta Directiva.",
+    "source_quote": "La Junta Directiva de todo Sindicato podrá estar integrada por personas que no reúnan las condiciones que este artículo establece.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 625 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 625 dispone que el órgano conciliador debe convocar a las partes interesadas o sus delegaciones a una reunión (comparecencia), la cual se realizará en un plazo de entre ocho y quince días, dependiendo de la complejidad del pliego de peticiones, y con prioridad absoluta sobre cualquier otro asunto. Además, permite que dicho órgano se traslade al lugar donde ocurre el conflicto si lo estima necesario.",
+    "source_quote": "El órgano conciliador convocará a los interesados o las delegaciones a una comparecencia, que se verificará en un plazo de ocho a quince días, según la complejidad del pliego, con absoluta preferencia a cualquier otro asunto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "625",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_625"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "625",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_625",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe verificarse la comparecencia convocada por el órgano conciliador?",
+    "output": "En un plazo de ocho a quince días, según la complejidad del pliego.",
+    "source_quote": "que se verificará en un plazo de ocho a quince días, según la complejidad del pliego",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "625",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_625",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede el órgano conciliador constituirse en el lugar del conflicto?",
+    "output": "Sí, si lo considera necesario.",
+    "source_quote": "Dicho órgano podrá constituirse en el lugar del conflicto, si lo considera necesario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "625",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_625",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del órgano conciliador de citar a las partes y fija un plazo flexible para la audiencia, otorgándole prioridad absoluta sobre otros trámites para garantizar una resolución ágil del conflicto laboral.",
+    "source_quote": "El órgano conciliador convocará a los interesados o las delegaciones a una comparecencia, que se verificará en un plazo de ocho a quince días, según la complejidad del pliego, con absoluta preferencia a cualquier otro asunto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "625",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_625",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al órgano conciliador la facultad discrecional de trasladarse al sitio donde se desarrolla el conflicto, con el fin de facilitar la conciliación y el conocimiento directo de las circunstancias.",
+    "source_quote": "Dicho órgano podrá constituirse en el lugar del conflicto, si lo considera necesario.",
+    "item_index": 2
+  }
+]

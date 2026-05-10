@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 695 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 695 regula la validez y eficacia de las convenciones y acuerdos de negociación colectiva con servidores públicos. Establece que dichos acuerdos requieren la aprobación del órgano jerárquico competente de la institución, la cual debe emitirse dentro del mes siguiente al acuerdo. La falta de aprobación no es sancionable. Además, si las normas afectan el principio de legalidad presupuestario, su eficacia queda condicionada a la inclusión en la ley de presupuesto o reglamentos, y a la aprobación de la Contraloría General de la República cuando corresponda. Sin embargo, los acuerdos de la Comisión Negociadora de Salarios del Sector Público son vinculantes y deben ser implementados por las administraciones.",
+    "source_quote": "Las convenciones y los acuerdos que se adopten en una negociación colectiva de cualquier tipo, con servidores en régimen de empleo público, quedarán sujetos, para su validez y eficacia, a la aprobación del órgano jerárquico de la institución o empresa con competencia para obligarla, previa constatación de los límites y requisitos de validez.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "695",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_695"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "695",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_695",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir los acuerdos de negociación colectiva con servidores públicos para ser válidos y eficaces?",
+    "output": "Deben ser aprobados por el órgano jerárquico de la institución o empresa con competencia para obligarla, previa constatación de los límites y requisitos de validez.",
+    "source_quote": "Las convenciones y los acuerdos que se adopten en una negociación colectiva de cualquier tipo, con servidores en régimen de empleo público, quedarán sujetos, para su validez y eficacia, a la aprobación del órgano jerárquico de la institución o empresa con competencia para obligarla, previa constatación de los límites y requisitos de validez.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "695",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_695",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene la no aprobación de un acuerdo colectivo por parte de la Administración?",
+    "output": "La no aprobación no constituye una infracción sancionable por la vía represiva.",
+    "source_quote": "La no aprobación del acuerdo por la Administración no constituye una infracción sancionable por la vía represiva.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "695",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_695",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el requisito de aprobación administrativa como condición de validez y eficacia de los acuerdos colectivos en el sector público, asegurando que la institución verifique su conformidad con los límites legales antes de obligarse.",
+    "source_quote": "Las convenciones y los acuerdos que se adopten en una negociación colectiva de cualquier tipo, con servidores en régimen de empleo público, quedarán sujetos, para su validez y eficacia, a la aprobación del órgano jerárquico de la institución o empresa con competencia para obligarla, previa constatación de los límites y requisitos de validez.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "695",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_695",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la eficacia de ciertos acuerdos a aprobaciones adicionales (legislativa, reglamentaria o de la Contraloría) cuando inciden en la legalidad presupuestaria, protegiendo el equilibrio fiscal y el control del gasto público.",
+    "source_quote": "Tratándose de normas que por su naturaleza o su afectación del principio de legalidad presupuestario requieran aprobación legislativa o reglamentaria, su eficacia quedará condicionada a la inclusión en la ley de presupuesto o en los reglamentos respectivos, lo mismo que a la aprobación por parte de la Contraloría General de la República, cuando afecte los presupuestos de las instituciones, cuyos presupuestos ordinarios y extraordinarios o modificaciones presupuestarias requieran aprobación de esta última entidad.",
+    "item_index": 2
+  }
+]

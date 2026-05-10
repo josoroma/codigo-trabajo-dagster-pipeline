@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 56 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 56 establece la obligación de todo patrono particular de celebrar una convención colectiva cuando más de la tercera parte de sus trabajadores estén sindicalizados y el sindicato lo solicite. Para ello, fija reglas: el porcentaje se calcula sobre el total de trabajadores de la empresa o centro de producción; si hay varios sindicatos, se negocia con el que tenga más trabajadores afectados, sin que el pacto sea menos favorable que contratos vigentes; si hay distintas profesiones u oficios, se negocia con el conjunto de sindicatos si se ponen de acuerdo, o cada uno puede exigir su propia convención; y si tras treinta días no hay acuerdo, cualquiera de las partes puede acudir a los Tribunales de Trabajo. El párrafo final fue derogado en 2016. La Sala Constitucional interpretó que las convenciones colectivas en el sector público son inconstitucionales para personal con relación estatutaria, pero no para aquellos regidos por el Derecho común, y que los instrumentos colectivos ya negociados y prorrogados son compatibles con la Constitución.",
+    "source_quote": "Todo patrono particular que emplee en su empresa, o en determinado centro de producción si la empresa por la naturaleza de sus actividades tuviere que distribuir la ejecución de sus trabajos en varias zonas del país, los servicios de más de la tercera parte de trabajadores sindicalizados, tendrá obligación de celebrar con el respectivo sindicato, cuando éste lo solicite, una convención colectiva.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "56",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_56"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "56",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_56",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo está obligado un patrono particular a celebrar una convención colectiva según el artículo 56?",
+    "output": "Cuando emplea los servicios de más de la tercera parte de trabajadores sindicalizados en su empresa o centro de producción, y el respectivo sindicato lo solicita.",
+    "source_quote": "Todo patrono particular que emplee en su empresa, o en determinado centro de producción... los servicios de más de la tercera parte de trabajadores sindicalizados, tendrá obligación de celebrar con el respectivo sindicato, cuando éste lo solicite, una convención colectiva.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "56",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_56",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden hacer las partes si después de treinta días de solicitada la convención colectiva no logran un acuerdo pleno?",
+    "output": "Cualquiera de las partes puede pedir a los Tribunales de Trabajo que resuelvan el punto o puntos en discordia.",
+    "source_quote": "Si transcurridos treinta días después de la solicitud hecha al patrono por el respectivo sindicato para la celebración de la convención colectiva, no hubieren llegado las partes a un acuerdo pleno sobre sus estipulaciones, podrá cualquiera de ellas pedir a los Tribunales de Trabajo que resuelvan el punto o puntos en discordia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "56",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_56",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono particular de negociar colectivamente cuando se supera el umbral de un tercio de trabajadores sindicalizados, definiendo el ámbito de aplicación (empresa o centro de producción) y la condición de que el sindicato lo solicite.",
+    "source_quote": "Todo patrono particular que emplee en su empresa, o en determinado centro de producción si la empresa por la naturaleza de sus actividades tuviere que distribuir la ejecución de sus trabajos en varias zonas del país, los servicios de más de la tercera parte de trabajadores sindicalizados, tendrá obligación de celebrar con el respectivo sindicato, cuando éste lo solicite, una convención colectiva.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "56",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_56",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prevé un mecanismo de solución judicial para los conflictos que surjan durante la negociación colectiva, permitiendo que cualquiera de las partes acuda a los Tribunales de Trabajo si no hay acuerdo pleno en un plazo de treinta días.",
+    "source_quote": "Si transcurridos treinta días después de la solicitud hecha al patrono por el respectivo sindicato para la celebración de la convención colectiva, no hubieren llegado las partes a un acuerdo pleno sobre sus estipulaciones, podrá cualquiera de ellas pedir a los Tribunales de Trabajo que resuelvan el punto o puntos en discordia.",
+    "item_index": 2
+  }
+]

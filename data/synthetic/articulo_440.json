@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 440 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 440 regula la incompetencia por razón del territorio en procesos laborales. Prohíbe que los tribunales la declaren de oficio; solo la parte interesada puede alegarla al contestar la demanda. La excepción se resuelve tras el emplazamiento. La resolución es apelable únicamente si declara la incompetencia. Si la protesta es sobre competencia territorial nacional, la apelación la resuelve la Sala Segunda de la Corte Suprema, con carácter definitivo y vinculante. Si se alega que el asunto no es competencia de tribunales costarricenses, conoce el órgano de casación laboral. Si no se recurre, la decisión es firme y el tribunal favorecido debe asumir el caso sin conflicto.",
+    "source_quote": "Salvo disposición expresa en contrario, es prohibido a los tribunales declarar de oficio la incompetencia por razón del territorio y la parte interesada solo podrá protestarla al contestar la demanda.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "440",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_440"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "440",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_440",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento procesal debe la parte interesada protestar la incompetencia por razón del territorio?",
+    "output": "Al contestar la demanda.",
+    "source_quote": "la parte interesada solo podrá protestarla al contestar la demanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "440",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_440",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tribunal conoce de la apelación cuando la excepción de incompetencia se basa en que el asunto no es competencia de los tribunales costarricenses?",
+    "output": "El órgano de la Corte Suprema de Justicia con competencia para conocer del recurso de casación en los asuntos laborales.",
+    "source_quote": "Si la excepción se interpuso alegándose que el asunto no es competencia de los tribunales costarricenses, la apelación la conocerá el órgano de la Corte Suprema de Justicia con competencia para conocer del recurso de casación en los asuntos laborales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "440",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_440",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que la incompetencia territorial no puede ser declarada de oficio y debe ser alegada por la parte al contestar la demanda, garantizando el principio dispositivo.",
+    "source_quote": "Salvo disposición expresa en contrario, es prohibido a los tribunales declarar de oficio la incompetencia por razón del territorio y la parte interesada solo podrá protestarla al contestar la demanda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "440",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_440",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el órgano competente para resolver la apelación en conflictos territoriales nacionales y otorga carácter definitivo y vinculante a su decisión, evitando conflictos de competencia entre tribunales.",
+    "source_quote": "Si la protesta se reduce a la competencia respecto de circunscripciones territoriales nacionales, la alzada será resuelta por la Sala Segunda de la Corte Suprema de Justicia y lo que esta resuelva será definitivo y vinculante para los órganos de la otra circunscripción territorial, sin que sea posible plantear ningún conflicto.",
+    "item_index": 2
+  }
+]

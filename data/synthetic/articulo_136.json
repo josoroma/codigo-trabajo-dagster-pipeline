@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 136 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 136 regula la jornada ordinaria de trabajo efectivo. Establece como regla general un máximo de ocho horas diurnas, seis nocturnas y cuarenta y ocho semanales. Excepcionalmente, en trabajos no insalubres ni peligrosos, permite pactar hasta diez horas diurnas u ocho en jornada mixta, siempre que no se superen las cuarenta y ocho horas semanales. Además, autoriza a las partes a acordar libremente los tiempos de descanso y comidas, conforme a la naturaleza del trabajo y la ley. Una nota aclaratoria indica que la suspensión temporal de este artículo dispuesta en 1948 quedó sin efecto tras las elecciones de 1948 y 1949, por lo que actualmente está vigente.",
+    "source_quote": "La jornada ordinaria de trabajo efectivo no podrá ser mayor de ocho horas en el día, de seis en la noche y de cuarenta y ocho horas por semana. Sin embargo, en los trabajos que por su propia condición no sean insalubres o peligrosos, podrá estipularse una jornada ordinaria diurna hasta de diez horas y una jornada mixta hasta de ocho horas, siempre que el trabajo semanal no exceda de las cuarenta y ocho horas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "136",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_136"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "136",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_136",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la jornada ordinaria diurna máxima permitida por el artículo 136?",
+    "output": "La regla general es de ocho horas diurnas, pero en trabajos no insalubres ni peligrosos puede estipularse hasta diez horas, siempre que el total semanal no exceda de cuarenta y ocho horas.",
+    "source_quote": "La jornada ordinaria de trabajo efectivo no podrá ser mayor de ocho horas en el día... Sin embargo, en los trabajos que por su propia condición no sean insalubres o peligrosos, podrá estipularse una jornada ordinaria diurna hasta de diez horas... siempre que el trabajo semanal no exceda de las cuarenta y ocho horas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "136",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_136",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué dispone el artículo 136 sobre los tiempos de descanso y comidas?",
+    "output": "Las partes pueden contratar libremente las horas destinadas a descanso y comidas, atendiendo a la naturaleza del trabajo y a las disposiciones legales.",
+    "source_quote": "Las partes podrán contratar libremente las horas destinadas a descanso y comidas, atendiendo a la naturaleza del trabajo y a las disposiciones legales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "136",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_136",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija los límites máximos generales de la jornada ordinaria, protegiendo la salud y el descanso del trabajador al evitar jornadas excesivas.",
+    "source_quote": "La jornada ordinaria de trabajo efectivo no podrá ser mayor de ocho horas en el día, de seis en la noche y de cuarenta y ocho horas por semana.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "136",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_136",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción que flexibiliza la jornada diurna y mixta en actividades no riesgosas, manteniendo el límite semanal como garantía de protección.",
+    "source_quote": "Sin embargo, en los trabajos que por su propia condición no sean insalubres o peligrosos, podrá estipularse una jornada ordinaria diurna hasta de diez horas y una jornada mixta hasta de ocho horas, siempre que el trabajo semanal no exceda de las cuarenta y ocho horas.",
+    "item_index": 2
+  }
+]

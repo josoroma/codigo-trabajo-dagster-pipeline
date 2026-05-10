@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 66 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 66 define el reglamento de trabajo como el documento que elabora el patrono, ajustándose a las leyes, decretos, convenciones y contratos vigentes que le sean aplicables, con la finalidad de establecer las condiciones obligatorias que tanto él como sus trabajadores deben cumplir durante la ejecución o prestación del trabajo.",
+    "source_quote": "Reglamento de trabajo es el elaborado por el patrono de acuerdo con las leyes, decretos, convenciones y contratos vigentes que lo afecten, con el objeto de precisar las condiciones obligatorias a que deben sujetarse él y sus trabajadores con motivo de la ejecución o prestación concreta del trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "66",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_66"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "66",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_66",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es el responsable de elaborar el reglamento de trabajo?",
+    "output": "El patrono.",
+    "source_quote": "elaborado por el patrono",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "66",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_66",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad del reglamento de trabajo según el artículo 66?",
+    "output": "Precisar las condiciones obligatorias a que deben sujetarse el patrono y sus trabajadores con motivo de la ejecución o prestación concreta del trabajo.",
+    "source_quote": "con el objeto de precisar las condiciones obligatorias a que deben sujetarse él y sus trabajadores con motivo de la ejecución o prestación concreta del trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "66",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_66",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece quién elabora el reglamento (el patrono) y el marco normativo que debe respetar, asegurando su conformidad con el ordenamiento jurídico aplicable.",
+    "source_quote": "Reglamento de trabajo es el elaborado por el patrono de acuerdo con las leyes, decretos, convenciones y contratos vigentes que lo afecten",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "66",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_66",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la finalidad del reglamento: fijar las reglas obligatorias para ambas partes en la relación laboral, delimitando sus derechos y deberes durante la ejecución del trabajo.",
+    "source_quote": "con el objeto de precisar las condiciones obligatorias a que deben sujetarse él y sus trabajadores con motivo de la ejecución o prestación concreta del trabajo.",
+    "item_index": 2
+  }
+]

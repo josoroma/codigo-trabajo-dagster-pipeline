@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 109 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 109 define a los trabajadores a domicilio como aquellas personas que elaboran artículos en su hogar o en otro lugar que elijan libremente, sin estar sujetos a la vigilancia o dirección inmediata del patrono o de su representante.",
+    "source_quote": "Trabajadores a domicilio son los que elaboran artículos en su hogar u otro sitio elegido libremente por ellos, sin la vigilancia o la dirección inmediata del patrono o del representante de éste.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "109",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_109"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "109",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_109",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son considerados trabajadores a domicilio según el artículo 109?",
+    "output": "Son aquellos que elaboran artículos en su hogar u otro sitio elegido libremente por ellos, sin la vigilancia o dirección inmediata del patrono o de su representante.",
+    "source_quote": "Trabajadores a domicilio son los que elaboran artículos en su hogar u otro sitio elegido libremente por ellos, sin la vigilancia o la dirección inmediata del patrono o del representante de éste.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "109",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_109",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué característica distingue a los trabajadores a domicilio respecto a la supervisión del patrono?",
+    "output": "Carecen de la vigilancia o dirección inmediata del patrono o de su representante.",
+    "source_quote": "sin la vigilancia o la dirección inmediata del patrono o del representante de éste.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "109",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_109",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición básica del trabajador a domicilio, indicando la actividad (elaborar artículos) y el lugar de trabajo (hogar u otro sitio de libre elección).",
+    "source_quote": "Trabajadores a domicilio son los que elaboran artículos en su hogar u otro sitio elegido libremente por ellos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "109",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_109",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita la ausencia de subordinación directa e inmediata, diferenciando esta modalidad laboral de otras donde el patrono ejerce control presencial.",
+    "source_quote": "sin la vigilancia o la dirección inmediata del patrono o del representante de éste",
+    "item_index": 2
+  }
+]

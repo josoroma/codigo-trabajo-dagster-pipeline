@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 73 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 73 del Código de Trabajo establece que la suspensión total o parcial de los contratos de trabajo no significa que estos terminen, ni que se eliminen los derechos y obligaciones que de ellos se derivan. Es decir, el vínculo laboral y sus consecuencias jurídicas permanecen vigentes durante la suspensión. Además, la norma aclara que la suspensión puede aplicarse a todos los contratos de trabajo de una empresa o únicamente a una parte de ellos, es decir, puede ser de alcance general o limitado.",
+    "source_quote": "La suspensión total o parcial de los contratos de trabajo no implica su terminación ni extingue los derechos y obligaciones que emanen de los mismos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "73",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_73"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "73",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_73",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿La suspensión de un contrato de trabajo implica su terminación?",
+    "output": "No, la suspensión total o parcial no implica su terminación ni extingue los derechos y obligaciones que emanan del contrato.",
+    "source_quote": "La suspensión total o parcial de los contratos de trabajo no implica su terminación ni extingue los derechos y obligaciones que emanen de los mismos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "73",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_73",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede la suspensión afectar solo a una parte de los contratos de trabajo de una empresa?",
+    "output": "Sí, la suspensión puede afectar a todos los contratos vigentes en una empresa o sólo a parte de ellos.",
+    "source_quote": "La suspensión puede afectar a todos los contratos vigentes en una empresa o sólo a parte de ellos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "73",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_73",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Este fragmento tiene como propósito legal establecer el principio de que la suspensión no rompe el vínculo laboral ni elimina los derechos y obligaciones, garantizando la estabilidad del contrato durante el período de suspensión.",
+    "source_quote": "La suspensión total o parcial de los contratos de trabajo no implica su terminación ni extingue los derechos y obligaciones que emanen de los mismos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "73",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_73",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Su propósito legal es definir el alcance de la suspensión, permitiendo que sea total (toda la empresa) o parcial (solo algunos contratos), lo que otorga flexibilidad al empleador para ajustar la medida según las circunstancias.",
+    "source_quote": "La suspensión puede afectar a todos los contratos vigentes en una empresa o sólo a parte de ellos.",
+    "item_index": 2
+  }
+]

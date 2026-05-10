@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 463 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 463 establece que en los procesos laborales no se exigirá a las partes presentar copias de los escritos y documentos que aporten. Además, dispone que los documentos originales cuyo extravío pueda causar un daño irreparable serán certificados a costa de quien los presente, se guardarán en la caja del despacho y se exhibirán a la parte contraria si esta lo solicita. Finalmente, obliga al despacho a facilitar que las partes, durante la jornada laboral, obtengan por su cuenta copias de las piezas del expediente.",
+    "source_quote": "No se exigirán copias de los escritos y documentos que se aporten al proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se exigen copias de los escritos y documentos que se aportan al proceso laboral?",
+    "output": "No, no se exigirán copias de los escritos y documentos que se aporten al proceso.",
+    "source_quote": "No se exigirán copias de los escritos y documentos que se aporten al proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué medidas se toman con los documentos originales cuya pérdida puede causar perjuicio irreparable?",
+    "output": "Serán certificados a costa de la parte interesada, quedarán en la caja del respectivo despacho y serán mostrados a la parte contraria si esta los pidiera.",
+    "source_quote": "Los documentos originales, cuya pérdida puede causar perjuicio irreparable, serán certificados a costa de la parte interesada, quedarán en la caja del respectivo despacho y serán mostrados a la parte contraria, si esta los pidiera.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué facilidades debe brindar el despacho a las partes para obtener copias del expediente?",
+    "output": "El despacho brindará facilidades para que en cualquier momento, durante la jornada laboral, puedan obtener por su cuenta copias de las piezas de los expedientes.",
+    "source_quote": "El despacho brindará a las partes las facilidades para que en cualquier momento, durante la jornada laboral, puedan obtener por su cuenta copias de las piezas de los expedientes.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que no es necesario presentar copias de los documentos, simplificando la carga procesal y evitando trámites innecesarios.",
+    "source_quote": "No se exigirán copias de los escritos y documentos que se aporten al proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege los documentos originales de posible pérdida o daño, asegurando su conservación en un lugar seguro y garantizando el derecho de la contraparte a examinarlos.",
+    "source_quote": "Los documentos originales, cuya pérdida puede causar perjuicio irreparable, serán certificados a costa de la parte interesada, quedarán en la caja del respectivo despacho y serán mostrados a la parte contraria, si esta los pidiera.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "463",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_463",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el acceso efectivo a la información del expediente, permitiendo a las partes ejercer su derecho de defensa y obtener copias en horario hábil sin depender de la parte contraria.",
+    "source_quote": "El despacho brindará a las partes las facilidades para que en cualquier momento, durante la jornada laboral, puedan obtener por su cuenta copias de las piezas de los expedientes.",
+    "item_index": 3
+  }
+]

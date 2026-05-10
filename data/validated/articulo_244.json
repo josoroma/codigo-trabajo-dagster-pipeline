@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 244 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 244 establece dos reglas sobre las rentas por riesgos del trabajo. Primero, si la renta se extingue por muerte de un beneficiario o por cualquier otra causa, ningún otro beneficiario adquiere derecho a ella. Segundo, una misma persona no puede recibir dos rentas al mismo tiempo por el mismo riesgo laboral sufrido por un mismo trabajador.",
+    "source_quote": "La caducidad de la renta, por muerte de un beneficiario de los comprendidos en el artículo 243, o por cualquier otra causa, no configura derecho a favor de ninguno otro.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "244",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_244"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "244",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_244",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con la renta por riesgo del trabajo cuando fallece un beneficiario?",
+    "output": "La caducidad de la renta no configura derecho a favor de ningún otro beneficiario.",
+    "source_quote": "La caducidad de la renta, por muerte de un beneficiario de los comprendidos en el artículo 243, o por cualquier otra causa, no configura derecho a favor de ninguno otro.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "244",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_244",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede una persona recibir dos rentas simultáneas por el mismo riesgo del trabajo de un mismo trabajador?",
+    "output": "No, una sola persona no podrá disfrutar de dos rentas simultáneas por esa razón.",
+    "source_quote": "Una sola persona no podrá disfrutar de dos rentas simultáneas, por razón de un mismo riesgo del trabajo, ocurrido a un mismo trabajador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "244",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_244",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Evitar que la extinción de una renta por riesgo laboral genere derechos sucesorios o de acrecimiento a favor de otros posibles beneficiarios, limitando el beneficio a los expresamente designados.",
+    "source_quote": "La caducidad de la renta, por muerte de un beneficiario de los comprendidos en el artículo 243, o por cualquier otra causa, no configura derecho a favor de ninguno otro.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "244",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_244",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohibir la acumulación de rentas para una misma persona derivadas del mismo siniestro laboral, evitando un enriquecimiento indebido.",
+    "source_quote": "Una sola persona no podrá disfrutar de dos rentas simultáneas, por razón de un mismo riesgo del trabajo, ocurrido a un mismo trabajador.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 94_bis del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo protege a la trabajadora embarazada o en período de lactancia que fue despedida ilegalmente. Le permite solicitar al juzgado de trabajo su reinstalación inmediata con todos sus derechos, o bien optar por terminar el contrato con responsabilidad del empleador. En ambos casos, el empleador debe pagar indemnización, daños y perjuicios, y montos adicionales según la condición: para la embarazada, el subsidio de preparto y posparto y los salarios hasta los ocho meses de gestación; para la lactante, la cesantía y los daños y perjuicios fijados en sentencia.",
+    "source_quote": "La trabajadora embarazada o en período de lactancia, que fuera despedida en contravención con lo dispuesto en el artículo anterior, podrá gestionar ante el juzgado de trabajo su reinstalación inmediata, con pleno goce de todos sus derechos...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué opciones tiene una trabajadora embarazada despedida en contravención del artículo anterior?",
+    "output": "Puede gestionar su reinstalación inmediata ante el juzgado de trabajo o dar por terminado el contrato con responsabilidad patronal.",
+    "source_quote": "La trabajadora podrá optar por la reinstalación o dar por terminado el contrato de trabajo con responsabilidad patronal.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pagos adicionales debe cubrir el empleador si despide a una trabajadora embarazada, independientemente de la opción que ella elija?",
+    "output": "Debe pagar, además de la indemnización y daños y perjuicios, las sumas del subsidio de preparto y posparto, y los salarios dejados de percibir desde el despido hasta completar ocho meses de embarazo.",
+    "source_quote": "En todo caso, el empleador o la empleadora deberán pagarle, además de la indemnización a que tenga derecho y en concepto de daños y perjuicios, las sumas correspondientes al subsidio de preparto y posparto, y los salarios que hubiera dejado de percibir desde el momento del despido, hasta completar ocho meses de embarazo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho de la trabajadora a elegir entre ser reinstalada en su puesto o finalizar la relación laboral con todas las consecuencias económicas para el empleador, garantizando así su protección frente al despido ilegal.",
+    "source_quote": "La trabajadora podrá optar por la reinstalación o dar por terminado el contrato de trabajo con responsabilidad patronal.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija la compensación económica mínima e irrenunciable que el empleador debe cubrir a la trabajadora embarazada despedida, incluyendo rubros específicos de la maternidad y lucro cesante, para reparar integralmente el daño causado.",
+    "source_quote": "En todo caso, el empleador o la empleadora deberán pagarle, además de la indemnización a que tenga derecho y en concepto de daños y perjuicios, las sumas correspondientes al subsidio de preparto y posparto, y los salarios que hubiera dejado de percibir desde el momento del despido, hasta completar ocho meses de embarazo.",
+    "item_index": 2
+  }
+]

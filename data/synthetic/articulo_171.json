@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 171 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 171 establece que el salario debe pagarse directamente al trabajador o, si él lo autoriza por escrito, a un familiar suyo. Antes de efectuar el pago, se deben aplicar las deducciones y retenciones que estén permitidas por el Código de Trabajo y otras leyes relacionadas.",
+    "source_quote": "El salario se pagará directamente al trabajador o a la persona de su familia que él indique por escrito, una vez hechas las deducciones y retenciones autorizadas por el presente Código y sus leyes conexas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "171",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_171"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "171",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_171",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se le debe pagar el salario según el artículo 171?",
+    "output": "El salario se paga directamente al trabajador o a la persona de su familia que él indique por escrito.",
+    "source_quote": "El salario se pagará directamente al trabajador o a la persona de su familia que él indique por escrito",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "171",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_171",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir el trabajador para que el salario se pague a un familiar?",
+    "output": "Debe indicarlo por escrito.",
+    "source_quote": "que él indique por escrito",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "171",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_171",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general sobre el destinatario del pago del salario, garantizando que el trabajador reciba su remuneración o designe a un familiar mediante un documento escrito, lo que brinda seguridad jurídica y evidencia de la designación.",
+    "source_quote": "El salario se pagará directamente al trabajador o a la persona de su familia que él indique por escrito",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "171",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_171",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indica que el pago del salario está condicionado a la aplicación previa de las deducciones y retenciones legales, asegurando que solo se descuenten montos permitidos por la normativa laboral y conexa.",
+    "source_quote": "una vez hechas las deducciones y retenciones autorizadas por el presente Código y sus leyes conexas",
+    "item_index": 2
+  }
+]

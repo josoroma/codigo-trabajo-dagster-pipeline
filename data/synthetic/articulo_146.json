@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 146 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 146 del Código de Trabajo fue derogado, es decir, eliminado del ordenamiento jurídico, por lo que actualmente no tiene contenido ni produce efectos legales.",
+    "source_quote": "ARTICULO 146.- (Derogado por el artículo 1º de la ley N° 7679 de 17 de julio de 1997)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "146",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_146"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "146",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_146",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el contenido actual del artículo 146 del Código de Trabajo?",
+    "output": "El artículo 146 no tiene contenido actual porque fue derogado.",
+    "source_quote": "ARTICULO 146.- (Derogado por el artículo 1º de la ley N° 7679 de 17 de julio de 1997)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "146",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_146",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Mediante qué norma y en qué fecha fue derogado el artículo 146 del Código de Trabajo?",
+    "output": "Fue derogado por el artículo 1º de la ley N° 7679, de 17 de julio de 1997.",
+    "source_quote": "Derogado por el artículo 1º de la ley N° 7679 de 17 de julio de 1997",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "146",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_146",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 146 ha sido expresamente derogado por una ley posterior, eliminando su vigencia y cualquier obligación o derecho que pudiera haber contenido.",
+    "source_quote": "ARTICULO 146.- (Derogado por el artículo 1º de la ley N° 7679 de 17 de julio de 1997)",
+    "item_index": 1
+  }
+]

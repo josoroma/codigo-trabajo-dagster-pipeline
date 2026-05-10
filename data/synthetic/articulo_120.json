@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 120 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 120 regula el contrato de enrolamiento que debe firmar todo pescador con el armador del barco de pesca o su representante legal. Define como pescador a cualquier persona empleada o contratada a bordo de un barco de pesca, en cualquier calidad, que figure en el rol de la tripulación. El contrato debe cumplir formalidades legales, ser comprensible y contener información como el nombre del barco, el viaje o fechas estimadas, rutas y forma de remuneración. Si el pago es a la parte de captura o destajo, se debe indicar el importe y método de cálculo; si es combinado con salario, se fija una remuneración mínima no inferior al salario mínimo legal. El Ministerio de Trabajo provee modelos impresos y el contrato se extiende en tres tantos: uno para cada parte y otro que el patrono debe enviar a la Dirección Nacional de Empleo en 15 días. El armador debe declarar bajo juramento estar al día con la CCSS. Además, se crea el documento de identidad para la gente del mar, expedido por la Dirección Nacional de Empleo, como requisito indispensable para suscribir el contrato, y se lleva un registro de contratos y documentos.",
+    "source_quote": "Todo pescador deberá firmar un contrato de enrolamiento con el armador del barco de pesca o su representante legal autorizado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es considerado pescador según este artículo?",
+    "output": "Toda persona que vaya a ser empleada o contratada a bordo de cualquier barco de pesca, en cualquier calidad, que figure en el rol de la tripulación.",
+    "source_quote": "Se entenderá como pescador toda persona que vaya a ser empleada o contratada a bordo de cualquier barco de pesca, en cualquier calidad, que figure en el rol de la tripulación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documento es necesario para suscribir cada contrato de enrolamiento?",
+    "output": "El documento de identidad para la gente del mar, expedido por la Dirección Nacional de Empleo.",
+    "source_quote": "Este documento se expedirá a favor de quien lo solicite, indistintamente de su nacionalidad, y será condición necesaria para suscribir cada contrato de enrolamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligatoriedad del contrato de enrolamiento y define el ámbito personal de aplicación, incluyendo a cualquier trabajador que preste servicios a bordo de un barco de pesca, sin distinción de su función.",
+    "source_quote": "Todo pescador deberá firmar un contrato de enrolamiento con el armador del barco de pesca o su representante legal autorizado. Se entenderá como pescador toda persona que vaya a ser empleada o contratada a bordo de cualquier barco de pesca, en cualquier calidad, que figure en el rol de la tripulación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Detalla el contenido mínimo del contrato para garantizar que el pescador conozca las condiciones esenciales de su trabajo, como la identificación del barco, el itinerario y la forma de pago, protegiendo así su consentimiento informado.",
+    "source_quote": "El contrato de enrolamiento indicará el nombre del barco de pesca a bordo del cual servirá el pescador, así como el viaje o los viajes que deba emprender, si tal información puede determinarse al celebrar el contrato o, en su defecto, el estimado de las fechas de salida y de regreso a puerto, las rutas de destino y la forma de remuneración.",
+    "item_index": 2
+  }
+]

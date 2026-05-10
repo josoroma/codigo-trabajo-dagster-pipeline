@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 460 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 460 establece que en las demandas laborales contra el Estado, sus instituciones y entes de derecho público, el agotamiento de la vía administrativa es opcional. Se considera agotada sin declaración expresa en tres casos: cuando no se usan los recursos ordinarios y el acto queda firme; cuando se usan todos los recursos ordinarios; o cuando la ley lo dispone. Si el acto proviene de un superior jerárquico supremo en única instancia, cabe recurso de reconsideración en quince días, y si no se resuelve en un mes, se puede tener por desestimado y la vía por agotada. Si se opta por agotar la vía, luego se pueden reclamar todos los derechos, aunque no se hayan mencionado en la gestión administrativa.",
+    "source_quote": "En las demandas contra el Estado, sus instituciones y los demás entes de derecho público, cuyo conocimiento corresponda a esta jurisdicción, el agotamiento de la vía administrativa será facultativo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "460",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_460"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "460",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_460",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es obligatorio agotar la vía administrativa antes de demandar al Estado en materia laboral?",
+    "output": "No, el agotamiento de la vía administrativa es facultativo.",
+    "source_quote": "el agotamiento de la vía administrativa será facultativo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "460",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_460",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si se interpone un recurso de reconsideración contra un acto de un superior jerárquico supremo y no se resuelve en un mes?",
+    "output": "Se puede tener por desestimado el recurso y por agotada la vía administrativa.",
+    "source_quote": "Podrá tenerse por desestimado el recurso interpuesto y por agotada la vía administrativa, una vez transcurrido un mes desde su presentación, sin que se haya resuelto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "460",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_460",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que no es obligatorio agotar la vía administrativa antes de acudir a la jurisdicción laboral en demandas contra entes públicos, otorgando al demandante la opción de hacerlo o no.",
+    "source_quote": "En las demandas contra el Estado, sus instituciones y los demás entes de derecho público, cuyo conocimiento corresponda a esta jurisdicción, el agotamiento de la vía administrativa será facultativo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "460",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_460",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula un mecanismo específico para actos dictados por la máxima autoridad administrativa, permitiendo un recurso de reconsideración con plazo de quince días, y establece que el silencio administrativo por un mes permite considerar agotada la vía, facilitando el acceso a la justicia laboral.",
+    "source_quote": "Cuando el acto emanara en única instancia, de un superior jerárquico supremo del respectivo órgano o ente administrativo, podrá formularse recurso de reconsideración ante el mismo órgano que ha dictado el acto, en el plazo de quince días. Podrá tenerse por desestimado el recurso interpuesto y por agotada la vía administrativa, una vez transcurrido un mes desde su presentación, sin que se haya resuelto.",
+    "item_index": 2
+  }
+]

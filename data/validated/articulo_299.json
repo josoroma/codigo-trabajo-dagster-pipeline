@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 299 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 299 establece la obligación de toda empresa, ya sea pública o privada, de permitir el ingreso a sus instalaciones, en cualquier momento del día o de la noche en que se realicen labores, a los miembros del consejo o funcionarios dependientes, con el fin de examinar las condiciones de salud ocupacional, tomar muestras, hacer mediciones, colocar detectores y realizar actividades similares.",
+    "source_quote": "Toda empresa, pública o privada, está obligada a permitir el acceso a sus instalaciones, a cualquier hora del día o de la noche en que se efectúe el trabajo, a los miembros del consejo o a los funcionarios de su dependencia, para el examen de las condiciones de salud ocupacional, la toma de muestras, mediciones, colocación de detectores y cualesquiera otras actividades similares.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "299",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_299"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "299",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_299",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de empresas obliga el artículo 299 a permitir el acceso a sus instalaciones?",
+    "output": "Obliga a toda empresa, pública o privada.",
+    "source_quote": "Toda empresa, pública o privada, está obligada a permitir el acceso a sus instalaciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "299",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_299",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento se debe permitir el acceso según este artículo?",
+    "output": "A cualquier hora del día o de la noche en que se efectúe el trabajo.",
+    "source_quote": "a cualquier hora del día o de la noche en que se efectúe el trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "299",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_299",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el sujeto obligado (toda empresa pública o privada), el momento en que debe permitirse el acceso (cualquier hora con trabajo activo) y los sujetos autorizados para ingresar (miembros del consejo o funcionarios dependientes), estableciendo así el alcance personal y temporal de la obligación.",
+    "source_quote": "Toda empresa, pública o privada, está obligada a permitir el acceso a sus instalaciones, a cualquier hora del día o de la noche en que se efectúe el trabajo, a los miembros del consejo o a los funcionarios de su dependencia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "299",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_299",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el objeto de la inspección, enumerando las actividades permitidas (examen de salud ocupacional, toma de muestras, mediciones, colocación de detectores) y una cláusula abierta para actividades análogas, con el fin de garantizar la vigilancia de las condiciones laborales.",
+    "source_quote": "para el examen de las condiciones de salud ocupacional, la toma de muestras, mediciones, colocación de detectores y cualesquiera otras actividades similares.",
+    "item_index": 2
+  }
+]

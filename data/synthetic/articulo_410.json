@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 410 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 410 establece las consecuencias para los empleadores que despidan trabajadores por motivos de discriminación, obligándolos a reinstalarlos con todos sus derechos. En la Administración Pública, los actos contrarios a este título son anulables y los procedimientos de selección violatorios carecen de eficacia. Además, los trabajadores que discriminen en funciones de personal cometen falta grave.",
+    "source_quote": "Los empleadores o las empleadoras a quienes se les compruebe haber cesado a personas trabajadoras, por cualquiera de los motivos de discriminación antes indicados, deberán reinstalarlas en su trabajo, con el pleno goce de sus derechos y las consecuencias previstas para la sentencia de reinstalación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben hacer los empleadores si se comprueba que despidieron a un trabajador por discriminación?",
+    "output": "Deben reinstalarlo en su trabajo con el pleno goce de sus derechos y las consecuencias previstas para la sentencia de reinstalación.",
+    "source_quote": "Los empleadores o las empleadoras a quienes se les compruebe haber cesado a personas trabajadoras, por cualquiera de los motivos de discriminación antes indicados, deberán reinstalarlas en su trabajo, con el pleno goce de sus derechos y las consecuencias previstas para la sentencia de reinstalación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con los actos de la Administración Pública que se realicen en contra de lo dispuesto en este título?",
+    "output": "Serán anulables a solicitud de la parte interesada, y los procedimientos de reclutamiento o selección carecerán de eficacia en lo que resulte violatorio.",
+    "source_quote": "En cuanto a la Administración Pública y las demás instituciones de derecho público, todo nombramiento, despido, suspensión, traslado, permuta, ascenso o reconocimiento que se efectúe en contra de lo dispuesto por el presente título será anulable a solicitud de la parte interesada, y los procedimientos seguidos en cuanto a reclutamiento o selección de personal carecerán de eficacia en lo que resulte violatorio a este título.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de reinstalación como sanción para el despido discriminatorio, garantizando la restitución integral de los derechos del trabajador.",
+    "source_quote": "Los empleadores o las empleadoras a quienes se les compruebe haber cesado a personas trabajadoras, por cualquiera de los motivos de discriminación antes indicados, deberán reinstalarlas en su trabajo, con el pleno goce de sus derechos y las consecuencias previstas para la sentencia de reinstalación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la anulabilidad de los actos administrativos discriminatorios y la ineficacia de los procedimientos de selección violatorios, protegiendo a los afectados en el sector público.",
+    "source_quote": "En cuanto a la Administración Pública y las demás instituciones de derecho público, todo nombramiento, despido, suspensión, traslado, permuta, ascenso o reconocimiento que se efectúe en contra de lo dispuesto por el presente título será anulable a solicitud de la parte interesada, y los procedimientos seguidos en cuanto a reclutamiento o selección de personal carecerán de eficacia en lo que resulte violatorio a este título.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "410",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_410",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Califica como falta grave la conducta discriminatoria de los trabajadores en funciones de personal, remitiendo a las consecuencias disciplinarias del artículo 81.",
+    "source_quote": "Todo trabajador que en el ejercicio de sus funciones relativas a reclutamiento, selección, nombramiento, movimientos de personal o de cualquier otra forma incurra en discriminación en los términos de este título, incurrirá en falta grave para los efectos del artículo 81 de este Código.",
+    "item_index": 3
+  }
+]

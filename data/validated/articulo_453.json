@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 453 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 453 establece que el Patronato Nacional de la Infancia (PANI) debe brindar asistencia legal gratuita a dos grupos: los trabajadores menores de edad que requieran presentar demandas en los tribunales laborales, y las madres que necesiten reclamar sus derechos laborales vinculados a la maternidad.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) suministrará asistencia legal gratuita a las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo, así como a las madres para el reclamo de sus derechos laborales relacionados con la maternidad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "453",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_453"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "453",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_453",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes debe el PANI suministrar asistencia legal gratuita según el artículo 453?",
+    "output": "A las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo y a las madres para el reclamo de sus derechos laborales relacionados con la maternidad.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) suministrará asistencia legal gratuita a las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo, así como a las madres para el reclamo de sus derechos laborales relacionados con la maternidad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "453",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_453",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de asistencia debe proporcionar el PANI a los trabajadores menores de edad?",
+    "output": "Asistencia legal gratuita para ejercitar acciones en los tribunales de trabajo.",
+    "source_quote": "asistencia legal gratuita a las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "453",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_453",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del PANI de proveer representación legal sin costo a los menores trabajadores para que puedan hacer valer sus derechos ante la jurisdicción laboral.",
+    "source_quote": "El Patronato Nacional de la Infancia (PANI) suministrará asistencia legal gratuita a las personas trabajadoras menores de edad que necesiten ejercitar acciones en los tribunales de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "453",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_453",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende el mismo beneficio de asistencia legal gratuita a las madres trabajadoras, garantizando que puedan reclamar judicialmente las prerrogativas derivadas de la maternidad, como fuero, licencias o condiciones especiales.",
+    "source_quote": "así como a las madres para el reclamo de sus derechos laborales relacionados con la maternidad.",
+    "item_index": 2
+  }
+]

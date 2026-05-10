@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 266 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 266 establece que, una vez que exista un primer dictamen médico que indique una incapacidad permanente, el Instituto Nacional de Seguros debe fijar de oficio las rentas correspondientes, las cuales serán provisionales hasta que se realice la valoración definitiva. Posteriormente, estas rentas se ajustan al resultado final: si hubo pagos en exceso por simulación o fraude del trabajador, el instituto los recupera descontándolos de rentas futuras; si, por el contrario, faltó dinero, se hace un solo pago de las diferencias al trabajador.",
+    "source_quote": "A partir del primer dictamen médico que determine algún tipo de incapacidad permanente y sin perjuicio de los recursos de apelación que este Título establezca, el Instituto Nacional de Seguros procederá, de oficio, a la fijación de las rentas que correspondan las cuales serán provisionales hasta tanto no se establezca la valoración definitiva.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "266",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_266"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "266",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_266",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento el Instituto Nacional de Seguros fija las rentas por incapacidad permanente?",
+    "output": "A partir del primer dictamen médico que determine algún tipo de incapacidad permanente.",
+    "source_quote": "A partir del primer dictamen médico que determine algún tipo de incapacidad permanente y sin perjuicio de los recursos de apelación que este Título establezca, el Instituto Nacional de Seguros procederá, de oficio, a la fijación de las rentas que correspondan...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "266",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_266",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo recupera el ente asegurador las sumas pagadas en exceso por simulación o fraude del trabajador?",
+    "output": "Descontando dichas sumas de las rentas no percibidas.",
+    "source_quote": "descontando la misma de las rentas no percibidas",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "266",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_266",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el momento procesal y la naturaleza provisional de la fijación de rentas por incapacidad permanente, garantizando que se respeten los recursos de apelación y que el Instituto actúe de oficio.",
+    "source_quote": "A partir del primer dictamen médico que determine algún tipo de incapacidad permanente y sin perjuicio de los recursos de apelación que este Título establezca, el Instituto Nacional de Seguros procederá, de oficio, a la fijación de las rentas que correspondan las cuales serán provisionales hasta tanto no se establezca la valoración definitiva.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "266",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_266",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el mecanismo de ajuste definitivo de las rentas, permitiendo al ente asegurador recuperar pagos excesivos originados en fraude del trabajador mediante descuentos futuros, o bien, realizar un pago único de las diferencias adeudadas al trabajador cuando el ajuste sea favorable a este.",
+    "source_quote": "Estas rentas se ajustarán a los términos finales, de forma que el ente asegurador recupere cualquier suma pagada en exceso, por motivo de simulación o fraude imputable al trabajador, descontando la misma de las rentas no percibidas; o en caso contrario, hará un sólo pago de las diferencias no cubiertas, a favor del trabajador.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 82 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 82 regula las consecuencias del despido según se compruebe o no la causa justa. Si el patrono despide por una causa del artículo 81 y se prueba, no incurre en responsabilidad. Si no se comprueba la causa en juicio, el trabajador tiene derecho al preaviso, auxilio de cesantía y, como daños y perjuicios, los salarios dejados de percibir desde el despido hasta la fecha en que debió quedar firme la sentencia condenatoria. El párrafo que reducía a la mitad esos daños en explotaciones agrícolas o ganaderas fue anulado por la Sala Constitucional. Además, si el trabajador demanda y el patrono demuestra la justa causa y que la notificó por escrito al despedir, el trabajador deberá pagar las costas del juicio y una multa de cuatro a veinte colones, convertible en arresto si no se paga en 24 horas tras la firmeza de la sentencia.",
+    "source_quote": "Si con posterioridad al despido surgiere contención y no se comprobare la causa del mismo, el trabajador tendrá derecho a que se le paguen el importe del preaviso y el del auxilio de cesantía que le pudieran corresponder y, a título de daños y perjuicios, los salarios que habría percibido desde la terminación del contrato hasta la fecha en que de acuerdo con los términos legales para tramitar y resolver, haya debido quedar firme la sentencia condenatoria en contra del patrono.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "82",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_82"
+  }
+]

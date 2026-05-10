@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 385 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 385 regula las consecuencias de una huelga declarada ilegal. Una vez firme esa declaratoria, el empleador puede terminar los contratos de los huelguistas sin responsabilidad patronal si no se reintegran al trabajo en 24 horas tras la notificación, con debido proceso para empleados públicos. Además, se ordena publicar la parte dispositiva de la sentencia en un medio digital. Finalmente, en nuevos contratos no se pueden pactar condiciones inferiores a las previas a la huelga ilegal.",
+    "source_quote": "Firme la declaratoria de ilegalidad de la huelga, la parte empleadora podrá ponerle fin, sin responsabilidad patronal, a los contratos de trabajo de los huelguistas, si estos no se reintegraran al trabajo dentro de las veinticuatro horas siguientes a la notificación de la respectiva resolución; previo cumplimiento del debido proceso, en el caso de los trabajadores del sector público.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "385",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_385"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "385",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_385",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer el empleador si la huelga es declarada ilegal y los trabajadores no se reintegran en 24 horas?",
+    "output": "Poner fin a los contratos de trabajo de los huelguistas sin responsabilidad patronal.",
+    "source_quote": "Firme la declaratoria de ilegalidad de la huelga, la parte empleadora podrá ponerle fin, sin responsabilidad patronal, a los contratos de trabajo de los huelguistas, si estos no se reintegraran al trabajo dentro de las veinticuatro horas siguientes a la notificación de la respectiva resolución.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "385",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_385",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué limitación se impone al patrono en los nuevos contratos que celebre después de una huelga ilegal?",
+    "output": "No podrá estipular condiciones inferiores a las que regían antes de declararse la huelga ilegal.",
+    "source_quote": "No obstante lo anterior, en los nuevos contratos que celebre el patrono no podrán estipularse condiciones inferiores a las que, en cada caso, regían antes de declararse la huelga ilegal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "385",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_385",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad del empleador para terminar los contratos de los huelguistas sin responsabilidad, condicionada a que no se reintegren en 24 horas tras la notificación de la ilegalidad, y exige debido proceso para trabajadores públicos.",
+    "source_quote": "Firme la declaratoria de ilegalidad de la huelga, la parte empleadora podrá ponerle fin, sin responsabilidad patronal, a los contratos de trabajo de los huelguistas, si estos no se reintegraran al trabajo dentro de las veinticuatro horas siguientes a la notificación de la respectiva resolución; previo cumplimiento del debido proceso, en el caso de los trabajadores del sector público.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "385",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_385",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege a los trabajadores al impedir que el empleador imponga condiciones laborales peores en los nuevos contratos, manteniendo las condiciones previas a la huelga ilegal.",
+    "source_quote": "No obstante lo anterior, en los nuevos contratos que celebre el patrono no podrán estipularse condiciones inferiores a las que, en cada caso, regían antes de declararse la huelga ilegal.",
+    "item_index": 2
+  }
+]

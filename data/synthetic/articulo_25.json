@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 25 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 25 regula cómo se prueba la existencia de un contrato de trabajo. Si el contrato es escrito, la única prueba plena es el documento mismo; si falta, la responsabilidad es del patrono y se aplican las reglas del contrato verbal. Para el contrato verbal, se admiten todos los medios de prueba, pero si se usan testigos que trabajan para el mismo patrono, se requieren tres declarantes que coincidan en los puntos esenciales, salvo que el patrono tenga cuatro o menos trabajadores, en cuyo caso bastan dos testigos.",
+    "source_quote": "La prueba plena del contrato escrito sólo podrá hacerse con el documento respectivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se prueba plenamente un contrato de trabajo escrito según el artículo 25?",
+    "output": "Sólo con el documento respectivo.",
+    "source_quote": "La prueba plena del contrato escrito sólo podrá hacerse con el documento respectivo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Si un trabajador quiere probar un contrato verbal con testigos que son compañeros de trabajo y el patrono tiene más de cuatro empleados, ¿cuántos testigos necesita?",
+    "output": "Necesita tres declarantes conformes en los puntos esenciales del pacto.",
+    "source_quote": "si se tratare de testigos al servicio del mismo patrono a cuyas órdenes trabaja el interesado, se necesitará la concurrencia de tres declarantes conformes de toda conformidad en los puntos esenciales del pacto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción existe al número de testigos requeridos para probar un contrato verbal cuando el patrono tiene pocos trabajadores?",
+    "output": "Si el patrono no ocupa a más de cuatro trabajadores, basta con el testimonio de dos de ellos.",
+    "source_quote": "Sin embargo, si dicho patrono no ocupare a más de cuatro trabajadores bastará con el testimonio de dos de ellos.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el único medio para demostrar de manera completa y definitiva un contrato escrito es el propio documento, otorgando certeza jurídica y previniendo disputas sobre su contenido.",
+    "source_quote": "La prueba plena del contrato escrito sólo podrá hacerse con el documento respectivo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "25",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_25",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la prueba del contrato verbal, permitiendo amplios medios probatorios, pero imponiendo un requisito reforzado de tres testigos coincidentes cuando estos son compañeros de trabajo, para garantizar veracidad y proteger al trabajador; la excepción para patronos con pocos empleados ajusta la exigencia a la realidad de la empresa.",
+    "source_quote": "El contrato verbal se probará por todos los medios generales de prueba; pero si se tratare de testigos al servicio del mismo patrono a cuyas órdenes trabaja el interesado, se necesitará la concurrencia de tres declarantes conformes de toda conformidad en los puntos esenciales del pacto. Sin embargo, si dicho patrono no ocupare a más de cuatro trabajadores bastará con el testimonio de dos de ellos.",
+    "item_index": 2
+  }
+]

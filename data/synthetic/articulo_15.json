@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 15 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 15 establece el orden de fuentes que deben aplicarse para resolver casos no previstos en el Código de Trabajo, sus reglamentos o leyes supletorias o conexas. Primero se recurre a los principios generales del Derecho de Trabajo, la equidad, la costumbre o el uso locales. Si estos no son suficientes, se aplican, en orden, los Convenios y Recomendaciones de la Organización Internacional del Trabajo que no contradigan las leyes del país, y finalmente los principios y leyes de derecho común.",
+    "source_quote": "Los casos no previstos en este Código, en sus Reglamentos o en sus leyes supletorias o conexas, se resolverán de acuerdo con los principios generales de Derecho de Trabajo, la equidad, la costumbre o el uso locales; y en defecto de éstos se aplicarán, por su orden, las disposiciones contenidas en los Convenios y Recomendaciones adoptados por la Organización Internacional de Trabajo en cuanto no se opongan a las leyes del país, y los principios y leyes de derecho común.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "15",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_15"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "15",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_15",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué fuentes deben utilizarse primero para resolver un caso laboral no previsto en el Código de Trabajo?",
+    "output": "Los principios generales de Derecho de Trabajo, la equidad, la costumbre o el uso locales.",
+    "source_quote": "se resolverán de acuerdo con los principios generales de Derecho de Trabajo, la equidad, la costumbre o el uso locales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "15",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_15",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué orden se aplican las fuentes supletorias cuando faltan los principios generales, la equidad, la costumbre o el uso locales?",
+    "output": "Primero los Convenios y Recomendaciones de la OIT que no se opongan a las leyes del país, y luego los principios y leyes de derecho común.",
+    "source_quote": "en defecto de éstos se aplicarán, por su orden, las disposiciones contenidas en los Convenios y Recomendaciones adoptados por la Organización Internacional de Trabajo en cuanto no se opongan a las leyes del país, y los principios y leyes de derecho común.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "15",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_15",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla primaria de integración jurídica para lagunas normativas en materia laboral, priorizando fuentes propias del derecho del trabajo y criterios de justicia material y práctica local.",
+    "source_quote": "Los casos no previstos en este Código, en sus Reglamentos o en sus leyes supletorias o conexas, se resolverán de acuerdo con los principios generales de Derecho de Trabajo, la equidad, la costumbre o el uso locales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "15",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_15",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define una jerarquía subsidiaria: primero los instrumentos internacionales laborales ratificados o adoptados por la OIT, siempre que sean compatibles con la legislación nacional, y en último término el derecho común, garantizando así un cierre completo del sistema de fuentes.",
+    "source_quote": "en defecto de éstos se aplicarán, por su orden, las disposiciones contenidas en los Convenios y Recomendaciones adoptados por la Organización Internacional de Trabajo en cuanto no se opongan a las leyes del país, y los principios y leyes de derecho común.",
+    "item_index": 2
+  }
+]

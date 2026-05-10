@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 119 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 119 establece que el capitán de una nave es considerado representante del patrono para todos los efectos legales, a menos que él mismo sea el patrono. Además, le otorga el carácter de autoridad en los casos y con las facultades que determinen las leyes comunes.",
+    "source_quote": "El capitán de la nave se considerará, para todos los efectos legales, como representante del patrono, si él mismo no lo fuere; y gozará también del carácter de autoridad en los casos y con las facultades que las leyes comunes le atribuyan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "119",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_119"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "119",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_119",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se considera representante del patrono en una nave según el artículo 119?",
+    "output": "Al capitán de la nave, siempre que él mismo no sea el patrono.",
+    "source_quote": "El capitán de la nave se considerará, para todos los efectos legales, como representante del patrono, si él mismo no lo fuere",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "119",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_119",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué carácter adicional tiene el capitán de la nave de acuerdo con este artículo?",
+    "output": "Goza del carácter de autoridad en los casos y con las facultades que las leyes comunes le atribuyan.",
+    "source_quote": "y gozará también del carácter de autoridad en los casos y con las facultades que las leyes comunes le atribuyan.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "119",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_119",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el capitán actúa como representante legal del patrono en el ámbito laboral, salvo que él sea el propio patrono, para efectos de responsabilidades y obligaciones laborales.",
+    "source_quote": "El capitán de la nave se considerará, para todos los efectos legales, como representante del patrono, si él mismo no lo fuere",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "119",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_119",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al capitán funciones de autoridad conforme a otras leyes, como las marítimas o de navegación, para mantener el orden y la seguridad a bordo.",
+    "source_quote": "y gozará también del carácter de autoridad en los casos y con las facultades que las leyes comunes le atribuyan.",
+    "item_index": 2
+  }
+]

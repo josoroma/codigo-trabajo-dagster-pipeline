@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 529 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 529 regula el orden en que se concede la palabra durante las audiencias laborales: primero al actor, luego al demandado y después a los terceros o coadyuvantes, o a sus representantes. Además, si una parte cuenta con más de un abogado, estos deben distribuirse las intervenciones y el uso de la palabra, informándolo previamente al tribunal, y se prohíbe que participen conjuntamente en una misma actuación.",
+    "source_quote": "En las audiencias se otorgará la palabra, por su orden, al actor, al demandado, a los terceros o coadyuvantes, o a sus respectivos representantes. Si alguna de las partes tuviera más de una abogada o un abogado, los intervinientes deberán distribuirse su actividad y el uso de la palabra, e informarlo anticipadamente al tribunal. Queda prohibida la participación conjunta en una actuación específica.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "529",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_529"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "529",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_529",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué orden se otorga la palabra en las audiencias según el artículo 529?",
+    "output": "Primero al actor, luego al demandado y después a los terceros o coadyuvantes, o a sus respectivos representantes.",
+    "source_quote": "En las audiencias se otorgará la palabra, por su orden, al actor, al demandado, a los terceros o coadyuvantes, o a sus respectivos representantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "529",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_529",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen los abogados cuando una parte cuenta con más de uno?",
+    "output": "Deben distribuirse su actividad y el uso de la palabra, e informarlo anticipadamente al tribunal.",
+    "source_quote": "Si alguna de las partes tuviera más de una abogada o un abogado, los intervinientes deberán distribuirse su actividad y el uso de la palabra, e informarlo anticipadamente al tribunal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "529",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_529",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer un orden claro y predecible para el uso de la palabra durante las audiencias, garantizando el derecho de defensa y la organización del debate procesal.",
+    "source_quote": "En las audiencias se otorgará la palabra, por su orden, al actor, al demandado, a los terceros o coadyuvantes, o a sus respectivos representantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "529",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_529",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Evitar la duplicidad de intervenciones y asegurar la eficiencia procesal, exigiendo coordinación entre los abogados de una misma parte y prohibiendo la intervención simultánea para mantener el orden y la claridad en la audiencia.",
+    "source_quote": "Si alguna de las partes tuviera más de una abogada o un abogado, los intervinientes deberán distribuirse su actividad y el uso de la palabra, e informarlo anticipadamente al tribunal. Queda prohibida la participación conjunta en una actuación específica.",
+    "item_index": 2
+  }
+]

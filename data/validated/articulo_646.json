@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 646 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 646 establece que, una vez presentada una solicitud, el órgano encargado debe notificar a la otra parte involucrada y advertirle que, en un plazo de tres días, debe comunicar el nombre de la persona que actuará como su conciliadora o árbitra, así como los nombres de sus delegados o delegadas, y además señalar un lugar o medio para recibir notificaciones.",
+    "source_quote": "El respectivo órgano pondrá la solicitud a conocimiento de la otra parte interesada y le prevendrá que dentro de tres días indique el nombre de la persona que actuará como su conciliadora o árbitra y de los delegados o delegadas, así como señalar lugar o medio para notificaciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "646",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_646"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "646",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_646",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el órgano respectivo al recibir una solicitud según el artículo 646?",
+    "output": "Debe poner la solicitud en conocimiento de la otra parte interesada y prevenirle que cumpla con ciertos requerimientos en tres días.",
+    "source_quote": "El respectivo órgano pondrá la solicitud a conocimiento de la otra parte interesada y le prevendrá que dentro de tres días indique...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "646",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_646",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe proporcionar la parte notificada dentro del plazo de tres días?",
+    "output": "Debe indicar el nombre de la persona que actuará como su conciliadora o árbitra, el nombre de los delegados o delegadas, y señalar un lugar o medio para notificaciones.",
+    "source_quote": "...indique el nombre de la persona que actuará como su conciliadora o árbitra y de los delegados o delegadas, así como señalar lugar o medio para notificaciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "646",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_646",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la obligación del órgano de notificar a la contraparte y fijar un plazo perentorio de tres días para que designe a su representante en la conciliación o arbitraje, así como a sus delegados, garantizando el derecho de defensa y la celeridad del proceso.",
+    "source_quote": "El respectivo órgano pondrá la solicitud a conocimiento de la otra parte interesada y le prevendrá que dentro de tres días indique el nombre de la persona que actuará como su conciliadora o árbitra y de los delegados o delegadas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "646",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_646",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición obliga a la parte notificada a proporcionar una dirección física o electrónica para futuras comunicaciones, asegurando la eficacia de las notificaciones y evitando dilaciones procesales.",
+    "source_quote": "así como señalar lugar o medio para notificaciones",
+    "item_index": 2
+  }
+]

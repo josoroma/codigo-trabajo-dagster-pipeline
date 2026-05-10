@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 312 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 312 establece que si una persona comete la misma falta o infracción a las normas del Título correspondiente y sus reglamentos dentro del plazo de un año, se le aplicará el doble de la multa que se le impuso la primera vez.",
+    "source_quote": "La reincidencia específica, en un plazo de un año, en cuanto a faltas e infracciones a las disposiciones de este Título y sus reglamentos, se sancionará con la aplicación del doble de la multa que inicialmente se haya impuesto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "312",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_312"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "312",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_312",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se entiende por reincidencia específica según el artículo 312?",
+    "output": "Es la comisión de la misma falta o infracción a las disposiciones del Título y sus reglamentos dentro de un plazo de un año.",
+    "source_quote": "La reincidencia específica, en un plazo de un año, en cuanto a faltas e infracciones a las disposiciones de este Título y sus reglamentos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "312",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_312",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la sanción por reincidencia específica en el plazo de un año?",
+    "output": "Se aplica el doble de la multa que inicialmente se haya impuesto.",
+    "source_quote": "se sancionará con la aplicación del doble de la multa que inicialmente se haya impuesto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "312",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_312",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el supuesto de hecho: la repetición de una misma falta o infracción a las normas del Título y sus reglamentos dentro de un año, lo que activa la agravante.",
+    "source_quote": "La reincidencia específica, en un plazo de un año, en cuanto a faltas e infracciones a las disposiciones de este Título y sus reglamentos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "312",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_312",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia jurídica: la sanción se duplica respecto de la multa original, como medida disuasoria y punitiva por la reiteración.",
+    "source_quote": "se sancionará con la aplicación del doble de la multa que inicialmente se haya impuesto.",
+    "item_index": 2
+  }
+]

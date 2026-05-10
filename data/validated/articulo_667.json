@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 667 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 667 dispone que si no existen pruebas que deban practicarse en una audiencia, se omite la audiencia complementaria mencionada en el artículo 663 y se dicta la sentencia en un plazo máximo e improrrogable de cuarenta y ocho horas contadas desde que el expediente queda listo para resolver.",
+    "source_quote": "Cuando no hubiera prueba que deba recibirse en audiencia, se prescindirá de la audiencia complementaria indicada en el artículo 663 y se procederá al dictado de la sentencia en el plazo improrrogable de cuarenta y ocho horas a la substanciación de los autos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "667",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_667"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "667",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_667",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso se prescinde de la audiencia complementaria según el artículo 667?",
+    "output": "Se prescinde de la audiencia complementaria cuando no hubiera prueba que deba recibirse en audiencia.",
+    "source_quote": "Cuando no hubiera prueba que deba recibirse en audiencia, se prescindirá de la audiencia complementaria indicada en el artículo 663",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "667",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_667",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para dictar sentencia una vez que se omite la audiencia complementaria?",
+    "output": "El plazo es improrrogable de cuarenta y ocho horas a la substanciación de los autos.",
+    "source_quote": "se procederá al dictado de la sentencia en el plazo improrrogable de cuarenta y ocho horas a la substanciación de los autos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "667",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_667",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición que permite omitir la audiencia complementaria, agilizando el trámite cuando no es necesario recibir prueba en audiencia.",
+    "source_quote": "Cuando no hubiera prueba que deba recibirse en audiencia, se prescindirá de la audiencia complementaria indicada en el artículo 663",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "667",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_667",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un plazo perentorio e improrrogable para emitir la sentencia, garantizando celeridad y certeza en la resolución del proceso.",
+    "source_quote": "se procederá al dictado de la sentencia en el plazo improrrogable de cuarenta y ocho horas a la substanciación de los autos.",
+    "item_index": 2
+  }
+]

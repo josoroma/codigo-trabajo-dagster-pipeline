@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 159 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 159 prohíbe acumular vacaciones, pero permite hacerlo una sola vez en dos casos: cuando el trabajador realiza labores técnicas, de dirección, de confianza u otras similares que dificulten su reemplazo, o cuando su familia vive en una provincia distinta a la de su trabajo. En este último caso, si el patrono es quien solicita la acumulación, debe pagar los gastos de viaje de ida y vuelta para que el trabajador disfrute las vacaciones con su familia.",
+    "source_quote": "Queda prohibido acumular las vacaciones, pero podrán serlo por una sola vez cuando el trabajador desempeñare labores técnicas, de dirección, de confianza u otras análogas, que dificulten especialmente su reemplazo, o cuando la residencia de su familia quedare situada en provincia distinta del lugar donde presta sus servicios. En este último caso, si el patrono fuere el interesado de la acumulación, deberá sufragar al trabajador que desee pasar al lado de su familia las vacaciones, los gastos de traslado, en la ida y regreso respectivos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "159",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_159"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "159",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_159",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se permite acumular las vacaciones por una sola vez según el artículo 159?",
+    "output": "Cuando el trabajador desempeña labores técnicas, de dirección, de confianza u otras análogas que dificulten su reemplazo, o cuando su familia reside en provincia distinta a la de su trabajo.",
+    "source_quote": "podrán serlo por una sola vez cuando el trabajador desempeñare labores técnicas, de dirección, de confianza u otras análogas, que dificulten especialmente su reemplazo, o cuando la residencia de su familia quedare situada en provincia distinta del lugar donde presta sus servicios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "159",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_159",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tiene el patrono si él es el interesado en acumular las vacaciones y el trabajador tiene su familia en otra provincia?",
+    "output": "Debe sufragar los gastos de traslado de ida y regreso para que el trabajador pase las vacaciones con su familia.",
+    "source_quote": "si el patrono fuere el interesado de la acumulación, deberá sufragar al trabajador que desee pasar al lado de su familia las vacaciones, los gastos de traslado, en la ida y regreso respectivos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "159",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_159",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de prohibición de acumulación de vacaciones y las dos excepciones permitidas por una única vez.",
+    "source_quote": "Queda prohibido acumular las vacaciones, pero podrán serlo por una sola vez cuando el trabajador desempeñare labores técnicas, de dirección, de confianza u otras análogas, que dificulten especialmente su reemplazo, o cuando la residencia de su familia quedare situada en provincia distinta del lugar donde presta sus servicios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "159",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_159",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono la obligación de cubrir los costos de transporte cuando él solicita la acumulación y el trabajador tiene la familia en provincia distinta, garantizando que el trabajador pueda reunirse con su familia sin perjuicio económico.",
+    "source_quote": "En este último caso, si el patrono fuere el interesado de la acumulación, deberá sufragar al trabajador que desee pasar al lado de su familia las vacaciones, los gastos de traslado, en la ida y regreso respectivos.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 72 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 72 establece una lista de prohibiciones absolutas para los trabajadores durante la jornada laboral, como abandonar el trabajo sin causa justificada o permiso, hacer propaganda política o coaccionar la libertad religiosa, trabajar ebrio o en estado análogo, usar herramientas del patrono para fines distintos a los previstos y portar armas, salvo excepciones legales o herramientas propias del oficio. La infracción de estas prohibiciones se sanciona según el inciso i) del artículo 81, y en el caso de portar armas se añade la pena del artículo 154 del Código de Policía.",
+    "source_quote": "Queda absolutamente prohibido a los trabajadores:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "72",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_72"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "72",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_72",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe el artículo 72 respecto al uso de herramientas suministradas por el patrono?",
+    "output": "Prohíbe usarlas para objeto distinto de aquél a que están normalmente destinados.",
+    "source_quote": "Usar los útiles y herramientas suministrados por el patrono, para objeto distinto de aquél a que están normalmente destinados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "72",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_72",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la consecuencia de infringir la prohibición de portar armas durante las horas de labor?",
+    "output": "Se sanciona según el inciso i) del artículo 81 y además se impone la pena del artículo 154 del Código de Policía.",
+    "source_quote": "La infracción de estas prohibiciones se sancionará únicamente en la forma prevista por el inciso i) del artículo 81, salvo el último caso en que también se impondrá la pena a que se refiere el artículo 154 del Código de Policía.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "72",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_72",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer un catálogo de conductas prohibidas para los trabajadores durante la jornada laboral, con el fin de mantener el orden, la disciplina y la seguridad en el centro de trabajo, así como proteger los bienes del patrono y el ambiente laboral.",
+    "source_quote": "Queda absolutamente prohibido a los trabajadores:\n- Abandonar el trabajo en horas de labor sin causa justificada o sin licencia del patrono;\n- Hacer durante el trabajo propaganda político- electoral o contrario a las instituciones democráticas del país, o ejecutar cualquier acto que signifique coacción de la libertad religiosa que establece la Constitución en vigor;\n- Trabajar en estado de embriaguez o bajo cualquier otra condición análoga;\n- Usar los útiles y herramientas suministrados por el patrono, para objeto distinto de aquél a que están normalmente destinados, y\n- Portar armas de cualquier clase durante las horas de labor, excepto en los casos especiales autorizados debidamente por las leyes, o cuando se tratare de instrumentos punzantes, cortantes o punzo- cortantes que formaren parte de las herramientas o útiles propios del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "72",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_72",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determinar el régimen sancionatorio aplicable a las violaciones de las prohibiciones, remitiendo al artículo 81 inciso i) para la sanción laboral general y, en el caso específico de portar armas, añadiendo una pena adicional conforme al Código de Policía.",
+    "source_quote": "La infracción de estas prohibiciones se sancionará únicamente en la forma prevista por el inciso i) del artículo 81, salvo el último caso en que también se impondrá la pena a que se refiere el artículo 154 del Código de Policía.",
+    "item_index": 2
+  }
+]

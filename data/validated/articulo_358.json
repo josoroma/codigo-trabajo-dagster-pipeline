@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 358 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 358 regula la formación de estructuras sindicales de grado superior: dos o más sindicatos pueden crear federaciones, y dos o más federaciones pueden crear confederaciones. Estas organizaciones se rigen por el capítulo correspondiente, con una excepción: el período de sus juntas directivas puede ser de hasta dos años, con posibilidad de reelección, y deben garantizar la representación paritaria de ambos géneros. Además, se reconoce el derecho de sindicatos, federaciones y confederaciones a afiliarse a organizaciones internacionales de trabajadores o patronales. Los estatutos de las federaciones deben incluir la forma de representación de los sindicatos en la Asamblea General, y el acta constitutiva debe listar los nombres y domicilios de todos los sindicatos integrantes, lista que debe actualizarse cada seis meses. Una interpretación constitucional aclara que la paridad de género en las directivas debe aplicarse de forma progresiva, respetando la libertad ideológica, el derecho de asociación y la composición real de cada organización.",
+    "source_quote": "Dos o más sindicatos podrán formar federaciones y dos o más federaciones podrán formar confederaciones, que se regirán por las disposiciones de este capítulo, en lo que les sea aplicable, excepto en lo relacionado con el período legal de sus respectivas juntas directivas, el cual podrá ser hasta de dos años, con derecho de reelección para las personas integrantes. Las juntas directivas deben garantizar la representación paritaria de ambos géneros.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "358",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_358"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "358",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_358",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el período máximo de las juntas directivas de las federaciones y confederaciones según el artículo 358?",
+    "output": "El período legal de las juntas directivas puede ser hasta de dos años, con derecho de reelección para las personas integrantes.",
+    "source_quote": "el período legal de sus respectivas juntas directivas, el cual podrá ser hasta de dos años, con derecho de reelección para las personas integrantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "358",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_358",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cada cuánto tiempo deben las federaciones repetir la lista de sindicatos que las integran?",
+    "output": "La lista debe repetirse cada seis meses, para los efectos del inciso d) del artículo 349.",
+    "source_quote": "Esta lista deberá repetirse cada seis meses para los efectos del inciso d) del artículo 349.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "358",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_358",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad de constituir organizaciones sindicales de segundo y tercer grado, fija una regla especial sobre la duración del mandato de sus directivas (hasta dos años con reelección) e impone la obligación de integrar las juntas directivas con representación paritaria de género, como garantía de igualdad.",
+    "source_quote": "Dos o más sindicatos podrán formar federaciones y dos o más federaciones podrán formar confederaciones, que se regirán por las disposiciones de este capítulo, en lo que les sea aplicable, excepto en lo relacionado con el período legal de sus respectivas juntas directivas, el cual podrá ser hasta de dos años, con derecho de reelección para las personas integrantes. Las juntas directivas deben garantizar la representación paritaria de ambos géneros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "358",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_358",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Recoge la interpretación vinculante de la Sala Constitucional que matiza la exigencia de paridad de género, aclarando que su aplicación debe ser progresiva y condicionada a la realidad asociativa, la libertad ideológica y el derecho de asociación, evitando imposiciones absolutas que desconozcan la composición efectiva de cada organización.",
+    "source_quote": "Mediante resolución de la Sala Constitucional N° 4630 del 02 de abril de 2014, se interpretó la ley N° 8901 del 18 de noviembre de 2010, \"Porcentaje mínimo de mujeres que deben integrar las Directivas de Asociaciones, Sindicatos y Asociaciones Solidaritas\", la cual reformó este numeral, en el sentido de que, los Órganos Directivos de las Asociaciones Civiles, Asociaciones Solidaritas, Asociaciones Comunales y Sindicatos, deben estar integrados respetando la paridad de género, de forma progresiva y siempre que ello sea posible conforme a la libertad ideológica, el derecho de asociación y según la conformación fáctica y proporcional que cada uno de los géneros lo permita en la asociación en cuestión.",
+    "item_index": 2
+  }
+]

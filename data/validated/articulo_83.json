@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 83 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 83 del Código de Trabajo establece las causas justas que permiten a un trabajador dar por terminado su contrato de trabajo sin responsabilidad. Estas causas incluyen situaciones como el impago del salario, faltas de probidad o maltrato por parte del patrono, daños a herramientas, condiciones de trabajo peligrosas o insalubres, violación de prohibiciones del artículo 70, y actos discriminatorios contra personas trabajadoras con VIH. Además, indica que la regla del párrafo final del artículo 81 también se aplica en favor de los trabajadores.",
+    "source_quote": "Son causas justas que facultan al trabajador para dar por terminado su contrato de trabajo:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "83",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_83"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "83",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_83",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué causa justa relacionada con el salario permite al trabajador terminar el contrato?",
+    "output": "Cuando el patrono no le pague el salario completo que le corresponda, en la fecha y lugar convenidos o acostumbrados, quedando a salvo las deducciones autorizadas por la ley.",
+    "source_quote": "Cuando el patrono no le pague el salario completo que le corresponda, en la fecha y lugar convenidos o acostumbrados. Quedan a salvo las deducciones autorizadas por la ley;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "83",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_83",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Según el inciso k), ¿cuándo puede un trabajador terminar su contrato por discriminación?",
+    "output": "Cuando la parte patronal incurra en actos discriminatorios contra alguna persona trabajadora con VIH.",
+    "source_quote": "k) Cuando la parte patronal incurra en actos discriminatorios contra alguna persona trabajadora con VIH.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "83",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_83",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho del trabajador a finalizar la relación laboral por motivos imputables al patrono, sin incurrir en responsabilidad, enumerando a continuación las situaciones que configuran dichas causas.",
+    "source_quote": "Son causas justas que facultan al trabajador para dar por terminado su contrato de trabajo:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "83",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_83",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende a los trabajadores la protección o beneficio previsto en el artículo 81, asegurando que la terminación del contrato por causa justa les otorgue los mismos derechos que corresponderían al patrono en situaciones análogas.",
+    "source_quote": "La regla que contiene el párrafo final del artículo 81 rige también a favor de los trabajadores.",
+    "item_index": 2
+  }
+]

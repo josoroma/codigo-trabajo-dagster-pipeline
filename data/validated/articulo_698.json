@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 698 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 698 regula la representación de la parte empleadora en la negociación de convenciones colectivas cuando se trata de entidades del Estado. Exige que las empresas, instituciones o dependencias estatales acrediten una delegación del más alto nivel, elegida por el órgano de mayor jerarquía, y les permite contratar personal profesional externo para integrar o asesorar esas delegaciones. En negociaciones por sector con varias instituciones o empresas, el Poder Ejecutivo designa a los representantes patronales, y las decisiones se toman por mayoría simple, con un voto por persona.",
+    "source_quote": "Las empresas, instituciones o dependencias del Estado que se dispongan a negociar y suscribir una convención colectiva deberán acreditar una delegación del más alto nivel, escogida por el órgano de mayor jerarquía.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "698",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_698"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "698",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_698",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir las empresas del Estado al negociar una convención colectiva según el artículo 698?",
+    "output": "Deben acreditar una delegación del más alto nivel, escogida por el órgano de mayor jerarquía.",
+    "source_quote": "Las empresas, instituciones o dependencias del Estado que se dispongan a negociar y suscribir una convención colectiva deberán acreditar una delegación del más alto nivel, escogida por el órgano de mayor jerarquía.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "698",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_698",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién designa a los representantes de la parte empleadora en negociaciones colectivas por sector que involucran varias instituciones o empresas?",
+    "output": "El Poder Ejecutivo.",
+    "source_quote": "En el caso de negociaciones por sector, en que intervengan varias instituciones o empresas, el Poder Ejecutivo designará a los representantes de la delegación de la parte empleadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "698",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_698",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de que las entidades estatales designen una delegación de alto nivel para negociar convenciones colectivas, garantizando que la representación tenga la autoridad suficiente y refleje la decisión del máximo órgano de la institución.",
+    "source_quote": "Las empresas, instituciones o dependencias del Estado que se dispongan a negociar y suscribir una convención colectiva deberán acreditar una delegación del más alto nivel, escogida por el órgano de mayor jerarquía.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "698",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_698",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de designación de la representación patronal en negociaciones sectoriales, centralizando en el Poder Ejecutivo la facultad de nombrar a los delegados para asegurar una coordinación unificada del Estado como empleador.",
+    "source_quote": "En el caso de negociaciones por sector, en que intervengan varias instituciones o empresas, el Poder Ejecutivo designará a los representantes de la delegación de la parte empleadora.",
+    "item_index": 2
+  }
+]

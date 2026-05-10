@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 95 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 95 establece derechos laborales para la protección de la maternidad, paternidad y adopción. Otorga a la trabajadora embarazada una licencia remunerada obligatoria de un mes antes del parto y tres meses después. Durante el primer año de vida del menor, se reconoce un período mínimo de lactancia, prorrogable por prescripción médica cada tres meses mientras dure la lactancia materna, con certificación de cualquier médico público o privado. Además, garantiza que la condición de interinidad no afecte estas licencias. Para adopciones, concede una licencia especial remunerada de tres meses, divisible en adopción conjunta, y para padres biológicos, una licencia de paternidad de dos días por semana durante las primeras cuatro semanas tras el nacimiento.",
+    "source_quote": "La trabajadora embarazada gozará, obligatoriamente, de una licencia remunerada por maternidad, durante el mes anterior al parto y los tres posteriores a él.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "95",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_95"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "95",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_95",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la duración de la licencia de maternidad según el artículo 95?",
+    "output": "La licencia de maternidad es de un mes antes del parto y tres meses posteriores a él, de forma remunerada y obligatoria.",
+    "source_quote": "La trabajadora embarazada gozará, obligatoriamente, de una licencia remunerada por maternidad, durante el mes anterior al parto y los tres posteriores a él.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "95",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_95",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué licencia se otorga en caso de adopción individual según el artículo 95?",
+    "output": "En la adopción individual se otorga una licencia especial por tres meses, de forma remunerada, al adoptante.",
+    "source_quote": "En la adopción individual se otorgará licencia especial por tres meses, de forma remunerada, al adoptante.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "95",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_95",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho a un período mínimo de lactancia de un año, prorrogable trimestralmente con certificación médica, para proteger la alimentación con leche materna y garantizar las pausas laborales del artículo 94.",
+    "source_quote": "El primer año de vida del menor se considerará como período mínimo de lactancia, el cual, por prescripción médica, podrá ser prorrogado cada tres meses, para los efectos del artículo 94, por todo el tiempo que la niña o el niño sea alimentado con leche materna.",
+    "item_index": 1
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 280 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 280 establece que la administración financiera de los recursos del Consejo de Salud Ocupacional corresponde al Ministerio de Trabajo y Seguridad Social, a través de sus dependencias, siguiendo las normas de la Ley de la Administración Financiera de la República. Además, prohíbe que esos fondos se utilicen para fines distintos a las labores propias del Consejo.",
+    "source_quote": "La administración financiera de los recursos del Consejo de Salud Ocupacional, estará a cargo del Ministerio de Trabajo y Seguridad Social, por medio de sus dependencias, conforme a las normas de la Ley de la Administración Financiera de la República, sin que pueda destinarse suma alguna a fines diferentes del trabajo que compete al consejo expresado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "280",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_280"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "280",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_280",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está a cargo de la administración financiera de los recursos del Consejo de Salud Ocupacional?",
+    "output": "El Ministerio de Trabajo y Seguridad Social, por medio de sus dependencias.",
+    "source_quote": "La administración financiera de los recursos del Consejo de Salud Ocupacional, estará a cargo del Ministerio de Trabajo y Seguridad Social, por medio de sus dependencias",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "280",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_280",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden destinarse los recursos del Consejo de Salud Ocupacional a fines distintos de su trabajo?",
+    "output": "No, no puede destinarse suma alguna a fines diferentes del trabajo que compete al consejo.",
+    "source_quote": "sin que pueda destinarse suma alguna a fines diferentes del trabajo que compete al consejo expresado",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "280",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_280",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa al Ministerio de Trabajo y Seguridad Social como el ente responsable de manejar los fondos del Consejo, a través de sus unidades internas, y sujeta esa gestión a la legislación financiera general del Estado, garantizando orden y legalidad en el uso de los recursos.",
+    "source_quote": "La administración financiera de los recursos del Consejo de Salud Ocupacional, estará a cargo del Ministerio de Trabajo y Seguridad Social, por medio de sus dependencias, conforme a las normas de la Ley de la Administración Financiera de la República",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "280",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_280",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una prohibición absoluta de desviar los recursos hacia objetivos ajenos a las funciones del Consejo de Salud Ocupacional, asegurando que los fondos se utilicen exclusivamente para sus fines institucionales.",
+    "source_quote": "sin que pueda destinarse suma alguna a fines diferentes del trabajo que compete al consejo expresado",
+    "item_index": 2
+  }
+]

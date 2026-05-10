@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 528 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 528 regula la situación cuando alguna o todas las partes no asisten a la audiencia única o de juicio. En ese caso, el juez debe dictar sentencia valorando los hechos con base en las pruebas ya recibidas o incorporadas, las cargas probatorias que no se cumplieron, el mérito de los autos y los criterios de valoración del Código. Además, el órgano judicial puede ordenar pruebas complementarias o para mejor proveer si son indispensables para resolver el fondo del conflicto, pudiendo prorrogar la audiencia una sola vez si es necesario. Si se ordena prueba documental, se fija un plazo para su evacuación.",
+    "source_quote": "Si se produjera la inasistencia de alguna de las partes o de todas a la audiencia única o de juicio, la sentencia se dictará apreciando los hechos a la luz de las pruebas recibidas o incorporadas, las cargas probatorias omitidas, el mérito de los autos y los criterios de valoración establecidos en este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "528",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_528"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "528",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_528",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el juez si una de las partes no asiste a la audiencia única o de juicio?",
+    "output": "Debe dictar sentencia apreciando los hechos a la luz de las pruebas recibidas o incorporadas, las cargas probatorias omitidas, el mérito de los autos y los criterios de valoración establecidos en el Código de Trabajo.",
+    "source_quote": "Si se produjera la inasistencia de alguna de las partes o de todas a la audiencia única o de juicio, la sentencia se dictará apreciando los hechos a la luz de las pruebas recibidas o incorporadas, las cargas probatorias omitidas, el mérito de los autos y los criterios de valoración establecidos en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "528",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_528",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede el órgano judicial ordenar pruebas adicionales cuando hay inasistencia a la audiencia?",
+    "output": "Sí, puede ordenar pruebas complementarias o para mejor proveer que sean indispensables para resolver con acierto el fondo del conflicto, y si es necesario, prorrogar la audiencia por una única vez. Si la prueba es documental, se fijará un plazo para su evacuación.",
+    "source_quote": "En estos casos, el órgano puede ordenar pruebas complementarias o para mejor proveer, que sean indispensables para resolver con acierto el fondo del conflicto, disponiendo para ello, si fuera necesario y por una única vez, la prórroga de la audiencia. Si lo ordenado fuera prueba documental, se fijará un plazo para su evacuación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "528",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_528",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general para dictar sentencia ante la inasistencia de las partes, indicando que el juez debe valorar los hechos con base en los elementos probatorios existentes y las reglas de valoración del Código, evitando que la ausencia impida la resolución del conflicto.",
+    "source_quote": "Si se produjera la inasistencia de alguna de las partes o de todas a la audiencia única o de juicio, la sentencia se dictará apreciando los hechos a la luz de las pruebas recibidas o incorporadas, las cargas probatorias omitidas, el mérito de los autos y los criterios de valoración establecidos en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "528",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_528",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al órgano judicial la facultad discrecional de recabar pruebas adicionales cuando sean indispensables para una decisión justa, permitiendo una sola prórroga de la audiencia y fijando un plazo para la prueba documental, con el fin de garantizar la correcta resolución del fondo del asunto.",
+    "source_quote": "En estos casos, el órgano puede ordenar pruebas complementarias o para mejor proveer, que sean indispensables para resolver con acierto el fondo del conflicto, disponiendo para ello, si fuera necesario y por una única vez, la prórroga de la audiencia. Si lo ordenado fuera prueba documental, se fijará un plazo para su evacuación.",
+    "item_index": 2
+  }
+]

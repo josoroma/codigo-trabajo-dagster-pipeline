@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 104 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 104 establece las obligaciones de las personas empleadoras de trabajo doméstico remunerado en Costa Rica. Les exige garantizar la seguridad social de sus trabajadores, lo que implica inscribirlos en la Caja Costarricense de Seguro Social (CCSS) dentro de los ocho días hábiles posteriores al inicio de labores, conforme al artículo 44 de la Ley constitutiva de la CCSS y sus reglamentos. Además, deben contratar un seguro de riesgos del trabajo, según lo dispuesto en los artículos 193, 201 y concordantes del mismo Código.",
+    "source_quote": "Las personas empleadoras del trabajo doméstico remunerado estarán obligadas a garantizar la seguridad social de las personas trabajadoras, y a inscribirlas en la Caja Costarricense de Seguro Social, dentro de los ocho días hábiles siguientes al inicio de sus labores, de conformidad con el artículo 44 de la Ley constitutiva de la Caja Costarricense de Seguro Social y sus Reglamentos, así como a otorgarle un seguro de riesgo de trabajo, de conformidad con los artículos 193, 201, siguientes y concordantes de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "104",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_104"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "104",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_104",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para que la persona empleadora inscriba a la persona trabajadora doméstica en la Caja Costarricense de Seguro Social?",
+    "output": "Ocho días hábiles siguientes al inicio de sus labores.",
+    "source_quote": "dentro de los ocho días hábiles siguientes al inicio de sus labores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "104",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_104",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de seguro adicional debe otorgar la persona empleadora del trabajo doméstico remunerado, además de la seguridad social?",
+    "output": "Un seguro de riesgo de trabajo, de conformidad con los artículos 193, 201, siguientes y concordantes del Código de Trabajo.",
+    "source_quote": "así como a otorgarle un seguro de riesgo de trabajo, de conformidad con los artículos 193, 201, siguientes y concordantes de este Código",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "104",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_104",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación principal de asegurar la protección social de las personas trabajadoras domésticas mediante su inscripción en la CCSS, fijando un plazo perentorio de ocho días hábiles y remitiendo a la normativa específica que regula dicho registro.",
+    "source_quote": "Las personas empleadoras del trabajo doméstico remunerado estarán obligadas a garantizar la seguridad social de las personas trabajadoras, y a inscribirlas en la Caja Costarricense de Seguro Social, dentro de los ocho días hábiles siguientes al inicio de sus labores, de conformidad con el artículo 44 de la Ley constitutiva de la Caja Costarricense de Seguro Social y sus Reglamentos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "104",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_104",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una obligación complementaria de contratar un seguro que cubra los accidentes y enfermedades laborales, vinculando su cumplimiento a las disposiciones detalladas en los artículos citados del mismo Código de Trabajo.",
+    "source_quote": "así como a otorgarle un seguro de riesgo de trabajo, de conformidad con los artículos 193, 201, siguientes y concordantes de este Código",
+    "item_index": 2
+  }
+]

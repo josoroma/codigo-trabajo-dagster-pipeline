@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 162 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 162 define el salario o sueldo como la retribución que el patrono está obligado a pagar al trabajador como consecuencia del contrato de trabajo.",
+    "source_quote": "Salario o sueldo es la retribución que el patrono debe pagar al trabajador en virtud del contrato de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "162",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_162"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "162",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_162",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué es el salario o sueldo según el artículo 162 del Código de Trabajo?",
+    "output": "Es la retribución que el patrono debe pagar al trabajador en virtud del contrato de trabajo.",
+    "source_quote": "Salario o sueldo es la retribución que el patrono debe pagar al trabajador en virtud del contrato de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "162",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_162",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a pagar el salario de acuerdo con este artículo?",
+    "output": "El patrono.",
+    "source_quote": "el patrono debe pagar al trabajador",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "162",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_162",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la naturaleza jurídica del salario como una retribución, es decir, una contraprestación económica que el trabajador recibe por su labor.",
+    "source_quote": "Salario o sueldo es la retribución",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "162",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_162",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la obligación del patrono de efectuar el pago y vincula directamente esa obligación a la existencia de un contrato de trabajo, resaltando el carácter bilateral y oneroso de la relación laboral.",
+    "source_quote": "que el patrono debe pagar al trabajador en virtud del contrato de trabajo",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 126 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 126 regula los salarios de los trabajadores contratados por viaje. Establece que si el viaje se prolonga o retrasa, el trabajador tiene derecho a un aumento proporcional de su salario, excepto cuando la demora se deba a fuerza mayor o caso fortuito. Además, si el viaje se acorta por cualquier motivo, no se puede reducir el salario pactado.",
+    "source_quote": "Los trabajadores contratados por viaje tienen derecho a un aumento proporcional de sus salarios en caso de prolongación o retardo del viaje, salvo que esto se debiere a fuerza mayor o a caso fortuito. No se hará reducción de salarios si el viaje se acortare, cualquiera que fuere la causa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "126",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_126"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "126",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_126",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho tienen los trabajadores contratados por viaje si el viaje se prolonga o retrasa?",
+    "output": "Tienen derecho a un aumento proporcional de sus salarios, salvo que la prolongación o retardo se deba a fuerza mayor o caso fortuito.",
+    "source_quote": "Los trabajadores contratados por viaje tienen derecho a un aumento proporcional de sus salarios en caso de prolongación o retardo del viaje, salvo que esto se debiere a fuerza mayor o a caso fortuito.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "126",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_126",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede reducir el salario de un trabajador contratado por viaje si el viaje se acorta?",
+    "output": "No, no se hará reducción de salarios si el viaje se acortare, cualquiera que fuere la causa.",
+    "source_quote": "No se hará reducción de salarios si el viaje se acortare, cualquiera que fuere la causa.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "126",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_126",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce el derecho del trabajador a una compensación adicional cuando el viaje se extiende más de lo previsto, protegiéndolo de perjuicios económicos por demoras ajenas a su voluntad, excepto cuando la causa es imprevisible e inevitable (fuerza mayor o caso fortuito).",
+    "source_quote": "Los trabajadores contratados por viaje tienen derecho a un aumento proporcional de sus salarios en caso de prolongación o retardo del viaje, salvo que esto se debiere a fuerza mayor o a caso fortuito.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "126",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_126",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza la intangibilidad del salario pactado, impidiendo que el empleador disminuya la remuneración aunque el viaje termine antes de lo acordado, sin importar el motivo del acortamiento.",
+    "source_quote": "No se hará reducción de salarios si el viaje se acortare, cualquiera que fuere la causa.",
+    "item_index": 2
+  }
+]

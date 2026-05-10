@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 654 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo otorga a quienes presiden o coordinan los órganos de conciliación y arbitraje la facultad de notificar y citar a las partes o sus delegados usando diversos medios (autoridades judiciales, de policía, de trabajo, telegramas u otros que consideren seguros). Estas diligencias solo requieren una constancia en el expediente y se presumen auténticas, salvo prueba en contrario.",
+    "source_quote": "Quienes presidan o coordinen los órganos de conciliación y de arbitraje tendrán facultades para notificar y citar a las partes o a los delegados de estas por medio de las autoridades judiciales, de policía o de trabajo, de telegramas y cualquier otra forma que las circunstancias y su buen criterio les indique como segura.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "654",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_654"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "654",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_654",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes tienen la facultad de notificar y citar en los órganos de conciliación y arbitraje?",
+    "output": "Quienes presidan o coordinen los órganos de conciliación y de arbitraje.",
+    "source_quote": "Quienes presidan o coordinen los órganos de conciliación y de arbitraje tendrán facultades para notificar y citar a las partes o a los delegados de estas...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "654",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_654",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué medios pueden utilizar para realizar las notificaciones y citaciones?",
+    "output": "Pueden utilizar autoridades judiciales, de policía o de trabajo, telegramas y cualquier otra forma que las circunstancias y su buen criterio les indique como segura.",
+    "source_quote": "...por medio de las autoridades judiciales, de policía o de trabajo, de telegramas y cualquier otra forma que las circunstancias y su buen criterio les indique como segura.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "654",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_654",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece quiénes tienen la potestad de notificar y los medios flexibles que pueden emplear para asegurar la comunicación efectiva con las partes, adaptándose a las circunstancias del caso.",
+    "source_quote": "Quienes presidan o coordinen los órganos de conciliación y de arbitraje tendrán facultades para notificar y citar a las partes o a los delegados de estas por medio de las autoridades judiciales, de policía o de trabajo, de telegramas y cualquier otra forma que las circunstancias y su buen criterio les indique como segura.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "654",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_654",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Simplifica el procedimiento al eliminar formalidades excesivas y otorga presunción de autenticidad a las diligencias, salvo prueba en contrario, para agilizar el proceso y dar seguridad jurídica.",
+    "source_quote": "Estas diligencias no estarán sujetas a más formalidad que la constancia que se pondrá en autos de haber sido realizadas y, salvo prueba fehaciente en contrario, se tendrán por auténticas.",
+    "item_index": 2
+  }
+]

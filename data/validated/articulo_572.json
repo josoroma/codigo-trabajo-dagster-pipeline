@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 572 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 572 regula cómo se realiza el cobro forzoso de bienes en un proceso laboral. Establece que se deben seguir las reglas del proceso civil, o las del proceso contencioso-administrativo cuando la ejecución es contra el Estado o sus instituciones. Además, dispone que si es necesario embargar bienes, esa tarea la hará un asistente judicial del despacho, actuando como funcionario público y sin cobrar honorarios.",
+    "source_quote": "El cumplimiento patrimonial forzoso se llevará a cabo de acuerdo con las disposiciones de la legislación procesal civil, o de las disposiciones del proceso contencioso-administrativo en el caso de ejecuciones contra el Estado o sus instituciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "572",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_572"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "572",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_572",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normativa se aplica para el cumplimiento patrimonial forzoso en un proceso laboral?",
+    "output": "Se aplican las disposiciones de la legislación procesal civil, o las del proceso contencioso-administrativo si la ejecución es contra el Estado o sus instituciones.",
+    "source_quote": "El cumplimiento patrimonial forzoso se llevará a cabo de acuerdo con las disposiciones de la legislación procesal civil, o de las disposiciones del proceso contencioso-administrativo en el caso de ejecuciones contra el Estado o sus instituciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "572",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_572",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién realiza la práctica material del embargo cuando es necesaria y bajo qué condiciones?",
+    "output": "La realiza un asistente judicial del despacho, con carácter de oficial público, como parte de sus tareas o funciones, y sin cobro alguno de honorarios.",
+    "source_quote": "La práctica material del embargo, cuando sea necesaria, la realizará con carácter de oficial público y como parte de sus tareas o funciones, sin cobro alguno de honorarios, un asistente judicial del despacho.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "572",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_572",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la normativa supletoria aplicable para la ejecución forzosa de obligaciones patrimoniales en materia laboral, diferenciando el régimen según si el ejecutado es un particular o el Estado y sus instituciones.",
+    "source_quote": "El cumplimiento patrimonial forzoso se llevará a cabo de acuerdo con las disposiciones de la legislación procesal civil, o de las disposiciones del proceso contencioso-administrativo en el caso de ejecuciones contra el Estado o sus instituciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "572",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_572",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa al funcionario encargado de materializar los embargos, precisando su calidad de oficial público, la gratuidad de la actuación y su integración en las funciones propias del cargo.",
+    "source_quote": "La práctica material del embargo, cuando sea necesaria, la realizará con carácter de oficial público y como parte de sus tareas o funciones, sin cobro alguno de honorarios, un asistente judicial del despacho.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 70 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 70 del Código de Trabajo establece una lista de prohibiciones absolutas para los patronos, con el fin de proteger los derechos de los trabajadores. Estas prohibiciones incluyen: inducir o exigir compras en establecimientos determinados; exigir dinero por admisión al trabajo o concesiones; obligar a retirarse de sindicatos o influir en decisiones políticas o religiosas; retener herramientas del trabajador; hacer colectas obligatorias; portar armas sin autorización legal; dirigir trabajos en estado de embriaguez; omitir plazos de desalojo en fincas rurales; ejecutar actos que restrinjan derechos laborales; solicitar pruebas de VIH para contratación o permanencia, salvo necesidad médica justificada para proteger la salud del trabajador; y exigir pruebas de embarazo para ingreso o permanencia.",
+    "source_quote": "Queda absolutamente prohibido a los patronos:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "70",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_70"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "70",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_70",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un patrono retener las herramientas de un trabajador como garantía por algún motivo?",
+    "output": "No, está absolutamente prohibido retener por su sola voluntad las herramientas u objetos del trabajador, sea a título de indemnización, garantía o cualquier otro no traslativo de propiedad.",
+    "source_quote": "d. Retener por su sola voluntad las herramientas u objetos del trabajador, sea a título de indemnización, garantía o de cualquier otro no traslativo de propiedad;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "70",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_70",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitido solicitar una prueba de embarazo para contratar a una mujer?",
+    "output": "No, está prohibido exigir una prueba médica de embarazo para el ingreso o la permanencia en el trabajo.",
+    "source_quote": "k) Exigir una prueba médica de embarazo para el ingreso o la permanencia en el trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "70",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_70",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege la privacidad y no discriminación de los trabajadores en materia de VIH, limitando las pruebas de salud a casos médicamente justificados para proteger la salud del trabajador, evitando así prácticas discriminatorias en la contratación o permanencia laboral.",
+    "source_quote": "j) Solicitar pruebas VIH para efectos de contratación laboral o permanencia en el trabajo. Cuando requiera pruebas de salud, podrá incluir exámenes hematológicos (pruebas de sangre) solamente en caso de que exista criterio médico que demuestre su necesidad y únicamente para efectos de protección de la salud de la persona trabajadora.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "70",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_70",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Combate la discriminación laboral contra las mujeres por motivos de maternidad, prohibiendo la exigencia de pruebas de embarazo como condición de empleo, en consonancia con la Ley para combatir la discriminación laboral contra las mujeres en condición de maternidad.",
+    "source_quote": "k) Exigir una prueba médica de embarazo para el ingreso o la permanencia en el trabajo.",
+    "item_index": 2
+  }
+]

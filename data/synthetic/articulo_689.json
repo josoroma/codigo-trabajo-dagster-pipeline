@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 689 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 689 establece que todas las personas trabajadoras del sector público tienen derecho a una solución negociada o arbitrada de sus conflictos laborales. Sin embargo, este derecho no aplica a tres grupos: los exceptuados por el artículo 683 del mismo código; ciertos cargos directivos, de auditoría, subgerencia, jerarcas de ingresos o egresos, asesoría y fiscalización legal superior que participen directamente en la negociación; y el personal cubierto por los artículos 3, 4 y 5 del Estatuto de Servicio Civil. No obstante, dentro de este último grupo, se exceptúan y sí gozan del derecho las personas interinas, los maestros y profesores interinos o aspirantes, y los contratados por servicios, fondos especiales u obra determinada, quienes pueden beneficiarse de las convenciones colectivas.",
+    "source_quote": "Todas las personas trabajadoras de dicho sector tienen derecho a una solución negociada o arbitrada, salvo:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "689",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_689"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "689",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_689",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué personas están excluidas del derecho a una solución negociada o arbitrada según el artículo 689?",
+    "output": "Están excluidas las personas exceptuadas en el artículo 683, las que ocupan cargos de dirección, auditoría, subgerencia, jerarquías de ingresos o egresos, asesoría y fiscalización legal superior que participen directamente en la negociación, y el personal de los artículos 3, 4 y 5 del Estatuto de Servicio Civil, salvo las excepciones indicadas.",
+    "source_quote": "salvo: 1) Las excepcionadas en el artículo 683 de este Código. 2) Las personas que funjan como directoras y subdirectoras generales o ejecutivas, auditoras y subauditoras, subgerentes, jerarcas de las dependencias internas encargadas de la gestión de ingresos o egresos públicos, funcionarias de asesoría y de fiscalización legal superior que participen directamente en la negociación. 3) El personal indicado en los artículos 3, 4 y 5 del Estatuto de Servicio Civil, con la salvedad...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "689",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_689",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué personal del Estatuto de Servicio Civil sí puede beneficiarse de las convenciones colectivas según el artículo 689?",
+    "output": "Las personas que ocupan puestos de forma interina, los maestros de enseñanza primaria interinos o aspirantes, los profesores de segunda enseñanza interinos o aspirantes, y los pagados por servicios o fondos especiales contemplados en la relación de puestos de la ley de presupuesto, contratados por obra determinada.",
+    "source_quote": "con la salvedad de las personas que ocupan puestos de forma interina, los maestros de enseñanza primaria interinos o aspirantes y los profesores de segunda enseñanza interinos o aspirantes y los pagados por servicios o fondos especiales contemplados en la relación de puestos de la ley de presupuesto, contratados por obra determinada, quienes sí podrán derivar derechos de las convenciones colectivas a que se refiere esta ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "689",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_689",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que los trabajadores del sector público tienen derecho a resolver sus conflictos mediante negociación o arbitraje, y luego introduce las excepciones.",
+    "source_quote": "Todas las personas trabajadoras de dicho sector tienen derecho a una solución negociada o arbitrada, salvo:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "689",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_689",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Excluye del derecho a la solución negociada o arbitrada a ciertos altos cargos que, por su posición de confianza y participación directa en la negociación, podrían generar conflictos de interés.",
+    "source_quote": "Las personas que funjan como directoras y subdirectoras generales o ejecutivas, auditoras y subauditoras, subgerentes, jerarcas de las dependencias internas encargadas de la gestión de ingresos o egresos públicos, funcionarias de asesoría y de fiscalización legal superior que participen directamente en la negociación.",
+    "item_index": 2
+  }
+]

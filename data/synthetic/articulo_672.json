@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 672 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 672 establece que, si una acusación laboral está correctamente presentada, el juzgado debe emitir una resolución que: admite el proceso, notifica al acusado los hechos y fundamentos jurídicos, convoca a una audiencia con las pruebas, le advierte que puede nombrar abogado defensor y le exige señalar un medio para recibir notificaciones. Además, regula cómo se cita a personas (por medios auténticos como carta certificada o teléfono, con advertencia de ser conducidas por la Fuerza Pública si no obedecen) y dispone que si el acusado no provee defensa, se le asigna asistencia social, pero debe pagar el costo si no califica para gratuidad.",
+    "source_quote": "Si la acusación estuviera en forma, el juzgado dictará una resolución con el siguiente contenido: 1) Admisión del proceso para su trámite. 2) Intimación al acusado e indicación en forma puntual de los hechos endilgados por los cuales se le procesa y el fundamento jurídico de la acusación. 3) Convocatoria a las partes a una audiencia y prevención de que deben acudir a ella con las pruebas que a cada una le interesen. ... 4) Advertencia al acusado de que puede designar una persona profesional en derecho como defensora. 5) Prevención de señalar medio para notificaciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "672",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_672"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "672",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_672",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué contenido debe tener la resolución judicial cuando la acusación está en forma según el artículo 672?",
+    "output": "La resolución debe contener: admisión del proceso, intimación al acusado con indicación puntual de los hechos y fundamento jurídico, convocatoria a audiencia con prevención de llevar pruebas, advertencia de que puede designar abogado defensor y prevención de señalar medio para notificaciones.",
+    "source_quote": "1) Admisión del proceso para su trámite. 2) Intimación al acusado e indicación en forma puntual de los hechos endilgados por los cuales se le procesa y el fundamento jurídico de la acusación. 3) Convocatoria a las partes a una audiencia y prevención de que deben acudir a ella con las pruebas que a cada una le interesen. ... 4) Advertencia al acusado de que puede designar una persona profesional en derecho como defensora. 5) Prevención de señalar medio para notificaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "672",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_672",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la parte acusada no provee su propia defensa en el proceso laboral?",
+    "output": "La defensa le será suministrada por la asistencia social, pero deberá cubrir el costo si no reúne los requisitos para recibir esa asistencia de forma gratuita.",
+    "source_quote": "Cuando la parte acusada no provee su defensa, esta le será suministrada por la asistencia social, pero deberá cubrir el costo, si no reúne los requisitos para recibir esa asistencia de forma gratuita.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "672",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_672",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el contenido obligatorio de la resolución judicial inicial cuando la acusación cumple los requisitos formales, garantizando el debido proceso al informar al acusado sobre los cargos, su derecho a defensa técnica, la necesidad de aportar pruebas y de fijar un medio de comunicación procesal.",
+    "source_quote": "Si la acusación estuviera en forma, el juzgado dictará una resolución con el siguiente contenido: 1) Admisión del proceso para su trámite. 2) Intimación al acusado e indicación en forma puntual de los hechos endilgados por los cuales se le procesa y el fundamento jurídico de la acusación. 3) Convocatoria a las partes a una audiencia y prevención de que deben acudir a ella con las pruebas que a cada una le interesen. Al respecto se aplicará, en lo pertinente, lo dispuesto en relación con la convocatoria de la audiencia en el proceso ordinario. 4) Advertencia al acusado de que puede designar una persona profesional en derecho como defensora. 5) Prevención de señalar medio para notificaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "672",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_672",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegura el derecho de defensa del acusado que no designa abogado particular, proveyendo asistencia social, pero condiciona la gratuidad al cumplimiento de requisitos socioeconómicos, evitando abusos del sistema.",
+    "source_quote": "Cuando la parte acusada no provee su defensa, esta le será suministrada por la asistencia social, pero deberá cubrir el costo, si no reúne los requisitos para recibir esa asistencia de forma gratuita.",
+    "item_index": 2
+  }
+]

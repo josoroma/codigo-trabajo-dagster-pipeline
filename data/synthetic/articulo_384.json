@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 384 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 384 establece que los trabajadores, las trabajadoras o sus organizaciones sindicales tienen la opción de solicitar que se declare la legalidad de una huelga antes de iniciarla. Si optan por esta vía, no pueden comenzar la huelga hasta que la declaratoria de legalidad quede en firme. Además, permite que la calificación de la huelga se solicite después de su ejecución, incluso una vez finalizada, para los fines previstos en el artículo 386.",
+    "source_quote": "será facultativo para los trabajadores, las trabajadoras o sus organizaciones sindicales solicitar la declaratoria de legalidad de la huelga, de previo a su iniciación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden solicitar la declaratoria de legalidad de la huelga antes de su inicio según el artículo 384?",
+    "output": "Los trabajadores, las trabajadoras o sus organizaciones sindicales.",
+    "source_quote": "será facultativo para los trabajadores, las trabajadoras o sus organizaciones sindicales solicitar la declaratoria de legalidad de la huelga, de previo a su iniciación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué restricción existe si se solicita la declaratoria de legalidad antes de la huelga?",
+    "output": "No se puede iniciar la ejecución de la huelga hasta que la declaratoria de huelga legal esté firme.",
+    "source_quote": "En ese último caso, no podrán iniciar la ejecución de la huelga sin que estuviera firme la declaratoria de huelga legal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es posible solicitar la calificación de la huelga después de que esta haya terminado?",
+    "output": "Sí, se puede solicitar la calificación con posterioridad a su ejecución, e incluso luego de su finalización, para efectos del artículo 386.",
+    "source_quote": "Los trabajadores, las trabajadoras o el sindicato respectivo también podrán solicitar la calificación de la huelga con posterioridad a su ejecución, e incluso luego de su finalización, para efectos de lo establecido en el artículo 386.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad opcional de solicitar la declaración de legalidad antes de la huelga, indicando los sujetos legitimados para hacerlo.",
+    "source_quote": "De la misma forma, será facultativo para los trabajadores, las trabajadoras o sus organizaciones sindicales solicitar la declaratoria de legalidad de la huelga, de previo a su iniciación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una condición suspensiva para el inicio de la huelga cuando se opta por la vía previa, garantizando que solo se ejecute tras una declaración firme de legalidad.",
+    "source_quote": "En ese último caso, no podrán iniciar la ejecución de la huelga sin que estuviera firme la declaratoria de huelga legal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "384",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_384",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la calificación posterior de la huelga, incluso después de terminada, vinculándola a los efectos jurídicos previstos en el artículo 386.",
+    "source_quote": "Los trabajadores, las trabajadoras o el sindicato respectivo también podrán solicitar la calificación de la huelga con posterioridad a su ejecución, e incluso luego de su finalización, para efectos de lo establecido en el artículo 386.",
+    "item_index": 3
+  }
+]

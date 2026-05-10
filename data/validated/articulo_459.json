@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 459 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 459 permite que trabajadores y empleadores, de manera voluntaria, intenten resolver sus conflictos laborales mediante conciliación o mediación antes de acudir a los tribunales. Pueden acudir a conciliadores privados, al Ministerio de Trabajo o solicitar al órgano jurisdiccional que intente una conciliación previa al proceso. La solicitud de conciliación interrumpe la prescripción y, mientras se tramita, el plazo de prescripción no corre por un máximo de tres meses. Si se solicita conciliación judicial, el proceso se suspende hasta por tres meses sin que corra la prescripción. Esta opción también aplica a los empleadores, pero en caso de contrademanda o pretensiones acumuladas, la suspensión del proceso para conciliar requiere acuerdo de ambas partes.",
+    "source_quote": "Es facultativo para los trabajadores y las trabajadoras someter la solución de sus conflictos, de forma previa a la intervención de los órganos jurisdiccionales, a conciliadores o mediadores privados o del Ministerio de Trabajo y Seguridad Social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "459",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_459"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "459",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_459",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante quiénes pueden los trabajadores someter sus conflictos de forma previa a la vía judicial según el artículo 459?",
+    "output": "Pueden someterlos a conciliadores o mediadores privados o del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Es facultativo para los trabajadores y las trabajadoras someter la solución de sus conflictos, de forma previa a la intervención de los órganos jurisdiccionales, a conciliadores o mediadores privados o del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "459",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_459",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la solicitud de conciliación ante el Ministerio de Trabajo sobre la prescripción?",
+    "output": "Interrumpe la prescripción y esta no corre mientras se ventila la cuestión en esa sede, por un plazo máximo de tres meses.",
+    "source_quote": "La solicitud de conciliación, debidamente planteada ante el citado Ministerio, interrumpirá la prescripción, la cual tampoco correrá mientras se ventila la cuestión en esa sede, por un plazo máximo de tres meses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "459",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_459",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la naturaleza voluntaria de la conciliación o mediación previa como alternativa al proceso judicial, indicando las instancias disponibles.",
+    "source_quote": "Es facultativo para los trabajadores y las trabajadoras someter la solución de sus conflictos, de forma previa a la intervención de los órganos jurisdiccionales, a conciliadores o mediadores privados o del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "459",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_459",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el efecto jurídico de la solicitud de conciliación administrativa sobre la prescripción, interrumpiéndola y suspendiendo su cómputo durante un máximo de tres meses.",
+    "source_quote": "La solicitud de conciliación, debidamente planteada ante el citado Ministerio, interrumpirá la prescripción, la cual tampoco correrá mientras se ventila la cuestión en esa sede, por un plazo máximo de tres meses.",
+    "item_index": 2
+  }
+]

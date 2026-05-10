@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 435 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 435 regula la delegación de competencia en los procesos laborales. Establece que solo es posible delegar para actos procesales que no violen el principio de inmediación y que sean necesarios como auxilio en la sustanciación del proceso. Prohíbe de manera absoluta, bajo pena de nulidad, delegar la recepción de pruebas y cualquier otro acto propio de la audiencia. No obstante, permite que los tribunales incorporen elementos probatorios, incluidos testimonios, mediante medios de comunicación electrónica, incluso en la audiencia, siempre que se garantice la autenticidad del contenido y no se afecte el debido proceso.",
+    "source_quote": "La competencia solo se puede delegar para la práctica de actos procesales con cuya realización no se viole el principio de inmediación y que se requieran como auxilio para la substanciación del proceso. Queda absolutamente prohibida, bajo pena de nulidad, la delegación para la recepción de pruebas y de cualquier otro acto propio de la audiencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede delegar la competencia según este artículo?",
+    "output": "Solo se puede delegar para la práctica de actos procesales que no violen el principio de inmediación y que se requieran como auxilio para la sustanciación del proceso.",
+    "source_quote": "La competencia solo se puede delegar para la práctica de actos procesales con cuya realización no se viole el principio de inmediación y que se requieran como auxilio para la substanciación del proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué actos están prohibidos delegar bajo pena de nulidad?",
+    "output": "Está absolutamente prohibida, bajo pena de nulidad, la delegación para la recepción de pruebas y de cualquier otro acto propio de la audiencia.",
+    "source_quote": "Queda absolutamente prohibida, bajo pena de nulidad, la delegación para la recepción de pruebas y de cualquier otro acto propio de la audiencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece los límites generales de la delegación de competencia, permitiéndola únicamente para actos que no atenten contra la inmediación y que sean necesarios para la tramitación del proceso, garantizando así que las funciones esenciales permanezcan en el tribunal.",
+    "source_quote": "La competencia solo se puede delegar para la práctica de actos procesales con cuya realización no se viole el principio de inmediación y que se requieran como auxilio para la substanciación del proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Refuerza la protección del principio de inmediación al sancionar con nulidad cualquier delegación que invada actos centrales de la audiencia, como la recepción de pruebas, asegurando que estas diligencias sean realizadas directamente por el tribunal.",
+    "source_quote": "Queda absolutamente prohibida, bajo pena de nulidad, la delegación para la recepción de pruebas y de cualquier otro acto propio de la audiencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "435",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_435",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción moderna que permite el uso de tecnología para la incorporación de pruebas, siempre que se cumplan estrictos requisitos de autenticidad y respeto al debido proceso, facilitando la eficiencia sin sacrificar garantías procesales.",
+    "source_quote": "Los tribunales, sin embargo, podrán incorporar al proceso hasta en la audiencia, cuando ello sea necesario, elementos probatorios incluidos testimonios, a través de medios de comunicación electrónica, siempre y cuando quede garantizada la autenticidad del contenido de la comunicación y no se afecte el debido proceso.",
+    "item_index": 3
+  }
+]

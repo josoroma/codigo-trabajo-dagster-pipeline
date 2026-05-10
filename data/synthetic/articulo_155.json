@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 155 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 155 establece que el patrono es quien fija la época en que el trabajador disfrutará sus vacaciones, pero debe hacerlo dentro de las quince semanas siguientes al cumplimiento de cincuenta semanas de servicio continuo. Además, debe procurar que esta decisión no perjudique el funcionamiento de la empresa ni la efectividad del descanso.",
+    "source_quote": "El patrono señalará la época en que el trabajador gozará de sus vacaciones, pero deberá hacerlo dentro de las quince semanas posteriores al día en que se cumplan las cincuenta de servicio continuo, tratando de que no se altere la buena marcha de su empresa, industria o negocio, ni la efectividad del descanso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "155",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_155"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "155",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_155",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién determina la época en que el trabajador disfrutará de sus vacaciones?",
+    "output": "El patrono.",
+    "source_quote": "El patrono señalará la época en que el trabajador gozará de sus vacaciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "155",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_155",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dentro de qué plazo debe el patrono señalar las vacaciones?",
+    "output": "Dentro de las quince semanas posteriores al día en que se cumplan las cincuenta semanas de servicio continuo.",
+    "source_quote": "deberá hacerlo dentro de las quince semanas posteriores al día en que se cumplan las cincuenta de servicio continuo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "155",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_155",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al patrono la facultad de fijar la época de vacaciones y establece un plazo máximo para hacerlo, garantizando que el trabajador disfrute del descanso oportunamente tras acumular el período de servicio requerido.",
+    "source_quote": "El patrono señalará la época en que el trabajador gozará de sus vacaciones, pero deberá hacerlo dentro de las quince semanas posteriores al día en que se cumplan las cincuenta de servicio continuo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "155",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_155",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono la obligación de considerar tanto los intereses productivos de la empresa como la finalidad reparadora del descanso vacacional, buscando un equilibrio entre ambos.",
+    "source_quote": "tratando de que no se altere la buena marcha de su empresa, industria o negocio, ni la efectividad del descanso",
+    "item_index": 2
+  }
+]

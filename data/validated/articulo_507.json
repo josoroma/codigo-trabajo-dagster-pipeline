@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 507 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 507 regula la situación en que los hechos de una demanda laboral no pueden probarse completamente o solo se tiene certeza sobre los hechos de la contrademanda. En esos casos, las cuestiones que permanecen inciertas se discutirán en una audiencia, pero en ella no se debatirán los hechos que ya fueron admitidos o que deben considerarse como ciertos.",
+    "source_quote": "Cuando la certeza de los hechos de la demanda solo puede establecerse parcialmente o tal certeza está referida únicamente a los hechos de la contrademanda, las cuestiones inciertas se debatirán mediante audiencia. En esta última no se debatirá sobre los hechos admitidos o que deban tenerse por ciertos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "507",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_507"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "507",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_507",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede cuando la certeza de los hechos de la demanda solo puede establecerse parcialmente?",
+    "output": "Las cuestiones inciertas se debatirán mediante audiencia.",
+    "source_quote": "Cuando la certeza de los hechos de la demanda solo puede establecerse parcialmente ... las cuestiones inciertas se debatirán mediante audiencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "507",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_507",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre qué hechos no se debatirá en la audiencia mencionada en el artículo 507?",
+    "output": "No se debatirá sobre los hechos admitidos o que deban tenerse por ciertos.",
+    "source_quote": "En esta última no se debatirá sobre los hechos admitidos o que deban tenerse por ciertos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "507",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_507",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho que habilita la realización de una audiencia para debatir las cuestiones fácticas que no han quedado plenamente acreditadas.",
+    "source_quote": "Cuando la certeza de los hechos de la demanda solo puede establecerse parcialmente o tal certeza está referida únicamente a los hechos de la contrademanda, las cuestiones inciertas se debatirán mediante audiencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "507",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_507",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el objeto de la audiencia, excluyendo de la discusión aquellos hechos que ya han sido aceptados por las partes o que legalmente deben considerarse como probados.",
+    "source_quote": "En esta última no se debatirá sobre los hechos admitidos o que deban tenerse por ciertos.",
+    "item_index": 2
+  }
+]

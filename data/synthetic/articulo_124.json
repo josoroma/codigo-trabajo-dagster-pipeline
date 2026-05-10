@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 124 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 124 establece dos causas justas para que los trabajadores de una nave puedan dar por terminados sus contratos de trabajo: el cambio de capitán por otro que no ofrezca garantías de seguridad, aptitud y acertada dirección, o la variación del destino de la nave.",
+    "source_quote": "El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección, o la variación del destino de la nave, serán también causas justas para que los trabajadores den por terminados sus contratos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "124",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_124"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "124",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_124",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las causas justas que permite este artículo para que los trabajadores terminen sus contratos?",
+    "output": "El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección, o la variación del destino de la nave.",
+    "source_quote": "El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección, o la variación del destino de la nave, serán también causas justas para que los trabajadores den por terminados sus contratos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "124",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_124",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos debe cumplir el nuevo capitán para que su designación no sea considerada una causa justa de terminación contractual?",
+    "output": "Debe ser garantía de seguridad, de aptitud y de acertada dirección.",
+    "source_quote": "El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "124",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_124",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconocer como causa justa de terminación del contrato por parte de los trabajadores el reemplazo del capitán cuando el nuevo no ofrezca las cualidades necesarias para la seguridad, competencia y correcta dirección de la nave.",
+    "source_quote": "El cambio de capitán por otro que no sea garantía de seguridad, de aptitud y de acertada dirección",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "124",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_124",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer que la modificación del rumbo o destino de la embarcación constituye también una causa justa para que los trabajadores puedan finalizar la relación laboral.",
+    "source_quote": "la variación del destino de la nave",
+    "item_index": 2
+  }
+]

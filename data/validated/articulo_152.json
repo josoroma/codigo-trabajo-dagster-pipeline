@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 152 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 152 establece el derecho de todo trabajador a un día de descanso absoluto después de cada semana o seis días de trabajo continuo. Este descanso solo es remunerado si el trabajador labora en establecimientos comerciales o si así se pactó en otros casos. Si el patrono no otorga el descanso, debe pagar el doble del salario ordinario por esa jornada y enfrentar sanciones legales. Se permite trabajar en el día de descanso por convenio entre las partes, siempre que las labores no sean pesadas, insalubres o peligrosas y se realicen en explotaciones agrícolas, ganaderas, industrias de funcionamiento continuo o actividades de interés público o social. En esos casos, la remuneración varía según el tipo de labor. Además, cuando el trabajador no acepte trabajar en el descanso en ciertas actividades, el patrono puede solicitar al Ministerio de Trabajo autorización para acumular los descansos mensualmente, previa audiencia a los trabajadores.",
+    "source_quote": "Todo trabajador tiene derecho a disfrutar de un día de descanso absoluto (después de cada semana o de cada seis días de trabajo continuo), que sólo será con goce del salario correspondiente si se tratare de personas que prestan sus servicios en establecimientos comerciales o cuando, en los demás casos, así se hubiere estipulado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "152",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_152"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "152",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_152",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el día de descanso semanal es con goce de salario según el artículo 152?",
+    "output": "Sólo será con goce del salario correspondiente si se tratare de personas que prestan sus servicios en establecimientos comerciales o cuando, en los demás casos, así se hubiere estipulado.",
+    "source_quote": "que sólo será con goce del salario correspondiente si se tratare de personas que prestan sus servicios en establecimientos comerciales o cuando, en los demás casos, así se hubiere estipulado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "152",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_152",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tiene el patrono que no otorga el día de descanso semanal?",
+    "output": "Incurrirá en las sanciones legales y en la obligación de satisfacer a sus trabajadores, por esa jornada, el doble del salario que ordinariamente les pague.",
+    "source_quote": "El patrono que no otorgue el día de descanso incurrirá en las sanciones legales y en la obligación de satisfacer a sus trabajadores, por esa jornada, el doble del salario que ordinariamente les pague.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "152",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_152",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagrar el derecho fundamental al descanso semanal obligatorio y delimitar las condiciones en las que este descanso debe ser remunerado, distinguiendo entre trabajadores de establecimientos comerciales y otros sectores.",
+    "source_quote": "Todo trabajador tiene derecho a disfrutar de un día de descanso absoluto (después de cada semana o de cada seis días de trabajo continuo), que sólo será con goce del salario correspondiente si se tratare de personas que prestan sus servicios en establecimientos comerciales o cuando, en los demás casos, así se hubiere estipulado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "152",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_152",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer una consecuencia punitiva y resarcitoria para el patrono que incumple la obligación de conceder el descanso semanal, garantizando así la efectividad del derecho mediante una sanción económica y legal.",
+    "source_quote": "El patrono que no otorgue el día de descanso incurrirá en las sanciones legales y en la obligación de satisfacer a sus trabajadores, por esa jornada, el doble del salario que ordinariamente les pague.",
+    "item_index": 2
+  }
+]

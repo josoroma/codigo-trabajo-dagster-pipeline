@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 514 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 514 regula la citación de testigos en procesos laborales. Permite a las partes solicitar verbalmente al despacho judicial cédulas de citación, siendo responsabilidad de quien ofreció la prueba diligenciarlas y presentar la constancia antes de la audiencia. También autoriza pedir por escrito la intervención de autoridades judiciales o de policía para realizar la citación, debiendo igualmente acreditarse antes de la audiencia. Además, si una parte se ofrece como declarante, debe comparecer obligatoriamente sin citación; su inasistencia se considera deslealtad y puede llevar a tener por ciertos los hechos que se pretendían probar, salvo prueba en contrario.",
+    "source_quote": "Las partes podrán solicitar, verbalmente al despacho judicial, la entrega de cédulas de citación para los testigos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "514",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_514"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "514",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_514",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo pueden las partes solicitar las cédulas de citación para testigos?",
+    "output": "Verbalmente al despacho judicial.",
+    "source_quote": "Las partes podrán solicitar, verbalmente al despacho judicial, la entrega de cédulas de citación para los testigos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "514",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_514",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene la inasistencia de una parte que se ofreció como declarante?",
+    "output": "Se tendrá como acto de deslealtad y podrá ser tomada en cuenta para tener por ciertos los hechos que se pretenden acreditar con la declaración, salvo que existan elementos probatorios que los desvirtúen.",
+    "source_quote": "Su inasistencia se tendrá como acto de deslealtad y podrá ser tomada en cuenta para tener por ciertos los hechos que se pretenden acreditar con la declaración, salvo que en el expediente existan elementos probatorios que los desvirtúen.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "514",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_514",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta a las partes para obtener de manera ágil y directa las cédulas de citación, simplificando el trámite procesal para asegurar la comparecencia de testigos.",
+    "source_quote": "Las partes podrán solicitar, verbalmente al despacho judicial, la entrega de cédulas de citación para los testigos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "514",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_514",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una carga procesal a la parte que se postula como testigo, eximiéndola de citación formal pero obligándola a comparecer, y vincula su inasistencia a consecuencias probatorias para preservar la lealtad y eficacia del proceso.",
+    "source_quote": "Si la parte se ofrece o hubiera sido ofrecida como declarante, deberá obligatoriamente comparecer a la audiencia, sin necesidad de ninguna citación.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 651 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 651 otorga a los órganos de conciliación y arbitraje la facultad más amplia para solicitar a las partes toda la información necesaria para cumplir su función, imponiéndoles el deber de no divulgar esos datos sin autorización de quien los proporcionó. Además, obliga a cada litigante a colaborar en estas investigaciones, bajo apercibimiento de que, si no lo hace, se tendrán por ciertas las afirmaciones de la otra parte.",
+    "source_quote": "Los órganos de conciliación y de arbitraje tienen la más amplia facultad para obtener de las partes todos los datos e informes necesarios para el desempeño de su cometido, los que no podrán divulgar sin previa autorización de quien los haya dado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "651",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_651"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "651",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_651",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué facultad tienen los órganos de conciliación y arbitraje según el artículo 651?",
+    "output": "Tienen la más amplia facultad para obtener de las partes todos los datos e informes necesarios para el desempeño de su cometido.",
+    "source_quote": "Los órganos de conciliación y de arbitraje tienen la más amplia facultad para obtener de las partes todos los datos e informes necesarios para el desempeño de su cometido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "651",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_651",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción se aplica por divulgar información sin autorización según este artículo?",
+    "output": "La infracción será sancionada de acuerdo con lo dispuesto en el libro de las contravenciones del Código Penal, específicamente por divulgación de documentos secretos que no afecten la seguridad nacional.",
+    "source_quote": "La infracción a esta disposición será sancionada de acuerdo con lo dispuesto en el libro de las contravenciones del Código Penal (divulgación de documentos secretos que no afecten la seguridad nacional).",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "651",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_651",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la potestad amplia de los órganos conciliadores y arbitrales para recabar información relevante de las partes, así como el deber de confidencialidad que protege esos datos, limitando su divulgación a la autorización expresa del informante.",
+    "source_quote": "Los órganos de conciliación y de arbitraje tienen la más amplia facultad para obtener de las partes todos los datos e informes necesarios para el desempeño de su cometido, los que no podrán divulgar sin previa autorización de quien los haya dado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "651",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_651",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a las partes la obligación de colaborar activamente en las investigaciones de los órganos, con la consecuencia procesal de que, ante el incumplimiento, se presumirán ciertas las afirmaciones de la contraparte, incentivando así la cooperación.",
+    "source_quote": "Cada litigante queda obligado, bajo el apercibimiento de tener por ciertas y eficaces las afirmaciones correspondientes de la otra parte, a facilitar por todos los medios a su alcance la realización de estas investigaciones.",
+    "item_index": 2
+  }
+]

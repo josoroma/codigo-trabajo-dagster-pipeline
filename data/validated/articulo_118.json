@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 118 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 118 define a los trabajadores del mar y de las vías navegables como aquellos que realizan labores propias de la navegación a bordo de una embarcación, bajo las órdenes del capitán, y reciben a cambio alimentación de buena calidad y un salario pactado. Además, aclara que los servicios propios de la navegación incluyen todas las tareas necesarias para la dirección, maniobras y servicio del barco.",
+    "source_quote": "Trabajadores del mar y de las vías navegables son los que prestan servicios propios de la navegación a bordo de una nave, bajo las ordenes del capitán de ésta y a cambio de la alimentación de buena calidad y del salario que se hubieren convenido.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "118",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_118"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "118",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_118",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las condiciones que debe cumplir un trabajador para ser considerado del mar y de las vías navegables según el artículo 118?",
+    "output": "Debe prestar servicios propios de la navegación a bordo de una nave, bajo las órdenes del capitán, y recibir alimentación de buena calidad y un salario convenido.",
+    "source_quote": "Trabajadores del mar y de las vías navegables son los que prestan servicios propios de la navegación a bordo de una nave, bajo las ordenes del capitán de ésta y a cambio de la alimentación de buena calidad y del salario que se hubieren convenido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "118",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_118",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué actividades comprende el concepto de 'servicios propios de la navegación'?",
+    "output": "Todas aquellas necesarias para la dirección, maniobras y servicio del barco.",
+    "source_quote": "Se entenderán por servicios propios de la navegación todos aquéllos necesarios para la dirección, maniobras y servicio del barco.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "118",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_118",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la definición legal de los trabajadores del mar y de las vías navegables, delimitando quiénes entran en esta categoría laboral especial y las condiciones esenciales de su relación de trabajo.",
+    "source_quote": "Trabajadores del mar y de las vías navegables son los que prestan servicios propios de la navegación a bordo de una nave, bajo las ordenes del capitán de ésta y a cambio de la alimentación de buena calidad y del salario que se hubieren convenido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "118",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_118",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Precisar el alcance de las labores consideradas como servicios propios de la navegación, evitando ambigüedades sobre las tareas que estos trabajadores realizan a bordo.",
+    "source_quote": "Se entenderán por servicios propios de la navegación todos aquéllos necesarios para la dirección, maniobras y servicio del barco.",
+    "item_index": 2
+  }
+]

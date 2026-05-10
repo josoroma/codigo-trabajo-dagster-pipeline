@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 311 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 311 establece una sanción de multa, conforme al artículo 398, para aquella persona trabajadora de la Administración Pública (ministerios, instituciones, municipalidades u otros organismos) que autorice actos, contratos o trabajos que contravengan las normas del título donde se ubica este artículo o sus reglamentos.",
+    "source_quote": "Se impondrá una multa de acuerdo con lo señalado en el artículo 398 a la persona trabajadora de cualquier ministerio o institución, municipalidad u otro organismo integrante de la Administración Pública que autorice la celebración de actos, contratos o trabajos en contravención de las disposiciones de este título o de sus reglamentos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "311",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_311"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "311",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_311",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se aplica la multa prevista en el artículo 311?",
+    "output": "A la persona trabajadora de cualquier ministerio, institución, municipalidad u otro organismo integrante de la Administración Pública que autorice la celebración de actos, contratos o trabajos en contravención de las disposiciones del título o sus reglamentos.",
+    "source_quote": "a la persona trabajadora de cualquier ministerio o institución, municipalidad u otro organismo integrante de la Administración Pública que autorice la celebración de actos, contratos o trabajos en contravención de las disposiciones de este título o de sus reglamentos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "311",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_311",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de sanción impone el artículo 311 y cómo se determina su monto?",
+    "output": "Impone una multa, cuyo monto se determina de acuerdo con lo señalado en el artículo 398 del mismo Código.",
+    "source_quote": "Se impondrá una multa de acuerdo con lo señalado en el artículo 398",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "311",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_311",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la sanción (multa remitida al artículo 398) y delimita el sujeto activo de la infracción: cualquier trabajador de la Administración Pública, incluyendo ministerios, instituciones, municipalidades y otros organismos.",
+    "source_quote": "Se impondrá una multa de acuerdo con lo señalado en el artículo 398 a la persona trabajadora de cualquier ministerio o institución, municipalidad u otro organismo integrante de la Administración Pública",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "311",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_311",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la conducta sancionable: autorizar actos, contratos o trabajos que violen las normas del título correspondiente o sus reglamentos, protegiendo así la legalidad en la contratación pública.",
+    "source_quote": "que autorice la celebración de actos, contratos o trabajos en contravención de las disposiciones de este título o de sus reglamentos.",
+    "item_index": 2
+  }
+]

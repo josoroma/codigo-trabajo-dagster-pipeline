@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 128 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 128 regula las consecuencias del abandono voluntario del trabajo por parte de un trabajador mientras la nave está en viaje. Establece que el trabajador pierde los salarios no percibidos y puede incurrir en otras responsabilidades legales, salvo que el capitán encuentre un sustituto conforme al artículo 123. Además, dispone que el patrono reparta esos salarios entre los demás trabajadores, a prorrata si no hay recargo de labores, o proporcionalmente entre quienes asuman las tareas del cesante si lo hay.",
+    "source_quote": "Por el solo hecho de abandonar voluntariamente su trabajo mientras la nave esté en viaje, perderá el trabajador los salarios no percibidos a que tuviere derecho, aparte de las demás responsabilidades legales en que incurriere.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "128",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_128"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "128",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_128",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con los salarios no percibidos de un trabajador que abandona voluntariamente su trabajo durante un viaje en nave?",
+    "output": "Los pierde, aparte de las demás responsabilidades legales en que incurriere.",
+    "source_quote": "perderá el trabajador los salarios no percibidos a que tuviere derecho, aparte de las demás responsabilidades legales en que incurriere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "128",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_128",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe el patrono repartir el monto de esos salarios entre los demás trabajadores?",
+    "output": "A prorrata si no hubiere recargo de labores, y proporcionalmente entre los que hicieren las veces del cesante en el caso contrario.",
+    "source_quote": "El patrono repartirá a prorrata entre los restantes trabajadores el monto de los referidos salarios, si no hubiere recargo de labores; y proporcionalmente entre los que hicieren las veces del cesante, en el caso contrario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "128",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_128",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la sanción principal por abandono voluntario del trabajo en navegación: pérdida de salarios pendientes y otras responsabilidades legales.",
+    "source_quote": "Por el solo hecho de abandonar voluntariamente su trabajo mientras la nave esté en viaje, perderá el trabajador los salarios no percibidos a que tuviere derecho, aparte de las demás responsabilidades legales en que incurriere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "128",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_128",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el destino de los salarios perdidos: se distribuyen entre la tripulación restante, ya sea equitativamente o en proporción al trabajo extra asumido.",
+    "source_quote": "El patrono repartirá a prorrata entre los restantes trabajadores el monto de los referidos salarios, si no hubiere recargo de labores; y proporcionalmente entre los que hicieren las veces del cesante, en el caso contrario.",
+    "item_index": 2
+  }
+]

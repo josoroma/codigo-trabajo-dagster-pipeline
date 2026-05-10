@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 388 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 388 establece que un paro patronal (lockout) es legal si los empleadores cumplen con los requisitos del artículo 377 y luego dan a sus trabajadores un aviso con un mes de anticipación. El propósito de este aviso es que los trabajadores puedan terminar sus contratos sin responsabilidad para ninguna de las partes durante ese período.",
+    "source_quote": "El paro será legal, si los empleadores o las empleadoras se ajustan a los requisitos previstos en el artículo 377 y dan luego a sus trabajadores un aviso con un mes de anticipación para el solo efecto de que estos puedan dar por terminados sus contratos, sin responsabilidad para ninguna de las partes, durante ese período.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "388",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_388"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "388",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_388",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos deben cumplir los empleadores para que un paro sea legal según el artículo 388?",
+    "output": "Deben ajustarse a los requisitos del artículo 377 y dar a sus trabajadores un aviso con un mes de anticipación.",
+    "source_quote": "si los empleadores o las empleadoras se ajustan a los requisitos previstos en el artículo 377 y dan luego a sus trabajadores un aviso con un mes de anticipación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "388",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_388",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el efecto del aviso de un mes de anticipación que los empleadores deben dar a los trabajadores?",
+    "output": "Permite que los trabajadores puedan dar por terminados sus contratos sin responsabilidad para ninguna de las partes durante ese período.",
+    "source_quote": "para el solo efecto de que estos puedan dar por terminados sus contratos, sin responsabilidad para ninguna de las partes, durante ese período.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "388",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_388",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones que hacen legal un paro patronal: cumplir con el artículo 377 y dar un aviso previo de un mes.",
+    "source_quote": "El paro será legal, si los empleadores o las empleadoras se ajustan a los requisitos previstos en el artículo 377 y dan luego a sus trabajadores un aviso con un mes de anticipación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "388",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_388",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el propósito del aviso: permitir que los trabajadores terminen sus contratos sin responsabilidad durante el mes de preaviso.",
+    "source_quote": "para el solo efecto de que estos puedan dar por terminados sus contratos, sin responsabilidad para ninguna de las partes, durante ese período.",
+    "item_index": 2
+  }
+]

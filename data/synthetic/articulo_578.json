@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 578 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 578 regula la corrección de sentencias y otras resoluciones escritas mediante adiciones o aclaraciones. Permite que se realicen de oficio antes de la notificación o a solicitud de parte dentro de los tres días siguientes a la notificación. Las correcciones se limitan a omisiones, oscuridades o contradicciones en la parte dispositiva o entre esta y la considerativa. En el caso de sentencias, la solicitud interrumpe el plazo para recurrir; en otras resoluciones, no interrumpe los plazos concedidos y queda a discreción del órgano.",
+    "source_quote": "Las sentencias, cualquiera que sea su naturaleza, pueden corregirse mediante adiciones o aclaraciones, de oficio o a solicitud de parte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "578",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_578"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "578",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_578",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para que una parte solicite la adición o aclaración de una sentencia?",
+    "output": "Dentro de los tres días siguientes a la notificación del pronunciamiento.",
+    "source_quote": "La solicitud de la parte deberá hacerse dentro de los tres días siguientes a esa notificación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "578",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_578",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la solicitud de adición o aclaración de una sentencia sobre el plazo para interponer un recurso?",
+    "output": "El término para interponer el recurso que proceda quedará interrumpido y comenzará a correr de nuevo con la notificación del pronunciamiento que recaiga.",
+    "source_quote": "El término para interponer el recurso que proceda quedará interrumpido y comenzará a correr de nuevo con la notificación del pronunciamiento que recaiga.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "578",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_578",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo general de corrección de sentencias, los sujetos legitimados para solicitarla y los plazos correspondientes, garantizando la seguridad jurídica y la posibilidad de enmendar errores antes de que la resolución cause estado.",
+    "source_quote": "Las sentencias, cualquiera que sea su naturaleza, pueden corregirse mediante adiciones o aclaraciones, de oficio o a solicitud de parte. La corrección de oficio podrá hacerse en cualquier momento, pero antes de la notificación del pronunciamiento a las partes. La solicitud de la parte deberá hacerse dentro de los tres días siguientes a esa notificación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "578",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_578",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el alcance material de las correcciones, evitando que se utilicen para modificar el fondo de lo decidido y asegurando que solo se aclaren aspectos oscuros o contradictorios de la resolución.",
+    "source_quote": "La adición y aclaración se limitará a las omisiones u oscuridades de la parte dispositiva de la sentencia y a las contradicciones que puedan existir entre la parte considerativa y la dispositiva.",
+    "item_index": 2
+  }
+]

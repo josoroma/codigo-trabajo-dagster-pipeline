@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 7 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 7 garantiza que ninguna persona puede ser privada de la libertad de realizar actividades comerciales dentro de las zonas de trabajo. Sin embargo, esta libertad puede restringirse si resulta perjudicial para los propios trabajadores o para la comunidad. Además, establece que por ejercer ese comercio solo se pueden cobrar los impuestos y cuotas que estén expresamente autorizados por las leyes.",
+    "source_quote": "A ningún individuo se le coartará la libertad de ejercer el comercio en las zonas de trabajo, a menos que esa libertad resulte contraria a los intereses de los mismos trabajadores o de la colectividad; ni se cobrarán por dicho ejercicio otras cuotas e impuestos que los autorizados por las leyes respectivas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "7",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_7"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "7",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_7",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede restringir la libertad de ejercer el comercio en las zonas de trabajo?",
+    "output": "Se puede restringir cuando esa libertad resulte contraria a los intereses de los mismos trabajadores o de la colectividad.",
+    "source_quote": "a menos que esa libertad resulte contraria a los intereses de los mismos trabajadores o de la colectividad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "7",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_7",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de cuotas o impuestos se pueden cobrar por ejercer el comercio en las zonas de trabajo?",
+    "output": "Únicamente se pueden cobrar las cuotas e impuestos que estén autorizados por las leyes respectivas.",
+    "source_quote": "ni se cobrarán por dicho ejercicio otras cuotas e impuestos que los autorizados por las leyes respectivas",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "7",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_7",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra el principio de libertad de comercio en las zonas de trabajo, estableciendo como única excepción la protección de los intereses de los trabajadores o de la colectividad.",
+    "source_quote": "A ningún individuo se le coartará la libertad de ejercer el comercio en las zonas de trabajo, a menos que esa libertad resulte contraria a los intereses de los mismos trabajadores o de la colectividad;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "7",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_7",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita las cargas fiscales o parafiscales aplicables al ejercicio del comercio en zonas de trabajo, prohibiendo cualquier cobro no previsto legalmente.",
+    "source_quote": "ni se cobrarán por dicho ejercicio otras cuotas e impuestos que los autorizados por las leyes respectivas.",
+    "item_index": 2
+  }
+]

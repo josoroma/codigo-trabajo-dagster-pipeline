@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 41 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 41 prohíbe absolutamente celebrar contratos con trabajadores costarricenses para prestar servicios o ejecutar obras en el exterior sin permiso previo del Ministerio de Trabajo y de Seguridad Social. Para obtener ese permiso, el agente reclutador o la empresa debe cumplir cuatro requisitos: a) mantener un apoderado generalísimo domiciliado en la capital durante la vigencia de los contratos; b) informar por escrito al Ministerio todos los detalles del contrato (lugar, labores, horas, salario, alimentación, alojamiento, repatriación, etc.); c) depositar cien colones por cada trabajador en la Administración Principal de Rentas, suma que servirá para responder a reclamos laborales; y d) garantizar la repatriación sin costo para el trabajador y su familia, mediante fianza bancaria o depósito. Además, se regula la devolución del depósito o cancelación de la fianza cuando el agente compruebe haber cubierto los gastos de repatriación y no adeudar salarios ni indemnizaciones, ante la negativa formal del trabajador a regresar.",
+    "source_quote": "Queda absolutamente prohibido celebrar contratos con trabajadores costarricenses para la prestación de servicios o ejecución de obras en el exterior, sin permiso previo del Ministerio de Trabajo y de Seguridad Social, la cual no autorizará el reclutamiento, ni el embarque o salida de los mismos, mientras no se llenen a su entera satisfacción los siguientes requisitos:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "41",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_41"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "41",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_41",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir el agente reclutador en cuanto a representación legal para obtener el permiso del Ministerio de Trabajo?",
+    "output": "Debe tener permanentemente, domiciliado en la capital de la República y por todo el tiempo que estén en vigencia los contratos, un apoderado generalísimo.",
+    "source_quote": "El Agente reclutador o la empresa por cuya cuenta proceda, deberá tener permanentemente, domiciliado en la capital de la República, y por todo el tiempo que estén en vigencia los contratos, un apoderado generalísimo, con el cual pueda el mencionado Ministerio arreglar cualquier reclamación que se presente por parte de los trabajadores o de sus familiares en cuanto a la ejecución de lo convenido;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "41",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_41",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el monto del depósito que debe realizar el agente por cada trabajador que pretenda sacar del país?",
+    "output": "Cien colones por cada trabajador.",
+    "source_quote": "El Agente depositará en la Administración Principal de Rentas, a la orden del Ministerio de Trabajo y de Seguridad Social, la suma de cien colones por cada uno de los trabajadores que pretenda sacar del país.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "41",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_41",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de contratar trabajadores costarricenses para labores en el extranjero sin autorización ministerial, y condiciona el reclutamiento y salida al cumplimiento de los requisitos enumerados, protegiendo así los derechos laborales de los trabajadores migrantes.",
+    "source_quote": "Queda absolutamente prohibido celebrar contratos con trabajadores costarricenses para la prestación de servicios o ejecución de obras en el exterior, sin permiso previo del Ministerio de Trabajo y de Seguridad Social, la cual no autorizará el reclutamiento, ni el embarque o salida de los mismos, mientras no se llenen a su entera satisfacción los siguientes requisitos:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "41",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_41",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una garantía económica mediante un depósito por trabajador, cuyo fin es asegurar el pago de indemnizaciones derivadas de reclamos laborales, y otorga competencia exclusiva a las autoridades nacionales de trabajo para ordenar dichos pagos, reforzando la protección de los trabajadores en el exterior.",
+    "source_quote": "El Agente depositará en la Administración Principal de Rentas, a la orden del Ministerio de Trabajo y de Seguridad Social, la suma de cien colones por cada uno de los trabajadores que pretenda sacar del país. El conjunto de estos depósitos servirá para responder a los reclamos que se presenten y justifiquen ante las autoridades de trabajo nacionales, quienes serán las únicas competentes para ordenar el pago de las indemnizaciones que por tales conceptos procedan,",
+    "item_index": 2
+  }
+]

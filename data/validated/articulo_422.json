@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 422 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 422 establece los criterios de interpretación para las disposiciones del título sobre reforma procesal laboral. Indica que su finalidad última es permitir la aplicación ordenada de las normas sustanciales y principios como justicia y equidad. Las personas a cargo de los órganos deben dirigir el proceso de manera protagónica, buscando la verdad real por encima de formalidades, tutelando la indisponibilidad de derechos y aplicando las reglas pro operario (in dubio pro operario, norma más favorable y condición más beneficiosa), para que los principios de justicia social se cumplan y la desigualdad del trabajador no afecte el resultado. Además, el Poder Judicial debe adoptar medidas para facilitar el acceso a la justicia a personas con discapacidad o en estado de vulnerabilidad.",
+    "source_quote": "su finalidad última es permitir ordenadamente la aplicación de las normas sustanciales y los principios que las informan, incluidas la justicia y la equidad, cuando resulten aplicables.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "422",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_422"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "422",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_422",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad última de la interpretación de las disposiciones de este título según el artículo 422?",
+    "output": "Permitir ordenadamente la aplicación de las normas sustanciales y los principios que las informan, incluidas la justicia y la equidad.",
+    "source_quote": "su finalidad última es permitir ordenadamente la aplicación de las normas sustanciales y los principios que las informan, incluidas la justicia y la equidad, cuando resulten aplicables.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "422",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_422",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio hermenéutico fundamental del proceso laboral, orientando la interpretación hacia la aplicación efectiva de las normas sustantivas y principios de justicia y equidad, evitando formalismos excesivos.",
+    "source_quote": "Al interpretarse las disposiciones de este título, deberá tenerse en cuenta que su finalidad última es permitir ordenadamente la aplicación de las normas sustanciales y los principios que las informan, incluidas la justicia y la equidad, cuando resulten aplicables.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "422",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_422",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al Poder Judicial la obligación de garantizar la igualdad real en el acceso a la justicia laboral, adoptando medidas de apoyo para personas en situación de vulnerabilidad, como personas con discapacidad, asegurando su participación efectiva en el proceso.",
+    "source_quote": "El Poder Judicial adoptará las medidas necesarias para proporcionar a las personas con discapacidad o con dificultades de acceso a la justicia o de participación en los procesos, por encontrarse en estado de vulnerabilidad por cualquier causa, las facilidades o el apoyo particular que requieran para el ejercicio de sus derechos en igualdad de condiciones.",
+    "item_index": 2
+  }
+]

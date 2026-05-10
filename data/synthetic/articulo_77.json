@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 77 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 77 regula el procedimiento para la reanudación de labores tras una suspensión. El patrono o sus sucesores deben notificar por escrito a la Inspección General de Trabajo. Esta notificación tiene como único efecto que los contratos de los trabajadores que no se presenten dentro de los quince días siguientes a la recepción del aviso queden terminados automáticamente, sin responsabilidad para ninguna de las partes. La Inspección debe informar a los trabajadores; si no logra localizarlos en tres días, publica un aviso en el Diario Oficial por tres veces consecutivas, y el plazo de quince días corre desde la primera publicación.",
+    "source_quote": "La reanudación de los trabajos deberá ser notificada a la Inspección General de Trabajo por el patrono o por sus sucesores, para el solo efecto de dar por terminados de pleno derecho, sin responsabilidad para las partes, los contratos de los trabajadores que no comparezcan dentro de los quince días siguientes a aquél en que la mencionada entidad recibió el respectivo aviso escrito.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "77",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_77"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "77",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_77",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a notificar la reanudación de los trabajos según el artículo 77?",
+    "output": "El patrono o sus sucesores.",
+    "source_quote": "La reanudación de los trabajos deberá ser notificada a la Inspección General de Trabajo por el patrono o por sus sucesores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "77",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_77",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para un trabajador no comparecer dentro de los quince días siguientes a la recepción del aviso por la Inspección General de Trabajo?",
+    "output": "Su contrato se da por terminado de pleno derecho, sin responsabilidad para las partes.",
+    "source_quote": "para el solo efecto de dar por terminados de pleno derecho, sin responsabilidad para las partes, los contratos de los trabajadores que no comparezcan dentro de los quince días siguientes a aquél en que la mencionada entidad recibió el respectivo aviso escrito.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "77",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_77",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de notificar la reanudación y la consecuencia jurídica de la incomparecencia de los trabajadores en el plazo señalado: la terminación automática de los contratos sin responsabilidad.",
+    "source_quote": "La reanudación de los trabajos deberá ser notificada a la Inspección General de Trabajo por el patrono o por sus sucesores, para el solo efecto de dar por terminados de pleno derecho, sin responsabilidad para las partes, los contratos de los trabajadores que no comparezcan dentro de los quince días siguientes a aquél en que la mencionada entidad recibió el respectivo aviso escrito.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "77",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_77",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el procedimiento de notificación supletoria mediante publicación en el Diario Oficial cuando no se logra localizar a los trabajadores, y fija el inicio del plazo de quince días a partir de la primera publicación.",
+    "source_quote": "Si por cualquier motivo el referido Despacho no lograre localizar dentro de tercero día, contado desde que se recibió todos los datos a que se alude en el párrafo anterior, a uno o a varios trabajadores, notificará a los interesados la reanudación de los trabajos por medio de un aviso que se insertará por tres veces consecutivas en el Diario Oficial. En este caso el término de quince días correrá para dichos trabajadores a partir de aquél en que se hizo la primera publicación.",
+    "item_index": 2
+  }
+]

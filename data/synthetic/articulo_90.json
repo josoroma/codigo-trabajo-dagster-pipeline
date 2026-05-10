@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 90 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 90 extiende las prohibiciones laborales previas a dos casos concretos que involucran a personas menores de quince años: (a) el ejercicio de cualquier oficio en calles o sitios públicos, ya sea por cuenta propia o ajena; y (b) el trabajo en teatros y establecimientos similares, ya sea vendiendo objetos, actuando o participando de cualquier forma en representaciones públicas, con la excepción de aquellas que se realicen en fiestas escolares, veladas benéficas o reuniones religiosas.",
+    "source_quote": "Las prohibiciones anteriores comprenderán, asimismo, los siguientes casos: a- El ejercicio por cuenta propia o ajena de un oficio que se practique en las calles o sitios públicos, siempre que lo haga una persona menor de quince años. b- El trabajo de personas menores de quince años en la venta de objetos en teatros y establecimientos análogos o para que figuren como actores o de alguna otra manera en representaciones públicas, que tengan lugar en casas de diversión de cualquier género, estaciones radiodifusoras o teatros, con excepción de las que se verifiquen en fiestas escolares, veladas de beneficencia o reuniones dedicadas al culto religioso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "90",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_90"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "90",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_90",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué edad se prohíbe el ejercicio de oficios en calles o sitios públicos según el artículo 90?",
+    "output": "Se prohíbe a personas menores de quince años.",
+    "source_quote": "El ejercicio por cuenta propia o ajena de un oficio que se practique en las calles o sitios públicos, siempre que lo haga una persona menor de quince años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "90",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_90",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se exceptúa la prohibición de trabajo de menores de quince años en representaciones públicas?",
+    "output": "En fiestas escolares, veladas de beneficencia o reuniones dedicadas al culto religioso.",
+    "source_quote": "con excepción de las que se verifiquen en fiestas escolares, veladas de beneficencia o reuniones dedicadas al culto religioso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "90",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_90",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la prohibición absoluta del trabajo infantil en espacios públicos, protegiendo a los menores de quince años de los riesgos asociados a estas actividades.",
+    "source_quote": "El ejercicio por cuenta propia o ajena de un oficio que se practique en las calles o sitios públicos, siempre que lo haga una persona menor de quince años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "90",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_90",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohibir la participación laboral de menores en espectáculos y ventas en lugares de entretenimiento, con excepciones limitadas a eventos educativos, benéficos o religiosos, para salvaguardar su integridad y desarrollo.",
+    "source_quote": "El trabajo de personas menores de quince años en la venta de objetos en teatros y establecimientos análogos o para que figuren como actores o de alguna otra manera en representaciones públicas, que tengan lugar en casas de diversión de cualquier género, estaciones radiodifusoras o teatros, con excepción de las que se verifiquen en fiestas escolares, veladas de beneficencia o reuniones dedicadas al culto religioso.",
+    "item_index": 2
+  }
+]

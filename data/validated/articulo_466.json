@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 466 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 466 establece que todos los días y horas son hábiles para realizar actuaciones judiciales, pero cuando el Código fija plazos en días, estos se entienden como días hábiles ordinarios. Además, fija plazos para dictar providencias y autos (tercer día), y para la sentencia: en audiencia se dicta al final, salvo disposición contraria, y en asuntos sin audiencia, dentro de los cinco días siguientes a que los autos queden listos. Finalmente, impone a los titulares de los órganos jurisdiccionales, tramitadores y asistentes el deber de velar por el cumplimiento de los plazos y la prontitud del proceso, sin perjuicio de responsabilidades según la Ley Orgánica del Poder Judicial.",
+    "source_quote": "Todos los días y las horas son hábiles para realizar las actuaciones judiciales. Sin embargo, cuando en este Código se fijen términos o plazos en días para la realización de actuaciones judiciales, se entenderá que se trata de días ordinariamente hábiles según la ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "466",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_466"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "466",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_466",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Todos los días y horas son hábiles para las actuaciones judiciales según el artículo 466?",
+    "output": "Sí, todos los días y horas son hábiles, pero cuando el Código fija términos o plazos en días, se entiende que son días ordinariamente hábiles según la ley.",
+    "source_quote": "Todos los días y las horas son hábiles para realizar las actuaciones judiciales. Sin embargo, cuando en este Código se fijen términos o plazos en días para la realización de actuaciones judiciales, se entenderá que se trata de días ordinariamente hábiles según la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "466",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_466",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo se debe emitir la sentencia en los asuntos donde no se celebra audiencia?",
+    "output": "Dentro de los cinco días siguientes a aquel en que queden listos los autos para dictarla.",
+    "source_quote": "en los asuntos en que no se celebra audiencia se emitirá dentro de los cinco días siguientes a aquel en que queden listos los autos para dictarla.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "466",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_466",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de habilitación de todos los días y horas para actuaciones judiciales, con la excepción de que los plazos fijados en días se computan únicamente en días hábiles, conforme a la ley.",
+    "source_quote": "Todos los días y las horas son hábiles para realizar las actuaciones judiciales. Sin embargo, cuando en este Código se fijen términos o plazos en días para la realización de actuaciones judiciales, se entenderá que se trata de días ordinariamente hábiles según la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "466",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_466",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los jueces, tramitadores y asistentes el deber de garantizar la celeridad procesal y el cumplimiento de los plazos, remitiendo a las responsabilidades disciplinarias o de otra índole establecidas en la Ley Orgánica del Poder Judicial.",
+    "source_quote": "Las personas que funjan como titulares de los órganos jurisdiccionales, las encargadas de la tramitación de los procesos y las que laboran como sus asistentes velarán por el cumplimiento de los plazos judiciales y porque todas las actividades dispuestas en el proceso se realicen con prontitud y corrección, de modo que el proceso alcance su fin de forma oportuna; lo anterior, sin perjuicio de las responsabilidades previstas en la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993.",
+    "item_index": 2
+  }
+]

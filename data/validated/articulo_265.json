@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 265 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 265 regula el procedimiento cuando un trabajador está en desacuerdo con el dictamen de la junta médica calificadora tras un recurso de revisión. Establece que la junta debe pronunciarse en 15 días solo sobre la disconformidad del trabajador. Si el trabajador mantiene su desacuerdo, puede acudir al juzgado de trabajo en el plazo de un mes. El juzgado solicita documentación, da una audiencia de 8 días y remite el caso al Departamento de Medicina Legal, donde el trabajador debe presentarse en 15 días hábiles tras ser citado. Si no se presenta sin justa causa, el caso se archiva provisionalmente y, si no se reactiva en 2 años, definitivamente. El dictamen de Medicina Legal puede apelarse ante el Consejo Médico Forense en 8 días hábiles. Finalmente, el juez dicta sentencia en 30 días considerando todos los dictámenes y resuelve sobre el pago de gastos de traslado y permanencia por parte del ente asegurador.",
+    "source_quote": "Cuando se hubiere presentado recurso de revisión ante la junta médica calificadora, en los términos del artículo 261, de este Código, la misma se pronunciará sobre el dictamen médico extendido por el ente asegurador, en un plazo no mayor de quince días, en el entendido de que se pronunciará exclusivamente sobre la disconformidad del trabajador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "265",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_265"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "265",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_265",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe pronunciarse la junta médica calificadora sobre el dictamen médico del ente asegurador cuando se presenta un recurso de revisión?",
+    "output": "En un plazo no mayor de quince días.",
+    "source_quote": "la misma se pronunciará sobre el dictamen médico extendido por el ente asegurador, en un plazo no mayor de quince días",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "265",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_265",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el trabajador recurrente no se presenta al reconocimiento del Departamento de Medicina Legal sin justa causa?",
+    "output": "El juzgado dispondrá archivar provisionalmente el caso pendiente, y si en un término de dos años no solicita de nuevo su tramitación, el caso se archivará definitivamente.",
+    "source_quote": "Si el trabajador fuere el recurrente y sin justa causa no se presentare al reconocimiento hecho, el juzgado dispondrá archivar provisionalmente el caso pendiente. Si en un término de dos años, a partir de esa resolución el trabajador no solicitara de nuevo su tramitación, el caso se archivará definitivamente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "265",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_265",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al trabajador el derecho de impugnar judicialmente el dictamen de la junta médica, estableciendo un plazo de un mes y la posibilidad de elegir el juzgado más favorable, garantizando el acceso a la justicia y la protección de sus intereses.",
+    "source_quote": "El interesado podrá acudir ante el juzgado de trabajo de la jurisdicción donde acaeció el riesgo, o de cualquier otra que le resultare más favorable, si estuviere en desacuerdo con el pronunciamiento de la junta médica calificadora, ya sea en cuanto al impedimento fijado, o cualquiera de los demás extremos en él contenidos. Todo ello dentro del término de un mes, a partir de la notificación del dictamen de la junta médica calificadora.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "265",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_265",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un plazo perentorio para que el Departamento de Medicina Legal emita su dictamen, asegurando celeridad en el proceso y evitando dilaciones que perjudiquen al trabajador.",
+    "source_quote": "El Departamento de Medicina Legal rendirá su dictamen en un plazo máximo de diez días, a partir de la fecha del reconocimiento practicado al trabajador.",
+    "item_index": 2
+  }
+]

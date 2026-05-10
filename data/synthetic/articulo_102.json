@@ -1,0 +1,33 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 102 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 102 regula el período de prueba y los plazos de preaviso en el trabajo doméstico. Establece un período de prueba de tres meses, durante el cual ambas partes pueden terminar la relación sin responsabilidad. Luego, hasta completar un año de trabajo, se requiere un preaviso de quince días, y después de un año, de un mes. Si no se cumple el preaviso, la parte incumplidora debe pagar el importe correspondiente a ese tiempo. Además, durante el preaviso, el empleador debe conceder un día semanal remunerado para que la persona trabajadora busque colocación.",
+    "source_quote": "El período de prueba en el trabajo doméstico será de tres meses, durante los cuales, sin responsabilidad, ambas partes podrán ponerle término a la relación laboral.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "102",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_102"
+  },
+  {
+    "question": "¿Cuánto dura el período de prueba en el trabajo doméstico según el artículo 102?",
+    "answer": "El período de prueba dura tres meses.",
+    "source_quote": "El período de prueba en el trabajo doméstico será de tres meses",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "102",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_102",
+    "input": ""
+  },
+  {
+    "question": "¿Qué preaviso debe darse para terminar el contrato después de un año de trabajo continuo?",
+    "answer": "El preaviso debe ser de un mes.",
+    "source_quote": "Después de un año de trabajo continuo, el preaviso será de un mes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "102",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_102",
+    "input": ""
+  }
+]

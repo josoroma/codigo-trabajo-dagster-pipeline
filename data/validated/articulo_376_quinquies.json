@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 376_quinquies del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo regula la huelga en los servicios de educación pública, considerados estratégicos para la nación. Obliga a mantener personal para que los centros educativos permanezcan abiertos, con aseo y seguridad, y en educación especial, atención adecuada. Exige un plan de servicios básicos acordado por las partes o fijado por un juzgado en caso de desacuerdo. Limita la huelga a un máximo de 21 días consecutivos o 10 discontinuos, tras lo cual los trabajadores deben regresar y resolver conflictos según el artículo 707.",
+    "source_quote": "Los servicios de educación pública son de carácter estratégico para la nación, por lo que la huelga en estos tendrá las regulaciones que se establecen en el presente artículo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quinquies",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quinquies"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quinquies",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quinquies",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo de duración de una huelga en los servicios de educación pública según este artículo?",
+    "output": "Hasta veintiún días naturales consecutivos o diez días naturales discontinuos.",
+    "source_quote": "La huelga en los servicios de educación se podrá ejercer hasta por un plazo de veintiún días naturales consecutivos o de diez días naturales discontinuos; vencidos estos plazos los trabajadores deberán regresar a sus labores...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quinquies",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quinquies",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe mantenerse durante toda la duración de la huelga en los centros educativos?",
+    "output": "El personal necesario para que cada centro educativo permanezca abierto y en condiciones básicas de aseo y seguridad, y en educación especial, la atención y asistencia adecuadas.",
+    "source_quote": "Durante toda la duración de la huelga deberá mantenerse el personal necesario para que cada centro educativo permanezca abierto y en condiciones básicas de aseo y seguridad. En el caso de educación especial deberán asegurarse la atención y la asistencia adecuadas en consideración a la condición de discapacidad de las personas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quinquies",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quinquies",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara la naturaleza estratégica de la educación pública y establece que la huelga en estos servicios estará sujeta a regulaciones especiales, justificando así las limitaciones y requisitos adicionales que el artículo impone.",
+    "source_quote": "Los servicios de educación pública son de carácter estratégico para la nación, por lo que la huelga en estos tendrá las regulaciones que se establecen en el presente artículo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_quinquies",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_quinquies",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita temporalmente el ejercicio del derecho de huelga en educación, imponiendo plazos máximos y la obligación de retornar al trabajo al vencimiento, y remite a los procedimientos de solución de conflictos del artículo 707 para resolver las controversias pendientes.",
+    "source_quote": "La huelga en los servicios de educación se podrá ejercer hasta por un plazo de veintiún días naturales consecutivos o de diez días naturales discontinuos; vencidos estos plazos los trabajadores deberán regresar a sus labores y, en caso de no existir un acuerdo entre las partes, estas deberán dirimir sus controversias de conformidad con los procedimientos de solución de conflictos señalados en el artículo 707.",
+    "item_index": 2
+  }
+]

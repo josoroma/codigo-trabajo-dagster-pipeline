@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 61 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 61 establece que las personas o sindicatos obligados por una convención colectiva solo pueden ejercer los derechos y acciones que surjan de esa convención para exigir su cumplimiento y, si corresponde, reclamar el pago de daños y perjuicios. Estas acciones solo pueden dirigirse contra otras personas o sindicatos también obligados por la convención, y únicamente cuando el incumplimiento les cause un perjuicio individual.",
+    "source_quote": "Las personas obligadas por una convención colectiva, sólo podrán ejercer los derechos y acciones que nazcan de la misma, para exigir su cumplimiento y, en su caso, obtener el pago de daños y perjuicios, contra otras personas o sindicatos obligados en la convención, cuando la falta de cumplimiento les ocasione un perjuicio individual.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "61",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_61"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "61",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_61",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Contra quiénes pueden ejercerse los derechos y acciones que nacen de una convención colectiva?",
+    "output": "Contra otras personas o sindicatos obligados en la convención.",
+    "source_quote": "contra otras personas o sindicatos obligados en la convención",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "61",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_61",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se puede exigir cuando la falta de cumplimiento de una convención colectiva ocasiona un perjuicio individual?",
+    "output": "Se puede exigir el cumplimiento de la convención y, en su caso, obtener el pago de daños y perjuicios.",
+    "source_quote": "para exigir su cumplimiento y, en su caso, obtener el pago de daños y perjuicios",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "61",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_61",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita el ejercicio de derechos y acciones derivados de una convención colectiva exclusivamente a las partes obligadas por ella, estableciendo que solo pueden reclamarse entre sí el cumplimiento y la indemnización por daños y perjuicios.",
+    "source_quote": "Las personas obligadas por una convención colectiva, sólo podrán ejercer los derechos y acciones que nazcan de la misma, para exigir su cumplimiento y, en su caso, obtener el pago de daños y perjuicios, contra otras personas o sindicatos obligados en la convención",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "61",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_61",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la procedencia de las acciones al requisito de que el incumplimiento cause un perjuicio individual a quien las ejerce, evitando reclamos por daños que no afecten personalmente al reclamante.",
+    "source_quote": "cuando la falta de cumplimiento les ocasione un perjuicio individual",
+    "item_index": 2
+  }
+]

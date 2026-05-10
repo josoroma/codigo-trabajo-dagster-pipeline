@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 40 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 40 establece una excepción a lo dispuesto en el artículo anterior, permitiendo que el Poder Ejecutivo otorgue pases gratuitos en empresas de transporte del Estado, previa investigación y autorización del Ministerio de Trabajo y Seguridad Social, a trabajadores que se trasladen de zonas con desempleo a zonas con escasez de mano de obra, y a personas que, estando fuera de su domicilio, requieran hospitalización o regresar a su hogar por enfermedad comprobada.",
+    "source_quote": "Lo dispuesto en el artículo anterior no impedirá que el Poder Ejecutivo, una vez que el Ministerio de Trabajo y Seguridad Social realice las investigaciones previas y libre la necesaria autorización, extienda discrecionalmente pases gratuitos en las empresas de transportes del Estado, a los trabajadores que soliciten trasladarse en las regiones del país en donde exista desocupación a aquéllas en que escaseen brazos, y a todos los que, estando fuera de su domicilio, necesiten ser hospitalizados o devueltos a su hogar por causa de enfermedad comprobada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "40",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_40"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "40",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_40",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito previo debe cumplirse para que el Poder Ejecutivo pueda extender pases gratuitos según el artículo 40?",
+    "output": "El Ministerio de Trabajo y Seguridad Social debe realizar investigaciones previas y librar la necesaria autorización.",
+    "source_quote": "una vez que el Ministerio de Trabajo y Seguridad Social realice las investigaciones previas y libre la necesaria autorización",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "40",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_40",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes puede el Poder Ejecutivo otorgar pases gratuitos de transporte según este artículo?",
+    "output": "A los trabajadores que soliciten trasladarse de regiones con desocupación a aquellas donde escaseen brazos, y a todos los que, estando fuera de su domicilio, necesiten ser hospitalizados o devueltos a su hogar por causa de enfermedad comprobada.",
+    "source_quote": "a los trabajadores que soliciten trasladarse en las regiones del país en donde exista desocupación a aquéllas en que escaseen brazos, y a todos los que, estando fuera de su domicilio, necesiten ser hospitalizados o devueltos a su hogar por causa de enfermedad comprobada",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "40",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_40",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad discrecional del Poder Ejecutivo para otorgar pases gratuitos, condicionada a la investigación y autorización previa del Ministerio de Trabajo, como excepción a la regla del artículo anterior.",
+    "source_quote": "Lo dispuesto en el artículo anterior no impedirá que el Poder Ejecutivo, una vez que el Ministerio de Trabajo y Seguridad Social realice las investigaciones previas y libre la necesaria autorización, extienda discrecionalmente pases gratuitos en las empresas de transportes del Estado",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "40",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_40",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los dos grupos de beneficiarios de los pases gratuitos: trabajadores en movilidad laboral por desempleo y personas que requieren asistencia médica o retorno al hogar por enfermedad.",
+    "source_quote": "a los trabajadores que soliciten trasladarse en las regiones del país en donde exista desocupación a aquéllas en que escaseen brazos, y a todos los que, estando fuera de su domicilio, necesiten ser hospitalizados o devueltos a su hogar por causa de enfermedad comprobada",
+    "item_index": 2
+  }
+]

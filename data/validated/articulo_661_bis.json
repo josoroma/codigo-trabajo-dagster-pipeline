@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 661_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 661 bis regula la posibilidad de que el patrono solicite al juez la suspensión de una huelga en servicios públicos no esenciales que ya fue declarada legal. Para ello, deben transcurrir ocho días naturales desde que la declaratoria de legalidad quedó firme sin que las partes hayan resuelto el conflicto o acordado deponer la huelga mientras negocian. El patrono debe demostrar de manera fehaciente que la huelga causa graves daños de difícil o imposible reparación a la ciudadanía. El juez da audiencia a la contraparte por 48 horas para alegar y luego resuelve en 24 horas. La decisión es apelable. Si se acoge la suspensión, se procede al arbitraje obligatorio.",
+    "source_quote": "Declarada la legalidad de la huelga en servicios públicos no esenciales y transcurridos ocho días naturales a partir de la firmeza de dicha declaratoria sin que las partes hayan alcanzado una solución al conflicto, o al menos un acuerdo para deponerla mientras continúan las negociaciones, la parte patronal podrá solicitar al juez la suspensión de la huelga, cuando compruebe de manera fehaciente que esta está causando graves daños de difícil o imposible reparación a la ciudadanía.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo debe transcurrir desde la firmeza de la declaratoria de legalidad de la huelga para que el patrono pueda solicitar la suspensión?",
+    "output": "Ocho días naturales.",
+    "source_quote": "transcurridos ocho días naturales a partir de la firmeza de dicha declaratoria",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe comprobar el patrono para que el juez suspenda la huelga?",
+    "output": "Debe comprobar de manera fehaciente que la huelga está causando graves daños de difícil o imposible reparación a la ciudadanía.",
+    "source_quote": "cuando compruebe de manera fehaciente que esta está causando graves daños de difícil o imposible reparación a la ciudadanía",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones acumulativas para que el patrono pueda solicitar la suspensión de una huelga en servicios públicos no esenciales: que la huelga haya sido declarada legal, que hayan transcurrido ocho días naturales desde la firmeza de esa declaratoria sin solución ni acuerdo de deponerla, y que se demuestre fehacientemente un daño grave y de difícil o imposible reparación a la ciudadanía.",
+    "source_quote": "Declarada la legalidad de la huelga en servicios públicos no esenciales y transcurridos ocho días naturales a partir de la firmeza de dicha declaratoria sin que las partes hayan alcanzado una solución al conflicto, o al menos un acuerdo para deponerla mientras continúan las negociaciones, la parte patronal podrá solicitar al juez la suspensión de la huelga, cuando compruebe de manera fehaciente que esta está causando graves daños de difícil o imposible reparación a la ciudadanía.",
+    "item_index": 1
+  }
+]

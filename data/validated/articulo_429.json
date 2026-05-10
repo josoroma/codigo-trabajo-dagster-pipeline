@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 429 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 429 establece la estructura de la jurisdicción laboral en Costa Rica, la cual está compuesta por juzgados, tribunales de conciliación y arbitraje, y tribunales de apelación y casación, todos especializados. Los juzgados actúan como primera instancia para todos los asuntos de su competencia sin importar la cuantía, y sirven de base para formar los tribunales de conciliación y arbitraje. Los tribunales de apelación conocen en segunda instancia de las apelaciones en conflictos individuales y procesos colectivos, con sede y competencia territorial fijadas por la Corte Suprema de Justicia. Además, se permite que la Corte Suprema asigne a un despacho específico el conocimiento de materias especializadas, como seguridad social, cuando el volumen de casos lo justifique. La organización y funcionamiento se rigen por este Código, la Ley Orgánica del Poder Judicial y el Estatuto de Servicio Judicial.",
+    "source_quote": "La jurisdicción de trabajo estará a cargo de juzgados, tribunales de conciliación y arbitraje y tribunales de apelación y casación, todos especializados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "429",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_429"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "429",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_429",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué órganos integran la jurisdicción de trabajo según el artículo 429?",
+    "output": "Juzgados, tribunales de conciliación y arbitraje y tribunales de apelación y casación, todos especializados.",
+    "source_quote": "La jurisdicción de trabajo estará a cargo de juzgados, tribunales de conciliación y arbitraje y tribunales de apelación y casación, todos especializados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "429",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_429",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normativa, además del Código de Trabajo, regula la organización y funcionamiento de la jurisdicción laboral?",
+    "output": "La Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, y el Estatuto de Servicio Judicial.",
+    "source_quote": "Sobre su organización y funcionamiento se aplicará, en lo pertinente, además de lo dispuesto en este Código, lo que se establece en la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, y el Estatuto de Servicio Judicial.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "429",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_429",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la competencia de los juzgados como primera instancia sin límite de cuantía y su función como base para integrar los tribunales de conciliación y arbitraje, delegando en la Corte Suprema la determinación territorial.",
+    "source_quote": "Los juzgados conocerán en primera instancia de los asuntos propios de su competencia, cualquiera que sea el valor económico de las pretensiones y servirán como base, en las circunscripciones territoriales que señale la Corte Suprema de Justicia, para la constitución de los tribunales de conciliación y arbitraje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "429",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_429",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la especialización de despachos judiciales en materias como seguridad social, según la carga de trabajo, otorgando a la Corte Suprema la facultad de asignar competencias territoriales específicas.",
+    "source_quote": "En los circuitos judiciales donde el volumen de casos lo amerite, la Corte Suprema de Justicia podrá encargar a un determinado despacho el conocimiento de los asuntos de seguridad social o de alguna otra especialidad, correspondientes al territorio que se señale.",
+    "item_index": 2
+  }
+]

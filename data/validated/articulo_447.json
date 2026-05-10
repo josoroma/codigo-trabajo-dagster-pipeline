@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 447 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 447 establece que, en los procesos laborales, las personas jurídicas (como empresas o asociaciones) deben actuar a través de su representante legítimo, es decir, la persona física autorizada legalmente para representarlas.",
+    "source_quote": "Las personas jurídicas comparecerán en el proceso por medio de su representante legítimo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "447",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_447"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "447",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_447",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben comparecer las personas jurídicas en un proceso laboral según el artículo 447?",
+    "output": "Deben comparecer por medio de su representante legítimo.",
+    "source_quote": "Las personas jurídicas comparecerán en el proceso por medio de su representante legítimo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "447",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_447",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién actúa en nombre de una persona jurídica en el proceso laboral conforme al artículo 447?",
+    "output": "Su representante legítimo.",
+    "source_quote": "por medio de su representante legítimo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "447",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_447",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición fija la regla de representación procesal para las personas jurídicas en el ámbito laboral, garantizando que actúen a través de quien legalmente las representa, evitando comparecencias informales o irregulares.",
+    "source_quote": "Las personas jurídicas comparecerán en el proceso por medio de su representante legítimo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "447",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_447",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta nota indica el origen legislativo de la redacción actual del artículo, permitiendo rastrear su modificación dentro de la reforma procesal laboral de 2016.",
+    "source_quote": "(Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  }
+]

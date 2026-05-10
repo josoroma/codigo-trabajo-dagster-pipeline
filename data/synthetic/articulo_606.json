@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 606 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 606 establece que para ser árbitro o árbitra se deben cumplir los requisitos de la Ley N.° 7727 sobre Resolución Alterna de Conflictos. Además, dispone que la lista de árbitros se integra mediante concurso público, con una vigencia de cinco años, y que los integrantes pueden ser excluidos si se niegan injustificadamente a servir en un caso concreto.",
+    "source_quote": "Para ser árbitro o árbitra deben reunirse los requisitos establecidos en la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "606",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_606"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "606",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_606",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos debe reunir una persona para ser árbitro o árbitra según el artículo 606?",
+    "output": "Debe reunir los requisitos establecidos en la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.",
+    "source_quote": "Para ser árbitro o árbitra deben reunirse los requisitos establecidos en la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "606",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_606",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se integra la lista de árbitros y cuál es la vigencia de la designación?",
+    "output": "La lista se integra mediante concurso público y la designación tiene una vigencia de cinco años.",
+    "source_quote": "La integración de la lista indicada en el artículo anterior se hará mediante concurso público. La designación tendrá una vigencia de cinco años y los integrantes podrán ser excluidos si se niegan injustificadamente a servir en algún caso concreto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "606",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_606",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el requisito sustantivo para ser árbitro, remitiendo a una ley especial que regula la resolución alterna de conflictos, garantizando que los árbitros cumplan con un perfil legalmente definido.",
+    "source_quote": "Para ser árbitro o árbitra deben reunirse los requisitos establecidos en la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "606",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_606",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el procedimiento de selección de los árbitros mediante concurso público, la duración de su nombramiento por cinco años y la causal de exclusión por negativa injustificada a servir, asegurando transparencia, temporalidad y disponibilidad en el ejercicio arbitral.",
+    "source_quote": "La integración de la lista indicada en el artículo anterior se hará mediante concurso público. La designación tendrá una vigencia de cinco años y los integrantes podrán ser excluidos si se niegan injustificadamente a servir en algún caso concreto.",
+    "item_index": 2
+  }
+]

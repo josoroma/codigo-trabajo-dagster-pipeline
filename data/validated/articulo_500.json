@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 500 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 500 establece que todas las defensas, tanto formales como de fondo, deben presentarse en el mismo escrito de contestación de la demanda o contrademanda, junto con los hechos que las sustentan, las razones de oposición y las pruebas correspondientes. En casos de despido, el empleador solo puede alegar como justificación los motivos indicados en la carta de despido entregada al trabajador según el artículo 35, o los considerados en el acto formal del despido si hubo un procedimiento escrito previo. Además, permite justificar la falta de entrega de la carta y alegar las conductas como causa de despido sin responsabilidad si se demuestra que se entregó una copia al Ministerio de Trabajo y Seguridad Social en los términos del artículo 35.",
+    "source_quote": "En el mismo escrito de contestación de la demanda o la contrademanda deberán oponerse todas las defensas formales y de fondo, con indicación de los hechos impeditivos, las razones que sirven de fundamento a la oposición y ofrecerse los medios de prueba que le correspondan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "500",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_500"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "500",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_500",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento procesal deben oponerse todas las defensas formales y de fondo?",
+    "output": "En el mismo escrito de contestación de la demanda o la contrademanda.",
+    "source_quote": "En el mismo escrito de contestación de la demanda o la contrademanda deberán oponerse todas las defensas formales y de fondo, con indicación de los hechos impeditivos, las razones que sirven de fundamento a la oposición y ofrecerse los medios de prueba que le correspondan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "500",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_500",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué hechos puede alegar el empleador como justificantes del despido?",
+    "output": "Solo los indicados en la carta de despido entregada a la persona trabajadora según el artículo 35, o los tomados en cuenta en el acto formal del despido cuando ha sido precedido de un procedimiento escrito.",
+    "source_quote": "En caso de despido, el empleador o la empleadora solo podrá alegar como hechos justificantes de la destitución los indicados en la carta de despido entregada a la persona trabajadora, de la forma prevista en el artículo 35 de este mismo Código, o tomados en cuenta en el acto formal del despido, cuando ha sido precedido de un procedimiento escrito.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "500",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_500",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de concentración procesal, obligando a la parte demandada a presentar todas sus defensas y pruebas en un solo acto para evitar dilaciones y garantizar la eficiencia del proceso.",
+    "source_quote": "En el mismo escrito de contestación de la demanda o la contrademanda deberán oponerse todas las defensas formales y de fondo, con indicación de los hechos impeditivos, las razones que sirven de fundamento a la oposición y ofrecerse los medios de prueba que le correspondan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "500",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_500",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita las causales de despido que el empleador puede invocar en juicio a aquellas previamente comunicadas al trabajador, protegiendo el derecho de defensa y la seguridad jurídica del empleado.",
+    "source_quote": "En caso de despido, el empleador o la empleadora solo podrá alegar como hechos justificantes de la destitución los indicados en la carta de despido entregada a la persona trabajadora, de la forma prevista en el artículo 35 de este mismo Código, o tomados en cuenta en el acto formal del despido, cuando ha sido precedido de un procedimiento escrito.",
+    "item_index": 2
+  }
+]

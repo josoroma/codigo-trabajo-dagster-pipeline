@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 548 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 548 establece que la distribución de las prestaciones laborales mencionadas en el artículo 85 inciso a) se regirá por esta sección. Además, dispone que en este proceso se adjudicarán a los sucesores o beneficiarios, en el orden señalado en esa norma, los montos adeudados por salarios, vacaciones no disfrutadas, aguinaldo y otros conceptos derivados de la relación laboral, incluyendo ahorros obligatorios y depósitos en cuentas financieras, siempre que no tengan un beneficiario distinto por ley. Esta regla también se aplica a los montos adeudados a pensionados o jubilados fallecidos.",
+    "source_quote": "También se dirimirá en este proceso, a favor de los sucesores o beneficiarios indicados en esa norma, en el mismo orden que en ella se señala, la adjudicación de los montos de dinero por salarios, compensación por vacaciones no disfrutadas y aguinaldo, así como cualquier otro extremo derivado de la relación de trabajo, incluidos los ahorros obligatorios y depósitos en cuentas de intermediarios financieros provenientes del contrato de trabajo, que por ley no tenga un beneficiario distinto, adeudados a la persona trabajadora fallecida.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "548",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_548"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "548",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_548",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué montos de dinero se adjudican a los sucesores o beneficiarios según el artículo 548?",
+    "output": "Se adjudican los montos por salarios, compensación por vacaciones no disfrutadas, aguinaldo, y cualquier otro extremo derivado de la relación de trabajo, incluidos los ahorros obligatorios y depósitos en cuentas de intermediarios financieros, siempre que por ley no tengan un beneficiario distinto.",
+    "source_quote": "la adjudicación de los montos de dinero por salarios, compensación por vacaciones no disfrutadas y aguinaldo, así como cualquier otro extremo derivado de la relación de trabajo, incluidos los ahorros obligatorios y depósitos en cuentas de intermediarios financieros provenientes del contrato de trabajo, que por ley no tenga un beneficiario distinto",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "548",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_548",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se aplica la misma regla de adjudicación según el artículo 548?",
+    "output": "Se aplica a las personas pensionadas o jubiladas fallecidas.",
+    "source_quote": "Igual regla se aplicará a los montos adeudados a las personas pensionadas o jubiladas fallecidas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "548",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_548",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la distribución de las prestaciones laborales mencionadas en el artículo 85 inciso a) se regula por las disposiciones de esta sección del Código de Trabajo.",
+    "source_quote": "La distribución de las prestaciones laborales a que se refiere el inciso a) del artículo 85 de este Código se regirá por lo dispuesto en esta sección.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "548",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_548",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la aplicación de la regla de adjudicación a los montos adeudados a personas pensionadas o jubiladas fallecidas, equiparándolos a los trabajadores fallecidos.",
+    "source_quote": "Igual regla se aplicará a los montos adeudados a las personas pensionadas o jubiladas fallecidas.",
+    "item_index": 2
+  }
+]

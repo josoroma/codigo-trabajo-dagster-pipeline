@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 525 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 525 regula la celebración de las audiencias laborales. Establece que deben iniciar puntualmente y ser públicas, salvo que el juzgado decida hacerlas privadas por dignidad de una parte. Si alguien llega tarde, se incorpora sin derecho a repetir actos ya realizados. Las audiencias se llevan a cabo en el despacho judicial o sala destinada, aunque el juez puede cambiarlas de lugar por conveniencia. Además, detalla las funciones del juez como director: garantizar la oralidad, promover el contradictorio para hallar la verdad real, concentrar los actos procesales, dirigir las etapas, controlar el uso de la palabra, decidir qué consta en acta y mantener el orden.",
+    "source_quote": "Las audiencias se iniciarán obligatoriamente a la hora y fecha señaladas y serán públicas, salvo que el juzgado disponga que su celebración sea privada, en atención a la dignidad de alguna de las partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "525",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_525"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "525",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_525",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una parte llega tarde a la audiencia?",
+    "output": "Tomará la audiencia en el momento en que se halle y no podrá pedir la repetición de actos ya cumplidos.",
+    "source_quote": "La parte que asiste tardíamente tomará la audiencia en el momento en que se halle y no podrá pedir la repetición de actos ya cumplidos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "525",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_525",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las funciones de la persona titular del órgano durante la audiencia?",
+    "output": "Debe asegurar el respeto de los principios de oralidad, promover el contradictorio para verificar la verdad real, velar por la concentración de actos procesales, fungir como directora abriendo y cerrando etapas, otorgando y limitando la palabra, disponiendo sobre el contenido del acta y realizando las actuaciones necesarias para que el debate transcurra ordenadamente.",
+    "source_quote": "La persona titular del órgano deberá asegurar, durante su celebración, el pleno respeto de los principios de la oralidad; promoverá el contradictorio como instrumento para la verificación de la verdad real; velará por la concentración de los distintos actos procesales que corresponda celebrar, y fungirá como directora de la audiencia, abriendo y dando por concluidas sus etapas, otorgando y limitando el uso de la palabra, disponiendo sobre los aspectos importantes que deben hacerse constar en el acta y realizando todas las actuaciones necesarias para que el debate transcurra ordenadamente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "525",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_525",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligatoriedad de la puntualidad en el inicio de las audiencias y la regla general de publicidad, permitiendo excepcionalmente la privacidad para proteger la dignidad de una parte.",
+    "source_quote": "Las audiencias se iniciarán obligatoriamente a la hora y fecha señaladas y serán públicas, salvo que el juzgado disponga que su celebración sea privada, en atención a la dignidad de alguna de las partes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "525",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_525",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las funciones directivas del juez durante la audiencia, orientadas a garantizar los principios procesales de oralidad, contradicción y concentración, así como el orden y la correcta documentación de lo actuado.",
+    "source_quote": "La persona titular del órgano deberá asegurar, durante su celebración, el pleno respeto de los principios de la oralidad; promoverá el contradictorio como instrumento para la verificación de la verdad real; velará por la concentración de los distintos actos procesales que corresponda celebrar, y fungirá como directora de la audiencia, abriendo y dando por concluidas sus etapas, otorgando y limitando el uso de la palabra, disponiendo sobre los aspectos importantes que deben hacerse constar en el acta y realizando todas las actuaciones necesarias para que el debate transcurra ordenadamente.",
+    "item_index": 2
+  }
+]

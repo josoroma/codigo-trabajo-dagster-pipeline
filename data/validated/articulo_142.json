@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 142 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 142 regula la jornada laboral en talleres de panadería y fábricas de masas que producen para el consumo público. Obliga a estos establecimientos a organizar el trabajo mediante equipos de trabajadores distintos, de modo que las jornadas no superen los límites del artículo 136. Además, prohíbe que un mismo equipo repita su jornada, salvo que alterne con otro equipo. También exige a los patronos llevar un libro sellado y autorizado por la Inspección General de Trabajo, donde se anote semanalmente la lista de los equipos que laboran en los diferentes turnos diurnos, nocturnos o mixtos.",
+    "source_quote": "Los talleres de panadería y fábricas de masas que elaboren artículos para el consumo público, estarán obligados a ocupar tantos equipos formados por trabajadores distintos, como sea necesario para realizar el trabajo en jornadas que no excedan de los límites que fija el artículo 136, sin que un mismo equipo repita su jornada a no ser alternando con la llevada a cabo por otro.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "142",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_142"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "142",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_142",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de establecimientos se aplica el artículo 142?",
+    "output": "Se aplica a los talleres de panadería y fábricas de masas que elaboren artículos para el consumo público.",
+    "source_quote": "Los talleres de panadería y fábricas de masas que elaboren artículos para el consumo público",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "142",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_142",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen estos establecimientos respecto a los equipos de trabajo y las jornadas?",
+    "output": "Deben ocupar tantos equipos de trabajadores distintos como sea necesario para que las jornadas no excedan los límites del artículo 136, y un mismo equipo no puede repetir su jornada a menos que alterne con otro equipo.",
+    "source_quote": "estarán obligados a ocupar tantos equipos formados por trabajadores distintos, como sea necesario para realizar el trabajo en jornadas que no excedan de los límites que fija el artículo 136, sin que un mismo equipo repita su jornada a no ser alternando con la llevada a cabo por otro.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "142",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_142",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de organizar el trabajo en equipos rotativos para respetar los límites máximos de jornada y evitar que un mismo equipo trabaje de forma continua sin alternancia, protegiendo así la salud y el descanso de los trabajadores.",
+    "source_quote": "Los talleres de panadería y fábricas de masas que elaboren artículos para el consumo público, estarán obligados a ocupar tantos equipos formados por trabajadores distintos, como sea necesario para realizar el trabajo en jornadas que no excedan de los límites que fija el artículo 136, sin que un mismo equipo repita su jornada a no ser alternando con la llevada a cabo por otro.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "142",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_142",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un deber de registro documental ante la autoridad laboral para fiscalizar el cumplimiento de las reglas sobre equipos y jornadas, garantizando transparencia y control en estos centros de trabajo.",
+    "source_quote": "Los respectivos patronos estarán obligados a llevar un libro sellado y autorizado por la Inspección General de Trabajo, en el que se anotará cada semana la nómina de los equipos de operarios que trabajen a sus órdenes, durante los distintos lapsos diurnos, nocturnos o mixtos.",
+    "item_index": 2
+  }
+]

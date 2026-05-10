@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 199 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 199 enumera las circunstancias que, tras la comprobación correspondiente, no se consideran riesgos del trabajo cubiertos por el Título de Riesgos del Trabajo. Estas son: los provocados intencionalmente o que sean resultado de un hecho doloso del trabajador, y los debidos a embriaguez o al uso de narcóticos, drogas hipnógenas, tranquilizantes o excitantes imputable al trabajador. Sin embargo, esta última exclusión no aplica si existe prescripción médica y se demuestra una relación de causalidad entre el estado del trabajador y el riesgo ocurrido.",
+    "source_quote": "No constituyen riesgos del trabajo cubiertos por este Título, los que se produzcan en las siguientes circunstancias, previa la comprobación correspondiente: - Los provocados intencionalmente, o que fueren el resultado o la consecuencia de un hecho doloso del trabajador. - Los debidos a embriaguez del trabajador o al uso, imputable a éste, de narcóticos, drogas hipnógenas, tranquilizantes, excitantes; Salvo que exista prescripción médica y siempre que haya una relación de causalidad entre el estado del trabajador, por la ebriedad o uso de drogas, y el riesgo ocurrido.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "199",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_199"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "199",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_199",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué circunstancias no constituyen riesgos del trabajo según el artículo 199?",
+    "output": "No constituyen riesgos del trabajo los provocados intencionalmente o que sean resultado de un hecho doloso del trabajador, y los debidos a embriaguez del trabajador o al uso, imputable a éste, de narcóticos, drogas hipnógenas, tranquilizantes o excitantes, salvo la excepción prevista.",
+    "source_quote": "No constituyen riesgos del trabajo cubiertos por este Título, los que se produzcan en las siguientes circunstancias: - Los provocados intencionalmente, o que fueren el resultado o la consecuencia de un hecho doloso del trabajador. - Los debidos a embriaguez del trabajador o al uso, imputable a éste, de narcóticos, drogas hipnógenas, tranquilizantes, excitantes;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "199",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_199",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso la embriaguez o el uso de drogas por parte del trabajador no excluye la cobertura como riesgo del trabajo?",
+    "output": "Cuando existe prescripción médica y siempre que haya una relación de causalidad entre el estado del trabajador, por la ebriedad o uso de drogas, y el riesgo ocurrido.",
+    "source_quote": "Salvo que exista prescripción médica y siempre que haya una relación de causalidad entre el estado del trabajador, por la ebriedad o uso de drogas, y el riesgo ocurrido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "199",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_199",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de exclusión de cobertura para ciertos eventos, condicionada a una verificación previa de los hechos.",
+    "source_quote": "No constituyen riesgos del trabajo cubiertos por este Título, los que se produzcan en las siguientes circunstancias, previa la comprobación correspondiente:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "199",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_199",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción a la exclusión por embriaguez o uso de drogas, permitiendo la cobertura si el consumo fue médicamente prescrito y se demuestra el nexo causal con el accidente.",
+    "source_quote": "Salvo que exista prescripción médica y siempre que haya una relación de causalidad entre el estado del trabajador, por la ebriedad o uso de drogas, y el riesgo ocurrido.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 76 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 76 permite al patrono o sus sucesores terminar los contratos de trabajo durante una suspensión basada en las tres causas del artículo 74, siempre que paguen a los trabajadores el preaviso, el auxilio de cesantía y otras indemnizaciones que correspondan. Sin embargo, la Ley N° 305 de 1948 prohíbe usar esta facultad en perjuicio de los trabajadores, limitando su aplicación para evitar abusos.",
+    "source_quote": "Durante la suspensión de los contratos de trabajo fundada en alguna de las tres causas a que se refiere el artículo 74, el patrono o sus sucesores pueden ponerles término cubriendo a los trabajadores el importe del preaviso, el auxilio de cesantía y demás indemnizaciones que pudieran corresponderles.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "76",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_76"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "76",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_76",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situación puede el patrono poner fin a los contratos de trabajo según el artículo 76?",
+    "output": "Durante la suspensión de los contratos fundada en alguna de las tres causas del artículo 74, cubriendo el preaviso, el auxilio de cesantía y demás indemnizaciones que correspondan.",
+    "source_quote": "Durante la suspensión de los contratos de trabajo fundada en alguna de las tres causas a que se refiere el artículo 74, el patrono o sus sucesores pueden ponerles término cubriendo a los trabajadores el importe del preaviso, el auxilio de cesantía y demás indemnizaciones que pudieran corresponderles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "76",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_76",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué restricción impone la Ley N° 305 al uso de la facultad del artículo 76?",
+    "output": "Los patronos no pueden hacer uso de esa facultad en perjuicio de los trabajadores.",
+    "source_quote": "los patronos no podrán hacer uso, en perjuicio de los trabajadores, de la facultad que les otorgan los artículos 76, 78 y 81, inciso G), del Código de Trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "76",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_76",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al patrono la facultad de terminar unilateralmente los contratos durante la suspensión, condicionándola al pago de todas las prestaciones laborales adeudadas, para equilibrar los derechos de ambas partes.",
+    "source_quote": "Durante la suspensión de los contratos de trabajo fundada en alguna de las tres causas a que se refiere el artículo 74, el patrono o sus sucesores pueden ponerles término cubriendo a los trabajadores el importe del preaviso, el auxilio de cesantía y demás indemnizaciones que pudieran corresponderles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "76",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_76",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una limitación legal externa que impide el ejercicio abusivo de esta facultad, protegiendo a los trabajadores de despidos que les causen un daño injustificado durante la suspensión contractual.",
+    "source_quote": "los patronos no podrán hacer uso, en perjuicio de los trabajadores, de la facultad que les otorgan los artículos 76, 78 y 81, inciso G), del Código de Trabajo",
+    "item_index": 2
+  }
+]

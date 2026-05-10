@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 587 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 587 enumera las causales procesales que hacen admisible un recurso en el proceso laboral. Estas son: vicios de nulidad de actuaciones previamente alegados y desestimados; incongruencia u oscuridad absoluta de la sentencia, previo agotamiento de la aclaración o adición; falta de determinación clara y precisa de los hechos acreditados; sentencia basada en medios probatorios ilegítimos o introducidos ilegalmente; falta o insuficiencia de fundamento de la sentencia; e inobservancia de las reglas del párrafo tercero del artículo 537.",
+    "source_quote": "Por razones procesales será admisible cuando se invoque: 1.- Cualquiera de los vicios por los cuales procede la nulidad de actuaciones, siempre y cuando estos hayan sido alegados en alguna de las fases precedentes del proceso y la reclamación se haya desestimado. 2.- Incongruencia de la sentencia u oscuridad absoluta de esta última parte. En los supuestos de incongruencia, el recurso solo es admisible cuando se ha agotado el trámite de la adición o aclaración. 3.- Falta de determinación, clara y precisa, de los hechos acreditados por el juzgado. 4.- Haberse fundado la sentencia en medios probatorios ilegítimos o introducidos ilegalmente al proceso. 5.- Falta de fundamento o fundamento insuficiente de la sentencia. 6.- Haberse dictado la sentencia con inobservancia de las reglas establecidas en el párrafo tercero del artículo 537.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "587",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_587"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "587",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_587",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las causales procesales que hacen admisible un recurso según el artículo 587 del Código de Trabajo?",
+    "output": "Las causales son: 1) vicios de nulidad de actuaciones alegados y desestimados previamente; 2) incongruencia u oscuridad absoluta de la sentencia, previo agotamiento de la adición o aclaración; 3) falta de determinación clara y precisa de los hechos acreditados; 4) sentencia fundada en medios probatorios ilegítimos o introducidos ilegalmente; 5) falta o insuficiencia de fundamento de la sentencia; 6) inobservancia de las reglas del párrafo tercero del artículo 537.",
+    "source_quote": "Por razones procesales será admisible cuando se invoque: 1.- Cualquiera de los vicios por los cuales procede la nulidad de actuaciones... 2.- Incongruencia de la sentencia... 3.- Falta de determinación... 4.- Haberse fundado la sentencia en medios probatorios ilegítimos... 5.- Falta de fundamento... 6.- Haberse dictado la sentencia con inobservancia de las reglas establecidas en el párrafo tercero del artículo 537.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "587",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_587",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito adicional exige el artículo 587 para admitir un recurso por incongruencia de la sentencia?",
+    "output": "Se requiere haber agotado el trámite de la adición o aclaración.",
+    "source_quote": "En los supuestos de incongruencia, el recurso solo es admisible cuando se ha agotado el trámite de la adición o aclaración.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "587",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_587",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase introductoria delimita el ámbito del artículo, indicando que las causales listadas son de naturaleza procesal y deben ser invocadas para que el recurso sea admitido.",
+    "source_quote": "Por razones procesales será admisible cuando se invoque:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "587",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_587",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la causal de incongruencia u oscuridad, condicionando la admisibilidad del recurso a la previa solicitud de aclaración o adición, promoviendo la corrección en la instancia anterior y evitando recursos prematuros.",
+    "source_quote": "2.- Incongruencia de la sentencia u oscuridad absoluta de esta última parte. En los supuestos de incongruencia, el recurso solo es admisible cuando se ha agotado el trámite de la adición o aclaración.",
+    "item_index": 2
+  }
+]

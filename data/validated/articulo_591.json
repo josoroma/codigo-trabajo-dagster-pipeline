@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 591 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo regula el trámite de los recursos de apelación no reservada y casación. Si el recurso se interpone a tiempo, se da a la parte contraria un plazo de tres días para expresar sus agravios ante el mismo juzgado. Cuando el tribunal superior está en otra circunscripción territorial, la resolución previene a las partes que usan notificaciones físicas para que señalen un lugar en ese tribunal, con advertencias si no lo hacen. Las notificaciones electrónicas valen para todas las instancias. El expediente se envía al tribunal superior después de ese plazo. Si el recurso es extemporáneo, el juzgado lo rechaza de plano.",
+    "source_quote": "En la apelación no reservada y en la casación, interpuesto el recurso en tiempo, se emplazará a la parte o partes recurridas para que presenten dentro de tres días ante el mismo juzgado la expresión de sus agravios en relación con los motivos argumentados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos días tiene la parte recurrida para presentar sus agravios en apelación no reservada o casación?",
+    "output": "Tres días.",
+    "source_quote": "se emplazará a la parte o partes recurridas para que presenten dentro de tres días ante el mismo juzgado la expresión de sus agravios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el recurso de apelación o casación se presenta fuera de tiempo?",
+    "output": "El juzgado lo rechaza de plano.",
+    "source_quote": "El recurso extemporáneo será rechazado de plano por el juzgado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo perentorio de tres días para que la parte contraria exponga sus argumentos en contra del recurso, garantizando el derecho de defensa y la celeridad procesal.",
+    "source_quote": "En la apelación no reservada y en la casación, interpuesto el recurso en tiempo, se emplazará a la parte o partes recurridas para que presenten dentro de tres días ante el mismo juzgado la expresión de sus agravios en relación con los motivos argumentados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegura la continuidad de las notificaciones físicas cuando el tribunal de alzada está en otra jurisdicción, imponiendo a las partes la carga de señalar domicilio en esa sede, con consecuencias por omisión.",
+    "source_quote": "Cuando el órgano superior se halle ubicado en una circunscripción territorial diferente, en la misma resolución prevendrá a todas las partes que atienden notificaciones en un lugar determinado y no por un medio electrónico de comunicación, hacer el respectivo señalamiento para recibir esas notificaciones en el tribunal que conoce del recurso y les hará las advertencias correspondientes, en el caso de que no lo hagan.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "591",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_591",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Sanciona la presentación tardía del recurso con su rechazo inmediato y sin más trámite, preservando la firmeza de las resoluciones y la seguridad jurídica.",
+    "source_quote": "El recurso extemporáneo será rechazado de plano por el juzgado.",
+    "item_index": 3
+  }
+]

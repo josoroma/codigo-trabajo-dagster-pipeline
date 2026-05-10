@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 474 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 474 establece el principio de conservación del proceso laboral. Indica que los errores o vicios procesales deben corregirse o subsanarse siempre que sea posible. La nulidad solo se decreta como último recurso, cuando la subsanación no es viable. Aun en ese caso, se debe evitar la pérdida o repetición innecesaria de etapas y actos ya realizados, conservando todas las actuaciones que sean válidas para aprovecharlas una vez que el proceso se normalice. Además, en el caso específico de una parte incapaz o mal representada, esta puede ratificar las actuaciones indebidas a través de su representante legítimo y beneficiarse de lo que le sea favorable.",
+    "source_quote": "Los vicios procesales deberán ser corregidos, subsanados o saneados y la nulidad se decretará, únicamente, cuando la subsanación no sea posible; pero en tal caso se procurará siempre evitar la pérdida, repetición o destrucción innecesarias de etapas del proceso, los actos o las diligencias cumplidos y se conservarán todas las actuaciones que en sí mismas sean válidas, de modo que puedan ser aprovechadas, una vez que el proceso se ajuste a la normalidad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "474",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_474"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "474",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_474",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se debe decretar la nulidad procesal según el artículo 474?",
+    "output": "La nulidad se decretará únicamente cuando la subsanación del vicio procesal no sea posible.",
+    "source_quote": "la nulidad se decretará, únicamente, cuando la subsanación no sea posible",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "474",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_474",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer la parte incapaz o indebidamente representada para aprovechar el resultado de la actividad procesal que le sea favorable?",
+    "output": "Puede ratificar las actuaciones realizadas indebidamente por medio de su representante legítimo.",
+    "source_quote": "la parte incapaz o indebidamente representada puede aprovecharse del resultado de la actividad procesal en lo que le fuera favorable, por medio de la ratificación de las actuaciones realizadas indebidamente, por parte del representante legítimo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "474",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_474",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de subsanación preferente de vicios procesales, limitando la nulidad a casos extremos y ordenando la conservación de actos válidos para evitar dilaciones y desperdicio de actividad procesal.",
+    "source_quote": "Los vicios procesales deberán ser corregidos, subsanados o saneados y la nulidad se decretará, únicamente, cuando la subsanación no sea posible; pero en tal caso se procurará siempre evitar la pérdida, repetición o destrucción innecesarias de etapas del proceso, los actos o las diligencias cumplidos y se conservarán todas las actuaciones que en sí mismas sean válidas, de modo que puedan ser aprovechadas, una vez que el proceso se ajuste a la normalidad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "474",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_474",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula una excepción específica para vicios de representación o capacidad, permitiendo la ratificación de actuaciones por el representante legítimo para que la parte afectada pueda beneficiarse de lo actuado favorablemente, en consonancia con el principio de conservación.",
+    "source_quote": "En el supuesto indicado en el inciso 4) del artículo 471, la parte incapaz o indebidamente representada puede aprovecharse del resultado de la actividad procesal en lo que le fuera favorable, por medio de la ratificación de las actuaciones realizadas indebidamente, por parte del representante legítimo.",
+    "item_index": 2
+  }
+]

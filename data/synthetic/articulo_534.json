@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 534 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 534 regula dos aspectos procesales: primero, prohíbe la transcripción literal o extensa de los contenidos probatorios, con la única excepción de lo relativo a la conciliación. Segundo, obliga a los tribunales a grabar las audiencias mediante medios tecnológicos que aseguren la conservación de su contenido y sirvan como ayuda para redactar la sentencia. Además, establece que las grabaciones deben conservarse sin borrarse hasta un año después de ejecutada la sentencia firme, y que las partes pueden obtener copias o reproducciones a su propio costo.",
+    "source_quote": "A excepción de lo mencionado antes respecto del contenido de la conciliación, se prohíbe la transcripción literal o de forma extensa de los contenidos probatorios. Los tribunales deberán grabar las audiencias a través de medios tecnológicos que garanticen adecuadamente la conservación de sus contenidos y sirvan como ayuda de memoria en la redacción de la sentencia. Las grabaciones se mantendrán sin borrarse hasta un año después de ejecutada la sentencia firme y las partes podrán obtener copias o reproducciones a su costa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "534",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_534"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "534",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_534",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe el artículo 534 respecto de los contenidos probatorios?",
+    "output": "Prohíbe la transcripción literal o de forma extensa de los contenidos probatorios, salvo lo mencionado antes respecto del contenido de la conciliación.",
+    "source_quote": "A excepción de lo mencionado antes respecto del contenido de la conciliación, se prohíbe la transcripción literal o de forma extensa de los contenidos probatorios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "534",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_534",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta cuándo deben conservarse sin borrarse las grabaciones de las audiencias?",
+    "output": "Hasta un año después de ejecutada la sentencia firme.",
+    "source_quote": "Las grabaciones se mantendrán sin borrarse hasta un año después de ejecutada la sentencia firme.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "534",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_534",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición procesal para evitar la reproducción escrita detallada de las pruebas, con la única salvedad de lo relativo a la conciliación, preservando así la oralidad y agilidad del proceso.",
+    "source_quote": "A excepción de lo mencionado antes respecto del contenido de la conciliación, se prohíbe la transcripción literal o de forma extensa de los contenidos probatorios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "534",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_534",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los tribunales la obligación de registrar las audiencias con tecnología que asegure la integridad del registro y que este sirva de apoyo para la elaboración de la sentencia, sustituyendo la transcripción literal por un soporte audiovisual fidedigno.",
+    "source_quote": "Los tribunales deberán grabar las audiencias a través de medios tecnológicos que garanticen adecuadamente la conservación de sus contenidos y sirvan como ayuda de memoria en la redacción de la sentencia.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 539 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 539 establece un procedimiento especial para procesos laborales que traten exclusivamente sobre pretensiones de cuantía inferior al límite fijado por la Corte Plena para el recurso de casación. Estos procesos se tramitan según las reglas generales del Código, pero con tres simplificaciones: se realizan en una sola audiencia oral; la sentencia se dicta oralmente y solo se consigna por escrito la parte dispositiva, a menos que una parte pida la redacción completa; y la sentencia admite recurso de apelación y puede ser aclarada o adicionada.",
+    "source_quote": "Los procesos que versen exclusivamente sobre pretensiones, cuya cuantía sea inferior a la señalada por la Corte Plena para el recurso de casación, serán tramitados conforme a las reglas de este Código, con las siguientes salvedades:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "539",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_539"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "539",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_539",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuántas audiencias orales se tramitan los procesos regulados por el artículo 539?",
+    "output": "Se tramitan en una sola audiencia oral.",
+    "source_quote": "1) Se tramitarán en una sola audiencia oral.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "539",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_539",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué recurso procede contra la sentencia dictada en estos procesos?",
+    "output": "Procede el recurso de apelación ante el Tribunal de Apelaciones, y además la sentencia puede ser aclarada o adicionada a solicitud de parte o de oficio.",
+    "source_quote": "3) La sentencia tendrá recurso de apelación ante el Tribunal de Apelaciones y además podrá ser aclarada o adicionada a solicitud de parte o de oficio, en los términos previstos en este Código",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "539",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_539",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito de aplicación del procedimiento especial, limitándolo a asuntos de baja cuantía que no alcanzan el umbral del recurso de casación, y anuncia las excepciones al trámite ordinario.",
+    "source_quote": "Los procesos que versen exclusivamente sobre pretensiones, cuya cuantía sea inferior a la señalada por la Corte Plena para el recurso de casación, serán tramitados conforme a las reglas de este Código, con las siguientes salvedades:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "539",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_539",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Simplifica la emisión y documentación de la sentencia para agilizar el proceso, permitiendo que sea oral y reduciendo la constancia escrita a la parte dispositiva, salvo petición expresa de redacción completa, y adapta el registro a medios electrónicos.",
+    "source_quote": "2) La sentencia se dictará de forma oral y, salvo que alguna de las partes solicite expresamente la redacción integral de la sentencia, únicamente su parte dispositiva se consignará por escrito, excepto en procesos tramitados electrónicamente, en cuyo caso, esa parte dispositiva será digitada, de modo que pueda ser reproducida de forma escrita o en respaldos electrónicos.",
+    "item_index": 2
+  }
+]

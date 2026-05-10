@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 492 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 492 regula la medida de arraigo en el proceso laboral. Esta se decreta de forma inmediata, sin trámites ni garantías adicionales. Si se solicita antes de presentar la demanda, el solicitante debe interponerla dentro de los tres días siguientes a la notificación del arraigo; de lo contrario, la medida se levanta de oficio o a petición de parte, y se condena al peticionario al pago de daños y perjuicios. El arraigo consiste en una prevención judicial para que el demandado nombre un representante legítimo y suficientemente instruido que pueda sostener el proceso y obligar a la parte representada. Se prohíbe que esta medida afecte la libertad de tránsito de las personas. En el caso de personas jurídicas o de la Administración Pública, solo se decreta si no existe otro apoderado o representante con poder suficiente residente en el país.",
+    "source_quote": "El arraigo se decretará sin más trámite ni garantía.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "492",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_492"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "492",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_492",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el solicitante para presentar la demanda si el arraigo se solicita como medida previa?",
+    "output": "Debe presentarse dentro de los tres días siguientes a la notificación del arraigo.",
+    "source_quote": "Si se solicita como previo a la demanda, esta deberá presentarse dentro de los tres días siguientes a la notificación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "492",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_492",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué consiste exactamente la medida de arraigo según este artículo?",
+    "output": "Consiste en la prevención del juez al demandado de que debe estar a derecho con el nombramiento de un representante legítimo, suficientemente instruido para sostener el proceso y comprometer a la parte representada.",
+    "source_quote": "El arraigo consistirá en la prevención del juez al demandado de que este debe estar a derecho con el nombramiento de un representante legítimo, suficientemente instruido para sostener el proceso y comprometer a la parte representada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "492",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_492",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la celeridad en el decreto del arraigo y sanciona su uso indebido como medida cautelar previa, imponiendo un plazo perentorio para la presentación de la demanda y la consecuente condena en daños y perjuicios en caso de incumplimiento, lo que evita dilaciones injustificadas y protege al demandado de solicitudes temerarias.",
+    "source_quote": "El arraigo se decretará sin más trámite ni garantía. Si se solicita como previo a la demanda, esta deberá presentarse dentro de los tres días siguientes a la notificación; de lo contrario, se levantará de oficio o a petición de parte y se condenará al peticionario al pago de los daños y perjuicios correspondientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "492",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_492",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el contenido y los límites del arraigo: se trata de una obligación procesal de designar representante, no de una restricción física. La prohibición expresa de afectar la libertad de tránsito salvaguarda un derecho fundamental, evitando interpretaciones que conviertan la medida en una detención o limitación ambulatoria indebida.",
+    "source_quote": "El arraigo consistirá en la prevención del juez al demandado de que este debe estar a derecho con el nombramiento de un representante legítimo, suficientemente instruido para sostener el proceso y comprometer a la parte representada. En ningún caso se le dará a la medida de arraigo efectos contrarios a la libertad de tránsito de las personas.",
+    "item_index": 2
+  }
+]

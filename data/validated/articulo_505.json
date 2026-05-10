@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 505 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 505 establece que si una parte, al plantear una excepción procesal, invoca por error elementos de hecho sustanciales como fundamento, o viceversa, ese error no provocará el rechazo inmediato de la gestión. Los tribunales deben dar a la objeción el tratamiento correcto que corresponda según su verdadera naturaleza jurídica.",
+    "source_quote": "Si alguna parte invocara, como fundamento de una excepción procesal, elementos de hecho sustanciales o viceversa, el error no será motivo para rechazar de plano la gestión y los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "505",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_505"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "505",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_505",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una parte invoca elementos de hecho sustanciales como fundamento de una excepción procesal por error?",
+    "output": "El error no será motivo para rechazar de plano la gestión y los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.",
+    "source_quote": "Si alguna parte invocara, como fundamento de una excepción procesal, elementos de hecho sustanciales o viceversa, el error no será motivo para rechazar de plano la gestión y los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "505",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_505",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben proceder los tribunales cuando una parte comete un error al invocar el fundamento de una excepción procesal?",
+    "output": "Deben darle a la objeción el tratamiento correcto, según su naturaleza, sin rechazarla de plano.",
+    "source_quote": "los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "505",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_505",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la regla de que un error en la calificación jurídica de los fundamentos de una excepción (confundir hechos con derecho o viceversa) no autoriza al tribunal a desestimar la solicitud de forma automática, evitando así un formalismo excesivo que perjudique el derecho de defensa.",
+    "source_quote": "Si alguna parte invocara, como fundamento de una excepción procesal, elementos de hecho sustanciales o viceversa, el error no será motivo para rechazar de plano la gestión",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "505",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_505",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte impone a los tribunales el deber de reconducir la objeción hacia el cauce procesal adecuado, interpretando su verdadera esencia jurídica, para garantizar que la incidencia sea resuelta conforme a derecho y no se pierda por un error de nomenclatura.",
+    "source_quote": "los tribunales le darán a la objeción el tratamiento correcto, según su naturaleza.",
+    "item_index": 2
+  }
+]

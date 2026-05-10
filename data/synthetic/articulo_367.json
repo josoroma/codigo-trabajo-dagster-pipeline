@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 367 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 367 establece una protección especial de estabilidad laboral para ciertos trabajadores que participan en actividades sindicales, con el fin de garantizar la defensa del interés colectivo y la autonomía sindical. Esta protección aplica a: 1) hasta veinte trabajadores que estén formando un sindicato, por un plazo máximo de cuatro meses; 2) dirigentes sindicales, en proporción al número de afiliados, mientras ejerzan sus cargos y hasta seis meses después; 3) candidatos a juntas directivas sindicales, por tres meses desde que comuniquen su candidatura. Además, cuando no exista sindicato en la empresa, los representantes libremente elegidos por los trabajadores gozan de la misma protección que los dirigentes sindicales.",
+    "source_quote": "Sin perjuicio de disposiciones más favorables, establecidas en virtud de convenciones colectivas de trabajo, las personas que se enumeran a continuación gozarán de estabilidad laboral, para garantizar la defensa del interés colectivo y la autonomía en el ejercicio de las funciones sindicales como mínimo y por los plazos que se indican:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "367",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_367"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "367",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_367",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo de protección para los trabajadores miembros de un sindicato en formación?",
+    "output": "El plazo máximo de protección es de cuatro meses.",
+    "source_quote": "Esta protección es de dos meses, contados desde la notificación de la lista al Departamento de Organizaciones Sociales del Ministerio de Trabajo y Seguridad Social en la forma que aquí se indica y hasta dos meses después de presentada la respectiva solicitud de inscripción. En todo caso, este plazo no puede sobrepasar de cuatro meses.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "367",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_367",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué protección se otorga a los candidatos a miembros de la junta directiva de un sindicato?",
+    "output": "Gozan de protección por tres meses, a partir del momento en que comuniquen su candidatura al Departamento de Organizaciones Sociales.",
+    "source_quote": "Los afiliados que, de conformidad con lo previsto en los estatutos del respectivo sindicato, presenten su candidatura para ser miembros de su junta directiva. Esta protección será de tres meses, a partir del momento en que comuniquen su candidatura al Departamento de Organizaciones Sociales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "367",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_367",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la protección para los trabajadores que están formando un sindicato, limitando el número de beneficiarios a veinte y fijando un plazo máximo de cuatro meses para garantizar la estabilidad durante el proceso de constitución.",
+    "source_quote": "Los trabajadores miembros de un sindicato en formación, hasta un número de veinte que se sumen al proceso de constitución. Esta protección es de dos meses, contados desde la notificación de la lista al Departamento de Organizaciones Sociales del Ministerio de Trabajo y Seguridad Social en la forma que aquí se indica y hasta dos meses después de presentada la respectiva solicitud de inscripción. En todo caso, este plazo no puede sobrepasar de cuatro meses.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "367",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_367",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la protección para los dirigentes sindicales, estableciendo una proporción según el número de afiliados y un límite máximo de cuatro dirigentes, con el fin de asegurar la continuidad de la representación sindical.",
+    "source_quote": "Un dirigente por los primeros veinte trabajadores sindicalizados en la respectiva empresa y uno por cada veinticinco trabajadores sindicalizados adicionales, hasta un máximo de cuatro. Esta protección se brindará mientras ejerzan sus cargos y hasta seis meses después del vencimiento de sus respectivos períodos.",
+    "item_index": 2
+  }
+]

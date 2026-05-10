@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 116 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 116 del Código de Trabajo fue derogado por el artículo 29 de la Ley de Aprendizaje, N° 4903 del 17 de noviembre de 1971. Esto significa que su contenido original ya no está vigente y no produce efectos jurídicos.",
+    "source_quote": "(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "116",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_116"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "116",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_116",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente el artículo 116 del Código de Trabajo?",
+    "output": "No, el artículo 116 fue derogado por el artículo 29 de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971.",
+    "source_quote": "(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "116",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_116",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 116 del Código de Trabajo?",
+    "output": "El artículo 29 de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971.",
+    "source_quote": "(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "116",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_116",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indicar que el artículo 116 ha sido derogado y, por tanto, carece de contenido normativo vigente.",
+    "source_quote": "(Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971)",
+    "item_index": 1
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 376_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que para calificar un servicio como público esencial no importa si lo presta una entidad pública o privada, persona física o jurídica. El Estado debe garantizar que estos servicios no se interrumpan. Además, en conflictos laborales de estos servicios, tras agotar la conciliación, las partes deben someterse obligatoriamente a resolución judicial o arbitraje, según los artículos 375, 429, 456 a 458 y 707 del Código.",
+    "source_quote": "Para la calificación de un servicio público esencial es irrelevante el que sea prestado por instituciones, entes o personas públicas o privadas, físicas o jurídicas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es relevante quién presta el servicio para calificarlo como servicio público esencial?",
+    "output": "No, es irrelevante si es prestado por instituciones, entes o personas públicas o privadas, físicas o jurídicas.",
+    "source_quote": "Para la calificación de un servicio público esencial es irrelevante el que sea prestado por instituciones, entes o personas públicas o privadas, físicas o jurídicas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben hacer trabajadores y patronos en conflictos laborales de servicios públicos esenciales tras agotar la conciliación?",
+    "output": "Están obligados a acudir a la resolución jurisdiccional del conflicto o al arbitramento, de conformidad con los artículos 375, 429, 456 a 458 y 707 del Código.",
+    "source_quote": "Para la resolución de los conflictos laborales que se presenten tratándose de personas que brinden un servicio público esencial, agotada la conciliación, los trabajadores y patronos estarán obligados a acudir la resolución jurisdiccional del conflicto o al arbitramento, de conformidad con los artículos 375, 429, 456 a 458 y 707 de este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Elimina cualquier distinción basada en la naturaleza del prestador para la calificación de un servicio como público esencial, asegurando que la protección legal aplique por igual sin importar si el proveedor es público o privado.",
+    "source_quote": "Para la calificación de un servicio público esencial es irrelevante el que sea prestado por instituciones, entes o personas públicas o privadas, físicas o jurídicas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo obligatorio de solución de conflictos en servicios públicos esenciales, remitiendo a procedimientos judiciales o arbitrales para evitar la interrupción del servicio y garantizar su continuidad.",
+    "source_quote": "Para la resolución de los conflictos laborales que se presenten tratándose de personas que brinden un servicio público esencial, agotada la conciliación, los trabajadores y patronos estarán obligados a acudir la resolución jurisdiccional del conflicto o al arbitramento, de conformidad con los artículos 375, 429, 456 a 458 y 707 de este Código.",
+    "item_index": 2
+  }
+]

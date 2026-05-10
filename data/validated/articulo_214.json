@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 214 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 214 establece obligaciones adicionales para el patrono asegurado en relación con los riesgos del trabajo. Debe investigar y reportar al Instituto Nacional de Seguros los detalles de los accidentes laborales, denunciarlos dentro de los ocho días hábiles siguientes, cooperar en la obtención de pruebas, remitir mensualmente un estado de planillas con información de los trabajadores y adoptar las medidas preventivas que señalen las autoridades en salud ocupacional.",
+    "source_quote": "Sin perjuicio de otras obligaciones que este Código impone, en relación con los riesgos del trabajo, el patrono asegurado queda también obligado a:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "214",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_214"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "214",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_214",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para que el patrono denuncie un riesgo del trabajo al Instituto Nacional de Seguros?",
+    "output": "Dentro de los ocho días hábiles siguientes a su acaecimiento.",
+    "source_quote": "Denunciar al Instituto Nacional de Seguros todo riesgo del trabajo que ocurra, dentro de los ocho días hábiles siguientes a su acaecimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "214",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_214",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene la denuncia extemporánea de un riesgo del trabajo?",
+    "output": "Originará responsabilidad del patrono ante el Instituto, exigible por la vía ejecutiva, por las agravaciones o complicaciones sobrevenidas como consecuencia de la falla de atención oportuna.",
+    "source_quote": "La denuncia extemporánea originará responsabilidad del patrono ante el Instituto -la cual será exigible por la vía ejecutiva-, por las agravaciones o complicaciones sobrevenidas como consecuencia de la falla de atención oportuna.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "214",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_214",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo perentorio para la denuncia de riesgos laborales y la consecuencia legal de su incumplimiento, a fin de garantizar una atención médica oportuna y evitar agravaciones que perjudiquen al trabajador y generen responsabilidad patrimonial para el patrono.",
+    "source_quote": "Denunciar al Instituto Nacional de Seguros todo riesgo del trabajo que ocurra, dentro de los ocho días hábiles siguientes a su acaecimiento. La denuncia extemporánea originará responsabilidad del patrono ante el Instituto -la cual será exigible por la vía ejecutiva-, por las agravaciones o complicaciones sobrevenidas como consecuencia de la falla de atención oportuna.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "214",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_214",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono el deber de cumplir con las disposiciones de seguridad y salud en el trabajo dictadas por las autoridades, con el objetivo de prevenir riesgos laborales y proteger la integridad física de los trabajadores.",
+    "source_quote": "Adoptar las medidas preventivas que señalen las autoridades competentes, conforme a los reglamentos en vigor, en materia de salud ocupacional.",
+    "item_index": 2
+  }
+]

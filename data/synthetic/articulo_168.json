@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 168 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 168 regula los plazos máximos para el pago del salario, distinguiendo entre trabajadores manuales (máximo una quincena) y trabajadores intelectuales o servidores domésticos (máximo un mes). Además, cuando el salario es variable (participación en utilidades, ventas o cobros), obliga a fijar una suma periódica quincenal o mensual proporcionada a las necesidades del trabajador y a las ganancias probables, con una liquidación definitiva al menos anual.",
+    "source_quote": "Las partes fijarán el plazo para el pago del salario, pero dicho plazo nunca podrá ser mayor de una quincena para los trabajadores manuales, ni de un mes para los trabajadores intelectuales y los servidores domésticos. Si el salario consistiere en participación en las utilidades, ventas o cobros que haga el patrono, se señalará una suma quincenal o mensual que debe recibir el trabajador, la cual será proporcionada a las necesidades de éste y al monto probable de las ganancias que le correspondieren. La liquidación definitiva se hará por lo menos anualmente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "168",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_168"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "168",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_168",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para pagar el salario a un trabajador manual según el artículo 168?",
+    "output": "El plazo nunca podrá ser mayor de una quincena.",
+    "source_quote": "dicho plazo nunca podrá ser mayor de una quincena para los trabajadores manuales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "168",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_168",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe señalarse cuando el salario consiste en participación en utilidades, ventas o cobros?",
+    "output": "Se señalará una suma quincenal o mensual que debe recibir el trabajador, la cual será proporcionada a sus necesidades y al monto probable de las ganancias que le correspondieren.",
+    "source_quote": "Si el salario consistiere en participación en las utilidades, ventas o cobros que haga el patrono, se señalará una suma quincenal o mensual que debe recibir el trabajador, la cual será proporcionada a las necesidades de éste y al monto probable de las ganancias que le correspondieren.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "168",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_168",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece límites máximos obligatorios para el pago del salario, protegiendo al trabajador de plazos excesivos según la naturaleza de su labor, y otorga a las partes la facultad de acordar plazos menores.",
+    "source_quote": "Las partes fijarán el plazo para el pago del salario, pero dicho plazo nunca podrá ser mayor de una quincena para los trabajadores manuales, ni de un mes para los trabajadores intelectuales y los servidores domésticos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "168",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_168",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza un ingreso periódico mínimo al trabajador con salario variable, evitando la incertidumbre económica, y obliga a una liquidación anual para ajustar las ganancias reales, asegurando transparencia y equidad.",
+    "source_quote": "Si el salario consistiere en participación en las utilidades, ventas o cobros que haga el patrono, se señalará una suma quincenal o mensual que debe recibir el trabajador, la cual será proporcionada a las necesidades de éste y al monto probable de las ganancias que le correspondieren. La liquidación definitiva se hará por lo menos anualmente.",
+    "item_index": 2
+  }
+]

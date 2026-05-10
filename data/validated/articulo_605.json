@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 605 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 605 regula el arbitraje laboral, exigiendo que sea de derecho, con un tribunal compuesto únicamente por abogados, que resuelva conforme a la ley. Las partes pueden elegir entre un tribunal unipersonal o colegiado, seleccionado de una lista de al menos veinte personas del Ministerio de Trabajo. En el unipersonal, si no hay acuerdo, la autoridad competente designa al árbitro; en el colegiado, cada parte nombra a uno y esos dos eligen a un tercero que preside.",
+    "source_quote": "El arbitraje deberá ser de derecho y el tribunal deberá estar integrado, exclusivamente, por profesionales en derecho y resolverá las controversias con estricto apego a la ley aplicable.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "605",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_605"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "605",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_605",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos debe cumplir el arbitraje según el artículo 605?",
+    "output": "Debe ser arbitraje de derecho, el tribunal debe integrarse exclusivamente por profesionales en derecho y resolver las controversias con estricto apego a la ley aplicable.",
+    "source_quote": "El arbitraje deberá ser de derecho y el tribunal deberá estar integrado, exclusivamente, por profesionales en derecho y resolverá las controversias con estricto apego a la ley aplicable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "605",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_605",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se elige el tribunal arbitral de acuerdo con el artículo 605?",
+    "output": "El tribunal puede ser unipersonal o colegiado, a elección de las partes, y se escoge de una lista de al menos veinte personas del Ministerio de Trabajo. En el unipersonal, salvo acuerdo de ambas partes, lo elige la autoridad competente del Ministerio o del centro de arbitraje; en el colegiado, cada parte designa a una persona de la lista y esos dos designados escogen a una tercera, quien presidirá.",
+    "source_quote": "El tribunal puede ser, a elección de las partes, unipersonal o colegiado y será escogido de una lista de por lo menos veinte personas que mantendrá el Ministerio de Trabajo y Seguridad Social. En el caso del arbitraje unipersonal, la escogencia la hará, salvo acuerdo de ambas partes, la autoridad competente del Ministerio de Trabajo y Seguridad Social o del respectivo centro de arbitraje y, en el caso de tribunal colegiado, cada una de las partes designará de dicha lista a una persona y los dos designados escogerán a una tercera, quien presidirá el tribunal.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "605",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_605",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la naturaleza jurídica del arbitraje laboral, garantizando que sea técnico y apegado a la legalidad, al exigir árbitros abogados y resolución conforme a derecho.",
+    "source_quote": "El arbitraje deberá ser de derecho y el tribunal deberá estar integrado, exclusivamente, por profesionales en derecho y resolverá las controversias con estricto apego a la ley aplicable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "605",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_605",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la composición y el procedimiento de selección del tribunal arbitral, ofreciendo flexibilidad a las partes y un mecanismo imparcial para su integración, con base en una lista oficial.",
+    "source_quote": "El tribunal puede ser, a elección de las partes, unipersonal o colegiado y será escogido de una lista de por lo menos veinte personas que mantendrá el Ministerio de Trabajo y Seguridad Social. En el caso del arbitraje unipersonal, la escogencia la hará, salvo acuerdo de ambas partes, la autoridad competente del Ministerio de Trabajo y Seguridad Social o del respectivo centro de arbitraje y, en el caso de tribunal colegiado, cada una de las partes designará de dicha lista a una persona y los dos designados escogerán a una tercera, quien presidirá el tribunal.",
+    "item_index": 2
+  }
+]

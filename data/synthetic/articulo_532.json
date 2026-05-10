@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 532 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 532 regula la conducta de los asistentes a las audiencias laborales. Les impone el deber de permanecer en silencio y con respeto, salvo que se les autorice a hablar. Además, prohíbe portar armas u objetos ofensivos, mantener encendidos los teléfonos móviles y adoptar comportamientos intimidatorios, provocativos o insinuantes. Si tras ser advertida, la persona persiste en la conducta indebida, puede ser expulsada y se le considerará inasistente desde ese momento, con todos los efectos legales.",
+    "source_quote": "Los asistentes y las asistentes tienen el deber de permanecer en actitud respetuosa y en silencio, mientras no estén autorizados para exponer o responder las preguntas que se les formulen.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "532",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_532"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "532",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_532",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el deber principal de los asistentes durante una audiencia según el artículo 532?",
+    "output": "Deben permanecer en actitud respetuosa y en silencio, a menos que estén autorizados para exponer o responder preguntas.",
+    "source_quote": "Los asistentes y las asistentes tienen el deber de permanecer en actitud respetuosa y en silencio, mientras no estén autorizados para exponer o responder las preguntas que se les formulen.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "532",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_532",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué objetos o conductas están prohibidos para los asistentes en la audiencia?",
+    "output": "Está prohibido portar armas u objetos aptos para incomodar u ofender, mantener los teléfonos móviles encendidos y adoptar comportamientos intimidatorios, provocativos o de insinuación.",
+    "source_quote": "Les queda absolutamente prohibido portar armas u objetos aptos para incomodar u ofender, mantener los teléfonos móviles encendidos y adoptar comportamientos intimidatorios, provocativos o de insinuación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "532",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_532",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación general de conducta de los asistentes, garantizando el orden y el respeto durante la audiencia laboral.",
+    "source_quote": "Los asistentes y las asistentes tienen el deber de permanecer en actitud respetuosa y en silencio, mientras no estén autorizados para exponer o responder las preguntas que se les formulen.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "532",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_532",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la consecuencia del incumplimiento reiterado, permitiendo la expulsión y la consideración de inasistencia, lo que puede afectar los derechos procesales del asistente.",
+    "source_quote": "Si la persona, no obstante de haber sido prevenida, continúa con el comportamiento indebido, podrá ser expulsada de la audiencia, lo cual dará lugar a que se le tenga como inasistente a partir de ese momento, para todo efecto.",
+    "item_index": 2
+  }
+]

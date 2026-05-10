@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 177 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 177 establece que todo trabajador tiene derecho a recibir un salario mínimo. Este salario debe ser suficiente para cubrir las necesidades normales de su hogar en los aspectos material, moral y cultural. Además, indica que dicho salario mínimo se fijará de manera periódica, considerando las características propias de cada tipo de trabajo, las condiciones específicas de cada región y la naturaleza de cada actividad, ya sea intelectual, industrial, comercial, ganadera o agrícola.",
+    "source_quote": "Todo trabajador tiene derecho a devengar un salario mínimo que cubra las necesidades normales de su hogar en el orden material, moral y cultural, el cual se fijará periódicamente, atendiendo a las modalidades de cada trabajo, a las particulares condiciones de cada región y de cada actividad intelectual, industrial, comercial, ganadera o agrícola",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "177",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_177"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "177",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_177",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué necesidades debe cubrir el salario mínimo según el artículo 177?",
+    "output": "Debe cubrir las necesidades normales del hogar del trabajador en el orden material, moral y cultural.",
+    "source_quote": "que cubra las necesidades normales de su hogar en el orden material, moral y cultural",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "177",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_177",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores se deben considerar al fijar el salario mínimo de acuerdo con este artículo?",
+    "output": "Se deben atender las modalidades de cada trabajo, las particulares condiciones de cada región y de cada actividad intelectual, industrial, comercial, ganadera o agrícola.",
+    "source_quote": "atendiendo a las modalidades de cada trabajo, a las particulares condiciones de cada región y de cada actividad intelectual, industrial, comercial, ganadera o agrícola",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "177",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_177",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte consagra el derecho fundamental del trabajador a un salario mínimo, definiendo su finalidad esencial: garantizar la cobertura de las necesidades básicas del hogar en sus dimensiones material, moral y cultural, estableciendo así un piso de protección social.",
+    "source_quote": "Todo trabajador tiene derecho a devengar un salario mínimo que cubra las necesidades normales de su hogar en el orden material, moral y cultural",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "177",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_177",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta sección establece el mecanismo de fijación del salario mínimo, indicando que debe ser revisado de manera periódica y que su determinación debe considerar criterios objetivos como la naturaleza del trabajo, las diferencias regionales y el tipo de actividad económica, para asegurar una remuneración justa y adaptada a las realidades específicas.",
+    "source_quote": "el cual se fijará periódicamente, atendiendo a las modalidades de cada trabajo, a las particulares condiciones de cada región y de cada actividad intelectual, industrial, comercial, ganadera o agrícola",
+    "item_index": 2
+  }
+]

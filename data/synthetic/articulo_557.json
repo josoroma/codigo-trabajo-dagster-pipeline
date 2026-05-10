@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 557 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 557 regula las consecuencias procesales de la oposición o falta de oposición a una orden judicial en el ámbito laboral. Si no hay oposición en el plazo indicado, la orden queda firme y se ejecuta como sentencia, finalizando el proceso. Si hay oposición, el juez resuelve en tres días, salvo que se necesite prueba, en cuyo caso se programa una audiencia oral en un máximo de treinta días después de la contestación. En la sentencia, el juez puede ordenar reinstalación, reubicación o pago de prestaciones, según los hechos comprobados.",
+    "source_quote": "Si dentro del plazo indicado no mediara oposición, se tendrá por firme lo ordenado y será ejecutable en la vía de ejecución sentencia, y concluirá de ese modo el proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "557",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_557"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "557",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_557",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si no se presenta oposición dentro del plazo indicado según el artículo 557?",
+    "output": "Se tiene por firme lo ordenado, es ejecutable en la vía de ejecución de sentencia y concluye el proceso.",
+    "source_quote": "Si dentro del plazo indicado no mediara oposición, se tendrá por firme lo ordenado y será ejecutable en la vía de ejecución sentencia, y concluirá de ese modo el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "557",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_557",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe programarse la audiencia oral si se requiere recabar probanza tras la contestación de la oposición?",
+    "output": "La audiencia oral debe programarse como máximo treinta días después de la contestación.",
+    "source_quote": "la cuestión se substanciará en audiencia oral que deberá programarse como máximo treinta días después de la contestación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "557",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_557",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el efecto de la falta de oposición, otorgando firmeza y ejecutabilidad a la orden, y finalizando el proceso.",
+    "source_quote": "Si dentro del plazo indicado no mediara oposición, se tendrá por firme lo ordenado y será ejecutable en la vía de ejecución sentencia, y concluirá de ese modo el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "557",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_557",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las posibles resoluciones del juez tras la audiencia, basadas en los hechos probados, permitiendo la reinstalación, reubicación o pago de prestaciones.",
+    "source_quote": "el juzgado podrá disponer en la sentencia que se dicte la reinstalación, la reubicación o el pago de prestaciones, según proceda de acuerdo con la situación de hecho comprobada.",
+    "item_index": 2
+  }
+]

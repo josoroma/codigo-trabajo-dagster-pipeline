@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 243 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 243 establece las rentas anuales que deben pagarse a los familiares dependientes cuando un riesgo laboral causa la muerte del trabajador. Se paga en dozavos desde el fallecimiento o desde el nacimiento de un hijo póstumo, calculada sobre el salario anual del fallecido. Los beneficiarios son, en orden: el cónyuge supérstite (con condiciones de convivencia, dependencia económica y duración limitada, prorrogable si no se casa de nuevo) y los menores de dieciocho años que dependían económicamente del trabajador, con porcentajes variables según el número de menores y la existencia o no de cónyuge beneficiario. Una parte del inciso a fue declarada inconstitucional por violar la igualdad.",
+    "source_quote": "Cuando un riesgo del trabajo produzca la muerte al trabajador o la trabajadora, las personas que a continuación se señalan tendrán derecho a una renta anual, pagadera en dozavos, a partir de la fecha de defunción del trabajador o la trabajadora, o bien, a partir del nacimiento del hijo o la hija póstumo derechohabientes, calculada sobre el salario anual que se determine que percibió el occiso, en el siguiente orden y condiciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "243",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_243"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "243",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_243",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje del salario anual recibe el cónyuge supérstite como renta y por cuánto tiempo, según el inciso a del artículo 243?",
+    "output": "Recibe el 30% del salario anual durante un plazo de diez años. Si no existen los beneficiarios menores del inciso b, la renta se eleva al 40%.",
+    "source_quote": "Una renta equivalente al 30% del salario establecido, durante un plazo de diez años, para el cónyuge supérstite... Esta renta se elevará al 40% del salario anual, si no existieran los beneficiarios comprendidos en el inciso b) siguiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "243",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_243",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se determina la renta para los menores de dieciocho años cuando no hay cónyuge con derecho a renta, según el artículo 243?",
+    "output": "La renta será del 35% si hay un solo menor, y del 20% para cada uno si son dos o más, con la limitación señalada en el artículo 245.",
+    "source_quote": "Cuando no haya beneficiario con derecho a renta, de acuerdo con los términos del inciso a) inmediato anterior, la renta de los menores se elevará al 35%, su hubiera sólo uno y al 20% para cada uno de ellos si fueran dos o más, con limitación que se señala en el artículo 245.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "243",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_243",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el derecho del cónyuge sobreviviente a una renta temporal, estableciendo las condiciones de convivencia, dependencia económica y la exigencia de que el matrimonio fuera anterior al riesgo, incluso en casos de divorcio o separación por culpa del fallecido.",
+    "source_quote": "Una renta equivalente al 30% del salario establecido, durante un plazo de diez años, para el cónyuge supérstite que convivía con aquél, o que por causas imputables al fallecido estuviere divorciado, o separado judicialmente o de hecho, siempre que en estos casos el matrimonio se hubiese celebrado con anterioridad a la fecha en que ocurrió el riesgo y siempre que se compruebe que el cónyuge supérstite dependía económicamente del trabajador fallecido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "243",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_243",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija los porcentajes de la renta para los hijos menores dependientes, tanto en presencia como en ausencia de un cónyuge beneficiario, y remite a un límite máximo establecido en otro artículo.",
+    "source_quote": "La renta de estos menores será del 20%, si hubiera sólo uno; del 30% si hubieran dos; y del 40% si hubieran tres o más. Cuando no haya beneficiario con derecho a renta, de acuerdo con los términos del inciso a) inmediato anterior, la renta de los menores se elevará al 35%, su hubiera sólo uno y al 20% para cada uno de ellos si fueran dos o más, con limitación que se señala en el artículo 245.",
+    "item_index": 2
+  }
+]

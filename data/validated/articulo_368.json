@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 368 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece que cuando un trabajador protegido por esta ley es despedido sin justa causa, no se aplica la regla general del artículo 28. En su lugar, el juez debe declarar nulo el despido, ordenar la reinstalación del trabajador y el pago de los salarios caídos, además de las sanciones al empleador. Si el trabajador no desea ser reinstalado, se le deben pagar los derechos de un despido sin justa causa más una indemnización equivalente a los salarios del plazo de protección no disfrutado.",
+    "source_quote": "Al despido sin justa causa de un trabajador amparado en virtud de la protección que establece la presente Ley, no le será aplicable lo dispuesto en el artículo 28 de este Código. El juez laboral competente declarará nulo e ineficaz ese despido y, consecuentemente, ordenará la reinstalación del trabajador y el pago de los salarios caídos, además de las sanciones que corresponda imponer al empleador, de acuerdo con este Código y sus leyes supletorias y conexas. Si el trabajador manifiesta expresamente su deseo de no ser reinstalado, se le deberá reconocer, además de los derechos laborales correspondientes a un despido sin justa causa, una indemnización equivalente a los salarios que le hubiesen correspondido durante el plazo de la protección no disfrutada, de conformidad con el artículo anterior.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si un trabajador amparado por esta ley es despedido sin justa causa?",
+    "output": "El juez laboral declarará nulo e ineficaz el despido, ordenará la reinstalación del trabajador y el pago de los salarios caídos, además de imponer las sanciones correspondientes al empleador.",
+    "source_quote": "El juez laboral competente declarará nulo e ineficaz ese despido y, consecuentemente, ordenará la reinstalación del trabajador y el pago de los salarios caídos, además de las sanciones que corresponda imponer al empleador, de acuerdo con este Código y sus leyes supletorias y conexas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué opción tiene el trabajador si no desea ser reinstalado tras un despido nulo?",
+    "output": "Si el trabajador manifiesta expresamente su deseo de no ser reinstalado, se le deben reconocer los derechos laborales de un despido sin justa causa más una indemnización equivalente a los salarios del plazo de protección no disfrutada.",
+    "source_quote": "Si el trabajador manifiesta expresamente su deseo de no ser reinstalado, se le deberá reconocer, además de los derechos laborales correspondientes a un despido sin justa causa, una indemnización equivalente a los salarios que le hubiesen correspondido durante el plazo de la protección no disfrutada, de conformidad con el artículo anterior.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Excluir la aplicación de la regla general de terminación del contrato por despido injustificado, estableciendo un régimen especial de protección para ciertos trabajadores.",
+    "source_quote": "Al despido sin justa causa de un trabajador amparado en virtud de la protección que establece la presente Ley, no le será aplicable lo dispuesto en el artículo 28 de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer las consecuencias jurídicas del despido prohibido: nulidad, reinstalación, salarios caídos y sanciones, garantizando la estabilidad laboral reforzada.",
+    "source_quote": "El juez laboral competente declarará nulo e ineficaz ese despido y, consecuentemente, ordenará la reinstalación del trabajador y el pago de los salarios caídos, además de las sanciones que corresponda imponer al empleador, de acuerdo con este Código y sus leyes supletorias y conexas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "368",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_368",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Ofrecer al trabajador la alternativa de no reincorporarse, compensándolo económicamente por la protección perdida, además de los derechos comunes por despido injustificado.",
+    "source_quote": "Si el trabajador manifiesta expresamente su deseo de no ser reinstalado, se le deberá reconocer, además de los derechos laborales correspondientes a un despido sin justa causa, una indemnización equivalente a los salarios que le hubiesen correspondido durante el plazo de la protección no disfrutada, de conformidad con el artículo anterior.",
+    "item_index": 3
+  }
+]

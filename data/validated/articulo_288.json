@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 288 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 288 ordena que en todo centro de trabajo con diez o más trabajadores se formen comisiones de salud ocupacional, si el Consejo de Salud Ocupacional lo estima necesario. Estas comisiones deben tener igual cantidad de representantes del patrono y de los trabajadores. Su tarea principal es investigar las causas de los riesgos laborales, decidir cómo prevenirlos y vigilar que se cumplan las normas de salud ocupacional en el lugar de trabajo. La creación de estas comisiones se hará según el reglamento de la ley, y sus funciones se ejercen dentro de la jornada laboral, sin perjudicar ningún derecho del trabajador. Además, el Consejo de Salud Ocupacional, junto con el Instituto Nacional de Seguros, pondrá en marcha un catálogo de medidas preventivas que se aplicarán mediante estas comisiones.",
+    "source_quote": "En cada centro de trabajo, donde se ocupen diez o más trabajadores, se establecerán las comisiones de salud ocupacional que, a juicio del Consejo de Salud Ocupacional, sean necesarias. Estas comisiones deberán estar integradas con igual número de representantes del patrono y de los trabajadores, y tendrán como finalidad específica investigar las causas de los riesgos del trabajo, determinar las medidas para prevenirlos y vigilar para que, en el centro de trabajo, se cumplan las disposiciones de salud ocupacional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "288",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_288"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "288",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_288",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de centros de trabajo se deben establecer las comisiones de salud ocupacional según el artículo 288?",
+    "output": "En cada centro de trabajo donde se ocupen diez o más trabajadores, siempre que el Consejo de Salud Ocupacional lo considere necesario.",
+    "source_quote": "En cada centro de trabajo, donde se ocupen diez o más trabajadores, se establecerán las comisiones de salud ocupacional que, a juicio del Consejo de Salud Ocupacional, sean necesarias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "288",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_288",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad específica de las comisiones de salud ocupacional mencionadas en el artículo 288?",
+    "output": "Investigar las causas de los riesgos del trabajo, determinar las medidas para prevenirlos y vigilar que se cumplan las disposiciones de salud ocupacional en el centro de trabajo.",
+    "source_quote": "tendrán como finalidad específica investigar las causas de los riesgos del trabajo, determinar las medidas para prevenirlos y vigilar para que, en el centro de trabajo, se cumplan las disposiciones de salud ocupacional.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "288",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_288",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de crear comisiones de salud ocupacional en centros de trabajo con un mínimo de diez trabajadores, condicionada a la decisión del Consejo de Salud Ocupacional, y define su composición paritaria para garantizar la participación equilibrada de ambas partes en la gestión de la seguridad laboral.",
+    "source_quote": "En cada centro de trabajo, donde se ocupen diez o más trabajadores, se establecerán las comisiones de salud ocupacional que, a juicio del Consejo de Salud Ocupacional, sean necesarias. Estas comisiones deberán estar integradas con igual número de representantes del patrono y de los trabajadores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "288",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_288",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita las funciones concretas de las comisiones: identificar el origen de los peligros laborales, proponer acciones preventivas y supervisar el cumplimiento normativo, con el fin de proteger la salud de los trabajadores en el entorno laboral.",
+    "source_quote": "tendrán como finalidad específica investigar las causas de los riesgos del trabajo, determinar las medidas para prevenirlos y vigilar para que, en el centro de trabajo, se cumplan las disposiciones de salud ocupacional.",
+    "item_index": 2
+  }
+]

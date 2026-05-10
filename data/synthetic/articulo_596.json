@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 596 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 596 establece que, cuando un recurso de apelación o casación es admitido por el fondo y se dicta una nueva resolución, el tribunal debe examinar también los argumentos de defensa y las objeciones que la parte contraria al recurrente hubiera reservado, pero que no pudo presentar o reiterar por haber ganado en la instancia anterior. Así se evita que, al revocarse una decisión favorable, esa parte quede sin que se analicen sus planteamientos.",
+    "source_quote": "Tanto en el caso de la apelación como en el de casación, si resultara procedente el recurso por el fondo, al emitirse el pronunciamiento que corresponda, deberán atenderse las defensas de la parte contraria al recurrente, así como sus impugnaciones reservadas con efectos eventuales, omitidas o preteridas en la resolución recurrida, cuando por haber resultado victoriosa esa parte no hubiera podido interponerlas o reiterarlas en el recurso de casación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de recursos se aplica la obligación de atender las defensas de la parte contraria?",
+    "output": "Se aplica tanto en el recurso de apelación como en el de casación.",
+    "source_quote": "Tanto en el caso de la apelación como en el de casación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el tribunal si el recurso por el fondo resulta procedente?",
+    "output": "Debe atender las defensas de la parte contraria al recurrente y sus impugnaciones reservadas con efectos eventuales, omitidas o preteridas en la resolución recurrida.",
+    "source_quote": "si resultara procedente el recurso por el fondo, al emitirse el pronunciamiento que corresponda, deberán atenderse las defensas de la parte contraria al recurrente, así como sus impugnaciones reservadas con efectos eventuales, omitidas o preteridas en la resolución recurrida",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición se deben atender esas defensas e impugnaciones?",
+    "output": "Cuando la parte contraria resultó victoriosa en la instancia anterior y por esa razón no pudo interponerlas o reiterarlas en el recurso de casación.",
+    "source_quote": "cuando por haber resultado victoriosa esa parte no hubiera podido interponerlas o reiterarlas en el recurso de casación.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del tribunal de considerar las defensas y objeciones de la parte que ganó en instancia inferior cuando el recurso de la otra parte prospera, para garantizar el derecho de defensa y evitar que queden sin resolver.",
+    "source_quote": "Tanto en el caso de la apelación como en el de casación, si resultara procedente el recurso por el fondo, al emitirse el pronunciamiento que corresponda, deberán atenderse las defensas de la parte contraria al recurrente, así como sus impugnaciones reservadas con efectos eventuales, omitidas o preteridas en la resolución recurrida",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "596",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_596",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la aplicación de la regla a que la parte no haya podido plantear esas defensas por haber sido vencedora, evitando así que se le exija recurrir una decisión favorable.",
+    "source_quote": "cuando por haber resultado victoriosa esa parte no hubiera podido interponerlas o reiterarlas en el recurso de casación.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 364 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 364 establece que cualquier persona o sindicato que tenga interés puede presentar una denuncia por escrito ante la Dirección Nacional de Inspección de Trabajo por prácticas laborales desleales. Además, permite que esas prácticas sean investigadas por la autoridad sin necesidad de una denuncia, es decir, de oficio.",
+    "source_quote": "Toda persona o sindicato con interés puede acudir, ante la Dirección Nacional de Inspección de Trabajo, a denunciar por escrito la comisión de prácticas laborales desleales; pero esas prácticas también podrán ser investigadas de oficio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "364",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_364"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "364",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_364",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden denunciar prácticas laborales desleales según este artículo?",
+    "output": "Toda persona o sindicato con interés.",
+    "source_quote": "Toda persona o sindicato con interés puede acudir, ante la Dirección Nacional de Inspección de Trabajo, a denunciar por escrito la comisión de prácticas laborales desleales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "364",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_364",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Las prácticas laborales desleales solo se investigan si hay una denuncia?",
+    "output": "No, también pueden ser investigadas de oficio por la autoridad.",
+    "source_quote": "pero esas prácticas también podrán ser investigadas de oficio.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "364",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_364",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga legitimación activa amplia para denunciar prácticas laborales desleales, permitiendo que cualquier persona o sindicato con interés legítimo presente una denuncia formal por escrito ante la autoridad de inspección laboral.",
+    "source_quote": "Toda persona o sindicato con interés puede acudir, ante la Dirección Nacional de Inspección de Trabajo, a denunciar por escrito la comisión de prácticas laborales desleales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "364",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_364",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta a la Dirección Nacional de Inspección de Trabajo para iniciar investigaciones por iniciativa propia, sin necesidad de denuncia previa, garantizando la persecución de prácticas desleales incluso cuando no hay un denunciante particular.",
+    "source_quote": "pero esas prácticas también podrán ser investigadas de oficio.",
+    "item_index": 2
+  }
+]

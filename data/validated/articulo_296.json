@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 296 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 296 establece que si, por la naturaleza del trabajo, los trabajadores deben comer en el lugar donde prestan sus servicios, el patrono tiene la obligación de instalar comedores. Estos locales deben mantenerse limpios y cumplir con condiciones de iluminación, ventilación y ubicación adecuadas, además de estar amueblados convenientemente y contar con medios para guardar alimentos, recalentarlos y lavar utensilios.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben comer en los centros donde prestan los servicios, el patrono deberá instalar locales que sirvan como comedor y los mantendrá en buenas condiciones de limpieza.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "296",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_296"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "296",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_296",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo está obligado el patrono a instalar un comedor según el artículo 296?",
+    "output": "Cuando, por la índole del trabajo, los trabajadores deben comer en los centros donde prestan los servicios.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben comer en los centros donde prestan los servicios, el patrono deberá instalar locales que sirvan como comedor",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "296",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_296",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos deben cumplir los comedores que instale el patrono?",
+    "output": "Deben mantenerse en buenas condiciones de limpieza, reunir requisitos de iluminación, ventilación y ubicación, estar amueblados en forma conveniente y dotados de medios especiales para guardar alimentos, recalentarlos y lavar utensilios.",
+    "source_quote": "Además deberán reunir los requisitos de iluminación, ventilación y ubicación, estar amueblados en forma conveniente y dotados de medios especiales para guardar alimentos, recalentarlos y lavar utensilios.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "296",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_296",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de proporcionar un comedor cuando la naturaleza del trabajo exige que los trabajadores coman en el lugar de trabajo, garantizando condiciones higiénicas básicas.",
+    "source_quote": "Si, por la índole del trabajo, los trabajadores deben comer en los centros donde prestan los servicios, el patrono deberá instalar locales que sirvan como comedor y los mantendrá en buenas condiciones de limpieza.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "296",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_296",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Detalla las condiciones mínimas de infraestructura y equipamiento que deben cumplir los comedores para asegurar un ambiente adecuado y funcional para la alimentación de los trabajadores.",
+    "source_quote": "Además deberán reunir los requisitos de iluminación, ventilación y ubicación, estar amueblados en forma conveniente y dotados de medios especiales para guardar alimentos, recalentarlos y lavar utensilios.",
+    "item_index": 2
+  }
+]

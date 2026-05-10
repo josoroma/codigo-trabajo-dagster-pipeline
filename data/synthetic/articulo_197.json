@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 197 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 197 define la enfermedad del trabajo como cualquier estado patológico que surge por la acción continua de una causa originada en el propio trabajo o en el medio y condiciones en que se labora, siempre que se demuestre que esos factores fueron la causa directa de la enfermedad.",
+    "source_quote": "Se denomina enfermedad del trabajo a todo estado patológico, que resulte de la acción continuada de una causa, que tiene su origen o motivo en el propio trabajo o en el medio y condiciones en que el trabajador labora, y debe establecerse que éstos han sido la causa de la enfermedad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "197",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_197"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "197",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_197",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se entiende por enfermedad del trabajo según el artículo 197?",
+    "output": "Todo estado patológico que resulte de la acción continuada de una causa que tiene su origen o motivo en el propio trabajo o en el medio y condiciones en que el trabajador labora, y debe establecerse que éstos han sido la causa de la enfermedad.",
+    "source_quote": "Se denomina enfermedad del trabajo a todo estado patológico, que resulte de la acción continuada de una causa, que tiene su origen o motivo en el propio trabajo o en el medio y condiciones en que el trabajador labora, y debe establecerse que éstos han sido la causa de la enfermedad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "197",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_197",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplirse para que un estado patológico sea considerado enfermedad del trabajo?",
+    "output": "Debe establecerse que el trabajo o el medio y condiciones laborales han sido la causa de la enfermedad.",
+    "source_quote": "y debe establecerse que éstos han sido la causa de la enfermedad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "197",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_197",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de enfermedad laboral, estableciendo que debe originarse en el trabajo mismo o en el entorno y condiciones en que se desempeña el trabajador, y que resulta de una acción continuada.",
+    "source_quote": "Se denomina enfermedad del trabajo a todo estado patológico, que resulte de la acción continuada de una causa, que tiene su origen o motivo en el propio trabajo o en el medio y condiciones en que el trabajador labora",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "197",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_197",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de demostrar el nexo causal entre el trabajo (o sus condiciones) y la enfermedad, como requisito indispensable para su calificación como enfermedad del trabajo.",
+    "source_quote": "y debe establecerse que éstos han sido la causa de la enfermedad.",
+    "item_index": 2
+  }
+]

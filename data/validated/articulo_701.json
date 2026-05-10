@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 701 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 701 establece que cuando varios sindicatos presentan propuestas de convención colectiva distintas en una misma negociación, se les solicita que elaboren un proyecto único en el plazo de un mes natural. Si no lo hacen, se negociará el proyecto del sindicato mayoritario en una empresa o el respaldado por la mayoría de los representantes sindicales en una negociación sectorial. Además, permite que cualquiera de las partes solicite la intervención de funcionarios del Ministerio de Trabajo como buenos componedores, sin que esta solicitud sea obligatoria para el Ministerio si carece de recursos.",
+    "source_quote": "Cuando existan varias organizaciones sindicales en la mesa de negociación y cada una de ellas haya remitido su propio proyecto de convención colectiva, se les solicitará elaborar un proyecto unitario previo a la negociación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "701",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_701"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "701",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_701",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si en una negociación colectiva hay varios sindicatos con propuestas diferentes?",
+    "output": "Se les solicita elaborar un proyecto unitario en un plazo de un mes natural; si no cumplen, se tendrá como proyecto a negociar el del sindicato mayoritario (en una sola empresa) o el que respalde la mayoría de representantes sindicales (en negociación sectorial).",
+    "source_quote": "Si en un plazo de un mes natural, contado a partir de la prevención que les hará el jerarca de la respectiva institución o empresa, no hubieran cumplido el requisito aquí establecido, se tendrá como proyecto a negociar aquel que haya presentado el sindicato mayoritario, si la negociación es en una sola empresa o negociación, o el proyecto que respalde la mayoría de representantes sindicales, si se tratara de una negociación por sector.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "701",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_701",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden las partes solicitar la mediación del Ministerio de Trabajo durante la negociación colectiva?",
+    "output": "Sí, cualquiera de las partes o ambas pueden pedir la intervención de funcionarios del Ministerio de Trabajo como buenos componedores, pero el Ministerio no está obligado a atender la solicitud si carece de recursos suficientes.",
+    "source_quote": "Es entendido que cualquiera de las partes que intervengan en la negociación, o ambas en conjunto, podrán solicitar la intervención, como buen componedor, de uno o varios funcionarios del Ministerio de Trabajo y Seguridad Social, sin que la solicitud que se haga a dicho Ministerio sea obligatoria para este cuando carezca de recursos suficientes para atender la negociación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "701",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_701",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición busca unificar las propuestas sindicales para agilizar la negociación colectiva y, en caso de desacuerdo, establece un mecanismo objetivo para determinar el proyecto que prevalecerá, basado en la representatividad mayoritaria.",
+    "source_quote": "Cuando existan varias organizaciones sindicales en la mesa de negociación y cada una de ellas haya remitido su propio proyecto de convención colectiva, se les solicitará elaborar un proyecto unitario previo a la negociación. Si en un plazo de un mes natural, contado a partir de la prevención que les hará el jerarca de la respectiva institución o empresa, no hubieran cumplido el requisito aquí establecido, se tendrá como proyecto a negociar aquel que haya presentado el sindicato mayoritario, si la negociación es en una sola empresa o negociación, o el proyecto que respalde la mayoría de representantes sindicales, si se tratara de una negociación por sector.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "701",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_701",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite a las partes recurrir a la mediación del Ministerio de Trabajo para facilitar acuerdos, pero reconoce las limitaciones de recursos de la administración, eximiéndola de una obligación de intervenir cuando no disponga de medios.",
+    "source_quote": "Es entendido que cualquiera de las partes que intervengan en la negociación, o ambas en conjunto, podrán solicitar la intervención, como buen componedor, de uno o varios funcionarios del Ministerio de Trabajo y Seguridad Social, sin que la solicitud que se haga a dicho Ministerio sea obligatoria para este cuando carezca de recursos suficientes para atender la negociación.",
+    "item_index": 2
+  }
+]

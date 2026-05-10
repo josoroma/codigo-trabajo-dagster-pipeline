@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 11 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 11 establece que cualquier renuncia que haga un trabajador a los derechos que le otorgan el Código de Trabajo y sus leyes conexas es completamente inválida. Es decir, esas renuncias se consideran como si nunca hubieran existido, por lo que el trabajador no puede perder las protecciones legales que le favorecen.",
+    "source_quote": "Serán absolutamente nulas, y se tendrán por no puestas, las renuncias que hagan los trabajadores de las disposiciones de este Código y de sus leyes conexas que los favorezcan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "11",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_11"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "11",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_11",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la renuncia de un trabajador a un derecho establecido en el Código de Trabajo?",
+    "output": "La renuncia es absolutamente nula y se tiene por no puesta, es decir, no produce ningún efecto legal.",
+    "source_quote": "Serán absolutamente nulas, y se tendrán por no puestas, las renuncias que hagan los trabajadores de las disposiciones de este Código y de sus leyes conexas que los favorezcan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "11",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_11",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿La protección del artículo 11 cubre solo las disposiciones del Código de Trabajo o también las de otras leyes?",
+    "output": "Cubre tanto las disposiciones del Código de Trabajo como las de sus leyes conexas que favorezcan a los trabajadores.",
+    "source_quote": "las renuncias que hagan los trabajadores de las disposiciones de este Código y de sus leyes conexas que los favorezcan.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "11",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_11",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase declara la sanción de nulidad absoluta y la ficción legal de inexistencia para cualquier acto de renuncia, impidiendo que el trabajador pueda despojarse voluntariamente de sus derechos laborales.",
+    "source_quote": "Serán absolutamente nulas, y se tendrán por no puestas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "11",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_11",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación: protege exclusivamente las renuncias a normas del Código de Trabajo y de leyes relacionadas que otorguen beneficios al trabajador, garantizando la irrenunciabilidad de esos derechos.",
+    "source_quote": "las renuncias que hagan los trabajadores de las disposiciones de este Código y de sus leyes conexas que los favorezcan.",
+    "item_index": 2
+  }
+]

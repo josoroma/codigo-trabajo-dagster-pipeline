@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 92 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 92 establece que en las escuelas industriales y reformatorios, el trabajo de los alumnos debe adaptarse a sus capacidades físicas y mentales, así como a sus aptitudes, gustos e inclinaciones. Además, prohíbe que los directores permitan el trabajo en domingos y días feriados, bajo sanción legal.",
+    "source_quote": "En las escuelas industriales y reformatorios el trabajo debe ser proporcionado a las fuerzas físicas y mentales de los alumnos, a sus aptitudes, gustos e inclinaciones. Se harán acreedores a las sanciones legales que correspondan los directores que permitan en estos establecimientos el trabajo los domingos y demás días feriados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "92",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_92"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "92",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_92",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe ser el trabajo en las escuelas industriales y reformatorios según el artículo 92?",
+    "output": "Debe ser proporcionado a las fuerzas físicas y mentales de los alumnos, a sus aptitudes, gustos e inclinaciones.",
+    "source_quote": "En las escuelas industriales y reformatorios el trabajo debe ser proporcionado a las fuerzas físicas y mentales de los alumnos, a sus aptitudes, gustos e inclinaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "92",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_92",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanciones reciben los directores que permiten el trabajo en domingos y días feriados en estos establecimientos?",
+    "output": "Se harán acreedores a las sanciones legales que correspondan.",
+    "source_quote": "Se harán acreedores a las sanciones legales que correspondan los directores que permitan en estos establecimientos el trabajo los domingos y demás días feriados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "92",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_92",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la obligación de que el trabajo se adapte a las características individuales de los alumnos, protegiendo su desarrollo físico y mental.",
+    "source_quote": "En las escuelas industriales y reformatorios el trabajo debe ser proporcionado a las fuerzas físicas y mentales de los alumnos, a sus aptitudes, gustos e inclinaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "92",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_92",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohibir el trabajo en días de descanso obligatorio y fijar la responsabilidad de los directores que incumplan, remitiendo a las sanciones previstas por la ley.",
+    "source_quote": "Se harán acreedores a las sanciones legales que correspondan los directores que permitan en estos establecimientos el trabajo los domingos y demás días feriados.",
+    "item_index": 2
+  }
+]

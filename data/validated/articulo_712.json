@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 712 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 712 establece que las normas de una convención colectiva válida y eficaz son de cumplimiento obligatorio para las partes que la firman y para todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo. También dispone que su cumplimiento puede exigirse judicialmente, y en caso de incumplimiento, se puede reclamar el pago de indemnizaciones por daños y perjuicios, ya sea a favor de los trabajadores afectados o de las organizaciones sindicales perjudicadas, según corresponda. Todo ello se entiende sin perjuicio de lo dispuesto en el artículo anterior y de las reservas específicas que allí se señalan.",
+    "source_quote": "las normas de una convención colectiva válida y eficaz serán de acatamiento obligatorio para las partes que la suscriban y para todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo, y podrá exigirse judicialmente su cumplimiento o, en su caso, el pago de las indemnizaciones de daños y perjuicios por su incumplimiento, tanto a favor de las personas trabajadoras afectadas, como de las organizaciones sindicales perjudicadas, según se trate.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "712",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_712"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "712",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_712",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes obliga el acatamiento de las normas de una convención colectiva según el artículo 712?",
+    "output": "Obliga a las partes que la suscriban y a todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo.",
+    "source_quote": "serán de acatamiento obligatorio para las partes que la suscriban y para todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "712",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_712",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué mecanismo prevé el artículo 712 para exigir el cumplimiento de una convención colectiva o reclamar por su incumplimiento?",
+    "output": "Prevé la posibilidad de exigir judicialmente su cumplimiento o, en su defecto, el pago de indemnizaciones por daños y perjuicios, a favor de las personas trabajadoras afectadas o de las organizaciones sindicales perjudicadas.",
+    "source_quote": "podrá exigirse judicialmente su cumplimiento o, en su caso, el pago de las indemnizaciones de daños y perjuicios por su incumplimiento, tanto a favor de las personas trabajadoras afectadas, como de las organizaciones sindicales perjudicadas, según se trate",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "712",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_712",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el carácter vinculante de la convención colectiva y su ámbito personal de aplicación, incluyendo a firmantes y a la totalidad de trabajadores, presentes y futuros.",
+    "source_quote": "las normas de una convención colectiva válida y eficaz serán de acatamiento obligatorio para las partes que la suscriban y para todos los trabajadores actuales y futuros de la institución, empresa o centro de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "712",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_712",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la vía judicial para hacer efectivo el cumplimiento y, en caso de incumplimiento, la posibilidad de reclamar daños y perjuicios, reconociendo legitimación activa tanto a las personas trabajadoras afectadas como a las organizaciones sindicales perjudicadas.",
+    "source_quote": "podrá exigirse judicialmente su cumplimiento o, en su caso, el pago de las indemnizaciones de daños y perjuicios por su incumplimiento, tanto a favor de las personas trabajadoras afectadas, como de las organizaciones sindicales perjudicadas, según se trate",
+    "item_index": 2
+  }
+]

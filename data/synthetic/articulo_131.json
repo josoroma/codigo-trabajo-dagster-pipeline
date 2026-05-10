@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 131 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 131 establece una protección especial para los trabajadores marítimos: si el trabajador muere defendiendo la nave o es apresado por esa misma causa, la ley lo considera como si estuviera presente a bordo hasta que finalice el viaje. Esto permite que se le reconozcan los salarios que le corresponderían según su contrato durante todo el trayecto, beneficiando así al trabajador o a sus derechohabientes.",
+    "source_quote": "Si la muerte del trabajador ocurriere en defensa de la nave o si fuere apresado por el mismo motivo, se le considerará presente hasta que concluya el viaje para devengar los salarios a que tendrá derecho conforme a su contrato.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "131",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_131"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "131",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_131",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situaciones se aplica la ficción legal de presencia del trabajador según el artículo 131?",
+    "output": "Cuando el trabajador muere en defensa de la nave o es apresado por ese mismo motivo.",
+    "source_quote": "Si la muerte del trabajador ocurriere en defensa de la nave o si fuere apresado por el mismo motivo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "131",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_131",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta cuándo se considera presente al trabajador en esos casos y con qué finalidad?",
+    "output": "Se le considera presente hasta que concluya el viaje, con la finalidad de que devengue los salarios que le corresponden según su contrato.",
+    "source_quote": "se le considerará presente hasta que concluya el viaje para devengar los salarios a que tendrá derecho conforme a su contrato.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "131",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_131",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las circunstancias excepcionales que activan la protección: el fallecimiento o la captura del trabajador mientras defiende la nave, reconociendo el acto de sacrificio en el ámbito laboral marítimo.",
+    "source_quote": "Si la muerte del trabajador ocurriere en defensa de la nave o si fuere apresado por el mismo motivo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "131",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_131",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una ficción jurídica de presencia continua del trabajador durante todo el viaje, con el fin de garantizar el pago íntegro de los salarios pactados contractualmente, protegiendo así sus derechos económicos o los de sus causahabientes.",
+    "source_quote": "se le considerará presente hasta que concluya el viaje para devengar los salarios a que tendrá derecho conforme a su contrato.",
+    "item_index": 2
+  }
+]

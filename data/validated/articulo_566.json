@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 566 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 566 regula el pago de salarios caídos en sentencias de reinstalación. Establece que el monto máximo de esos salarios no puede superar veinticuatro veces el salario mensual total del trabajador al momento en que la sentencia queda firme, salvo que una disposición especial indique lo contrario, y nunca puede ser inferior al salario mínimo legal. Además, prohíbe cualquier ajuste o indexación de esa suma. Una vez firme la sentencia, la parte demandada debe pagar al trabajador el salario correspondiente desde ese momento, incluyendo los derechos de antigüedad acumulados durante el período entre el despido y la firmeza, y en adelante cumplir con todas las obligaciones salariales como si la relación laboral nunca se hubiera interrumpido. Lo mismo aplica para vacaciones y demás derechos derivados del contrato o la ley.",
+    "source_quote": "En toda sentencia que disponga la reinstalación con salarios caídos, el pago de estos no podrá ser superior al importe de veinticuatro veces el salario mensual total de la parte trabajadora al momento de la firmeza del fallo, salvo disposición especial que establezca otra cosa, sin que en ningún momento pueda ser inferior al mínimo legal. Esta fijación no admite adecuaciones o indexaciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "566",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_566"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "566",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_566",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de salarios caídos que puede ordenarse en una sentencia de reinstalación?",
+    "output": "El pago de salarios caídos no puede ser superior al importe de veinticuatro veces el salario mensual total de la parte trabajadora al momento de la firmeza del fallo.",
+    "source_quote": "el pago de estos no podrá ser superior al importe de veinticuatro veces el salario mensual total de la parte trabajadora al momento de la firmeza del fallo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "566",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_566",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligaciones tiene la parte demandada después de que la sentencia de reinstalación queda firme?",
+    "output": "Debe cubrir al trabajador el salario que le corresponda según el contrato y los derechos de antigüedad acumulada durante el lapso entre el despido y la firmeza, y en el futuro cumplir con las obligaciones salariales ordinarias y extraordinarias como si la relación laboral nunca se hubiera interrumpido. Igual regla aplica para vacaciones y cualquier otro derecho derivado del contrato o la ley.",
+    "source_quote": "la parte demandada deberá cubrirle a la victoriosa, desde la firmeza de la sentencia, el salario que le corresponda de acuerdo con el contrato de trabajo y los derechos derivados de la antigüedad acumulada, en la cual se incluirá el lapso comprendido entre el despido y dicha firmeza, y en el futuro el cumplimiento de las obligaciones salariales ordinarias y extraordinarias deberá ajustarse a las prestaciones correspondientes a una relación inalterada. Igual regla se aplicará al disfrute de vacaciones y cualquier otro derecho derivado del contrato de trabajo o de la ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "566",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_566",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un tope máximo para los salarios caídos en reinstalaciones, garantiza un piso mínimo equivalente al salario mínimo legal y prohíbe expresamente cualquier ajuste por inflación o indexación, brindando certeza sobre el monto a pagar.",
+    "source_quote": "el pago de estos no podrá ser superior al importe de veinticuatro veces el salario mensual total de la parte trabajadora al momento de la firmeza del fallo, salvo disposición especial que establezca otra cosa, sin que en ningún momento pueda ser inferior al mínimo legal. Esta fijación no admite adecuaciones o indexaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "566",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_566",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las obligaciones posteriores a la sentencia firme, asegurando que el trabajador reciba el salario y la antigüedad acumulada durante todo el período de separación, y que en adelante se le trate como si la relación laboral nunca se hubiera interrumpido, incluyendo vacaciones y demás derechos legales o contractuales.",
+    "source_quote": "la parte demandada deberá cubrirle a la victoriosa, desde la firmeza de la sentencia, el salario que le corresponda de acuerdo con el contrato de trabajo y los derechos derivados de la antigüedad acumulada, en la cual se incluirá el lapso comprendido entre el despido y dicha firmeza, y en el futuro el cumplimiento de las obligaciones salariales ordinarias y extraordinarias deberá ajustarse a las prestaciones correspondientes a una relación inalterada. Igual regla se aplicará al disfrute de vacaciones y cualquier otro derecho derivado del contrato de trabajo o de la ley.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 276 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 276 regula la integración y funcionamiento del Consejo de Salud Ocupacional. Establece que sus miembros son electos por períodos de tres años con posibilidad de reelección. El Consejo debe sesionar ordinariamente cuatro veces al mes y, de manera extraordinaria, cuando lo acuerden o sea convocado por el Presidente por asuntos urgentes. Para que las sesiones sean válidas se requiere un quórum de cinco miembros. Las dietas se fijan por reglamento, pero no se pueden remunerar más de seis sesiones al mes.",
+    "source_quote": "Los miembros del Consejo de Salud Ocupacional serán electos por períodos de tres años y podrán ser reelectos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "276",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_276"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "276",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_276",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Por cuánto tiempo son electos los miembros del Consejo de Salud Ocupacional?",
+    "output": "Por períodos de tres años.",
+    "source_quote": "Los miembros del Consejo de Salud Ocupacional serán electos por períodos de tres años y podrán ser reelectos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "276",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_276",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el número máximo de sesiones que se pueden remunerar por mes?",
+    "output": "No se remunerarán más de seis sesiones por mes.",
+    "source_quote": "En ningún caso se remunerarán más de seis sesiones por mes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "276",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_276",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la duración del mandato de los miembros y permite la reelección, lo que busca dar estabilidad y continuidad al órgano colegiado.",
+    "source_quote": "Los miembros del Consejo de Salud Ocupacional serán electos por períodos de tres años y podrán ser reelectos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "276",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_276",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el número mínimo de miembros necesarios para que las sesiones sean válidas, garantizando que las decisiones cuenten con una representatividad suficiente.",
+    "source_quote": "El quórum para las sesiones del Consejo lo formarán cinco de sus miembros.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 330 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 330 ordena a la Caja Costarricense de Seguro Social y al Instituto Nacional de Seguros que cada uno nombre dos funcionarios. Estos funcionarios deben trabajar de manera coordinada entre las instituciones para mejorar la aplicación de las normas sobre servicios médicos, hospitalarios y de rehabilitación. Su tarea es estudiar los problemas que surjan en el ámbito de los riesgos del trabajo y proponer soluciones a los órganos ejecutivos de ambas entidades, siempre que esos problemas afecten a los trabajadores o a las propias instituciones.",
+    "source_quote": "La Caja Costarricense de Seguro Social y el Instituto Nacional de Seguros nombrarán, cada uno, dos funcionarios para que, dentro de una política de coordinación interinstitucional y para la mejor aplicación del presente Título en orden a los servicios médicos hospitalarios y de rehabilitación, estudien y propongan ante los respectivos órganos ejecutivos, soluciones a los problemas que se presenten y que afecten a los trabajadores y las dos entidades, en lo que a riesgos del trabajo se refiere.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "330",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO PRIMERO_articulo_330"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "330",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO PRIMERO_articulo_330",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué instituciones deben nombrar funcionarios según el artículo 330?",
+    "output": "La Caja Costarricense de Seguro Social y el Instituto Nacional de Seguros.",
+    "source_quote": "La Caja Costarricense de Seguro Social y el Instituto Nacional de Seguros nombrarán, cada uno, dos funcionarios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "330",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO PRIMERO_articulo_330",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la finalidad de los funcionarios nombrados conforme al artículo 330?",
+    "output": "Estudiar y proponer soluciones a los problemas que afecten a los trabajadores y a las dos entidades en materia de riesgos del trabajo, dentro de una política de coordinación interinstitucional y para la mejor aplicación del Título en cuanto a servicios médicos, hospitalarios y de rehabilitación.",
+    "source_quote": "para que, dentro de una política de coordinación interinstitucional y para la mejor aplicación del presente Título en orden a los servicios médicos hospitalarios y de rehabilitación, estudien y propongan ante los respectivos órganos ejecutivos, soluciones a los problemas que se presenten y que afecten a los trabajadores y las dos entidades, en lo que a riesgos del trabajo se refiere.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "330",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO PRIMERO_articulo_330",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de ambas instituciones de designar personal específico para atender la coordinación en materia de riesgos del trabajo, garantizando que haya representación de cada entidad.",
+    "source_quote": "La Caja Costarricense de Seguro Social y el Instituto Nacional de Seguros nombrarán, cada uno, dos funcionarios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "330",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO PRIMERO_articulo_330",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mandato de los funcionarios: actuar bajo coordinación interinstitucional, enfocarse en la mejora de los servicios médicos, hospitalarios y de rehabilitación, y proponer soluciones a los problemas que impactan tanto a los trabajadores como a las instituciones aseguradoras en el ámbito de los riesgos laborales.",
+    "source_quote": "para que, dentro de una política de coordinación interinstitucional y para la mejor aplicación del presente Título en orden a los servicios médicos hospitalarios y de rehabilitación, estudien y propongan ante los respectivos órganos ejecutivos, soluciones a los problemas que se presenten y que afecten a los trabajadores y las dos entidades, en lo que a riesgos del trabajo se refiere.",
+    "item_index": 2
+  }
+]

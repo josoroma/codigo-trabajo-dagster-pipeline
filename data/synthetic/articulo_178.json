@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 178 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 178 establece que los salarios mínimos fijados por decreto entran en vigor desde la fecha de ese decreto para todos los trabajadores, excepto aquellos que laboran para el Estado, sus instituciones y corporaciones municipales cuyo salario ya está definido en el presupuesto público. No obstante, estas entidades públicas deben revisar anualmente sus presupuestos ordinarios y hacer los ajustes necesarios para que ningún empleado público reciba un salario inferior al mínimo legal que le corresponda.",
+    "source_quote": "Los salarios mínimos que se fijen conforme a la ley regirán desde la fecha de vigencia del Decreto respectivo para todos los trabajadores, con excepción de los que sirven al Estado, sus Instituciones y Corporaciones Municipales y cuya remuneración esté específicamente determinada en el correspondiente presupuesto público.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "178",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_178"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "178",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_178",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo rigen los salarios mínimos fijados por decreto?",
+    "output": "Desde la fecha de vigencia del Decreto respectivo.",
+    "source_quote": "Los salarios mínimos que se fijen conforme a la ley regirán desde la fecha de vigencia del Decreto respectivo para todos los trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "178",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_178",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué trabajadores están exceptuados de la aplicación inmediata de los salarios mínimos según este artículo?",
+    "output": "Los que sirven al Estado, sus Instituciones y Corporaciones Municipales y cuya remuneración esté específicamente determinada en el correspondiente presupuesto público.",
+    "source_quote": "con excepción de los que sirven al Estado, sus Instituciones y Corporaciones Municipales y cuya remuneración esté específicamente determinada en el correspondiente presupuesto público.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "178",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_178",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la regla general de entrada en vigor de los salarios mínimos y establece una excepción para los servidores públicos cuyos salarios están fijados en el presupuesto, evitando conflictos normativos inmediatos con las asignaciones presupuestarias ya aprobadas.",
+    "source_quote": "Los salarios mínimos que se fijen conforme a la ley regirán desde la fecha de vigencia del Decreto respectivo para todos los trabajadores, con excepción de los que sirven al Estado, sus Instituciones y Corporaciones Municipales y cuya remuneración esté específicamente determinada en el correspondiente presupuesto público.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "178",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_178",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a las entidades públicas exceptuadas la obligación de ajustar sus presupuestos cada año para garantizar que, a largo plazo, todos los trabajadores públicos perciban al menos el salario mínimo legal, cerrando la brecha salarial que pudiera existir.",
+    "source_quote": "Sin embargo, aquél y éstas harán anualmente, al elaborar sus respectivos presupuestos ordinarios, las rectificaciones necesarias a efecto de que ninguno de sus trabajadores devengue salario inferior al mínimo que le corresponda.",
+    "item_index": 2
+  }
+]

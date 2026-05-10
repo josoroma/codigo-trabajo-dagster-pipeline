@@ -1,0 +1,13 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 85 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 85 enumera las causas que terminan el contrato de trabajo sin responsabilidad para el trabajador, pero sin extinguir sus derechos a reclamar prestaciones e indemnizaciones. Estas causas incluyen: muerte del trabajador, obligaciones legales como el servicio militar, fuerza mayor o caso fortuito, insolvencia o muerte del patrono (siempre que causen el cierre del negocio y se respete la preferencia de acreedores alimentarios), voluntad del patrono, y acogerse a jubilación o pensión. Además, establece que en caso de muerte del trabajador, las prestaciones pueden ser reclamadas por sus parientes ante la autoridad judicial laboral, sin necesidad de juicio sucesorio ni pago de impuestos, y detalla el orden de prelación: cónyuge e hijos menores o inhábiles, luego hijos mayores y padres (incluidos los de crianza), y finalmente los demás herederos según la ley civil.",
+    "source_quote": "Son causas que terminan con el contrato de trabajo sin responsabilidad para el trabajador y sin que extingan los derechos de éste o de sus causahabientes para reclamar y obtener el pago de las prestaciones e indemnizaciones que pudieran corresponderles en virtud de lo ordenado por el Código o por disposiciones especiales",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "85",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_85"
+  }
+]

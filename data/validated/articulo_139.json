@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 139 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 139 define la jornada extraordinaria como el trabajo efectivo que se realiza fuera de los límites de la jornada ordinaria o que excede la jornada inferior pactada contractualmente. Establece que esta jornada debe pagarse con un recargo del cincuenta por ciento sobre los salarios mínimos o los salarios superiores estipulados. Además, excluye del pago de horas extra el tiempo usado para corregir errores imputables solo al trabajador y el trabajo voluntario diurno en explotaciones agrícolas o ganaderas.",
+    "source_quote": "El trabajo efectivo que se ejecute fuera de los límites anteriormente fijados, o que exceda de la jornada inferior a éstos que contractualmente se pacte, constituye jornada extraordinaria y deberá ser remunerada con un cincuenta por ciento más de los salarios mínimos, o de los salarios superiores a éstos que se hubieren estipulado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "139",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_139"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "139",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_139",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje adicional se debe pagar por el trabajo en jornada extraordinaria según el artículo 139?",
+    "output": "Se debe pagar un cincuenta por ciento más de los salarios mínimos o de los salarios superiores estipulados.",
+    "source_quote": "deberá ser remunerada con un cincuenta por ciento más de los salarios mínimos, o de los salarios superiores a éstos que se hubieren estipulado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "139",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_139",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de trabajo fuera de la jornada ordinaria no amerita remuneración extraordinaria en explotaciones agrícolas o ganaderas?",
+    "output": "El trabajo que se ejecute voluntariamente durante las horas diurnas.",
+    "source_quote": "El trabajo que fuera de la jornada ordinaria y durante las horas diurnas ejecuten voluntariamente los trabajadores en las explotaciones agrícolas o ganaderas, tampoco ameritará remuneración extraordinaria.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "139",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_139",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de jornada extraordinaria y fija el recargo salarial obligatorio del 50% sobre los salarios mínimos o superiores pactados, garantizando una compensación adicional por el trabajo excedente.",
+    "source_quote": "El trabajo efectivo que se ejecute fuera de los límites anteriormente fijados, o que exceda de la jornada inferior a éstos que contractualmente se pacte, constituye jornada extraordinaria y deberá ser remunerada con un cincuenta por ciento más de los salarios mínimos, o de los salarios superiores a éstos que se hubieren estipulado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "139",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_139",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción al pago de horas extra, excluyendo el tiempo dedicado a corregir errores propios del trabajador, con el fin de no premiar la negligencia individual.",
+    "source_quote": "No se considerarán horas extraordinarias las que el trabajador ocupe en subsanar los errores imputables sólo a él, cometidos durante la jornada ordinaria.",
+    "item_index": 2
+  }
+]

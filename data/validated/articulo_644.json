@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 644 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 644 regula el procedimiento para resolver conflictos en la negociación de convenciones colectivas. Indica que, para celebrar convenciones, se aplica el Título Segundo del Código. Si tras treinta días de negociación no hay acuerdo pleno, los puntos en discordia se resuelven según el procedimiento de este capítulo. Si la conciliación fracasa, las partes pueden optar por la huelga o el paro, o de común acuerdo someter el conflicto a arbitraje. También permite acudir directamente al arbitraje sin conciliación previa si ambas partes consienten. En todos estos casos, la parte interesada dispone de quince días hábiles para solicitar la intervención del órgano conciliador o arbitral, según lo pactado.",
+    "source_quote": "Transcurrido el plazo de treinta días, a que se refiere el inciso d) del artículo 56, sin que hubiera acuerdo pleno, la resolución del punto o puntos en discordia se hará mediante el procedimiento regulado en este capítulo, con las particularidades señaladas en esta sección.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "644",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_644"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "644",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_644",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene la parte interesada para solicitar la intervención del órgano conciliador o arbitral?",
+    "output": "Quince días hábiles.",
+    "source_quote": "En cualquiera de los supuestos antes indicados, la parte interesada tendrá quince días hábiles para solicitar la intervención del órgano conciliador o arbitral, según sea lo pactado entre las partes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "644",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_644",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede acudir directamente al arbitraje sin agotar la fase de conciliación?",
+    "output": "Sí, siempre que exista consentimiento de las partes.",
+    "source_quote": "También se podrá acudir directamente al arbitraje, sin necesidad de agotar la fase conciliatoria, si hubiera consentimiento de las partes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "644",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_644",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la remisión normativa al Título Segundo del Código de Trabajo como marco general para la celebración de convenciones colectivas, asegurando coherencia con las disposiciones sobre negociación colectiva.",
+    "source_quote": "Para la celebración de las convenciones se estará a lo dispuesto en el título segundo de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "644",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_644",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo procesal aplicable cuando fracasa la negociación directa en el plazo legal, remitiendo al procedimiento especial del capítulo para resolver los puntos controvertidos, con las adaptaciones de esta sección.",
+    "source_quote": "Transcurrido el plazo de treinta días, a que se refiere el inciso d) del artículo 56, sin que hubiera acuerdo pleno, la resolución del punto o puntos en discordia se hará mediante el procedimiento regulado en este capítulo, con las particularidades señaladas en esta sección.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 154 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 154 establece que el derecho a vacaciones no depende de que el trabajador labore todas las horas de la jornada ordinaria ni todos los días de la semana. Es decir, incluso quienes trabajan a tiempo parcial o en jornadas reducidas tienen derecho a vacaciones.",
+    "source_quote": "El trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria ni todos los días de la semana.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "154",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_154"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "154",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_154",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Un trabajador con jornada parcial tiene derecho a vacaciones según el artículo 154?",
+    "output": "Sí, el trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria.",
+    "source_quote": "El trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria ni todos los días de la semana.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "154",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_154",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿El derecho a vacaciones se pierde si el trabajador no labora todos los días de la semana?",
+    "output": "No, el artículo 154 indica que el derecho a vacaciones se mantiene aun cuando el contrato no exija trabajar todos los días de la semana.",
+    "source_quote": "El trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria ni todos los días de la semana.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "154",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_154",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita contiene la totalidad del artículo y su propósito es garantizar que el derecho a vacaciones no esté condicionado a una jornada completa o a una semana laboral completa, protegiendo así a los trabajadores con horarios reducidos o discontinuos.",
+    "source_quote": "El trabajador tendrá derecho a vacaciones aun cuando su contrato no le exija trabajar todas las horas de la jornada ordinaria ni todos los días de la semana.",
+    "item_index": 1
+  }
+]

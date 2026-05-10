@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 555 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 555 establece que el documento inicial de un proceso laboral debe cumplir con los requisitos generales de cualquier demanda y, además, debe adjuntarse u ofrecerse la prueba de la relación laboral, la orden de alta del seguro y el dictamen médico que detalle el estado de salud y la recomendación según la capacidad laboral.",
+    "source_quote": "El escrito inicial deberá cumplir los requisitos básicos de toda demanda y con él deberá acompañarse u ofrecerse la prueba relativa a la relación de empleo, la orden de alta expedida por el ente asegurador y la copia del dictamen médico en el que se especifique claramente la situación real de la persona en cuanto a su estado de salud y el medio que se recomiende para él, según su capacidad laboral.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "555",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_555"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "555",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_555",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documentos específicos exige el artículo 555 que se acompañen u ofrezcan con el escrito inicial?",
+    "output": "La prueba relativa a la relación de empleo, la orden de alta expedida por el ente asegurador y la copia del dictamen médico.",
+    "source_quote": "con él deberá acompañarse u ofrecerse la prueba relativa a la relación de empleo, la orden de alta expedida por el ente asegurador y la copia del dictamen médico",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "555",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_555",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe contener el dictamen médico según este artículo?",
+    "output": "Debe especificar claramente la situación real de la persona en cuanto a su estado de salud y el medio que se recomiende para él, según su capacidad laboral.",
+    "source_quote": "en el que se especifique claramente la situación real de la persona en cuanto a su estado de salud y el medio que se recomiende para él, según su capacidad laboral.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "555",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_555",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el documento de inicio del proceso debe satisfacer las formalidades generales de cualquier demanda judicial, garantizando su admisibilidad procesal.",
+    "source_quote": "El escrito inicial deberá cumplir los requisitos básicos de toda demanda",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "555",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_555",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera los medios probatorios indispensables que deben presentarse o anunciarse para acreditar el vínculo laboral, la cobertura del seguro y la condición médica del trabajador, permitiendo al juez valorar la situación y la capacidad laboral.",
+    "source_quote": "con él deberá acompañarse u ofrecerse la prueba relativa a la relación de empleo, la orden de alta expedida por el ente asegurador y la copia del dictamen médico en el que se especifique claramente la situación real de la persona en cuanto a su estado de salud y el medio que se recomiende para él, según su capacidad laboral.",
+    "item_index": 2
+  }
+]

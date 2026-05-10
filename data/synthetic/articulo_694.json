@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 694 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 694 establece una prohibición para que ciertas personas integren las delegaciones que representan a la parte empleadora en la negociación de una convención colectiva. Específicamente, no puede participar quien pueda obtener un beneficio real o potencial de esa convención, ni tampoco si el resultado pudiera favorecer a su cónyuge, compañero, compañera, conviviente o parientes, conforme a lo dispuesto en la Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública.",
+    "source_quote": "No podrá formar parte de las delegaciones que intervengan en representación de la empleadora ninguna persona que pueda recibir real o potencialmente algún beneficio de la convención colectiva que se firme. Igualmente, existirá impedimento si el resultado pudiera beneficiar a su cónyuge, compañero, compañera o conviviente o a sus parientes, según lo indicado en el párrafo segundo del artículo 48 de la Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, de 6 de octubre de 2004.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "694",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_694"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "694",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_694",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes no pueden formar parte de las delegaciones que representan a la empleadora en la firma de una convención colectiva?",
+    "output": "Ninguna persona que pueda recibir real o potencialmente algún beneficio de la convención colectiva que se firme.",
+    "source_quote": "No podrá formar parte de las delegaciones que intervengan en representación de la empleadora ninguna persona que pueda recibir real o potencialmente algún beneficio de la convención colectiva que se firme.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "694",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_694",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el resultado de la convención colectiva pudiera beneficiar al cónyuge o parientes de un miembro de la delegación empleadora?",
+    "output": "Existirá impedimento para que esa persona forme parte de la delegación, según lo indicado en el párrafo segundo del artículo 48 de la Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública.",
+    "source_quote": "Igualmente, existirá impedimento si el resultado pudiera beneficiar a su cónyuge, compañero, compañera o conviviente o a sus parientes, según lo indicado en el párrafo segundo del artículo 48 de la Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, de 6 de octubre de 2004.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "694",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_694",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición directa para evitar conflictos de interés en la negociación colectiva, impidiendo que quien pueda obtener una ventaja personal participe en representación del empleador.",
+    "source_quote": "No podrá formar parte de las delegaciones que intervengan en representación de la empleadora ninguna persona que pueda recibir real o potencialmente algún beneficio de la convención colectiva que se firme.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "694",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_694",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende el impedimento a los familiares cercanos del representante, reforzando la imparcialidad y transparencia en el proceso de negociación colectiva, en concordancia con la legislación anticorrupción.",
+    "source_quote": "Igualmente, existirá impedimento si el resultado pudiera beneficiar a su cónyuge, compañero, compañera o conviviente o a sus parientes, según lo indicado en el párrafo segundo del artículo 48 de la Ley N.° 8422, Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, de 6 de octubre de 2004.",
+    "item_index": 2
+  }
+]

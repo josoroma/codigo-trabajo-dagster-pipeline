@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 439 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 439 regula el recurso de apelación contra las resoluciones de competencia dictadas en los dos supuestos del artículo 438. Esa apelación se presenta ante el órgano que, según la Ley Orgánica del Poder Judicial, resuelve conflictos de competencia entre tribunales de distintas materias. El recurso debe fundamentarse y su trámite sigue lo dispuesto en los artículos 589 y 590 del Código. La decisión de ese órgano es definitiva e inapelable, y obliga a las jurisdicciones involucradas. Si la resolución no se apela, el juzgado al que se atribuye la competencia puede promover un conflicto ante ese mismo órgano dentro de los cinco días siguientes a la recepción del expediente.",
+    "source_quote": "En los dos supuestos del artículo anterior, lo resuelto será apelable para ante el órgano competente según la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, para resolver cuestiones de competencia entre tribunales de distintas materias.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "439",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_439"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "439",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_439",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué órgano se puede apelar la resolución sobre competencia en los casos del artículo 438?",
+    "output": "Ante el órgano competente según la Ley N.° 7333, Ley Orgánica del Poder Judicial, para resolver cuestiones de competencia entre tribunales de distintas materias.",
+    "source_quote": "lo resuelto será apelable para ante el órgano competente según la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, para resolver cuestiones de competencia entre tribunales de distintas materias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "439",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_439",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para que el órgano al que se le atribuye la competencia promueva un conflicto si la resolución no fue apelada?",
+    "output": "Dentro del plazo perentorio de cinco días, a partir del día siguiente a la fecha en que se reciba el expediente.",
+    "source_quote": "Si el pronunciamiento del juzgado no fuera apelado, el órgano de la materia al que se le atribuye la competencia podrá promover el respectivo conflicto ante el órgano indicado en el párrafo primero de este artículo, dentro del plazo perentorio de cinco días, a partir del día siguiente a la fecha en que se reciba el expediente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "439",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_439",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho de apelación y designa el órgano encargado de resolver las cuestiones de competencia entre materias, garantizando una instancia revisora especializada.",
+    "source_quote": "En los dos supuestos del artículo anterior, lo resuelto será apelable para ante el órgano competente según la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993, para resolver cuestiones de competencia entre tribunales de distintas materias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "439",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_439",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga carácter definitivo y obligatorio a la decisión del órgano competente, evitando dilaciones y conflictos posteriores entre jurisdicciones.",
+    "source_quote": "El pronunciamiento de ese órgano no tendrá ulterior recurso y será vinculante para las jurisdicciones involucradas.",
+    "item_index": 2
+  }
+]

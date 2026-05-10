@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 670 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 670 establece los requisitos formales que debe cumplir una acusación laboral. Indica que debe presentarse por escrito ante el órgano jurisdiccional competente y detalla la información obligatoria: identificación del acusador (nombre, documento de identidad, domicilio y, si actúa como representante, el carácter y el documento que lo acredite); una relación detallada de los hechos con lugar, día, hora y año, o el estado de situaciones continuadas y fecha de cesación; el nombre de los responsables o colaboradores y, si son representantes de una persona jurídica, el nombre de esta, además de la dirección exacta del denunciado para localizarlo, con notificación a personas jurídicas según la Ley N.° 8687; los elementos de prueba para comprobar la falta, su naturaleza, gravedad y responsabilidad; y el medio para notificaciones conforme a los artículos 34 y 36 de la Ley N.° 8687, junto con la firma autenticada del acusador.",
+    "source_quote": "La acusación deberá presentarse de forma escrita, ante el órgano jurisdiccional competente y cumplirá los siguientes requisitos: 1) El nombre completo del acusador, el número de documento de identidad y el domicilio. Si se tratara de un representante, deberá indicar el carácter en que comparece y presentar el documento que lo acredite. 2) Una relación detallada de los hechos, con expresión del lugar, el día, la hora y el año en que ocurrieron y, si se trata de situaciones continuadas, deberá indicarse el estado de esto último y, si ya ha cesado, la fecha en que la cesación tuvo lugar. 3) El nombre de los responsables de la falta o el de los colaboradores, si los hubiera y, si se tratara de representantes o directores de una persona jurídica u organización social, el nombre de esta última. En todo caso, deberá indicarse la dirección exacta del denunciado donde se le pueda localizar. Las personas jurídicas deberán ser notificadas de conformidad con la Ley N.° 8687, Ley de Notificaciones Judiciales, de 4 de diciembre de 2008. 4) Los elementos de prueba que a juicio del exponente conduzca a la comprobación de la falta, a la determinación de su naturaleza o gravedad y a la determinación de la responsabilidad. 5) El medio para notificaciones conforme a los artículos 34 y 36 de la Ley N.° 8687, Ley de Notificaciones Judiciales, de 4 de diciembre de 2008, y la firma del acusador debidamente autenticada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "670",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_670"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "670",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_670",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los datos de identificación que debe incluir el acusador en la acusación según el artículo 670?",
+    "output": "El nombre completo del acusador, el número de documento de identidad y el domicilio. Si se trata de un representante, debe indicar el carácter en que comparece y presentar el documento que lo acredite.",
+    "source_quote": "1) El nombre completo del acusador, el número de documento de identidad y el domicilio. Si se tratara de un representante, deberá indicar el carácter en que comparece y presentar el documento que lo acredite.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "670",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_670",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información sobre los hechos debe detallarse en la acusación cuando se trata de situaciones continuadas?",
+    "output": "Debe indicarse el estado de la situación continuada y, si ya ha cesado, la fecha en que la cesación tuvo lugar.",
+    "source_quote": "si se trata de situaciones continuadas, deberá indicarse el estado de esto último y, si ya ha cesado, la fecha en que la cesación tuvo lugar.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "670",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_670",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la forma y el destinatario de la acusación, exigiendo que sea por escrito y se dirija al tribunal con competencia, lo que garantiza un registro formal y la correcta asignación del caso.",
+    "source_quote": "La acusación deberá presentarse de forma escrita, ante el órgano jurisdiccional competente y cumplirá los siguientes requisitos:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "670",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_670",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegura la efectividad de las notificaciones al exigir una dirección precisa del denunciado y remite a la ley especial para notificar a personas jurídicas, protegiendo el derecho de defensa y el debido proceso.",
+    "source_quote": "En todo caso, deberá indicarse la dirección exacta del denunciado donde se le pueda localizar. Las personas jurídicas deberán ser notificadas de conformidad con la Ley N.° 8687, Ley de Notificaciones Judiciales, de 4 de diciembre de 2008.",
+    "item_index": 2
+  }
+]

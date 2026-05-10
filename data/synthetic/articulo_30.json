@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 30 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 30 establece reglas comunes aplicables al preaviso y al auxilio de cesantía. Estas reglas protegen el importe de dichos beneficios frente a compensación, venta, cesión o embargo (salvo la mitad por pensiones alimenticias), determinan que la indemnización se calcula con base en el promedio salarial de los últimos seis meses o fracción menor, disponen que la continuidad laboral no se interrumpe por causas como enfermedad, vacaciones o huelga legal, y declaran nula cualquier cláusula contractual que pretenda interrumpir la continuidad de los servicios.",
+    "source_quote": "El preaviso y el auxilio de cesantía se regirán por las siguientes reglas comunes:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "30",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_30"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "30",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_30",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede embargarse el importe del preaviso y del auxilio de cesantía?",
+    "output": "No, salvo en la mitad por concepto de pensiones alimenticias.",
+    "source_quote": "El importe de los mismos no podrá ser objeto de compensación, venta o cesión, ni podrá ser embargado, salvo en la mitad por concepto de pensiones alimenticias;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "30",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_30",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se calcula la indemnización por cesantía según este artículo?",
+    "output": "Se calcula tomando como base el promedio de salarios devengados por el trabajador durante los últimos seis meses de vigencia del contrato, o la fracción de tiempo menor si no se ha cumplido ese plazo.",
+    "source_quote": "La indemnización que corresponda se calculará tomando como base el promedio de salarios devengados por el trabajador durante los últimos seis meses que tenga de vigencia el contrato, o fracción de tiempo menor si no se hubiere ajustado dicho término;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "30",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_30",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proteger el derecho del trabajador a recibir íntegramente estas sumas, garantizando su subsistencia, con la única excepción de asegurar el cumplimiento de obligaciones alimentarias.",
+    "source_quote": "El importe de los mismos no podrá ser objeto de compensación, venta o cesión, ni podrá ser embargado, salvo en la mitad por concepto de pensiones alimenticias;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "30",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_30",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Evitar que mediante acuerdos contractuales se perjudique la antigüedad del trabajador y los derechos que de ella derivan, preservando la estabilidad laboral.",
+    "source_quote": "Será absolutamente nula la cláusula del contrato que tienda a interrumpir la continuidad de los servicios prestados o por prestarse.",
+    "item_index": 2
+  }
+]

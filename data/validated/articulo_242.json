@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 242 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 242 permite que el Instituto Nacional de Seguros otorgue una asignación global de hasta cuarenta mil colones a trabajadores con gran invalidez que estén en precaria situación económica. Esta asignación puede destinarse a construir obras que mejoren su vivienda, siempre que la propiedad esté a nombre del trabajador o tenga derecho de uso y habitación, o al pago de primas para adquirir vivienda mediante instituciones públicas, con restricciones para su venta. El pago puede hacerse en un solo giro o en sumas parciales, y el trabajador debe solicitarlo y justificarlo por escrito.",
+    "source_quote": "A juicio del Instituto Nacional de Seguros se podrá otorgar una asignación global, por un monto máximo de cuarenta mil colones, a los trabajadores con gran invalidez que se encuentren en precaria situación económica, la cual se destinará a los siguientes fines:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "242",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_242"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "242",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_242",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el monto máximo de la asignación global que puede otorgar el Instituto Nacional de Seguros según el artículo 242?",
+    "output": "El monto máximo es de cuarenta mil colones.",
+    "source_quote": "A juicio del Instituto Nacional de Seguros se podrá otorgar una asignación global, por un monto máximo de cuarenta mil colones...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "242",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_242",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir la propiedad donde se construya una obra con la asignación del artículo 242?",
+    "output": "La obra debe constituirse en propiedad inscrita a nombre del trabajador inválido, o en la que se constituya debidamente el derecho de uso y habitación a su favor.",
+    "source_quote": "La obra deberá constituirse en propiedad inscrita a nombre del trabajador inválido, o en la que se constituya debidamente el derecho de uso y habitación a su favor;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "242",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_242",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad discrecional del Instituto Nacional de Seguros para conceder una ayuda económica limitada a trabajadores en condiciones de gran invalidez y necesidad económica, definiendo el tope máximo del beneficio.",
+    "source_quote": "A juicio del Instituto Nacional de Seguros se podrá otorgar una asignación global, por un monto máximo de cuarenta mil colones, a los trabajadores con gran invalidez que se encuentren en precaria situación económica...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "242",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_242",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al trabajador la carga de solicitar formalmente el beneficio y aportar la justificación necesaria, asegurando que el Instituto evalúe cada caso con base en documentación escrita.",
+    "source_quote": "El trabajador deberá gestionar y justificar por escrito ante el Instituto Nacional de Seguros, la solicitud de este beneficio.",
+    "item_index": 2
+  }
+]

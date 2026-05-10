@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 257 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 257 regula la conmutación de rentas cuando se trata de menores de edad. Establece que esta solo procede de manera excepcional si es recomendada por el Instituto Nacional de Seguros. En tal caso, todos los antecedentes deben enviarse al Tribunal Superior de Trabajo para que resuelva. Además, el Tribunal está obligado a solicitar el criterio del Patronato Nacional de la Infancia sobre la utilidad y necesidad de la conmutación, el cual debe emitirse en un plazo máximo de ocho días hábiles.",
+    "source_quote": "Tratándose de menores de edad, la conmutación de rentas sólo procederá por vía de excepción cuando sea recomendada por el Instituto Nacional de Seguros, en cuyo caso se pondrán todos los antecedentes en conocimiento del Tribunal Superior de Trabajo que corresponda, para que resuelva. El Tribunal solicitará el criterio del Patronato Nacional de la Infancia sobre su utilidad y necesidad. Este criterio deberá rendirse en un plazo no mayor de ocho días hábiles.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "257",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_257"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "257",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_257",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos procede la conmutación de rentas para menores de edad según el artículo 257?",
+    "output": "Solo procede por vía de excepción cuando sea recomendada por el Instituto Nacional de Seguros.",
+    "source_quote": "Tratándose de menores de edad, la conmutación de rentas sólo procederá por vía de excepción cuando sea recomendada por el Instituto Nacional de Seguros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "257",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_257",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el Tribunal Superior de Trabajo antes de resolver sobre la conmutación de rentas de un menor?",
+    "output": "Debe solicitar el criterio del Patronato Nacional de la Infancia sobre su utilidad y necesidad, el cual debe rendirse en un plazo no mayor de ocho días hábiles.",
+    "source_quote": "El Tribunal solicitará el criterio del Patronato Nacional de la Infancia sobre su utilidad y necesidad. Este criterio deberá rendirse en un plazo no mayor de ocho días hábiles.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "257",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_257",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla excepcional para la conmutación de rentas en menores, condicionándola a la recomendación del Instituto Nacional de Seguros como requisito previo e indispensable.",
+    "source_quote": "Tratándose de menores de edad, la conmutación de rentas sólo procederá por vía de excepción cuando sea recomendada por el Instituto Nacional de Seguros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "257",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_257",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al Tribunal Superior de Trabajo la obligación de consultar al Patronato Nacional de la Infancia y fija un plazo perentorio de ocho días hábiles para que emita su opinión, garantizando así la protección del interés superior del menor en el proceso de conmutación.",
+    "source_quote": "El Tribunal solicitará el criterio del Patronato Nacional de la Infancia sobre su utilidad y necesidad. Este criterio deberá rendirse en un plazo no mayor de ocho días hábiles.",
+    "item_index": 2
+  }
+]

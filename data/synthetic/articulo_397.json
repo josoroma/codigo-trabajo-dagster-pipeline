@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 397 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que los procesos judiciales que surjan de las faltas mencionadas en el contexto normativo serán competencia de los tribunales de trabajo, aplicando las reglas de competencia y el procedimiento definidos en el propio Código de Trabajo.",
+    "source_quote": "Los procesos que se originen en dichas faltas serán de conocimiento de los tribunales de trabajo, de acuerdo con las reglas de competencia y por el procedimiento que en este mismo Código se señalan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "397",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_397"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "397",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_397",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tribunales conocerán los procesos originados en dichas faltas?",
+    "output": "Los tribunales de trabajo.",
+    "source_quote": "Los procesos que se originen en dichas faltas serán de conocimiento de los tribunales de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "397",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_397",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Conforme a qué normas se rigen la competencia y el procedimiento de esos procesos?",
+    "output": "De acuerdo con las reglas de competencia y por el procedimiento que en este mismo Código se señalan.",
+    "source_quote": "de acuerdo con las reglas de competencia y por el procedimiento que en este mismo Código se señalan",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "397",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_397",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asigna la competencia material a los tribunales de trabajo para conocer de los procesos derivados de las faltas a que se refiere la norma.",
+    "source_quote": "Los procesos que se originen en dichas faltas serán de conocimiento de los tribunales de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "397",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_397",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remite a las disposiciones del propio Código de Trabajo para determinar la competencia territorial o funcional y el trámite procesal aplicable, garantizando unidad normativa.",
+    "source_quote": "de acuerdo con las reglas de competencia y por el procedimiento que en este mismo Código se señalan",
+    "item_index": 2
+  }
+]

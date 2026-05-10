@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 468 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 468 establece que cada proceso judicial laboral debe generar un expediente físico con sus páginas ordenadas y numeradas de manera consecutiva. Además, permite que estos expedientes también se organicen en formato electrónico.",
+    "source_quote": "Cada proceso dará lugar a la formación, con foliación ordenada y numerada, de expedientes físicos, los cuales también podrán ordenarse de forma electrónica.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "468",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_468"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "468",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_468",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué exige el artículo 468 para cada proceso laboral?",
+    "output": "Exige la formación de un expediente físico con foliación ordenada y numerada.",
+    "source_quote": "Cada proceso dará lugar a la formación, con foliación ordenada y numerada, de expedientes físicos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "468",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_468",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Permite el artículo 468 que los expedientes se organicen de manera electrónica?",
+    "output": "Sí, los expedientes físicos también podrán ordenarse de forma electrónica.",
+    "source_quote": "los cuales también podrán ordenarse de forma electrónica.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "468",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_468",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de crear un expediente material para cada proceso, garantizando el orden y la integridad documental mediante una numeración consecutiva de sus folios.",
+    "source_quote": "Cada proceso dará lugar a la formación, con foliación ordenada y numerada, de expedientes físicos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "468",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_468",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Habilita la posibilidad de que el expediente físico sea complementado o sustituido por una versión electrónica, facilitando la gestión digital de los procesos judiciales laborales.",
+    "source_quote": "los cuales también podrán ordenarse de forma electrónica.",
+    "item_index": 2
+  }
+]

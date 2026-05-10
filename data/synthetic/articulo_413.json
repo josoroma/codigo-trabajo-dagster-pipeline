@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 413 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 413 establece que los derechos y acciones derivados de contratos de trabajo prescriben en un año, contado desde que termina el contrato, salvo que exista una disposición especial que diga lo contrario. Además, enumera cinco causales específicas que interrumpen esa prescripción en materia laboral: la solicitud de carta de despido, la solicitud de conciliación administrativa ante el Ministerio de Trabajo, el reclamo administrativo ante el INS por riesgos del trabajo, cualquier gestión judicial o extrajudicial para cobrar la obligación, y el hecho de que el trabajador continúe laborando para el mismo patrono, caso en el cual no corre la prescripción.",
+    "source_quote": "Salvo disposición especial en contrario, todos los derechos y las acciones provenientes de contratos de trabajo prescribirán en el término de un año, contado desde la fecha de extinción de dichos contratos. En materia laboral, la prescripción se interrumpirá además por las siguientes causales: a) Con la solicitud de la carta de despido... b) La interposición... de la correspondiente solicitud de diligencia de conciliación laboral administrativa... c) En el caso de acciones derivadas de riesgos del trabajo, la interposición del reclamo respectivo en sede administrativa ante el Instituto Nacional de Seguros (INS). d) Por cualquier gestión judicial y extrajudicial para el cobro de la obligación. e) No correrá prescripción alguna mientras se encuentre laborando a las órdenes de un mismo patrono.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "413",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_413"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "413",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_413",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo general de prescripción para los derechos y acciones provenientes de contratos de trabajo según el artículo 413?",
+    "output": "El plazo general de prescripción es de un año, contado desde la fecha de extinción del contrato de trabajo.",
+    "source_quote": "Salvo disposición especial en contrario, todos los derechos y las acciones provenientes de contratos de trabajo prescribirán en el término de un año, contado desde la fecha de extinción de dichos contratos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "413",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_413",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con la prescripción mientras el trabajador continúa laborando para el mismo patrono según el artículo 413?",
+    "output": "No corre prescripción alguna mientras el trabajador se encuentre laborando a las órdenes de un mismo patrono.",
+    "source_quote": "No correrá prescripción alguna mientras se encuentre laborando a las órdenes de un mismo patrono.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "413",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_413",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de prescripción anual para las acciones laborales, fijando el inicio del cómputo en la terminación del contrato, y reserva la posibilidad de plazos distintos si una norma especial lo dispone.",
+    "source_quote": "Salvo disposición especial en contrario, todos los derechos y las acciones provenientes de contratos de trabajo prescribirán en el término de un año, contado desde la fecha de extinción de dichos contratos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "413",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_413",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera las causales específicas que interrumpen o suspenden el curso de la prescripción en el ámbito laboral, protegiendo al trabajador al reconocer actos administrativos, judiciales o extrajudiciales como mecanismos para conservar sus derechos, e impide que la prescripción corra durante la vigencia de la relación laboral con el mismo patrono.",
+    "source_quote": "En materia laboral, la prescripción se interrumpirá además por las siguientes causales: a) Con la solicitud de la carta de despido, en los términos del artículo 35 de este Código. b) La interposición, por parte del trabajador, de la correspondiente solicitud de diligencia de conciliación laboral administrativa ante el Ministerio de Trabajo y Seguridad Social. c) En el caso de acciones derivadas de riesgos del trabajo, la interposición del reclamo respectivo en sede administrativa ante el Instituto Nacional de Seguros (INS). d) Por cualquier gestión judicial y extrajudicial para el cobro de la obligación. e) No correrá prescripción alguna mientras se encuentre laborando a las órdenes de un mismo patrono.",
+    "item_index": 2
+  }
+]

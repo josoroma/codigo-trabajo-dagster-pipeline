@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 200_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 200 bis otorga a los estudiantes de programas de educación y formación técnica dual el derecho a un seguro de riesgos de trabajo especial, financiado por las empresas o centros de formación para la empleabilidad, sin que ello constituya una relación laboral entre el estudiante y quien contrata el seguro.",
+    "source_quote": "Tendrán derecho a la protección del seguro dispuesto en este título, los estudiantes de los programas de educación y formación técnica dual.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_200_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_200_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes tienen derecho a la protección del seguro según el artículo 200 bis?",
+    "output": "Los estudiantes de los programas de educación y formación técnica dual.",
+    "source_quote": "Tendrán derecho a la protección del seguro dispuesto en este título, los estudiantes de los programas de educación y formación técnica dual.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_200_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿El derecho al seguro establecido en el artículo 200 bis configura una relación laboral?",
+    "output": "No, el artículo aclara que este derecho no configura relación laboral entre el estudiante y el tomador del seguro.",
+    "source_quote": "Es entendido que el derecho referido no configura relación laboral entre el estudiante y el tomador del seguro.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_200_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito subjetivo de la protección, identificando a los beneficiarios del seguro como los estudiantes de formación técnica dual.",
+    "source_quote": "Tendrán derecho a la protección del seguro dispuesto en este título, los estudiantes de los programas de educación y formación técnica dual.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_200_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una salvaguarda legal para evitar que la cobertura del seguro sea interpretada como un vínculo laboral, preservando la naturaleza educativa del programa.",
+    "source_quote": "Es entendido que el derecho referido no configura relación laboral entre el estudiante y el tomador del seguro.",
+    "item_index": 2
+  }
+]

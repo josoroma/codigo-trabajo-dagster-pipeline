@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 64 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 64 regula la duración de las convenciones colectivas. Dispone que el Poder Ejecutivo fija el plazo de vigencia, el cual debe ser entre uno y cinco años. Ese plazo se prorroga automáticamente por períodos iguales, salvo que alguna de las partes comunique al Ministerio de Trabajo, con un mes de anticipación al vencimiento, su voluntad de terminarla. Además, una interpretación de la Sala Constitucional aclara que en el sector público son inconstitucionales las convenciones colectivas cuando involucran personal con relación de empleo de naturaleza pública, pero son válidas para trabajadores regidos por el derecho común.",
+    "source_quote": "El Poder Ejecutivo fijará el plazo durante el cual debe regir la convención, que no excederá de cinco años ni bajará de uno.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "64",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_64"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "64",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_64",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo mínimo y máximo que puede fijar el Poder Ejecutivo para la vigencia de una convención colectiva?",
+    "output": "El plazo no puede ser inferior a un año ni superior a cinco años.",
+    "source_quote": "no excederá de cinco años ni bajará de uno.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "64",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_64",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplirse para que la convención colectiva no se prorrogue automáticamente?",
+    "output": "Alguna de las partes debe expresar su voluntad de darla por terminada mediante memorial dirigido al Ministerio de Trabajo y de Seguridad Social, con un mes de anticipación al vencimiento del plazo.",
+    "source_quote": "si ninguna de las partes expresa en memorial dirigido al Ministerio de Trabajo y de Seguridad Social, con un mes de anticipación al respectivo vencimiento, su voluntad de dar por terminada la convención.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "64",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_64",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la autoridad competente para fijar la duración de la convención colectiva y los límites temporales dentro de los cuales debe enmarcarse, garantizando un período mínimo de estabilidad y uno máximo de vigencia.",
+    "source_quote": "El Poder Ejecutivo fijará el plazo durante el cual debe regir la convención, que no excederá de cinco años ni bajará de uno.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "64",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_64",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Aclara la aplicación del artículo en el sector público, declarando inconstitucionales las convenciones colectivas para empleados públicos con relación estatutaria, conforme a la interpretación de la Sala Constitucional.",
+    "source_quote": "son inconstitucionales las convenciones colectivas reguladas por los artículos 54 y siguientes del Código de Trabajo que se celebran en el sector público, cuando se trata de personal regido por la relación de empleo de naturaleza pública (relación estatutaria);",
+    "item_index": 2
+  }
+]

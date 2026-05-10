@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 559 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 559 establece qué personas pueden acogerse a un procedimiento especial para ejercer sus derechos de estabilidad laboral, incluyendo a personas con discapacidad amparadas por la Ley 7600, las mencionadas en el artículo 392 inciso a) del Código de Trabajo, y cualquier otra persona que tenga estabilidad en el empleo por una norma especial, un instrumento colectivo o una resolución administrativa. En este procedimiento se aplicarán las normas anteriores en lo que corresponda.",
+    "source_quote": "Las personas discapacitadas legitimadas para solicitar reinstalación a sus puestos de trabajo, conforme lo que establece la Ley N.º 7600, Igualdad de Oportunidades para las Personas con Discapacidad, de 2 de mayo de 1996, y su reglamento, las indicadas en el inciso a) del artículo 392 de este Código, y cualesquiera otras personas que gocen de estabilidad en el empleo por norma especial, instrumento colectivo o resolución administrativa que así lo declare, podrán ejercer sus derechos en este procedimiento especial.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "559",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_559"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "559",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_559",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden ejercer sus derechos en el procedimiento especial según el artículo 559?",
+    "output": "Las personas discapacitadas legitimadas para solicitar reinstalación según la Ley 7600, las indicadas en el inciso a) del artículo 392 del Código de Trabajo, y cualesquiera otras personas que gocen de estabilidad en el empleo por norma especial, instrumento colectivo o resolución administrativa.",
+    "source_quote": "Las personas discapacitadas legitimadas para solicitar reinstalación a sus puestos de trabajo, conforme lo que establece la Ley N.º 7600, Igualdad de Oportunidades para las Personas con Discapacidad, de 2 de mayo de 1996, y su reglamento, las indicadas en el inciso a) del artículo 392 de este Código, y cualesquiera otras personas que gocen de estabilidad en el empleo por norma especial, instrumento colectivo o resolución administrativa que así lo declare, podrán ejercer sus derechos en este procedimiento especial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "559",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_559",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normas se aplican en este procedimiento especial?",
+    "output": "Se aplicarán las normas anteriores, en lo que resulte pertinente.",
+    "source_quote": "Al respecto se aplicarán las normas anteriores, en lo que resulte pertinente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "559",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_559",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito subjetivo de aplicación del procedimiento especial, enumerando las categorías de trabajadores con estabilidad laboral que pueden acudir a él.",
+    "source_quote": "Las personas discapacitadas legitimadas para solicitar reinstalación a sus puestos de trabajo, conforme lo que establece la Ley N.º 7600, Igualdad de Oportunidades para las Personas con Discapacidad, de 2 de mayo de 1996, y su reglamento, las indicadas en el inciso a) del artículo 392 de este Código, y cualesquiera otras personas que gocen de estabilidad en el empleo por norma especial, instrumento colectivo o resolución administrativa que así lo declare, podrán ejercer sus derechos en este procedimiento especial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "559",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_559",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la remisión a las disposiciones previas del mismo capítulo o título para regular el trámite del procedimiento especial, limitando su aplicación a lo que sea compatible.",
+    "source_quote": "Al respecto se aplicarán las normas anteriores, en lo que resulte pertinente.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 318 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 318 del Código de Trabajo fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, conocida como 'Reforma Procesal Laboral'. Por lo tanto, actualmente no tiene contenido normativo vigente.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "318",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_318"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "318",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_318",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 318 del Código de Trabajo?",
+    "output": "El artículo 318 está derogado.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "318",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_318",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 318 del Código de Trabajo?",
+    "output": "Fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, denominada 'Reforma Procesal Laboral'.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "318",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_318",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 318 ha sido derogado y, por tanto, carece de vigencia, eliminando su contenido del ordenamiento jurídico laboral.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  }
+]

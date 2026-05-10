@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 5 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 5 establece quiénes son considerados representantes de los patronos y, por lo tanto, obligan a estos en sus relaciones con los trabajadores. Incluye a directores, gerentes, administradores, capitanes de barco y cualquier persona que ejerza funciones de dirección o administración a nombre de otro.",
+    "source_quote": "Se considerarán representantes de los patronos, y en tal concepto obligarán a éstos en sus relaciones con los trabajadores: los directores, gerentes, administradores, capitanes de barco y, en general, las personas que a nombre de otro ejerzan funciones de dirección o de administración.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "5",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_5"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "5",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_5",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son considerados representantes de los patronos según el artículo 5?",
+    "output": "Los directores, gerentes, administradores, capitanes de barco y, en general, las personas que a nombre de otro ejerzan funciones de dirección o de administración.",
+    "source_quote": "Se considerarán representantes de los patronos, y en tal concepto obligarán a éstos en sus relaciones con los trabajadores: los directores, gerentes, administradores, capitanes de barco y, en general, las personas que a nombre de otro ejerzan funciones de dirección o de administración.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "5",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_5",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto legal tienen los actos de estos representantes frente a los patronos?",
+    "output": "Obligan a los patronos en sus relaciones con los trabajadores.",
+    "source_quote": "y en tal concepto obligarán a éstos en sus relaciones con los trabajadores",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "5",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_5",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita completa define quiénes actúan como representantes del patrono y establece que sus actos vinculan jurídicamente al patrono frente a los trabajadores, delimitando así la responsabilidad patronal en las relaciones laborales.",
+    "source_quote": "Se considerarán representantes de los patronos, y en tal concepto obligarán a éstos en sus relaciones con los trabajadores: los directores, gerentes, administradores, capitanes de barco y, en general, las personas que a nombre de otro ejerzan funciones de dirección o de administración.",
+    "item_index": 1
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 666 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 666 regula la admisión de pruebas en el proceso jurisdiccional, permitiendo solo las estrictamente necesarias y rechazando las repetidas, abundantes o impertinentes, así como las que no sirvan para comprobar la legalidad del movimiento. Además, obliga al juez a tomar medidas para evitar atrasos, dar prioridad al proceso y vigilar personalmente su eficiencia. El incumplimiento de estos deberes o plazos acarrea sanción disciplinaria para el juez.",
+    "source_quote": "El órgano jurisdiccional solo admitirá las pruebas que sean estrictamente necesarias y rechazará las que resulten repetidas, abundantes o impertinentes, así como toda probanza que no conduzca a la comprobación de los requisitos para la legalidad del movimiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "666",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_666"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "666",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_666",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de pruebas debe admitir el órgano jurisdiccional según el artículo 666?",
+    "output": "Solo las pruebas que sean estrictamente necesarias.",
+    "source_quote": "El órgano jurisdiccional solo admitirá las pruebas que sean estrictamente necesarias",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "666",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_666",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para el juez el incumplimiento de los plazos o deberes señalados en este capítulo?",
+    "output": "Será motivo de sanción disciplinaria.",
+    "source_quote": "El incumplimiento de los plazos indicados o de los deberes señalados en este capítulo serán motivo de sanción disciplinaria contra el juez responsable.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "666",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_666",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el criterio restrictivo de admisibilidad probatoria, limitando la prueba a lo indispensable y pertinente para verificar la legalidad del movimiento, y excluyendo la prueba superflua o irrelevante.",
+    "source_quote": "El órgano jurisdiccional solo admitirá las pruebas que sean estrictamente necesarias y rechazará las que resulten repetidas, abundantes o impertinentes, así como toda probanza que no conduzca a la comprobación de los requisitos para la legalidad del movimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "666",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_666",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Imponer una consecuencia disciplinaria al juez que no cumpla con los plazos o deberes procesales, reforzando la obligación de celeridad y eficiencia en el trámite.",
+    "source_quote": "El incumplimiento de los plazos indicados o de los deberes señalados en este capítulo serán motivo de sanción disciplinaria contra el juez responsable.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 611 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 611 del Código de Trabajo establece los efectos de la sentencia arbitral una vez que queda firme. En ese momento, la sentencia adquiere valor de cosa juzgada material, lo que significa que es definitiva e inimpugnable. Además, no necesita ser protocolizada, es decir, no requiere formalidades notariales adicionales, y puede ejecutarse directamente siguiendo el procedimiento de ejecución previsto en la ley.",
+    "source_quote": "La sentencia arbitral, una vez firme, tendrá valor de cosa juzgada material, no requiere protocolización y será ejecutable en la forma prevista en el procedimiento de ejecución.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "611",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_611"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "611",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_611",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué valor jurídico adquiere la sentencia arbitral cuando queda firme?",
+    "output": "Valor de cosa juzgada material.",
+    "source_quote": "La sentencia arbitral, una vez firme, tendrá valor de cosa juzgada material",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "611",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_611",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es necesario protocolizar la sentencia arbitral firme para su ejecución?",
+    "output": "No, no requiere protocolización.",
+    "source_quote": "no requiere protocolización",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "611",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_611",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la sentencia arbitral firme el carácter de definitiva e inmutable, equiparándola a una sentencia judicial con autoridad de cosa juzgada material.",
+    "source_quote": "La sentencia arbitral, una vez firme, tendrá valor de cosa juzgada material",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "611",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_611",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Exime de la formalidad de protocolización notarial y establece que la ejecución se realizará conforme al procedimiento de ejecución laboral, facilitando su cumplimiento.",
+    "source_quote": "no requiere protocolización y será ejecutable en la forma prevista en el procedimiento de ejecución.",
+    "item_index": 2
+  }
+]

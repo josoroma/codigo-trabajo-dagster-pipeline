@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 246 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 246 establece que la renta por riesgos del trabajo es de carácter anual y se paga en mensualidades adelantadas, comenzando desde que termina la incapacidad temporal del trabajador o desde su fallecimiento a causa del infortunio laboral.",
+    "source_quote": "La renta a que se refiere este capítulo es anual, y se pagará en cuotas mensuales adelantadas, a partir del día en que cese la incapacidad temporal del trabajador, u ocurra su muerte, a consecuencia del infortunio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "246",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_246"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "246",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_246",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cada cuánto se paga la renta a que se refiere este capítulo?",
+    "output": "Se paga en cuotas mensuales adelantadas.",
+    "source_quote": "se pagará en cuotas mensuales adelantadas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "246",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_246",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué momento se empieza a pagar la renta?",
+    "output": "A partir del día en que cese la incapacidad temporal del trabajador, o desde que ocurra su muerte a consecuencia del infortunio.",
+    "source_quote": "a partir del día en que cese la incapacidad temporal del trabajador, u ocurra su muerte, a consecuencia del infortunio",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "246",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_246",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la naturaleza anual de la renta y su forma de pago fraccionado en mensualidades anticipadas, garantizando periodicidad y previsibilidad al beneficiario.",
+    "source_quote": "La renta a que se refiere este capítulo es anual, y se pagará en cuotas mensuales adelantadas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "246",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_246",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el momento exacto en que inicia la obligación de pago, vinculándolo al fin de la incapacidad temporal o al fallecimiento del trabajador por el riesgo laboral, para asegurar la continuidad de la protección económica.",
+    "source_quote": "a partir del día en que cese la incapacidad temporal del trabajador, u ocurra su muerte, a consecuencia del infortunio",
+    "item_index": 2
+  }
+]

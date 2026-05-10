@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 205 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 205 establece que el seguro de riesgos del trabajo será administrado por el Instituto Nacional de Seguros sobre bases técnicas, con el fin de garantizar las prestaciones en dinero, médico-sanitarias y de rehabilitación, así como la solidez financiera del régimen. Además, ordena que la institución aseguradora realice liquidaciones anuales que incluyan las reservas técnicas necesarias para determinar los resultados del ejercicio. Si se generan excedentes, estos pasan a una reserva de reparto, cuyo 50% se destina a financiar los programas del Consejo de Salud Ocupacional y el resto a incorporar mejoras al régimen.",
+    "source_quote": "El seguro de riesgos del trabajo será administrado sobre las bases técnicas que el Instituto Nacional de Seguros establezca, para garantizar el otorgamiento de las prestaciones en dinero, médico-sanitarias y de rehabilitación, así como la solidez financiera del régimen.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "205",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_205"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "205",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_205",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién administra el seguro de riesgos del trabajo según el artículo 205?",
+    "output": "El Instituto Nacional de Seguros.",
+    "source_quote": "El seguro de riesgos del trabajo será administrado sobre las bases técnicas que el Instituto Nacional de Seguros establezca...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "205",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_205",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué destino se da a los excedentes de las liquidaciones anuales del seguro de riesgos del trabajo?",
+    "output": "Pasan a ser parte de una reserva de reparto, que se destinará, en un 50%, a financiar los programas que desarrolle el Consejo de Salud Ocupacional y el resto a incorporar mejoras al régimen.",
+    "source_quote": "Si se presentaren excedentes, éstos pasarán a ser parte de una reserva de reparto, que se destinará, en un 50%, a financiar los programas que desarrolle el Consejo de Salud Ocupacional y el resto a incorporar mejoras al régimen.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "205",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_205",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la administración técnica del seguro por parte del Instituto Nacional de Seguros, con el objetivo de asegurar el pago de las prestaciones y mantener la estabilidad financiera del sistema.",
+    "source_quote": "El seguro de riesgos del trabajo será administrado sobre las bases técnicas que el Instituto Nacional de Seguros establezca, para garantizar el otorgamiento de las prestaciones en dinero, médico-sanitarias y de rehabilitación, así como la solidez financiera del régimen.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "205",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_205",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de distribución de los excedentes anuales, asignando la mitad a los programas del Consejo de Salud Ocupacional y el resto a mejoras del propio régimen de riesgos del trabajo.",
+    "source_quote": "Si se presentaren excedentes, éstos pasarán a ser parte de una reserva de reparto, que se destinará, en un 50%, a financiar los programas que desarrolle el Consejo de Salud Ocupacional y el resto a incorporar mejoras al régimen.",
+    "item_index": 2
+  }
+]

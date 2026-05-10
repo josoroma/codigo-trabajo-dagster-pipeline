@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 485 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 485 establece que las fotocopias de documentos o textos, incluso si no están firmadas, pueden ser valoradas como prueba en un proceso laboral. Sin embargo, esta posibilidad se pierde si la parte contra la que se presentan las impugna y, al mismo tiempo, demuestra que su contenido no es veraz o exacto.",
+    "source_quote": "Las fotocopias de documentos o textos, aunque no estén firmadas, podrán ser apreciadas como elementos probatorios, salvo que la parte a quien se oponen las haya impugnado y al mismo tiempo desvirtuado su contenido.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "485",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_485"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "485",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_485",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden las fotocopias no firmadas ser consideradas como prueba en un proceso laboral?",
+    "output": "Sí, las fotocopias de documentos o textos, aunque no estén firmadas, pueden ser apreciadas como elementos probatorios.",
+    "source_quote": "Las fotocopias de documentos o textos, aunque no estén firmadas, podrán ser apreciadas como elementos probatorios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "485",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_485",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer la parte a quien se oponen las fotocopias para que no sean valoradas como prueba?",
+    "output": "Debe impugnarlas y, al mismo tiempo, desvirtuar su contenido.",
+    "source_quote": "salvo que la parte a quien se oponen las haya impugnado y al mismo tiempo desvirtuado su contenido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "485",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_485",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la regla general de que las fotocopias sin firma tienen valor probatorio, eliminando la exigencia de original firmado para su admisibilidad.",
+    "source_quote": "Las fotocopias de documentos o textos, aunque no estén firmadas, podrán ser apreciadas como elementos probatorios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "485",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_485",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte introduce la excepción: la eficacia probatoria de las fotocopias queda condicionada a que la parte contraria no las impugne y simultáneamente demuestre la falsedad o inexactitud de su contenido.",
+    "source_quote": "salvo que la parte a quien se oponen las haya impugnado y al mismo tiempo desvirtuado su contenido.",
+    "item_index": 2
+  }
+]

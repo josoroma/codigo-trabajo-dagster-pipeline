@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 682 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 682 define quién es trabajadora del Estado, sus instituciones u órganos, incluyendo a quienes prestan servicios materiales, intelectuales o ambos, ya sea por nombramiento de autoridad competente o por contrato de trabajo en casos de derecho privado. Además, establece que los servidores públicos se rigen por sus normas estatutarias, leyes especiales y reglamentos, y supletoriamente por este Código; mientras que los trabajadores en régimen privado se rigen por el derecho laboral común, salvo disposición legal en contrario, y permite la aplicación de conciliaciones, convenciones colectivas y laudos con respeto a este Código y las limitaciones del título.",
+    "source_quote": "Trabajadora del Estado, de sus instituciones u órganos, es toda persona que preste a aquel o a estos un servicio material, intelectual o de ambos géneros, en virtud del nombramiento que le fue expedido por autoridad o funcionario competente o en virtud de un contrato de trabajo en los casos regidos por el derecho privado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "682",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_682"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "682",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_682",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es considerada trabajadora del Estado según el artículo 682?",
+    "output": "Toda persona que preste un servicio material, intelectual o de ambos géneros, en virtud de un nombramiento expedido por autoridad o funcionario competente, o en virtud de un contrato de trabajo en los casos regidos por el derecho privado.",
+    "source_quote": "Trabajadora del Estado, de sus instituciones u órganos, es toda persona que preste a aquel o a estos un servicio material, intelectual o de ambos géneros, en virtud del nombramiento que le fue expedido por autoridad o funcionario competente o en virtud de un contrato de trabajo en los casos regidos por el derecho privado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "682",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_682",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normas rigen a los servidores de naturaleza pública según este artículo?",
+    "output": "Se rigen por las normas estatutarias correspondientes, leyes especiales y normas reglamentarias aplicables, y por este Código en todo lo no contemplado en esas otras disposiciones.",
+    "source_quote": "Los servidores de naturaleza pública se rigen por las normas estatutarias correspondientes, leyes especiales y normas reglamentarias aplicables y por este Código, en todo lo no contemplado en esas otras disposiciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "682",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_682",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de trabajadora del Estado, delimitando el ámbito personal de aplicación del título undécimo del Código, al incluir tanto a quienes son nombrados por autoridad competente como a quienes se vinculan mediante contrato de trabajo en el régimen privado.",
+    "source_quote": "Trabajadora del Estado, de sus instituciones u órganos, es toda persona que preste a aquel o a estos un servicio material, intelectual o de ambos géneros, en virtud del nombramiento que le fue expedido por autoridad o funcionario competente o en virtud de un contrato de trabajo en los casos regidos por el derecho privado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "682",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_682",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el régimen jurídico aplicable a los distintos tipos de trabajadores: para los servidores públicos, un sistema de fuentes escalonado que culmina con la aplicación supletoria del Código; para los trabajadores en régimen privado, la primacía del derecho laboral común, salvo excepción legal expresa.",
+    "source_quote": "Los servidores de naturaleza pública se rigen por las normas estatutarias correspondientes, leyes especiales y normas reglamentarias aplicables y por este Código, en todo lo no contemplado en esas otras disposiciones. Las relaciones con las personas trabajadoras en régimen privado se regirán por el derecho laboral común y disposiciones conexas, salvo que la ley disponga otra cosa.",
+    "item_index": 2
+  }
+]

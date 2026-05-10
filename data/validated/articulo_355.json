@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 355 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 355 regula la disolución de una asociación sindical. Establece que, en todo caso de disolución, el Ministerio de Trabajo y de Seguridad Social debe nombrar una Junta Liquidadora compuesta por tres personas honorables y competentes. El Presidente de esta junta será necesariamente el Jefe de la Oficina de Sindicatos de dicho Ministerio. Los liquidadores actúan como mandatarios de la asociación y deben seguir, en orden, el procedimiento fijado por los estatutos, por el Ministerio o, en su defecto, por las leyes comunes en lo aplicable.",
+    "source_quote": "En todo caso de disolución corresponde al Ministerio de Trabajo y de Seguridad Social nombrar una Junta Liquidadora, integrada por tres personas honorables y competentes, una de las cuales actuará como Presidente y será el Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "355",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_355"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "355",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_355",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién nombra la Junta Liquidadora cuando se disuelve un sindicato?",
+    "output": "El Ministerio de Trabajo y de Seguridad Social.",
+    "source_quote": "En todo caso de disolución corresponde al Ministerio de Trabajo y de Seguridad Social nombrar una Junta Liquidadora",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "355",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_355",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué cargo debe ocupar la persona que preside la Junta Liquidadora?",
+    "output": "Debe ser el Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "una de las cuales actuará como Presidente y será el Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "355",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_355",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa a la autoridad competente para constituir el órgano de liquidación, fija su composición numérica y cualitativa, y establece que la presidencia recae obligatoriamente en un funcionario público específico, garantizando así control estatal en el proceso.",
+    "source_quote": "En todo caso de disolución corresponde al Ministerio de Trabajo y de Seguridad Social nombrar una Junta Liquidadora, integrada por tres personas honorables y competentes, una de las cuales actuará como Presidente y será el Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "355",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_355",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la naturaleza jurídica de los liquidadores como representantes legales de la asociación disuelta y establece un orden jerárquico de fuentes normativas (estatutos, disposiciones ministeriales y leyes comunes) para regir el procedimiento de liquidación.",
+    "source_quote": "Los liquidadores, en conjunto, se reputarán mandatarios de la asociación; seguirán para cumplir su cometido el procedimiento indicado por los estatutos o por el respectivo Ministerio y, subsidiariamente, se sujetarán al que establecen las leyes comunes, en lo que fuere aplicable.",
+    "item_index": 2
+  }
+]

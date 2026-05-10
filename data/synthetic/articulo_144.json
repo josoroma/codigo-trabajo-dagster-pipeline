@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 144 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 144 impone a los patronos la obligación de anotar en sus libros de salarios o planillas, de manera separada de los pagos por trabajo ordinario, las sumas que abonen a cada trabajador por concepto de trabajo extraordinario.",
+    "source_quote": "Los patronos deberán consignar en sus libros de salarios o planillas, debidamente separado de lo que se refiera a trabajo ordinario, lo que a cada uno de sus trabajadores paguen por concepto de trabajo extraordinario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "144",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_144"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "144",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_144",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben registrar los patronos en sus libros de salarios o planillas según el artículo 144?",
+    "output": "Deben registrar lo que paguen a cada trabajador por concepto de trabajo extraordinario, de forma separada de los pagos por trabajo ordinario.",
+    "source_quote": "Los patronos deberán consignar en sus libros de salarios o planillas, debidamente separado de lo que se refiera a trabajo ordinario, lo que a cada uno de sus trabajadores paguen por concepto de trabajo extraordinario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "144",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_144",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe aparecer el pago por trabajo extraordinario en los registros del patrono?",
+    "output": "Debe aparecer debidamente separado de lo que corresponda a trabajo ordinario.",
+    "source_quote": "debidamente separado de lo que se refiera a trabajo ordinario",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "144",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_144",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación patronal de llevar un registro contable diferenciado, impidiendo que las remuneraciones por jornada extraordinaria se confundan con las ordinarias, lo que facilita la fiscalización del cumplimiento de derechos laborales.",
+    "source_quote": "Los patronos deberán consignar en sus libros de salarios o planillas, debidamente separado de lo que se refiera a trabajo ordinario",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "144",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_144",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Individualiza la obligación, exigiendo que el registro detalle los montos pagados por trabajo extraordinario respecto de cada trabajador, garantizando transparencia y precisión en la documentación laboral.",
+    "source_quote": "lo que a cada uno de sus trabajadores paguen por concepto de trabajo extraordinario",
+    "item_index": 2
+  }
+]

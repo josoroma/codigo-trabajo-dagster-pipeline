@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 362 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 362 establece sanciones económicas para los sindicatos. Por un lado, si un sindicato incumple ciertas obligaciones específicas (las de los artículos 273 párrafo primero, 275 inciso j) y 279) después de haber sido apercibido una vez, se le impone una multa de ochenta a ciento veinte colones. Por otro lado, la misma multa se aplica sin necesidad de advertencia previa cada vez que el sindicato infrinja cualquier disposición prohibitiva del Código de Trabajo que no tenga ya una sanción distinta.",
+    "source_quote": "En caso de que un sindicato incumpla, después de percibido por una sola vez, las obligaciones de que hablan los artículos 273, párrafo primero, 275, inciso j) y 279, le será impuesta una multa de ochenta a ciento veinte colones. Igual pena se les aplicará, sin necesidad de advertencia previa, cada vez que infrinjan alguna disposición prohibitiva del presente Código, no sancionada en otra forma.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "362",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_362"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "362",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_362",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué multa se impone a un sindicato que incumple las obligaciones de los artículos 273, párrafo primero, 275, inciso j) y 279 después de haber sido apercibido una vez?",
+    "output": "Una multa de ochenta a ciento veinte colones.",
+    "source_quote": "le será impuesta una multa de ochenta a ciento veinte colones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "362",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_362",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se requiere advertencia previa para sancionar a un sindicato que infringe una disposición prohibitiva del Código no sancionada en otra forma?",
+    "output": "No, la pena se aplica sin necesidad de advertencia previa.",
+    "source_quote": "Igual pena se les aplicará, sin necesidad de advertencia previa, cada vez que infrinjan alguna disposición prohibitiva del presente Código, no sancionada en otra forma.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "362",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_362",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una sanción pecuniaria para los sindicatos que, tras un único apercibimiento, incumplan obligaciones específicas relacionadas con la presentación de informes, registros o documentación sindical.",
+    "source_quote": "En caso de que un sindicato incumpla, después de percibido por una sola vez, las obligaciones de que hablan los artículos 273, párrafo primero, 275, inciso j) y 279, le será impuesta una multa de ochenta a ciento veinte colones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "362",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_362",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la misma multa a cualquier violación de normas prohibitivas del Código de Trabajo, aplicable de manera inmediata y sin apercibimiento, siempre que la infracción no tenga una sanción distinta prevista en la ley.",
+    "source_quote": "Igual pena se les aplicará, sin necesidad de advertencia previa, cada vez que infrinjan alguna disposición prohibitiva del presente Código, no sancionada en otra forma.",
+    "item_index": 2
+  }
+]

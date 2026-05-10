@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 632 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 632 regula el paso de la conciliación al arbitraje en conflictos laborales. Dispone que si los delegados acuerdan someter el caso a arbitraje, todos los documentos, pruebas y actas de la conciliación se usarán como base en el juicio arbitral. Además, si se logró un arreglo conciliatorio parcial, el arbitraje solo se ocupará de los puntos no acordados, y el laudo final deberá incorporar ese acuerdo parcial como parte integral.",
+    "source_quote": "Si los delegados convinieran en someter la cuestión a arbitraje, todos los documentos, pruebas y actas que se hayan aportado o levantado durante la conciliación servirán de base para el juicio correspondiente. Si hubiera un arreglo conciliatorio parcial, el sometimiento al arbitraje procederá únicamente sobre los puntos no convenidos en el proceso de conciliación, por lo que el laudo incorporará como parte integral el arreglo conciliatorio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "632",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_632"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "632",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_632",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con los documentos y pruebas de la conciliación si las partes deciden someter el caso a arbitraje?",
+    "output": "Todos los documentos, pruebas y actas aportados o levantados durante la conciliación servirán de base para el juicio arbitral.",
+    "source_quote": "todos los documentos, pruebas y actas que se hayan aportado o levantado durante la conciliación servirán de base para el juicio correspondiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "632",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_632",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Si durante la conciliación se logra un acuerdo parcial, ¿cómo se procede con el arbitraje?",
+    "output": "El arbitraje procederá únicamente sobre los puntos no convenidos, y el laudo incorporará como parte integral el arreglo conciliatorio.",
+    "source_quote": "Si hubiera un arreglo conciliatorio parcial, el sometimiento al arbitraje procederá únicamente sobre los puntos no convenidos en el proceso de conciliación, por lo que el laudo incorporará como parte integral el arreglo conciliatorio.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "632",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_632",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el material probatorio de la conciliación se traslada al arbitraje, evitando duplicidad y aprovechando lo ya actuado.",
+    "source_quote": "Si los delegados convinieran en someter la cuestión a arbitraje, todos los documentos, pruebas y actas que se hayan aportado o levantado durante la conciliación servirán de base para el juicio correspondiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "632",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_632",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el arbitraje parcial, limitándolo a los puntos no acordados y obligando a que el laudo incluya el acuerdo conciliatorio previo, dándole fuerza integral.",
+    "source_quote": "Si hubiera un arreglo conciliatorio parcial, el sometimiento al arbitraje procederá únicamente sobre los puntos no convenidos en el proceso de conciliación, por lo que el laudo incorporará como parte integral el arreglo conciliatorio.",
+    "item_index": 2
+  }
+]

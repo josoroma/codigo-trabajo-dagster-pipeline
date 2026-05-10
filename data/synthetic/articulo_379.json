@@ -1,0 +1,109 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 379 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 379 regula los efectos de la huelga sobre los contratos de trabajo y las sanciones disciplinarias. Establece que el despido u otras sanciones solo proceden después de que la huelga sea declarada ilegal, excepto en servicios esenciales, donde pueden ejecutarse desde que quede firme la orden judicial del artículo 375 bis. Durante la huelga, los contratos se suspenden: el trabajador no presta servicios y el patrono no paga salarios. Si en sentencia final se determina que la huelga fue por culpa grave del patrono, este debe pagar los salarios de los días de huelga, salvo en servicios esenciales, donde nunca se condena al patrono a ese pago. Además, se regula la amortización de salarios sujetos a reembolso y la posibilidad de reponer el tiempo no laborado en el sector público, bajo ciertas condiciones.",
+    "source_quote": "La terminación de los contratos de trabajo o cualquier otra sanción disciplinaria que corresponda, solo será procedente a partir de la declaratoria de ilegalidad de la huelga.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo es procedente la terminación de los contratos de trabajo o la aplicación de sanciones disciplinarias en el contexto de una huelga?",
+    "output": "Solo es procedente a partir de la declaratoria de ilegalidad de la huelga.",
+    "source_quote": "La terminación de los contratos de trabajo o cualquier otra sanción disciplinaria que corresponda, solo será procedente a partir de la declaratoria de ilegalidad de la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con los contratos de trabajo de los trabajadores que participan en una huelga?",
+    "output": "La huelga suspende los contratos de trabajo, por lo que los trabajadores no están obligados a prestar servicios ni el empleador al pago de las remuneraciones.",
+    "source_quote": "La huelga suspende los contratos de trabajo respecto de los trabajadores que se encuentren participando del movimiento; en consecuencia, dichos trabajadores no estarán obligados a prestar sus servicios ni el empleador al pago de las remuneraciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso el patrono debe pagar los salarios correspondientes a los días de huelga?",
+    "output": "Si en sentencia final se declara que los motivos de la huelga son imputables al patrono por incumplimientos graves del contrato de trabajo.",
+    "source_quote": "Si en sentencia final se declara que los motivos de la huelga son imputables al patrono por incumplimientos graves del contrato de trabajo, el patrono deberá pagar los salarios correspondientes a los días que haya durado la huelga.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede ser condenado el patrono al pago de salarios si la huelga se declaró en servicios esenciales?",
+    "output": "No, en ningún caso será condenado el patrono al pago de los salarios de los trabajadores que hubieran declarado una huelga en servicios esenciales.",
+    "source_quote": "En ningún caso será condenado el patrono al pago de los salarios de los trabajadores que hubieran declarado una huelga en servicios esenciales.",
+    "item_index": 4
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una protección para los trabajadores huelguistas, impidiendo despidos o sanciones antes de que una autoridad declare ilegal la huelga, garantizando así el ejercicio del derecho de huelga sin represalias prematuras.",
+    "source_quote": "La terminación de los contratos de trabajo o cualquier otra sanción disciplinaria que corresponda, solo será procedente a partir de la declaratoria de ilegalidad de la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el efecto jurídico inmediato de la huelga sobre la relación laboral: una suspensión que libera temporalmente a ambas partes de sus obligaciones principales (trabajar y pagar), sin extinguir el vínculo contractual.",
+    "source_quote": "La huelga suspende los contratos de trabajo respecto de los trabajadores que se encuentren participando del movimiento; en consecuencia, dichos trabajadores no estarán obligados a prestar sus servicios ni el empleador al pago de las remuneraciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una consecuencia económica al patrono cuando la huelga se origina por su culpa grave, restituyendo a los trabajadores los salarios perdidos durante el conflicto como medida de justicia retributiva.",
+    "source_quote": "Si en sentencia final se declara que los motivos de la huelga son imputables al patrono por incumplimientos graves del contrato de trabajo, el patrono deberá pagar los salarios correspondientes a los días que haya durado la huelga.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "379",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_379",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Excluye de manera absoluta la responsabilidad patronal de pagar salarios caídos en huelgas de servicios esenciales, dada la prohibición o restricción especial de estas huelgas por su impacto en la comunidad.",
+    "source_quote": "En ningún caso será condenado el patrono al pago de los salarios de los trabajadores que hubieran declarado una huelga en servicios esenciales.",
+    "item_index": 4
+  }
+]

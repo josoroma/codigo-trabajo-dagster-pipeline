@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 697 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 697 regula la negociación de convenciones colectivas que aplicarán a más de una empresa o institución. Permite la participación de sindicatos gremiales, industriales o de empresa que tengan afiliados en al menos una de las entidades del sector, siempre que cuenten con una afiliación certificada por el Ministerio de Trabajo y Seguridad Social de al menos el 20% del total de sindicalizados en alguna de esas empresas o instituciones. Además, establece que el número de representantes sindicales en la mesa negociadora se asigna proporcionalmente a la afiliación total del sector: un representante por cada mil trabajadores afiliados, con un mínimo de un representante. Las decisiones se toman por mayoría simple, con un voto por cada representante.",
+    "source_quote": "En el caso de convenciones colectivas que vayan a regir en más de una empresa o institución, podrán participar de la negociación todos aquellos sindicatos con afiliación en al menos una de las empresas o instituciones del sector, ya sea que se trate de sindicatos gremiales, industriales o de empresa, siempre y cuando alcancen una filiación debidamente certificada por el Ministerio de Trabajo y Seguridad Social de al menos un veinte por ciento (20%) del total de sindicalizados de alguna de las empresas o instituciones del sector comprendido en la negociación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "697",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_697"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "697",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_697",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito de afiliación deben cumplir los sindicatos para participar en la negociación de una convención colectiva que regirá en más de una empresa o institución?",
+    "output": "Deben tener una afiliación debidamente certificada por el Ministerio de Trabajo y Seguridad Social de al menos un veinte por ciento (20%) del total de sindicalizados de alguna de las empresas o instituciones del sector comprendido en la negociación.",
+    "source_quote": "siempre y cuando alcancen una filiación debidamente certificada por el Ministerio de Trabajo y Seguridad Social de al menos un veinte por ciento (20%) del total de sindicalizados de alguna de las empresas o instituciones del sector comprendido en la negociación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "697",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_697",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se determina el número de representantes sindicales en la mesa negociadora según el artículo 697?",
+    "output": "Se asigna una persona como representante sindical por cada mil trabajadores o trabajadoras afiliados en el sector, con derecho a contar al menos con un representante sindical.",
+    "source_quote": "se asignará en la mesa negociadora una persona como representante sindical por cada mil trabajadores o trabajadoras afiliados en el sector, en cuyo caso tendrá derecho a contar al menos con un representante sindical.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "697",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_697",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los sujetos legitimados para negociar convenciones colectivas de alcance multisectorial, exigiendo una representatividad mínima del 20% en al menos una de las entidades involucradas, lo que garantiza que los sindicatos participantes tengan un respaldo significativo de los trabajadores.",
+    "source_quote": "En el caso de convenciones colectivas que vayan a regir en más de una empresa o institución, podrán participar de la negociación todos aquellos sindicatos con afiliación en al menos una de las empresas o instituciones del sector, ya sea que se trate de sindicatos gremiales, industriales o de empresa, siempre y cuando alcancen una filiación debidamente certificada por el Ministerio de Trabajo y Seguridad Social de al menos un veinte por ciento (20%) del total de sindicalizados de alguna de las empresas o instituciones del sector comprendido en la negociación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "697",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_697",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de representación proporcional en la mesa negociadora, asegurando que la cantidad de negociadores refleje el tamaño de la afiliación sindical, y establece un sistema democrático de toma de decisiones por mayoría simple con igualdad de voto entre representantes.",
+    "source_quote": "El número de negociadores será acreditado ante la institución o las empresas que participen de la negociación en proporción a la afiliación sindical total que tengan los sindicatos del sector en su conjunto, se asignará en la mesa negociadora una persona como representante sindical por cada mil trabajadores o trabajadoras afiliados en el sector, en cuyo caso tendrá derecho a contar al menos con un representante sindical. Las decisiones de la representación de los trabajadores y trabajadoras se tomarán bajo el criterio de un voto por cada representante sindical y atenderán a la voluntad de la mayoría simple de los votos escrutados en cada votación que sea necesaria.",
+    "item_index": 2
+  }
+]

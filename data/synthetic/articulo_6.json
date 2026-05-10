@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 6 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 6 establece que en toda empresa, sin importar su tipo, las órdenes, instrucciones y disposiciones dirigidas a los trabajadores deben darse en idioma español.",
+    "source_quote": "En toda empresa, cualquiera que sea su naturaleza, las órdenes, instrucciones y disposiciones que se dirijan a los trabajadores de la misma, deberán darse en idioma español.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "6",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_6"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "6",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_6",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué idioma deben darse las órdenes a los trabajadores según el artículo 6?",
+    "output": "Las órdenes, instrucciones y disposiciones deben darse en idioma español.",
+    "source_quote": "las órdenes, instrucciones y disposiciones que se dirijan a los trabajadores de la misma, deberán darse en idioma español.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "6",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_6",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de empresas aplica la obligación de dar instrucciones en español?",
+    "output": "Aplica a toda empresa, cualquiera que sea su naturaleza.",
+    "source_quote": "En toda empresa, cualquiera que sea su naturaleza",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "6",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_6",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el ámbito de aplicación universal de la norma, indicando que la obligación rige para todo tipo de empresa sin excepción.",
+    "source_quote": "En toda empresa, cualquiera que sea su naturaleza",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "6",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_6",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación concreta de utilizar el idioma español como lengua oficial para la comunicación de directrices laborales, garantizando claridad y uniformidad en las relaciones de trabajo.",
+    "source_quote": "las órdenes, instrucciones y disposiciones que se dirijan a los trabajadores de la misma, deberán darse en idioma español.",
+    "item_index": 2
+  }
+]

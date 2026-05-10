@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 455 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 455 permite que el Colegio de Abogados y otras organizaciones gremiales establezcan centros o redes de asistencia legal gratuita con fines sociales. La persona designada para un caso actúa como directora profesional con todas las responsabilidades, y sus honorarios nunca son pagados por el Poder Judicial. Las organizaciones definen internamente cómo se presta el servicio, pudiendo acordar honorarios menores a las tarifas o un salario. Si la parte patrocinada gana, las costas personales impuestas a la parte contraria corresponden totalmente al abogado, salvo pacto en contrario.",
+    "source_quote": "El Colegio de Abogados y cualquier otra organización gremial pueden constituir por su cuenta centros o redes de asistencia legal gratuita con fines de servicio social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "455",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_455"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "455",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_455",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden constituir centros de asistencia legal gratuita según el artículo 455?",
+    "output": "El Colegio de Abogados y cualquier otra organización gremial.",
+    "source_quote": "El Colegio de Abogados y cualquier otra organización gremial pueden constituir por su cuenta centros o redes de asistencia legal gratuita con fines de servicio social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "455",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_455",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién corresponden las costas personales si la parte patrocinada resulta victoriosa?",
+    "output": "Le corresponden de forma total al abogado o la abogada, salvo pacto en contrario.",
+    "source_quote": "En el caso de resultar victoriosa la parte patrocinada, las costas personales que se le impongan a la contraria le corresponderán de forma total, salvo pacto en contrario, al abogado o la abogada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "455",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_455",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Autoriza a estas entidades a crear servicios de asistencia legal gratuita para cumplir una función social.",
+    "source_quote": "El Colegio de Abogados y cualquier otra organización gremial pueden constituir por su cuenta centros o redes de asistencia legal gratuita con fines de servicio social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "455",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_455",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el abogado que brinda el servicio recibe las costas personales si gana el caso, incentivando la prestación del servicio gratuito, aunque permite pactos diferentes.",
+    "source_quote": "En el caso de resultar victoriosa la parte patrocinada, las costas personales que se le impongan a la contraria le corresponderán de forma total, salvo pacto en contrario, al abogado o la abogada.",
+    "item_index": 2
+  }
+]

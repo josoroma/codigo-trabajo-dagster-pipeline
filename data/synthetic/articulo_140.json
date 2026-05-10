@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 140 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo regula el límite máximo de la jornada laboral cuando se trabaja tiempo extraordinario. Establece que la suma de la jornada ordinaria y la extraordinaria no puede superar las doce horas. No obstante, contempla una excepción: se permite exceder ese límite cuando ocurre un siniestro o existe un riesgo inminente que ponga en peligro a las personas, los establecimientos, las máquinas, las instalaciones, los plantíos, los productos o las cosechas, siempre que no sea posible sustituir a los trabajadores o suspender las labores sin causar un perjuicio evidente.",
+    "source_quote": "La jornada extraordinaria, sumada a la ordinaria, no podrá exceder de doce horas, salvo que por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas y que, sin evidente perjuicio, no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "140",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_140"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "140",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_140",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de horas que puede sumar la jornada ordinaria y la extraordinaria según el artículo 140?",
+    "output": "No puede exceder de doce horas.",
+    "source_quote": "La jornada extraordinaria, sumada a la ordinaria, no podrá exceder de doce horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "140",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_140",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situaciones excepcionales se permite superar ese límite de doce horas?",
+    "output": "Cuando por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas, y que sin evidente perjuicio no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.",
+    "source_quote": "salvo que por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas y que, sin evidente perjuicio, no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "140",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_140",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el límite máximo de la jornada laboral total cuando se labora tiempo extraordinario, con el fin de proteger la salud y el descanso del trabajador.",
+    "source_quote": "La jornada extraordinaria, sumada a la ordinaria, no podrá exceder de doce horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "140",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_140",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define una excepción justificada por fuerza mayor o caso fortuito, permitiendo extender la jornada para evitar daños graves a personas o bienes, siempre que no sea factible reemplazar a los trabajadores o detener la actividad sin un perjuicio evidente.",
+    "source_quote": "salvo que por siniestro ocurrido o riesgo inminente peligren las personas, los establecimientos, las máquinas o instalaciones, los plantíos, los productos o cosechas y que, sin evidente perjuicio, no puedan sustituirse los trabajadores o suspenderse las labores de los que están trabajando.",
+    "item_index": 2
+  }
+]

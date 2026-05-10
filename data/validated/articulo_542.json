@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 542 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 542 regula la presentación de la solicitud de tutela ante el juzgado de trabajo competente, la cual debe interponerse mientras subsistan las medidas o efectos violatorios. En casos de despido con violación del debido proceso, la tutela prescribe a los seis meses. La firma del solicitante no necesita autenticación de un profesional en derecho si se presenta personalmente el libelo, pero si hay debate en audiencia se requiere patrocinio letrado. La petición debe cumplir los requisitos de la demanda, salvo el agotamiento de la vía administrativa, e incluir el nombre de la persona, institución u órgano al que se atribuye la arbitrariedad.",
+    "source_quote": "La solicitud de tutela se presentará ante el juzgado de trabajo competente, mientras subsistan las medidas o los efectos que provocan la violación contra la cual se reclama.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "542",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_542"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "542",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_542",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de prescripción para la tutela por violación del debido proceso en caso de despido?",
+    "output": "El plazo de prescripción es de seis meses.",
+    "source_quote": "La aplicación de tutela por violación del debido proceso, en el caso de despido, se regirá por el plazo de prescripción de seis meses.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "542",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_542",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se requiere autenticación de la firma por un profesional en derecho si el solicitante presenta personalmente el libelo?",
+    "output": "No, la firma no requiere ser autenticada por un profesional en derecho si la persona interesada presenta personalmente el respectivo libelo.",
+    "source_quote": "La firma del solicitante no requiere ser autenticada por la de un profesional o una profesional en derecho, si la persona interesada presenta personalmente el respectivo libelo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "542",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_542",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la competencia del juzgado de trabajo y la condición temporal para interponer la tutela, exigiendo que la violación o sus efectos estén vigentes al momento de la solicitud.",
+    "source_quote": "La solicitud de tutela se presentará ante el juzgado de trabajo competente, mientras subsistan las medidas o los efectos que provocan la violación contra la cual se reclama.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "542",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_542",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Facilita el acceso a la justicia al eximir de la autenticación notarial cuando el solicitante comparece personalmente, pero garantiza la defensa técnica mediante patrocinio letrado si el asunto llega a debate en audiencia.",
+    "source_quote": "La firma del solicitante no requiere ser autenticada por la de un profesional o una profesional en derecho, si la persona interesada presenta personalmente el respectivo libelo; pero si fuera necesario debatir en audiencia, debe contarse con patrocinio letrado.",
+    "item_index": 2
+  }
+]

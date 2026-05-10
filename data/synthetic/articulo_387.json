@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 387 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 387 define el paro legal o cierre patronal como una suspensión temporal del trabajo, ordenada por dos o más empleadores, de manera pacífica y con el único fin de defender sus intereses económicos y sociales comunes. Además, establece que el paro debe ser total en las empresas, establecimientos o negocios donde se declare.",
+    "source_quote": "Paro legal o cierre patronal es la suspensión temporal del trabajo ordenado por dos o más empleadores o empleadoras, de forma pacífica y con el exclusivo propósito de defender sus intereses económicos y sociales comunes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "387",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_387"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "387",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_387",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué es el paro legal o cierre patronal según el artículo 387?",
+    "output": "Es la suspensión temporal del trabajo ordenada por dos o más empleadores, de forma pacífica y con el exclusivo propósito de defender sus intereses económicos y sociales comunes.",
+    "source_quote": "Paro legal o cierre patronal es la suspensión temporal del trabajo ordenado por dos o más empleadores o empleadoras, de forma pacífica y con el exclusivo propósito de defender sus intereses económicos y sociales comunes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "387",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_387",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué alcance debe tener el paro legal según este artículo?",
+    "output": "El paro comprenderá siempre el paro total de las empresas, los establecimientos o los negocios en que se declare.",
+    "source_quote": "El paro comprenderá siempre el paro total de las empresas, los establecimientos o los negocios en que se declare.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "387",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_387",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición legal del paro o cierre patronal, indicando sus elementos esenciales: suspensión temporal, ordenada por dos o más empleadores, pacífica y con fines de defensa de intereses económicos y sociales comunes.",
+    "source_quote": "Paro legal o cierre patronal es la suspensión temporal del trabajo ordenado por dos o más empleadores o empleadoras, de forma pacífica y con el exclusivo propósito de defender sus intereses económicos y sociales comunes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "387",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_387",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina que el paro debe ser total, abarcando toda la empresa, establecimiento o negocio, sin posibilidad de paros parciales.",
+    "source_quote": "El paro comprenderá siempre el paro total de las empresas, los establecimientos o los negocios en que se declare.",
+    "item_index": 2
+  }
+]

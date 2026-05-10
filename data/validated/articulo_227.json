@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 227 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 227 define las hernias del trabajo como aquellas que se originan por un traumatismo violento en el trabajo que cause los síntomas típicos de una hernia. También incluye las hernias que aparecen en trabajadores con predisposición, cuando sufren un traumatismo o esfuerzo imprevisto y superior al habitual en su labor, sin perjuicio de lo dispuesto sobre el abdomen en el artículo 224. Para calificar cada caso, se deben considerar los antecedentes personales, el historial clínico, las circunstancias del accidente, la naturaleza del trabajo, los síntomas y las características de la hernia.",
+    "source_quote": "Se considerarán hernias del trabajo aquellas relacionadas con un traumatismo violento sufrido en el trabajo, que ocasione las dolencias típicas que médicamente les son atribuibles. También constituyen hernias del trabajo las que sobrevengan a trabajadores predispuestos, como consecuencia de un traumatismo o esfuerzo imprevisto, superior al que habitualmente se acostumbra en el trabajo, sin perjuicio de lo señalado en el artículo 224, sobre el abdomen. Para la calificación concreta, en cada caso, se tomarán en cuenta los antecedentes personales del sujeto observado, su historial clínico, las circunstancias del accidente, la naturaleza del trabajo, los síntomas observados y las características propias de la hernia producida.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "227",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_227"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "227",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_227",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los dos tipos de hernias que se consideran del trabajo según el artículo 227?",
+    "output": "Las hernias relacionadas con un traumatismo violento sufrido en el trabajo que cause las dolencias típicas, y las que sobrevengan a trabajadores predispuestos como consecuencia de un traumatismo o esfuerzo imprevisto superior al habitual en el trabajo.",
+    "source_quote": "Se considerarán hernias del trabajo aquellas relacionadas con un traumatismo violento sufrido en el trabajo, que ocasione las dolencias típicas que médicamente les son atribuibles. También constituyen hernias del trabajo las que sobrevengan a trabajadores predispuestos, como consecuencia de un traumatismo o esfuerzo imprevisto, superior al que habitualmente se acostumbra en el trabajo...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "227",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_227",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores se deben tomar en cuenta para la calificación concreta de una hernia del trabajo?",
+    "output": "Se deben considerar los antecedentes personales del sujeto, su historial clínico, las circunstancias del accidente, la naturaleza del trabajo, los síntomas observados y las características propias de la hernia producida.",
+    "source_quote": "Para la calificación concreta, en cada caso, se tomarán en cuenta los antecedentes personales del sujeto observado, su historial clínico, las circunstancias del accidente, la naturaleza del trabajo, los síntomas observados y las características propias de la hernia producida.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "227",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_227",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la primera categoría de hernia laboral, exigiendo un nexo causal directo entre un traumatismo violento en el entorno laboral y los síntomas clínicos característicos de una hernia, según criterio médico.",
+    "source_quote": "Se considerarán hernias del trabajo aquellas relacionadas con un traumatismo violento sufrido en el trabajo, que ocasione las dolencias típicas que médicamente les son atribuibles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "227",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_227",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la definición para incluir hernias en trabajadores con predisposición, siempre que el desencadenante sea un evento imprevisto y de magnitud superior a la carga laboral ordinaria, y remite al artículo 224 para consideraciones específicas sobre el abdomen, integrando así la normativa sobre riesgos del trabajo.",
+    "source_quote": "También constituyen hernias del trabajo las que sobrevengan a trabajadores predispuestos, como consecuencia de un traumatismo o esfuerzo imprevisto, superior al que habitualmente se acostumbra en el trabajo, sin perjuicio de lo señalado en el artículo 224, sobre el abdomen.",
+    "item_index": 2
+  }
+]

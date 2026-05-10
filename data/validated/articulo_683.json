@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 683 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 683 extiende el pago de las prestaciones previstas en los artículos 28, 29 y 31 del Código de Trabajo a todos los servidores públicos, pero establece que existen excepciones derivadas del mismo Código o de leyes especiales. Luego enumera de forma taxativa una serie de cargos públicos que quedan excluidos de ese pago, como el Presidente de la República, diputados, ministros, magistrados, entre otros.",
+    "source_quote": "El concepto del artículo anterior comprende, en cuanto al pago de prestaciones que prevén los artículos 28, 29 y 31, en su caso, a todos los servidores públicos, con las excepciones que resulten de este Código y de leyes o disposiciones especiales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "683",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_683"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "683",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_683",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Están excluidos los alcaldes municipales del pago de estas prestaciones?",
+    "output": "Sí, los alcaldes municipales están expresamente excluidos según el inciso 2) del artículo 683.",
+    "source_quote": "2) Las diputadas, los diputados, los alcaldes municipales, los regidores municipales y cualquier otro servidor público de elección popular.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "683",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_683",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el alcance general de la obligación de pago de prestaciones a los servidores públicos, remitiendo a las excepciones legales para delimitar su aplicación.",
+    "source_quote": "El concepto del artículo anterior comprende, en cuanto al pago de prestaciones que prevén los artículos 28, 29 y 31, en su caso, a todos los servidores públicos, con las excepciones que resulten de este Código y de leyes o disposiciones especiales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "683",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_683",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una exclusión específica para los máximos cargos del Poder Ejecutivo, indicando que no gozan de las prestaciones mencionadas, lo que refleja la intención de limitar esos beneficios a ciertos funcionarios de alto nivel.",
+    "source_quote": "En particular se excluyen de dicho pago: 1) El presidente o la presidenta y los vicepresidentes o las vicepresidentas de la República.",
+    "item_index": 2
+  }
+]

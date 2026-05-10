@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 621 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 621 establece los requisitos que debe cumplir el pliego de peticiones en un conflicto laboral. Exige que se expongan claramente las peticiones, a quiénes se dirigen, las quejas, el número de personas trabajadoras o empleadoras que las apoyan, la ubicación exacta de los lugares de trabajo donde surgió la controversia, la cantidad de trabajadores que prestan servicios allí, el nombre y apellido de los delegados y la fecha. Además, obliga a señalar en el mismo pliego un medio para notificaciones conforme a la legislación sobre notificaciones.",
+    "source_quote": "El pliego que se presente expondrá claramente en qué consisten las peticiones y a quién o a quiénes se dirigen, cuáles son las quejas, el número de personas trabajadoras o de empleadoras que las apoyan, la situación exacta de los lugares de trabajo donde ha surgido la controversia, la cantidad de trabajadores que en estos prestan servicios, el nombre y el apellido de los delegados y la fecha.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "621",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_621"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "621",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_621",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe contener el pliego de peticiones según el artículo 621?",
+    "output": "Debe exponer claramente en qué consisten las peticiones, a quién o a quiénes se dirigen, cuáles son las quejas, el número de personas trabajadoras o empleadoras que las apoyan, la situación exacta de los lugares de trabajo donde ha surgido la controversia, la cantidad de trabajadores que prestan servicios en esos lugares, el nombre y apellido de los delegados y la fecha.",
+    "source_quote": "El pliego que se presente expondrá claramente en qué consisten las peticiones y a quién o a quiénes se dirigen, cuáles son las quejas, el número de personas trabajadoras o de empleadoras que las apoyan, la situación exacta de los lugares de trabajo donde ha surgido la controversia, la cantidad de trabajadores que en estos prestan servicios, el nombre y el apellido de los delegados y la fecha.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "621",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_621",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben señalar los interesados en el pliego de peticiones para efectos de notificaciones?",
+    "output": "Deben señalar para notificaciones de la forma establecida en la legislación sobre notificaciones.",
+    "source_quote": "En el mismo pliego de peticiones los interesados señalarán para notificaciones de la forma establecida en la legislación sobre notificaciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "621",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_621",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita establece el contenido obligatorio del pliego de peticiones, garantizando que la autoridad y las partes conozcan con precisión los elementos del conflicto: las peticiones, los destinatarios, las quejas, el respaldo numérico, la ubicación exacta de los centros de trabajo, la cantidad de trabajadores involucrados, la identidad de los delegados y la fecha de presentación, lo que permite una tramitación ordenada y transparente.",
+    "source_quote": "El pliego que se presente expondrá claramente en qué consisten las peticiones y a quién o a quiénes se dirigen, cuáles son las quejas, el número de personas trabajadoras o de empleadoras que las apoyan, la situación exacta de los lugares de trabajo donde ha surgido la controversia, la cantidad de trabajadores que en estos prestan servicios, el nombre y el apellido de los delegados y la fecha.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "621",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_621",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición obliga a los interesados a indicar un medio de notificación conforme a la legislación vigente sobre notificaciones, asegurando que todas las comunicaciones procesales lleguen de manera efectiva y legal a las partes involucradas en el conflicto.",
+    "source_quote": "En el mismo pliego de peticiones los interesados señalarán para notificaciones de la forma establecida en la legislación sobre notificaciones.",
+    "item_index": 2
+  }
+]

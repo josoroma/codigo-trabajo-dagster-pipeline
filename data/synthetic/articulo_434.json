@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 434 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 434 establece cuándo los tribunales de Costa Rica tienen competencia para conocer de conflictos laborales con elementos internacionales. Señala cuatro supuestos: 1) cuando el trabajador está domiciliado en Costa Rica y fue contratado aquí para laborar en el extranjero, incluyendo contratos iniciados en el país y continuados fuera; 2) cuando el contrato se celebró en el extranjero pero se ejecuta de manera indefinida o por períodos que implican permanencia en Costa Rica; 3) cuando las partes pactaron contractualmente la competencia costarricense, siempre que al menos una sea costarricense y exista conexión con el territorio nacional; y 4) cuando así lo dispongan tratados internacionales o prórrogas de competencia. Además, en los tres primeros casos, se aplica la legislación costarricense en lo que sea más favorable al trabajador.",
+    "source_quote": "En materia de competencia internacional, son competentes los tribunales costarricenses: ... En los supuestos de los tres incisos anteriores, se aplicará siempre a toda la relación de trabajo la legislación nacional, en lo que resulta más favorable al trabajador o la trabajadora.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "434",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_434"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "434",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_434",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo son competentes los tribunales costarricenses para conocer de un contrato de trabajo iniciado en Costa Rica y continuado en el extranjero?",
+    "output": "Cuando la persona está domiciliada en Costa Rica y fue contratada laboralmente en el país para trabajar fuera del territorio nacional, incluyendo los contratos iniciados en el territorio nacional y continuados en otros territorios.",
+    "source_quote": "Para conocer pretensiones de personas domiciliadas en Costa Rica, contratadas laboralmente en el país para trabajar fuera del territorio nacional. Se incluyen, dentro de este supuesto, los contratos iniciados en el territorio nacional y continuados en otros territorios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "434",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_434",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué legislación se aplica a la relación laboral en los casos de los incisos 1, 2 y 3 del artículo 434?",
+    "output": "Se aplica la legislación nacional, en lo que resulte más favorable al trabajador o la trabajadora.",
+    "source_quote": "En los supuestos de los tres incisos anteriores, se aplicará siempre a toda la relación de trabajo la legislación nacional, en lo que resulta más favorable al trabajador o la trabajadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "434",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_434",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Este inciso extiende la competencia de los tribunales costarricenses a relaciones laborales que, aunque se ejecuten en el extranjero, tienen un vínculo estrecho con Costa Rica por el domicilio del trabajador y la celebración del contrato en el país, protegiendo así sus derechos.",
+    "source_quote": "Para conocer pretensiones de personas domiciliadas en Costa Rica, contratadas laboralmente en el país para trabajar fuera del territorio nacional. Se incluyen, dentro de este supuesto, los contratos iniciados en el territorio nacional y continuados en otros territorios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "434",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_434",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición garantiza la aplicación del principio de norma más favorable, asegurando que en los casos de competencia internacional basados en los incisos 1, 2 y 3, el trabajador reciba la protección de la ley costarricense cuando esta le sea más beneficiosa.",
+    "source_quote": "En los supuestos de los tres incisos anteriores, se aplicará siempre a toda la relación de trabajo la legislación nacional, en lo que resulta más favorable al trabajador o la trabajadora.",
+    "item_index": 2
+  }
+]

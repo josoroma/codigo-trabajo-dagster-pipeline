@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 255 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 255 regula la posibilidad de que el Instituto Nacional de Seguros conmute rentas a trabajadores cubiertos por el Código de Trabajo, únicamente en casos excepcionales y siempre que no se haya declarado una incapacidad total permanente. El trabajador interesado debe presentar una solicitud escrita explicando el motivo y el uso que dará al dinero. El Instituto tramita la solicitud de forma gratuita y rápida, pero realiza los estudios necesarios para decidir si la acepta o la rechaza.",
+    "source_quote": "En el caso de trabajadores que estén cubiertos por las disposiciones de este Código, el Instituto Nacional de Seguros procederá a la conmutación de rentas, en casos calificados de excepción, siempre que no se haya fijado incapacidad total permanente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "255",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_255"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "255",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_255",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe expresar el trabajador en la solicitud de conmutación de rentas?",
+    "output": "Debe expresar con claridad el motivo por el cual pide la conmutación y el uso que le dará al dinero.",
+    "source_quote": "expresando con claridad el motivo por el cual pide la conmutación y el uso que le dará al dinero.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "255",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_255",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo tramita el Instituto Nacional de Seguros las solicitudes de conmutación de rentas?",
+    "output": "Las tramita en forma gratuita y rápida, pero debe efectuar todos los estudios que a su juicio sean necesarios para resolver la gestión.",
+    "source_quote": "El Instituto tramitará esas solicitudes en forma gratuita y rápida, pero deberá efectuar todos los estudios que a su juicio sean necesarios para resolver la gestión.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "255",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_255",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el ámbito subjetivo (trabajadores bajo el Código), la autoridad competente (Instituto Nacional de Seguros) y las condiciones restrictivas para la conmutación: solo en casos excepcionales y sin incapacidad total permanente declarada.",
+    "source_quote": "En el caso de trabajadores que estén cubiertos por las disposiciones de este Código, el Instituto Nacional de Seguros procederá a la conmutación de rentas, en casos calificados de excepción, siempre que no se haya fijado incapacidad total permanente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "255",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_255",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el procedimiento de inicio a cargo del trabajador, exigiendo una solicitud formal por escrito que detalle la causa y el destino de los fondos, lo que permite al Instituto evaluar la procedencia de la petición.",
+    "source_quote": "El interesado presentará la solicitud de conmutación de rentas al Instituto Nacional de Seguros, en forma escrita, expresando con claridad el motivo por el cual pide la conmutación y el uso que le dará al dinero.",
+    "item_index": 2
+  }
+]

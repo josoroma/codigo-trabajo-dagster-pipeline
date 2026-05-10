@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 39 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 39 regula los gastos de traslado cuando un trabajador es contratado para laborar en un lugar distinto al de su residencia habitual y debe vivir en el sitio de trabajo. El patrono debe cubrir los gastos razonables de ida y retorno si hay al menos diez kilómetros de separación. Si la distancia supera los veinticinco kilómetros y la familia del trabajador se traslada a vivir con él, esos gastos también incluyen a la familia, y el trabajador recibe un día de salario por cada día de viaje de regreso. Estas obligaciones no aplican si el contrato termina por culpa o voluntad del trabajador, salvo que sea por mala salud, condiciones materiales insoportables o insalubridad del lugar.",
+    "source_quote": "Si se contrata al trabajador para servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, y éste se ve compelido a vivir en el sitio donde van a realizarse los trabajos, el patrono cumplirá con sólo cubrir los gastos razonables de ida y retorno antes y después de la vigencia del contrato, siempre que haya diez o más kilómetros de separación entre ambos puntos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "39",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_39"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "39",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_39",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo está obligado el patrono a cubrir los gastos de traslado del trabajador según el artículo 39?",
+    "output": "El patrono debe cubrir los gastos razonables de ida y retorno cuando el trabajador es contratado para laborar en un lugar distinto a su residencia habitual, debe vivir en el sitio de trabajo y hay al menos diez kilómetros de separación entre ambos puntos.",
+    "source_quote": "Si se contrata al trabajador para servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, y éste se ve compelido a vivir en el sitio donde van a realizarse los trabajos, el patrono cumplirá con sólo cubrir los gastos razonables de ida y retorno antes y después de la vigencia del contrato, siempre que haya diez o más kilómetros de separación entre ambos puntos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "39",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_39",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el trabajador con familia tiene derecho a un día de salario por cada día de viaje de regreso?",
+    "output": "Cuando el lugar de trabajo está a más de veinticinco kilómetros de la residencia original y la familia se traslada a vivir con él, el trabajador tiene derecho a un día de salario por cada día de viaje hasta su residencia inicial.",
+    "source_quote": "El trabajador con familia que esté en el caso del párrafo anterior, tendrá, además, derecho a un día de salario por cada día de viaje que tenga que efectuar hasta llegar a su residencia inicial.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "39",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_39",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de sufragar los gastos de traslado del trabajador cuando el lugar de trabajo es distante y el trabajador debe residir allí, fijando una distancia mínima de diez kilómetros como condición.",
+    "source_quote": "Si se contrata al trabajador para servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, y éste se ve compelido a vivir en el sitio donde van a realizarse los trabajos, el patrono cumplirá con sólo cubrir los gastos razonables de ida y retorno antes y después de la vigencia del contrato, siempre que haya diez o más kilómetros de separación entre ambos puntos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "39",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_39",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las excepciones a la obligación patronal, excluyendo los casos de terminación por culpa o voluntad del trabajador, pero protegiendo al trabajador cuando la causa es de salud o condiciones laborales adversas.",
+    "source_quote": "No regirá lo dispuesto en este artículo si la terminación del contrato se origina por culpa o voluntad del trabajador, salvo que éste no haya podido o querido continuar en sus labores por mala salud, por no soportar de modo evidente las condiciones materiales del trabajo o por la crecida insalubridad de los lugares.",
+    "item_index": 2
+  }
+]

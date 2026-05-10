@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 297 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 297 establece que las viviendas proporcionadas por el patrono a sus trabajadores dependientes deben cumplir con todos los requisitos que se determinen en el reglamento de la ley. Es decir, la norma delega en un reglamento la fijación de las condiciones mínimas que deben reunir dichas casas de habitación.",
+    "source_quote": "Las casas de habitación que el patrono suministre a los trabajadores dependientes de él, deberán llenar todos lo requisitos que se establezcan en el reglamento de la ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "297",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_297"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "297",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_297",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben cumplir las casas de habitación que el patrono suministra a sus trabajadores dependientes?",
+    "output": "Deben llenar todos los requisitos que se establezcan en el reglamento de la ley.",
+    "source_quote": "deberán llenar todos lo requisitos que se establezcan en el reglamento de la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "297",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_297",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de trabajadores se refiere la obligación sobre las casas de habitación?",
+    "output": "A los trabajadores dependientes del patrono.",
+    "source_quote": "los trabajadores dependientes de él",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "297",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_297",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la norma: se refiere exclusivamente a las viviendas que el empleador otorga a sus trabajadores subordinados, excluyendo otras modalidades de alojamiento o a trabajadores independientes.",
+    "source_quote": "Las casas de habitación que el patrono suministre a los trabajadores dependientes de él",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "297",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_297",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de que dichas viviendas cumplan con la totalidad de las exigencias que se definan en la normativa reglamentaria, garantizando así condiciones mínimas de habitabilidad y seguridad para los trabajadores.",
+    "source_quote": "deberán llenar todos lo requisitos que se establezcan en el reglamento de la ley",
+    "item_index": 2
+  }
+]

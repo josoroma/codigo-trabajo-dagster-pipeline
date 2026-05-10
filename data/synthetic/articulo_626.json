@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 626 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 626 regula la etapa previa a la comparecencia de conciliación. Establece que, antes de la hora fijada, el órgano conciliador debe escuchar por separado a cada parte o a sus delegados, quienes deben responder con precisión a todas las preguntas. Luego, una vez aclaradas las pretensiones, el conciliador realiza deliberaciones y, en un acta breve, propone a las partes las bases para un posible arreglo.",
+    "source_quote": "Antes de la hora señalada para la comparecencia, el órgano conciliador oirá separadamente a los interesados o delegados de cada parte, y estos responderán con precisión y amplitud a todas las preguntas que se les hagan. Una vez que hayan determinado bien las pretensiones de las partes, en un acta lacónica hará las deliberaciones necesarias y luego llamará a los delegados a dicha comparecencia, a efectos de proponerles los medios o las bases generales del arreglo que su prudencia le dicte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "626",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_626"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "626",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_626",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el órgano conciliador antes de la hora señalada para la comparecencia?",
+    "output": "Debe oír separadamente a los interesados o delegados de cada parte, y estos deben responder con precisión y amplitud a todas las preguntas que se les hagan.",
+    "source_quote": "Antes de la hora señalada para la comparecencia, el órgano conciliador oirá separadamente a los interesados o delegados de cada parte, y estos responderán con precisión y amplitud a todas las preguntas que se les hagan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "626",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_626",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre una vez que el órgano conciliador ha determinado bien las pretensiones de las partes?",
+    "output": "En un acta lacónica hará las deliberaciones necesarias y luego llamará a los delegados a la comparecencia para proponerles los medios o las bases generales del arreglo que su prudencia le dicte.",
+    "source_quote": "Una vez que hayan determinado bien las pretensiones de las partes, en un acta lacónica hará las deliberaciones necesarias y luego llamará a los delegados a dicha comparecencia, a efectos de proponerles los medios o las bases generales del arreglo que su prudencia le dicte.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "626",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_626",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición tiene como finalidad permitir al conciliador conocer de manera confidencial y detallada las posiciones de cada parte, facilitando la identificación de puntos de conflicto y posibles acuerdos antes de la reunión conjunta.",
+    "source_quote": "Antes de la hora señalada para la comparecencia, el órgano conciliador oirá separadamente a los interesados o delegados de cada parte, y estos responderán con precisión y amplitud a todas las preguntas que se les hagan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "626",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_626",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "El propósito es formalizar en un acta concisa las reflexiones del conciliador y, con base en ellas, convocar a las partes para presentar una propuesta de arreglo, promoviendo así una solución conciliatoria guiada por la prudencia del órgano conciliador.",
+    "source_quote": "Una vez que hayan determinado bien las pretensiones de las partes, en un acta lacónica hará las deliberaciones necesarias y luego llamará a los delegados a dicha comparecencia, a efectos de proponerles los medios o las bases generales del arreglo que su prudencia le dicte.",
+    "item_index": 2
+  }
+]

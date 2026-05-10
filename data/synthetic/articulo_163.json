@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 163 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 163 establece que el salario se pacta libremente entre empleador y trabajador, pero siempre debe respetar el salario mínimo fijado por la ley, sin poder ser inferior a este.",
+    "source_quote": "El salario se estipulará libremente, pero no podrá ser inferior al que se fije como mínimo, de acuerdo con las prescripciones de esta ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "163",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_163"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "163",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_163",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se estipula el salario según el artículo 163?",
+    "output": "El salario se estipula libremente.",
+    "source_quote": "El salario se estipulará libremente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "163",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_163",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede el salario ser inferior al mínimo legal?",
+    "output": "No, el salario no podrá ser inferior al que se fije como mínimo de acuerdo con la ley.",
+    "source_quote": "pero no podrá ser inferior al que se fije como mínimo, de acuerdo con las prescripciones de esta ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "163",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_163",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra la libertad contractual para fijar el salario, permitiendo que las partes acuerden la remuneración según su voluntad.",
+    "source_quote": "El salario se estipulará libremente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "163",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_163",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un límite protector: el salario pactado nunca puede ser menor al salario mínimo legal, garantizando un piso salarial para el trabajador.",
+    "source_quote": "pero no podrá ser inferior al que se fije como mínimo, de acuerdo con las prescripciones de esta ley.",
+    "item_index": 2
+  }
+]

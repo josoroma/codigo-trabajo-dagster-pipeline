@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 347 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que la Junta Directiva es la representante legal del sindicato, pudiendo delegar esa función en la presidencia o secretaría general. Además, determina que la Junta Directiva responde ante el sindicato y terceros como lo hacen los mandatarios según el Código Civil, con responsabilidad solidaria entre sus integrantes, salvo que alguno deje constancia de su voto en contra en el libro de actas.",
+    "source_quote": "La Junta Directiva tendrá la representación legal del sindicato y podrá delegarla en la presidencia o secretaría general; será responsable para con el sindicato y terceras personas en los mismos términos en que lo son los mandatarios en el Código Civil. Dicha responsabilidad será solidaria entre las personas integrantes de la Junta Directiva, a menos que alguno de ellos salve su voto, haciéndolo constar así en el libro de actas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "347",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_347"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "347",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_347",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién tiene la representación legal del sindicato según el artículo 347?",
+    "output": "La Junta Directiva.",
+    "source_quote": "La Junta Directiva tendrá la representación legal del sindicato",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "347",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_347",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo puede un integrante de la Junta Directiva evitar la responsabilidad solidaria?",
+    "output": "Salvando su voto y haciéndolo constar en el libro de actas.",
+    "source_quote": "a menos que alguno de ellos salve su voto, haciéndolo constar así en el libro de actas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "347",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_347",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define quién ostenta la representación legal del sindicato y permite la delegación de esa facultad en cargos específicos, facilitando la gestión sindical.",
+    "source_quote": "La Junta Directiva tendrá la representación legal del sindicato y podrá delegarla en la presidencia o secretaría general",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "347",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_347",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la responsabilidad solidaria de los directivos frente al sindicato y terceros, pero introduce una excepción para proteger a quienes disientan y dejen constancia formal de su voto, promoviendo la transparencia y la rendición de cuentas.",
+    "source_quote": "Dicha responsabilidad será solidaria entre las personas integrantes de la Junta Directiva, a menos que alguno de ellos salve su voto, haciéndolo constar así en el libro de actas.",
+    "item_index": 2
+  }
+]

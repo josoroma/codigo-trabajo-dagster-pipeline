@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 585 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 585 regula el trámite de las apelaciones contra autos y sentencias interlocutorias. Distingue dos tipos: las que impiden el curso del procedimiento se tramitan de forma inmediata; las que versan sobre autos denegatorios de prueba o resoluciones en audiencia que no paralizan ni terminan el proceso no suspenden el procedimiento, se tienen por interpuestas con efectos diferidos y solo se consideran si la sentencia final es recurrida y se cumplen tres condiciones: que el punto trascienda al resultado y el apelante recurra la sentencia reiterando la apelación; que la sentencia admita casación y el motivo sea un vicio de casación; o que el apelante resulte victorioso y la objeción recobre interés por el recurso de otro litigante, como apelación eventual.",
+    "source_quote": "Las apelaciones admisibles contra autos y sentencias interlocutorias, que impidan el curso del procedimiento, se tramitarán de forma inmediata. Cuando versen sobre autos denegatorios de prueba o resoluciones producidas en la audiencia cuyo efecto directo no sea el de la paralización o terminación del proceso, la interposición del recurso no impedirá la continuación de la actividad y el dictado de la sentencia, y se tendrá por interpuesto con efectos diferidos y condicionado a que el pronunciamiento final sea recurrido de forma legal y oportuna.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "585",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_585"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "585",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_585",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de apelaciones se tramitan de forma inmediata según el artículo 585?",
+    "output": "Las apelaciones contra autos y sentencias interlocutorias que impidan el curso del procedimiento.",
+    "source_quote": "Las apelaciones admisibles contra autos y sentencias interlocutorias, que impidan el curso del procedimiento, se tramitarán de forma inmediata.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "585",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_585",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos la apelación con efectos diferidos solo se tomará en cuenta según el artículo 585?",
+    "output": "Se tomará en cuenta si: 1) el punto trasciende al resultado de la sentencia y el apelante recurre la sentencia reiterando la apelación; 2) la sentencia admite casación y el motivo de disconformidad es un vicio de casación; o 3) el apelante resulta victorioso y la objeción recobra interés por el recurso de otro litigante, como apelación eventual.",
+    "source_quote": "En tal caso, la apelación solo se tomará en cuenta si: 1) El punto objeto de la impugnación trasciende al resultado de la sentencia y la parte que interpuso la apelación figure como recurrente de la sentencia y reitere en su recurso aquella apelación. 2) La sentencia admite el recurso de casación, el motivo de disconformidad pueda ser parte o constituya uno de los vicios deducibles como motivos de casación. 3) La parte que lo interpuso no figure como impugnante por haber resultado victoriosa y con motivo de la procedencia del recurso de cualquier otro litigante la objeción recobre interés. En ese supuesto, se le tendrá como apelación eventual.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "585",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_585",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el trámite prioritario e inmediato para las apelaciones que paralizan el proceso, garantizando la celeridad y evitando dilaciones indebidas en la resolución de incidentes que bloquean el avance del juicio laboral.",
+    "source_quote": "Las apelaciones admisibles contra autos y sentencias interlocutorias, que impidan el curso del procedimiento, se tramitarán de forma inmediata.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "585",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_585",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el régimen de apelación diferida para resoluciones que no detienen el proceso, permitiendo su continuación sin suspensión. Condiciona su admisibilidad a que la sentencia final sea recurrida y a que se cumplan supuestos específicos que eviten impugnaciones inútiles o prematuras, protegiendo la economía procesal y el derecho de defensa en etapas posteriores.",
+    "source_quote": "Cuando versen sobre autos denegatorios de prueba o resoluciones producidas en la audiencia cuyo efecto directo no sea el de la paralización o terminación del proceso, la interposición del recurso no impedirá la continuación de la actividad y el dictado de la sentencia, y se tendrá por interpuesto con efectos diferidos y condicionado a que el pronunciamiento final sea recurrido de forma legal y oportuna. En tal caso, la apelación solo se tomará en cuenta si: 1) El punto objeto de la impugnación trasciende al resultado de la sentencia y la parte que interpuso la apelación figure como recurrente de la sentencia y reitere en su recurso aquella apelación. 2) La sentencia admite el recurso de casación, el motivo de disconformidad pueda ser parte o constituya uno de los vicios deducibles como motivos de casación. 3) La parte que lo interpuso no figure como impugnante por haber resultado victoriosa y con motivo de la procedencia del recurso de cualquier otro litigante la objeción recobre interés. En ese supuesto, se le tendrá como apelación eventual.",
+    "item_index": 2
+  }
+]

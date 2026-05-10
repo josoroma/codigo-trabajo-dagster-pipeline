@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 438 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 438 regula el trámite de la excepción de incompetencia por la materia en los procesos laborales. Cuando una parte alega esta excepción, se da traslado a la otra parte por tres días para que se pronuncie. Vencido ese plazo, el juzgado debe resolver en los tres días siguientes. Además, el tribunal puede declarar de oficio la incompetencia por la materia, pero solo hasta la audiencia de saneamiento; después de ese acto está prohibido hacerlo.",
+    "source_quote": "Acerca de la excepción de incompetencia por la materia, cuando sea procedente su trámite, se dará traslado por tres días a la parte contraria; transcurrido ese término, el juzgado dentro de los tres días siguientes resolverá lo que corresponda. La incompetencia por la materia podrá decretarse de oficio por el tribunal de instancia hasta en la audiencia de saneamiento. Se prohíbe decretar incompetencias por esa razón después de cumplido ese acto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "438",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_438"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "438",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_438",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para dar traslado a la parte contraria cuando se interpone la excepción de incompetencia por la materia?",
+    "output": "Se da traslado por tres días a la parte contraria.",
+    "source_quote": "se dará traslado por tres días a la parte contraria",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "438",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_438",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta qué momento procesal puede el tribunal decretar de oficio la incompetencia por la materia?",
+    "output": "Hasta en la audiencia de saneamiento.",
+    "source_quote": "La incompetencia por la materia podrá decretarse de oficio por el tribunal de instancia hasta en la audiencia de saneamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "438",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_438",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el procedimiento para tramitar la excepción de incompetencia por la materia: se otorga un plazo de tres días a la contraparte para contestar y luego el juzgado debe resolver en un plazo igual, garantizando el derecho de audiencia y la celeridad procesal.",
+    "source_quote": "Acerca de la excepción de incompetencia por la materia, cuando sea procedente su trámite, se dará traslado por tres días a la parte contraria; transcurrido ese término, el juzgado dentro de los tres días siguientes resolverá lo que corresponda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "438",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_438",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite al tribunal declarar su incompetencia material sin petición de parte, pero fija un límite temporal estricto (la audiencia de saneamiento) para evitar dilaciones indebidas y dar seguridad jurídica al proceso.",
+    "source_quote": "La incompetencia por la materia podrá decretarse de oficio por el tribunal de instancia hasta en la audiencia de saneamiento. Se prohíbe decretar incompetencias por esa razón después de cumplido ese acto.",
+    "item_index": 2
+  }
+]

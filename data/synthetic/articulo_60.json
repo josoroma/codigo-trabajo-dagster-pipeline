@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 60 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 60 regula la responsabilidad y facultades del sindicato que firma una convención colectiva. Dispone que el sindicato es responsable por las obligaciones contraídas por cada uno de sus miembros. Además, con el consentimiento expreso de los trabajadores, puede ejercer los derechos y acciones que les correspondan individualmente. También le otorga al sindicato la potestad de hacer valer los derechos derivados de la convención para exigir su cumplimiento y, en caso de incumplimiento, reclamar el pago de daños y perjuicios contra sus propios miembros, otros sindicatos firmantes, los miembros de estos y cualquier otra persona obligada. La Sala Constitucional interpretó que las convenciones colectivas en el sector público son inconstitucionales cuando involucran personal con relación de empleo público (estatutaria), pero son válidas si las relaciones laborales se rigen por el derecho común, correspondiendo a la administración y a los jueces determinar la naturaleza de la relación en cada caso.",
+    "source_quote": "Al sindicato que hubiere suscrito una convención colectiva le corresponderá responsabilidad por las obligaciones contraídas por cada uno de sus miembros y puede, con la anuencia expresa de éstos, ejercer también los derechos y acciones que a los mismos individualmente competan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "60",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_60"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "60",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_60",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué responsabilidad tiene el sindicato que suscribe una convención colectiva respecto a las obligaciones de sus miembros?",
+    "output": "Le corresponde responsabilidad por las obligaciones contraídas por cada uno de sus miembros.",
+    "source_quote": "Al sindicato que hubiere suscrito una convención colectiva le corresponderá responsabilidad por las obligaciones contraídas por cada uno de sus miembros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "60",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_60",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Contra quiénes puede el sindicato ejercer acciones para obtener el pago de daños y perjuicios derivados de la convención colectiva?",
+    "output": "Contra sus propios miembros, otros sindicatos que sean partes en la convención, los miembros de éstos y cualquiera otra persona obligada por la misma.",
+    "source_quote": "obtener el pago de daños y perjuicios contra sus propios miembros, otros sindicatos que sean partes en la convención, los miembros de éstos y cualquiera otra persona obligada por la misma.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "60",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_60",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la responsabilidad solidaria del sindicato por las obligaciones de sus miembros y la posibilidad de representarlos en el ejercicio de sus derechos individuales, siempre que medie consentimiento expreso.",
+    "source_quote": "Al sindicato que hubiere suscrito una convención colectiva le corresponderá responsabilidad por las obligaciones contraídas por cada uno de sus miembros y puede, con la anuencia expresa de éstos, ejercer también los derechos y acciones que a los mismos individualmente competan.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "60",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_60",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al sindicato legitimación activa para velar por el cumplimiento de la convención colectiva y reclamar indemnizaciones por incumplimiento frente a un amplio espectro de sujetos obligados.",
+    "source_quote": "Igualmente podrá dicho sindicato ejercer los derechos y acciones que nazcan de la convención, para regir su cumplimiento y, en su caso, obtener el pago de daños y perjuicios contra sus propios miembros, otros sindicatos que sean partes en la convención, los miembros de éstos y cualquiera otra persona obligada por la misma.",
+    "item_index": 2
+  }
+]

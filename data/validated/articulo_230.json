@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 230 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 230 establece que, en una emergencia, si un trabajador sufre un riesgo cubierto por el seguro de riesgos del trabajo, puede recibir atención médica inmediata de cualquier profesional o centro de salud, público o privado, y el costo lo asume el ente asegurador según la tarifa fijada. Luego, tan pronto sea posible, el trabajador debe ser trasladado al lugar que corresponda de acuerdo con los reglamentos del asegurador.",
+    "source_quote": "En caso de emergencia, el trabajador que haya sufrido un riesgo cubierto por el seguro a que se refiere esta ley, podrá ser atendido por cualquier profesional o centro de salud, público o privado, por cuenta del ente asegurador, según la tarifa establecida. Tan pronto como sea posible el trabajador sometido a tratamiento será trasladado a donde corresponda, según los reglamentos o disposiciones del ente asegurador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "230",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_230"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "230",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_230",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situación un trabajador puede ser atendido por cualquier profesional o centro de salud según el artículo 230?",
+    "output": "En caso de emergencia, cuando el trabajador haya sufrido un riesgo cubierto por el seguro de riesgos del trabajo.",
+    "source_quote": "En caso de emergencia, el trabajador que haya sufrido un riesgo cubierto por el seguro a que se refiere esta ley, podrá ser atendido por cualquier profesional o centro de salud, público o privado...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "230",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_230",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume el costo de la atención de emergencia y bajo qué condiciones?",
+    "output": "El costo lo asume el ente asegurador, según la tarifa establecida.",
+    "source_quote": "...por cuenta del ente asegurador, según la tarifa establecida.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "230",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_230",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece el derecho del trabajador a recibir atención médica inmediata y amplia en situaciones de emergencia, sin restricción de prestador, y define que el costo será cubierto por el asegurador conforme a tarifas predefinidas, garantizando así el acceso oportuno a la salud sin carga económica para el trabajador.",
+    "source_quote": "En caso de emergencia, el trabajador que haya sufrido un riesgo cubierto por el seguro a que se refiere esta ley, podrá ser atendido por cualquier profesional o centro de salud, público o privado, por cuenta del ente asegurador, según la tarifa establecida.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "230",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_230",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición regula la continuidad de la atención: una vez estabilizada la emergencia, el trabajador debe ser derivado a la red de servicios del asegurador, conforme a sus normas internas, para asegurar la coordinación y eficiencia del sistema de riesgos del trabajo.",
+    "source_quote": "Tan pronto como sea posible el trabajador sometido a tratamiento será trasladado a donde corresponda, según los reglamentos o disposiciones del ente asegurador.",
+    "item_index": 2
+  }
+]

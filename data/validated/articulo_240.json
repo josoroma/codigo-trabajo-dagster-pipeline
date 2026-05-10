@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 240 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 240 establece que cuando un trabajador es declarado con incapacidad total permanente, adquiere el derecho a recibir una renta anual vitalicia, pagada en mensualidades (dozavos). Esta renta se calcula aplicando el 100% sobre el salario anual hasta un límite de treinta y seis mil colones, y un 67% sobre el excedente de esa suma. Además, permite que por vía reglamentaria se incremente el salario anual máximo al que se aplica el 100%. También fija una renta mensual mínima de mil quinientos colones, o una suma mayor si así se establece reglamentariamente, para garantizar un piso de protección al trabajador.",
+    "source_quote": "La declaratoria de incapacidad total permanente determina para el trabajador el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual, hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "240",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_240"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "240",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_240",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje del salario anual se aplica hasta el límite de treinta y seis mil colones en caso de incapacidad total permanente?",
+    "output": "Se aplica el 100% del salario anual hasta ese límite.",
+    "source_quote": "igual al 100% del salario anual, hasta un límite de treinta y seis mil colones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "240",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_240",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la renta mensual mínima que se debe fijar por incapacidad total permanente según este artículo?",
+    "output": "La renta mensual mínima es de mil quinientos colones, o una suma mayor que se fije reglamentariamente.",
+    "source_quote": "Ninguna renta mensual que se fije por incapacidad total permanente será inferior a mil quinientos colones o a la suma mayor que reglamentariamente se fije.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "240",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_240",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho del trabajador a una renta vitalicia y define la fórmula de cálculo, combinando un tramo con cobertura total y otro con cobertura parcial, para compensar la pérdida de capacidad laboral de forma permanente.",
+    "source_quote": "La declaratoria de incapacidad total permanente determina para el trabajador el derecho a percibir una renta anual vitalicia, pagadera en dozavos, igual al 100% del salario anual, hasta un límite de treinta y seis mil colones y el 67% sobre el exceso de esa suma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "240",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_240",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza un ingreso mínimo mensual al trabajador con incapacidad total permanente, protegiéndolo de rentas excesivamente bajas y permitiendo su actualización por vía reglamentaria.",
+    "source_quote": "Ninguna renta mensual que se fije por incapacidad total permanente será inferior a mil quinientos colones o a la suma mayor que reglamentariamente se fije.",
+    "item_index": 2
+  }
+]

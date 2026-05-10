@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 554 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 554 establece que las personas trabajadoras que se encuentren en alguna de las situaciones descritas en el artículo 254 del mismo Código pueden acudir al juzgado de trabajo para solicitar que se les reponga en su puesto, se les reubique o se les paguen las prestaciones legales que correspondan, según lo que proceda en cada caso.",
+    "source_quote": "Las personas trabajadoras que se encuentren en alguno de los supuestos previstos en el artículo 254 de este Código podrán solicitar al juzgado de trabajo competente la reposición al puesto de trabajo, su reubicación o el pago de las prestaciones legales correspondientes, según proceda.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "554",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_554"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "554",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_554",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden solicitar la reposición al puesto de trabajo según el artículo 554?",
+    "output": "Las personas trabajadoras que se encuentren en alguno de los supuestos previstos en el artículo 254 del Código de Trabajo.",
+    "source_quote": "Las personas trabajadoras que se encuentren en alguno de los supuestos previstos en el artículo 254 de este Código",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "554",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_554",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué opciones puede solicitar la persona trabajadora al juzgado de trabajo conforme al artículo 554?",
+    "output": "Puede solicitar la reposición al puesto de trabajo, su reubicación o el pago de las prestaciones legales correspondientes, según proceda.",
+    "source_quote": "podrán solicitar al juzgado de trabajo competente la reposición al puesto de trabajo, su reubicación o el pago de las prestaciones legales correspondientes, según proceda.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "554",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_554",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito subjetivo de aplicación: solo las personas trabajadoras que estén en las situaciones del artículo 254 pueden ejercer los derechos aquí previstos.",
+    "source_quote": "Las personas trabajadoras que se encuentren en alguno de los supuestos previstos en el artículo 254 de este Código",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "554",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_554",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las tres pretensiones que pueden acumularse o elegirse ante la autoridad judicial laboral, dejando a criterio del juzgado determinar cuál procede según el caso.",
+    "source_quote": "podrán solicitar al juzgado de trabajo competente la reposición al puesto de trabajo, su reubicación o el pago de las prestaciones legales correspondientes, según proceda.",
+    "item_index": 2
+  }
+]

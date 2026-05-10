@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 365 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 365 establece que la Dirección Nacional de Inspección de Trabajo debe investigar, usando los medios que considere adecuados, cualquier hecho violatorio que conozca. Si encuentra mérito para analizar el fondo del asunto, debe convocar a las partes o a sus representantes legales a una audiencia donde se recibirán todas las pruebas necesarias.",
+    "source_quote": "La Dirección Nacional de Inspección de Trabajo investigará, por los medios que estime conveniente, los hechos violatorios de que tenga conocimiento. Si determina que existe mérito para conocer sobre el fondo del asunto, convocará a las partes involucradas o, si los tienen, a sus representantes legales, a una audiencia en la que se recibirán todas las pruebas que se estimen necesarias.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "365",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_365"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "365",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_365",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién investiga los hechos violatorios según el artículo 365?",
+    "output": "La Dirección Nacional de Inspección de Trabajo.",
+    "source_quote": "La Dirección Nacional de Inspección de Trabajo investigará, por los medios que estime conveniente, los hechos violatorios de que tenga conocimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "365",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_365",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué acción se toma si se determina que existe mérito para conocer sobre el fondo del asunto?",
+    "output": "Se convoca a las partes involucradas o a sus representantes legales a una audiencia para recibir todas las pruebas necesarias.",
+    "source_quote": "Si determina que existe mérito para conocer sobre el fondo del asunto, convocará a las partes involucradas o, si los tienen, a sus representantes legales, a una audiencia en la que se recibirán todas las pruebas que se estimen necesarias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "365",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_365",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la Dirección Nacional de Inspección de Trabajo la facultad de investigar de oficio cualquier hecho violatorio, con amplia discrecionalidad en la elección de los métodos de investigación.",
+    "source_quote": "La Dirección Nacional de Inspección de Trabajo investigará, por los medios que estime conveniente, los hechos violatorios de que tenga conocimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "365",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_365",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el paso procesal siguiente: si la investigación preliminar arroja indicios suficientes, se debe realizar una audiencia con las partes para recibir todas las pruebas pertinentes, garantizando el derecho de defensa y la búsqueda de la verdad real.",
+    "source_quote": "Si determina que existe mérito para conocer sobre el fondo del asunto, convocará a las partes involucradas o, si los tienen, a sus representantes legales, a una audiencia en la que se recibirán todas las pruebas que se estimen necesarias.",
+    "item_index": 2
+  }
+]

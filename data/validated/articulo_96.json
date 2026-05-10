@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 96 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 96 regula los descansos y derechos laborales de la trabajadora en caso de maternidad, aborto no intencional o parto prematuro no viable. Establece que el descanso puede abonarse a las vacaciones de ley pagando el salario completo. Si no se abona, la trabajadora tiene derecho al menos a dos terceras partes de su sueldo o a lo que falte para completarlo si está asegurada en la Caja Costarricense de Seguro Social, y a volver a su puesto o a uno equivalente al terminar la causa de su ausencia. En aborto no intencional o parto prematuro no viable, los descansos remunerados se reducen a la mitad. Si la ausencia se prolonga por enfermedad derivada del embarazo o parto, certificada médicamente, tiene derecho a las mismas prestaciones hasta por tres meses. Al finalizar la licencia, incapacidad o vacaciones, la trabajadora vuelve a su puesto, y solo en casos excepcionales justificados puede ser reubicada en otro equivalente en remuneración, aptitudes, capacidad y competencia.",
+    "source_quote": "Dicho descanso puede abonarse a las vacaciones de ley pagando a la trabajadora su salario completo. Si no se abonara a la persona a quien se le haya concedido, tendrá derecho, por lo menos, a las dos terceras partes de su sueldo o a lo que falte para que lo reciba completo, si estuviera acogida a los beneficios de la Caja Costarricense de Seguro Social y a volver a su puesto una vez desaparecidas las circunstancias que la obligaron a abandonarlo o a otro puesto equivalente en remuneración, que guarde relación con sus aptitudes, capacidad y competencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "96",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_96"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "96",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_96",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con los descansos remunerados en caso de aborto no intencional o parto prematuro no viable según el artículo 96?",
+    "output": "Los descansos remunerados se reducen a la mitad.",
+    "source_quote": "Si se tratara de aborto no intencional o por causas biológicas y naturales, o de parto prematuro no viable, los descansos remunerados se reducirán a la mitad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "96",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_96",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tiene derecho la trabajadora si permanece ausente más tiempo del concedido por enfermedad derivada del embarazo o parto, según el artículo 96?",
+    "output": "Tiene derecho a las prestaciones del párrafo anterior (al menos dos terceras partes de su sueldo o completarlo si está asegurada, y a volver a su puesto o a uno equivalente) durante todo el tiempo que exija su restablecimiento, siempre que no exceda de tres meses.",
+    "source_quote": "En el caso de que la mujer interesada permanezca ausente de su trabajo un tiempo mayor del concedido, a consecuencia de enfermedad que según certificado médico deba su origen al embarazo o al parto, y que la incapacite para trabajar, tendrá también derecho a las prestaciones de que habla el párrafo anterior, durante todo el lapso que exija su restablecimiento, siempre que este no exceda de tres meses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "96",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_96",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la opción de imputar el descanso por maternidad a las vacaciones legales, garantizando el pago íntegro del salario durante ese período.",
+    "source_quote": "Dicho descanso puede abonarse a las vacaciones de ley pagando a la trabajadora su salario completo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "96",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_96",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho de reintegro al mismo puesto tras la ausencia por maternidad, limitando la reubicación a situaciones excepcionales y justificadas, en un cargo equivalente en salario y acorde a sus capacidades.",
+    "source_quote": "Una vez transcurrida la licencia, la incapacidad o el disfrute de vacaciones, la persona trabajadora volverá a su puesto y solamente en casos de excepción, debidamente justificados, podrá ser ubicada en otro puesto equivalente en remuneración, el cual guarde relación con sus aptitudes, capacidad y competencia.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 506 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 506 establece que si la parte demandada admite las pretensiones, no contesta la demanda a tiempo o no responde todos los hechos como exige el Código, el juez dictará sentencia anticipada. En ella se tendrán por ciertos los hechos no contestados y se resolverá sobre las pretensiones, siempre que no se hayan opuesto excepciones que requieran debate en audiencia. Al emitir el fallo, salvo en caso de allanamiento total, el juez considerará las pruebas del expediente que impidan aceptar los hechos tal como los expuso el actor.",
+    "source_quote": "Si la parte demandada se allanara a las pretensiones del actor, no contestara oportunamente la demanda o no hubiera respondido todos los hechos de la demanda, de la forma prevista en este Código, se dictará sentencia anticipada, en la cual se tendrán por ciertos esos hechos y se emitirá pronunciamiento sobre las pretensiones deducidas, siempre y cuando no se hayan opuesto excepciones que, con independencia de la contestación, requieran ser debatidas en audiencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "506",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_506"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "506",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_506",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la parte demandada no contesta la demanda en el plazo legal?",
+    "output": "Se dicta sentencia anticipada, en la cual se tendrán por ciertos los hechos de la demanda y se emitirá pronunciamiento sobre las pretensiones, siempre que no se hayan opuesto excepciones que requieran ser debatidas en audiencia.",
+    "source_quote": "no contestara oportunamente la demanda ... se dictará sentencia anticipada, en la cual se tendrán por ciertos esos hechos y se emitirá pronunciamiento sobre las pretensiones deducidas, siempre y cuando no se hayan opuesto excepciones que, con independencia de la contestación, requieran ser debatidas en audiencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "506",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_506",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "En una sentencia anticipada, ¿se aceptan siempre como ciertos los hechos expuestos en la demanda?",
+    "output": "No, salvo en caso de allanamiento, el juez debe tomar en cuenta las pruebas que existan en el expediente y que impidan tener por ciertos los hechos de la forma expuesta en la demanda.",
+    "source_quote": "Al emitir pronunciamiento, salvo el caso de allanamiento, se tomarán en cuenta las pruebas que existan en el expediente, que impidan tener por ciertos los hechos de la forma expuesta en la demanda.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "506",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_506",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los supuestos de procedencia de la sentencia anticipada (allanamiento, falta de contestación o contestación incompleta) y su efecto principal: tener por ciertos los hechos y resolver las pretensiones, con la salvedad de que existan excepciones que necesiten debate oral.",
+    "source_quote": "Si la parte demandada se allanara a las pretensiones del actor, no contestara oportunamente la demanda o no hubiera respondido todos los hechos de la demanda, de la forma prevista en este Código, se dictará sentencia anticipada, en la cual se tendrán por ciertos esos hechos y se emitirá pronunciamiento sobre las pretensiones deducidas, siempre y cuando no se hayan opuesto excepciones que, con independencia de la contestación, requieran ser debatidas en audiencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "506",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_506",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una limitación a la ficción de certeza: el juez debe valorar las pruebas ya incorporadas que contradigan los hechos afirmados por el actor, excepto cuando el demandado se allana totalmente, caso en el cual no se requiere ese análisis probatorio.",
+    "source_quote": "Al emitir pronunciamiento, salvo el caso de allanamiento, se tomarán en cuenta las pruebas que existan en el expediente, que impidan tener por ciertos los hechos de la forma expuesta en la demanda.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 401 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 401 establece los criterios que se deben considerar al imponer sanciones por faltas laborales, como la gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores afectados. Además, permite reducir la sanción si el infractor se compromete a reparar integralmente el daño de inmediato.",
+    "source_quote": "Al juzgarse las faltas de trabajo se aplicará la sanción que corresponda en cada caso, tomando en cuenta la gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores o trabajadoras que han sufrido los efectos de la infracción.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "401",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_401"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "401",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_401",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores se deben considerar al juzgar las faltas de trabajo según el artículo 401?",
+    "output": "La gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores o trabajadoras que han sufrido los efectos de la infracción.",
+    "source_quote": "tomando en cuenta la gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores o trabajadoras que han sufrido los efectos de la infracción.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "401",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_401",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué caso se puede reducir la sanción por una falta laboral?",
+    "output": "Cuando el infractor se comprometa a reparar el daño de inmediato de forma integral.",
+    "source_quote": "Podrá aminorarse la sanción, siempre y cuando el infractor se comprometa a reparar el daño de inmediato de forma integral.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "401",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_401",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los criterios obligatorios para graduar la sanción, asegurando proporcionalidad y consideración del impacto colectivo.",
+    "source_quote": "Al juzgarse las faltas de trabajo se aplicará la sanción que corresponda en cada caso, tomando en cuenta la gravedad del hecho, sus consecuencias, el número de faltas cometidas y la cantidad de trabajadores o trabajadoras que han sufrido los efectos de la infracción.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "401",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_401",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una posibilidad de atenuación de la sanción condicionada a la reparación integral e inmediata del daño, incentivando la enmienda del infractor.",
+    "source_quote": "Podrá aminorarse la sanción, siempre y cuando el infractor se comprometa a reparar el daño de inmediato de forma integral.",
+    "item_index": 2
+  }
+]

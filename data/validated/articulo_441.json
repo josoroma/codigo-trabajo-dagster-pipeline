@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 441 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 441 establece que la competencia subjetiva de los jueces de trabajo se rige por la legislación procesal civil y la Ley Orgánica del Poder Judicial, pero añade causales adicionales de inhibitoria (recusación) específicas para procesos contra el Estado o sus instituciones. Estas causales incluyen: haber participado en la conducta objeto del proceso o haberse manifestado públicamente sobre ella; tener parentesco cercano con autoridades administrativas involucradas; tener igual relación con funcionarios que participaron o informaron sobre la conducta; y haber formado parte de la jerarquía del órgano que dictó el acto impugnado al momento de dictarse, o formar parte de él aunque no haya participado en la decisión.",
+    "source_quote": "La competencia subjetiva se regirá por lo dispuesto en la legislación procesal civil y la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993; pero los jueces de trabajo, además de las causales indicadas en dicha legislación, estarán sujetos a inhibitoria en los procesos contra el Estado o sus instituciones, cuando: a) Hubieran participado en la conducta activa u omisa objeto del proceso o se hubieran manifestado previa y públicamente respecto de ellas. b) Tengan parentesco, dentro del tercer grado de consanguinidad o segundo de afinidad, con las autoridades de la jerarquía administrativa que participó en la conducta sometida a su conocimiento y decisión. c) Se encuentre en igual relación con la autoridad o con los funcionarios que hubieran participado en la conducta sometida a proceso o informado respecto de ella. d) Cuando en el momento de dictarse el acto que origina el proceso hayan formado parte como titulares de la jerarquía del órgano, organización o empresa que lo dictó, o cuando formen parte de uno u otras, aunque no hayan participado en la decisión.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "441",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_441"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "441",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_441",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de procesos están sujetos a inhibitoria los jueces de trabajo según las causales adicionales del artículo 441?",
+    "output": "En los procesos contra el Estado o sus instituciones.",
+    "source_quote": "los jueces de trabajo, además de las causales indicadas en dicha legislación, estarán sujetos a inhibitoria en los procesos contra el Estado o sus instituciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "441",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_441",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es una de las causales de inhibitoria para un juez de trabajo que haya tenido parentesco con autoridades administrativas involucradas en el proceso?",
+    "output": "Tener parentesco dentro del tercer grado de consanguinidad o segundo de afinidad con las autoridades de la jerarquía administrativa que participó en la conducta sometida a su conocimiento y decisión.",
+    "source_quote": "b) Tengan parentesco, dentro del tercer grado de consanguinidad o segundo de afinidad, con las autoridades de la jerarquía administrativa que participó en la conducta sometida a su conocimiento y decisión.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "441",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_441",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de competencia subjetiva y la excepción para jueces de trabajo, añadiendo causales de recusación específicas para procesos contra el Estado, garantizando imparcialidad en esos casos.",
+    "source_quote": "La competencia subjetiva se regirá por lo dispuesto en la legislación procesal civil y la Ley N.° 7333, Ley Orgánica del Poder Judicial, de 5 de mayo de 1993; pero los jueces de trabajo, además de las causales indicadas en dicha legislación, estarán sujetos a inhibitoria en los procesos contra el Estado o sus instituciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "441",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_441",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impide que un juez conozca de un proceso si ha intervenido directamente en los hechos o ha expresado opiniones públicas previas, evitando prejuicios y asegurando objetividad.",
+    "source_quote": "a) Hubieran participado en la conducta activa u omisa objeto del proceso o se hubieran manifestado previa y públicamente respecto de ellas.",
+    "item_index": 2
+  }
+]

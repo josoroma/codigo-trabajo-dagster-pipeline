@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 498 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 498 regula el trámite de la contrademanda en el proceso laboral. Establece que, si se presenta una contrademanda, se le dará traslado a la parte reconvenida por un plazo de diez días para que la conteste, siguiendo las reglas del artículo anterior. La notificación de ese traslado puede hacerse en el lugar o medio señalado para notificaciones. Además, al correr traslado de la demanda y la contrademanda, se advierte a la parte que si no contesta en el plazo o no responde de forma clara, se le tendrá por allanada respecto de los hechos no contestados, los cuales se considerarán ciertos en sentencia, salvo que existan pruebas en el expediente que los desvirtúen. En ese mismo momento procesal, se ordenan las peritaciones a cargo de dependencias oficiales que se hayan ofrecido o que sean necesarias por ley, comunicándolo de inmediato a los órganos correspondientes para su práctica.",
+    "source_quote": "La contrademanda, cuando la hubiera, será trasladada a la parte reconvenida por diez días y su contestación se ajustará a lo dicho en el artículo anterior.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "498",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_498"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "498",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_498",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De cuántos días dispone la parte reconvenida para contestar la contrademanda según el artículo 498?",
+    "output": "Dispone de diez días.",
+    "source_quote": "La contrademanda, cuando la hubiera, será trasladada a la parte reconvenida por diez días...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "498",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_498",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para la parte reconvenida no contestar la contrademanda o no responder de forma clara?",
+    "output": "Se le tendrá por allanada en cuanto a los hechos no contestados o no respondidos, los cuales se tendrán por ciertos en sentencia, salvo que existan elementos probatorios en el expediente que los desvirtúen.",
+    "source_quote": "Al darse el traslado de la demanda y contrademanda, se prevendrá a la parte de que si no contesta en el término concedido o no responde de forma clara, se le tendrá por allanada en cuanto a los hechos no contestados o no respondidos según queda dicho, los que se tendrán por ciertos en sentencia, salvo que en el expediente existan elementos probatorios que los desvirtúen.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "498",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_498",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo perentorio de diez días para contestar la contrademanda y la forma válida de notificar ese traslado, garantizando el derecho de defensa y la celeridad procesal.",
+    "source_quote": "La contrademanda, cuando la hubiera, será trasladada a la parte reconvenida por diez días y su contestación se ajustará a lo dicho en el artículo anterior. Es suficiente la notificación de ese traslado a la parte reconvenida en el lugar o medio señalado para notificaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "498",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_498",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una advertencia legal sobre las consecuencias de la rebeldía o la contestación evasiva, permitiendo al juez tener por ciertos los hechos no controvertidos, salvo prueba en contrario, para evitar dilaciones injustificadas.",
+    "source_quote": "Al darse el traslado de la demanda y contrademanda, se prevendrá a la parte de que si no contesta en el término concedido o no responde de forma clara, se le tendrá por allanada en cuanto a los hechos no contestados o no respondidos según queda dicho, los que se tendrán por ciertos en sentencia, salvo que en el expediente existan elementos probatorios que los desvirtúen.",
+    "item_index": 2
+  }
+]

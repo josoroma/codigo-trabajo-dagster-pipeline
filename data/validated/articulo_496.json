@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 496 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 496 regula el procedimiento cuando una demanda laboral no cumple con los requisitos formales, excepto el agotamiento de la vía administrativa. El juzgado debe ordenar a la parte que corrija las omisiones o defectos en un plazo de cinco días, indicando exactamente qué falta. Si no se subsana, se declara la inadmisibilidad y se archiva el expediente, lo que termina el proceso. La demanda archivada se tiene como no presentada y solo puede reactivarse si se corrigen los defectos. Además, el juzgado puede ordenar integrar correctamente la litis cuando esté incompleta o mal planteada, señalando omisiones sobre derechos irrenunciables, para que la parte los incluya hasta la fase preliminar de la audiencia. Si el defecto es un litisconsorcio pasivo necesario, el juez puede ordenar la integración de oficio.",
+    "source_quote": "Cuando la demanda no cumpla los requisitos antes señalados, excepción hecha del que se refiere al agotamiento de la vía administrativa, el juzgado ordenará su subsanación dentro del plazo de cinco días; para ello, deberá indicar los requisitos omitidos o incompletos, bajo pena de ordenar la inadmisibilidad y el archivo del expediente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "496",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_496"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "496",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_496",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo otorga el juzgado para subsanar los defectos de una demanda laboral?",
+    "output": "Cinco días.",
+    "source_quote": "el juzgado ordenará su subsanación dentro del plazo de cinco días",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "496",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_496",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene no subsanar las omisiones señaladas por el juzgado?",
+    "output": "Se ordena la inadmisibilidad y el archivo del expediente, lo que provoca el fenecimiento del asunto desde el punto de vista procesal y la demanda se tiene como no puesta para todo efecto.",
+    "source_quote": "bajo pena de ordenar la inadmisibilidad y el archivo del expediente. El archivo provocará el fenecimiento del asunto desde el punto de vista procesal y solo podrá readmitirse para su trámite subsanándose las omisiones o los defectos prevenidos, teniéndose la demanda como no puesta para todo efecto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "496",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_496",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el deber del juzgado de prevenir a la parte actora para que corrija los defectos formales de la demanda, fijando un plazo perentorio y la consecuencia del incumplimiento, garantizando así el derecho de defensa y la economía procesal.",
+    "source_quote": "Cuando la demanda no cumpla los requisitos antes señalados, excepción hecha del que se refiere al agotamiento de la vía administrativa, el juzgado ordenará su subsanación dentro del plazo de cinco días; para ello, deberá indicar los requisitos omitidos o incompletos, bajo pena de ordenar la inadmisibilidad y el archivo del expediente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "496",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_496",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta al juzgado para corregir la conformación de las partes en el proceso, protegiendo derechos irrenunciables y permitiendo la integración oficiosa en casos de litisconsorcio pasivo necesario, con el fin de evitar nulidades y asegurar una sentencia eficaz.",
+    "source_quote": "También, ordenará a la parte integrar debidamente la litis, cuando esta se encuentre incompleta o incorrectamente planteada e indicará las omisiones en que hubiera incurrido sobre extremos irrenunciables, para que, si a bien lo tiene, los incorpore como parte de la demanda o contrademanda, hasta la fase preliminar de la audiencia. Sin embargo, cuando el defecto en la integración se origine en un litis consorcio pasivo necesario, la integración podrá ordenarse de oficio.",
+    "item_index": 2
+  }
+]

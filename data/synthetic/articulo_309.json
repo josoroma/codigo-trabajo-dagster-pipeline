@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 309 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 309 establece que cuando una falta o infracción prevista en el Código de Trabajo o sus reglamentos no tenga una sanción específica en normas especiales, se aplicará lo dispuesto en el título sétimo del mismo Código, sin importar la responsabilidad adicional que pueda recaer sobre el infractor.",
+    "source_quote": "Las faltas e infracciones que dispone esta ley y sus reglamentos, y cuyas sanciones no estén expresamente contempladas en normas especiales, independientemente de la responsabilidad que acarreen al infractor, se sancionarán de acuerdo con lo dispuesto en el título sétimo de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "309",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_309"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "309",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_309",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se sancionan las faltas e infracciones del Código de Trabajo que no tienen sanción expresa en normas especiales?",
+    "output": "Se sancionarán de acuerdo con lo dispuesto en el título sétimo de este Código.",
+    "source_quote": "se sancionarán de acuerdo con lo dispuesto en el título sétimo de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "309",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_309",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿La aplicación de esta regla depende de la responsabilidad que acarree la falta al infractor?",
+    "output": "No, se aplica independientemente de la responsabilidad que acarreen al infractor.",
+    "source_quote": "independientemente de la responsabilidad que acarreen al infractor",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "309",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_309",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación: faltas e infracciones del Código y sus reglamentos que carezcan de sanción en normas especiales.",
+    "source_quote": "Las faltas e infracciones que dispone esta ley y sus reglamentos, y cuyas sanciones no estén expresamente contempladas en normas especiales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "309",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_309",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia jurídica: remisión al título sétimo para la sanción, sin considerar otras responsabilidades del infractor.",
+    "source_quote": "independientemente de la responsabilidad que acarreen al infractor, se sancionarán de acuerdo con lo dispuesto en el título sétimo de este Código.",
+    "item_index": 2
+  }
+]

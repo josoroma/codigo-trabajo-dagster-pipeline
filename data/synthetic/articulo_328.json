@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 328 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 328 del Código de Trabajo de Costa Rica fue derogado, es decir, eliminado del ordenamiento jurídico, por lo que carece de contenido normativo vigente. Su derogación se realizó mediante el artículo 4° de la ley N° 9343 del 25 de enero de 2016, conocida como 'Reforma Procesal Laboral'.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "328",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_328"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "328",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_328",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente actualmente el artículo 328 del Código de Trabajo de Costa Rica?",
+    "output": "No, el artículo 328 no está vigente porque fue derogado.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "328",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_328",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma jurídica derogó el artículo 328 del Código de Trabajo?",
+    "output": "El artículo 328 fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, denominada 'Reforma Procesal Laboral'.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "328",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_328",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 328 ha sido eliminado del Código de Trabajo por una reforma legal posterior, especificando el acto legislativo que produjo la derogación y su fecha, con el fin de dejar constancia de su pérdida de vigencia y evitar su aplicación.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 1
+  }
+]

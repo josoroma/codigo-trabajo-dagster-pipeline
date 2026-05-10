@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 398 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 398 establece las multas que se impondrán a las personas que incurran en las infracciones señaladas en el artículo 399 del mismo Código. Las sanciones se gradúan en seis niveles, que van desde uno hasta veintitrés salarios base mensuales. Además, define que el término 'salario base' se refiere al concepto contenido en el artículo 2 de la Ley N.º 7337 del 5 de mayo de 1993, salvo disposición expresa en contrario.",
+    "source_quote": "Las personas transgresoras referidas en el artículo 399 de este Código serán sancionadas con multa, según la siguiente tabla: ... La denominación de salario base utilizada en esta ley en todo su articulado, salvo disposición expresa en contrario, debe entenderse como la contenida en el artículo 2 de la Ley N.º 7337, de 5 de mayo de 1993, de conformidad con lo establecido en este mismo Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "398",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_398"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "398",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_398",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se aplican las multas establecidas en el artículo 398?",
+    "output": "A las personas transgresoras referidas en el artículo 399 del Código de Trabajo.",
+    "source_quote": "Las personas transgresoras referidas en el artículo 399 de este Código serán sancionadas con multa, según la siguiente tabla:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "398",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_398",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el rango máximo de multa en salarios base según la tabla del artículo 398?",
+    "output": "De veinte a veintitrés salarios base mensuales.",
+    "source_quote": "6) De veinte a veintitrés salarios base mensuales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "398",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_398",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el ámbito subjetivo de aplicación de las sanciones, remitiendo al artículo 399 para identificar a los infractores y anunciando la tabla de multas.",
+    "source_quote": "Las personas transgresoras referidas en el artículo 399 de este Código serán sancionadas con multa, según la siguiente tabla:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "398",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_398",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de salario base para la cuantificación de las multas, garantizando uniformidad en su interpretación y remitiendo a la ley que lo establece.",
+    "source_quote": "La denominación de salario base utilizada en esta ley en todo su articulado, salvo disposición expresa en contrario, debe entenderse como la contenida en el artículo 2 de la Ley N.º 7337, de 5 de mayo de 1993, de conformidad con lo establecido en este mismo Código.",
+    "item_index": 2
+  }
+]

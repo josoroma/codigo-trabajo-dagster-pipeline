@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 16 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 16 establece que, cuando exista un conflicto entre las leyes de trabajo o de previsión social y leyes de cualquier otra índole, prevalecerán las primeras. Es decir, las normas laborales y de seguridad social tienen prioridad sobre otras disposiciones legales en caso de contradicción.",
+    "source_quote": "En caso de conflicto entre las leyes de trabajo o de previsión social con las de cualquier otra índole, predominarán las primeras.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "16",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_16"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "16",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_16",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si hay un conflicto entre una ley de trabajo y una ley de otra índole?",
+    "output": "Predominan las leyes de trabajo o de previsión social.",
+    "source_quote": "En caso de conflicto entre las leyes de trabajo o de previsión social con las de cualquier otra índole, predominarán las primeras.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "16",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_16",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de leyes prevalecen según el artículo 16?",
+    "output": "Las leyes de trabajo o de previsión social.",
+    "source_quote": "En caso de conflicto entre las leyes de trabajo o de previsión social con las de cualquier otra índole, predominarán las primeras.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "16",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_16",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita contiene la totalidad del artículo y su propósito es establecer un principio de jerarquía normativa que otorga primacía a las leyes laborales y de seguridad social sobre cualquier otra rama del derecho, garantizando así la protección de los derechos de los trabajadores frente a posibles contradicciones legales.",
+    "source_quote": "En caso de conflicto entre las leyes de trabajo o de previsión social con las de cualquier otra índole, predominarán las primeras.",
+    "item_index": 1
+  }
+]

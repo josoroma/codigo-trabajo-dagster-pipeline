@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 202 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 202 establece una prohibición para los funcionarios, empleados, personeros o apoderados del Estado. Les impide firmar contratos o dar permisos para realizar trabajos si el interesado no presenta primero un seguro contra riesgos del trabajo.",
+    "source_quote": "Prohíbese a los funcionarios, empleados, personeros o apoderados del Estado, suscribir contratos u otorgar permisos para la realización de trabajos, sin la previa presentación, por parte de los interesados, del seguro contra los riesgos del trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "202",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_202"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "202",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_202",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se les prohíbe suscribir contratos u otorgar permisos para trabajos sin la presentación del seguro de riesgos del trabajo?",
+    "output": "A los funcionarios, empleados, personeros o apoderados del Estado.",
+    "source_quote": "Prohíbese a los funcionarios, empleados, personeros o apoderados del Estado, suscribir contratos u otorgar permisos para la realización de trabajos, sin la previa presentación, por parte de los interesados, del seguro contra los riesgos del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "202",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_202",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documento deben presentar los interesados antes de que se suscriba un contrato o se otorgue un permiso para trabajos?",
+    "output": "El seguro contra los riesgos del trabajo.",
+    "source_quote": "sin la previa presentación, por parte de los interesados, del seguro contra los riesgos del trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "202",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_202",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita contiene la totalidad del artículo y su propósito es imponer una obligación a los agentes estatales de verificar la existencia de un seguro de riesgos del trabajo antes de autorizar cualquier contratación o permiso laboral, garantizando así la protección de los trabajadores.",
+    "source_quote": "Prohíbese a los funcionarios, empleados, personeros o apoderados del Estado, suscribir contratos u otorgar permisos para la realización de trabajos, sin la previa presentación, por parte de los interesados, del seguro contra los riesgos del trabajo.",
+    "item_index": 1
+  }
+]

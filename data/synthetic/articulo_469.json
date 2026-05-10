@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 469 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 469 regula el régimen de notificaciones en el proceso laboral. Establece que, por regla general, se aplica la ley especial de notificaciones, salvo disposición contraria en el Código de Trabajo o leyes conexas. Además, permite que los órganos de justicia laboral, en casos urgentes, ordenen formas rápidas de notificación que garanticen la efectividad del acto. Finalmente, dispone que las resoluciones dictadas en audiencias orales se notifiquen oralmente en el mismo acto o en la oportunidad señalada.",
+    "source_quote": "La práctica de las notificaciones y todo lo relativo a ese acto procesal se regirá por la ley especial de notificaciones, salvo que en este Código o en sus leyes conexas se disponga otra cosa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "469",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_469"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "469",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_469",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ley rige la práctica de las notificaciones en el proceso laboral?",
+    "output": "La ley especial de notificaciones, salvo que el Código de Trabajo o sus leyes conexas dispongan otra cosa.",
+    "source_quote": "La práctica de las notificaciones y todo lo relativo a ese acto procesal se regirá por la ley especial de notificaciones, salvo que en este Código o en sus leyes conexas se disponga otra cosa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "469",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_469",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden hacer los órganos de justicia laboral en casos de urgencia respecto a las notificaciones?",
+    "output": "Pueden disponer formas rápidas de notificación, por medio del propio órgano o de medios de comunicación que garanticen la realización efectiva del acto.",
+    "source_quote": "Sin embargo, los órganos de la justicia laboral podrán disponer, en casos de urgencia, formas rápidas de notificación, por medio del propio órgano o de medios de comunicación que garanticen la realización efectiva del acto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "469",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_469",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de remisión a la ley especial de notificaciones, permitiendo que el Código de Trabajo o sus leyes conexas introduzcan disposiciones particulares sobre la materia.",
+    "source_quote": "La práctica de las notificaciones y todo lo relativo a ese acto procesal se regirá por la ley especial de notificaciones, salvo que en este Código o en sus leyes conexas se disponga otra cosa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "469",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_469",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la notificación de las resoluciones emitidas en audiencias orales, imponiendo la oralidad como forma de notificación para garantizar la celeridad y la inmediación procesal.",
+    "source_quote": "Las resoluciones que se dicten en las audiencias orales se notificarán de forma oral, en el mismo acto de dictarlas o en la oportunidad que se señale para hacerlo.",
+    "item_index": 2
+  }
+]

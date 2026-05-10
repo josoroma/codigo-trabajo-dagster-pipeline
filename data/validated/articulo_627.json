@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 627 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 627 establece la obligación de asistir a las convocatorias de conciliación. La parte empleadora debe presentar a sus delegados. Si no asisten todos los delegados de una parte, la actividad puede realizarse con los presentes, siempre que ambas partes tengan al menos un delegado o, si la empleadora no actúa por delegados, que esté presente su representante. Si la conciliación no se realiza por ausencia injustificada de los delegados, del empleador o de su representante, o por no nombrar conciliadores a tiempo, el conciliador levanta un acta explicando el motivo y da por terminada su actuación, considerándose agotada la etapa de conciliación.",
+    "source_quote": "Es obligación de los interesados o delegados asistir a las convocatorias que realice el órgano. La parte empleadora tiene el deber de presentar a los delegados que haya designado. Cuando no se presenten todos los delegados de alguna de las partes, la actividad podrá realizarse válidamente con el número que se haya presentado, siempre y cuando ambas partes tengan delegados o haya representación de la empleadora cuando no actúe por medio de delegados. Si la conciliación no se pudiera llevar a cabo por ausencia injustificada de los delegados o del empleador, empleadora o de su representante en su caso u omisión en el nombramiento de las personas que debe designar como conciliadoras en el plazo indicado en el artículo 622, el conciliador levantará un acta en la cual dejará constancia de la razón por la cual no se llevó a cabo la actividad y dará por terminada su actuación, y se tendrá, para todos los efectos, por agotada la etapa de la conciliación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si no se presentan todos los delegados de una de las partes a la convocatoria de conciliación?",
+    "output": "La actividad podrá realizarse válidamente con el número de delegados que se haya presentado, siempre y cuando ambas partes tengan delegados o haya representación de la empleadora cuando no actúe por medio de delegados.",
+    "source_quote": "Cuando no se presenten todos los delegados de alguna de las partes, la actividad podrá realizarse válidamente con el número que se haya presentado, siempre y cuando ambas partes tengan delegados o haya representación de la empleadora cuando no actúe por medio de delegados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la conciliación no se puede llevar a cabo por ausencia injustificada de los delegados o del empleador?",
+    "output": "El conciliador levantará un acta en la cual dejará constancia de la razón por la cual no se llevó a cabo la actividad y dará por terminada su actuación, y se tendrá, para todos los efectos, por agotada la etapa de la conciliación.",
+    "source_quote": "Si la conciliación no se pudiera llevar a cabo por ausencia injustificada de los delegados o del empleador, empleadora o de su representante en su caso u omisión en el nombramiento de las personas que debe designar como conciliadoras en el plazo indicado en el artículo 622, el conciliador levantará un acta en la cual dejará constancia de la razón por la cual no se llevó a cabo la actividad y dará por terminada su actuación, y se tendrá, para todos los efectos, por agotada la etapa de la conciliación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación general de asistencia a las convocatorias de conciliación, con un énfasis especial en el deber de la parte empleadora de presentar a sus delegados designados, garantizando la presencia de las partes en el proceso.",
+    "source_quote": "Es obligación de los interesados o delegados asistir a las convocatorias que realice el órgano. La parte empleadora tiene el deber de presentar a los delegados que haya designado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la continuidad de la conciliación aun con asistencia parcial, siempre que exista representación mínima de ambas partes, evitando dilaciones por inasistencias no totales y asegurando la bilateralidad del acto.",
+    "source_quote": "Cuando no se presenten todos los delegados de alguna de las partes, la actividad podrá realizarse válidamente con el número que se haya presentado, siempre y cuando ambas partes tengan delegados o haya representación de la empleadora cuando no actúe por medio de delegados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "627",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_627",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula las consecuencias de la incomparecencia injustificada o del incumplimiento en la designación de conciliadores, formalizando el cierre de la etapa conciliatoria mediante un acta que deja constancia del motivo, lo que permite avanzar a la siguiente fase del proceso.",
+    "source_quote": "Si la conciliación no se pudiera llevar a cabo por ausencia injustificada de los delegados o del empleador, empleadora o de su representante en su caso u omisión en el nombramiento de las personas que debe designar como conciliadoras en el plazo indicado en el artículo 622, el conciliador levantará un acta en la cual dejará constancia de la razón por la cual no se llevó a cabo la actividad y dará por terminada su actuación, y se tendrá, para todos los efectos, por agotada la etapa de la conciliación.",
+    "item_index": 3
+  }
+]

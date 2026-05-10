@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 516 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 516 regula la prueba pericial en procesos laborales. Establece que las pericias oficiales son gratuitas, mientras que los honorarios de peritos no oficiales propuestos por una parte deben ser pagados por esta en cinco días, so pena de tener la prueba por no practicada. La negativa a someterse a una valoración se considera maliciosa o indicio en contra. En asuntos de seguridad social, los dictámenes deben presentarse por escrito de forma completa; en otros casos, pueden ser orales con conclusiones escritas. Los peritos deben comparecer a la audiencia para exponer y permitir el contradictorio, bajo pena de ineficacia del dictamen. Se excluye la competencia del Consejo Médico Forense para conocer apelaciones de dictámenes de Medicina Legal, aunque puede consultarse para mejor proveer. El incumplimiento injustificado de los peritos genera responsabilidad civil y laboral, y puede acarrear exclusión de los roles o procedimiento disciplinario.",
+    "source_quote": "Las pericias oficiales se harán sin costo alguno para las partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "516",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_516"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "516",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_516",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe cubrir los honorarios de los peritos no oficiales designados a petición de un litigante?",
+    "output": "La parte que los propone, dentro de los cinco días siguientes a la admisión de la probanza.",
+    "source_quote": "Los honorarios de los peritos no oficiales, que se designen a petición de los litigantes, deberán ser cubiertos por la parte que los propone, dentro de los cinco días siguientes a la admisión de la probanza",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "516",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_516",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene la negativa de una parte a someterse a una valoración pericial?",
+    "output": "Se tendrá como maliciosa o como indicio de lo que se quiere demostrar, desvirtuar o hacer dubitativo.",
+    "source_quote": "La negativa de una parte a someterse a una valoración o la obstaculización para practicar una pericia se tendrá como maliciosa o como indicio de lo que se quiere demostrar, desvirtuar o hacer dubitativo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "516",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_516",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la gratuidad de las pericias oficiales y la obligación de la parte proponente de pagar los honorarios de peritos no oficiales en un plazo perentorio, so pena de que la prueba se tenga por no practicada.",
+    "source_quote": "Las pericias oficiales se harán sin costo alguno para las partes. Los honorarios de los peritos no oficiales, que se designen a petición de los litigantes, deberán ser cubiertos por la parte que los propone, dentro de los cinco días siguientes a la admisión de la probanza, bajo pena de tenerla como inevacuable de pleno derecho, si no se depositan oportunamente a la orden del despacho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "516",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_516",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los peritos la obligación de asistir a la audiencia para exponer oralmente su dictamen y permitir el debate, sancionando su incomparecencia con la ineficacia de la pericia.",
+    "source_quote": "En todos los casos en que se celebre audiencia, los peritos tienen el deber, bajo pena de ineficacia del dictamen, de comparecer a ese acto para la exposición oral de la experticia y posibilitar el contradictorio.",
+    "item_index": 2
+  }
+]

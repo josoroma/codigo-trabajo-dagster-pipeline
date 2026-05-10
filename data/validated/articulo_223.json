@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 223 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 223 del Código de Trabajo de Costa Rica clasifica los distintos tipos de consecuencias que un riesgo laboral puede ocasionar en el trabajador. Estas consecuencias se dividen en: incapacidad temporal (pérdida de facultades que impide trabajar por un tiempo y que termina por alta médica, vencimiento de plazo, abandono del tratamiento o muerte), incapacidad menor permanente (disminución de capacidad general entre 0.5% y 50%), incapacidad parcial permanente (disminución entre 50% y menos del 67%), incapacidad total permanente (disminución igual o superior al 67%), gran invalidez (incapacidad total permanente más necesidad de asistencia para caminar, vestirse y comer) y la muerte.",
+    "source_quote": "Los riesgos del trabajo pueden producir al trabajador: a. Incapacidad temporal... b. Incapacidad menor permanente... c. Incapacidad parcial permanente... ch. Incapacidad total permanente... d. Gran invalidez... e. La muerte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "223",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_223"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "223",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_223",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las circunstancias que finalizan la incapacidad temporal según el artículo 223?",
+    "output": "La incapacidad temporal finaliza por: la declaratoria de alta al concluir el tratamiento, por haber transcurrido el plazo que señala el artículo 237, por abandono injustificado de las prestaciones médico-sanitarias que se le suministran, o por la muerte del trabajador.",
+    "source_quote": "Esta incapacidad finaliza por alguna de las siguientes circunstancias: - Por la declaratoria de alta, al concluir el tratamiento. - Por haber transcurrido el plazo que señala el artículo 237. - Por abandono injustificado de las prestaciones médico-sanitarias que se le suministran. - Por la muerte del trabajador.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "223",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_223",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué se diferencia la incapacidad parcial permanente de la incapacidad total permanente según el artículo 223?",
+    "output": "La incapacidad parcial permanente implica una pérdida de capacidad general, orgánica o funcional igual o mayor al 50% pero inferior al 67%, mientras que la incapacidad total permanente implica una pérdida igual o superior al 67%.",
+    "source_quote": "c. Incapacidad parcial permanente, es la que causa una disminución de facultades o aptitudes para el trabajo, consistentes en una pérdida de capacidad general, orgánica o funcional, igual o mayor al 50% pero inferior al 67%. ch. Incapacidad total permanente, es la que causa una disminución de facultades o aptitudes para el trabajo, consistente en una pérdida de capacidad general, orgánica o funcional, igual o superior al 67%.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "223",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_223",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el catálogo de consecuencias indemnizables derivadas de los riesgos del trabajo, definiendo cada categoría según el grado de afectación de la capacidad laboral del trabajador.",
+    "source_quote": "Los riesgos del trabajo pueden producir al trabajador: a. Incapacidad temporal... b. Incapacidad menor permanente... c. Incapacidad parcial permanente... ch. Incapacidad total permanente... d. Gran invalidez... e. La muerte.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "223",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_223",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Definir la situación de mayor gravedad dentro de las incapacidades, donde además de la pérdida total de la capacidad laboral, el trabajador depende de un tercero para sus necesidades básicas, lo que justifica una protección especial.",
+    "source_quote": "Gran invalidez; ocurre cuando el trabajador ha quedado con incapacidad total permanente y además requiere de la asistencia de otra persona, para realizar los actos esenciales de la vida: Caminar, vestirse y comer.",
+    "item_index": 2
+  }
+]

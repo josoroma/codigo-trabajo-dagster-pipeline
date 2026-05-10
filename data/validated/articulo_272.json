@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 272 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 272 establece que el juzgado de trabajo del lugar donde se encuentra el centro de trabajo es el encargado de imponer las sanciones mencionadas en el artículo 271. Esta imposición puede realizarse por iniciativa del propio juzgado, a solicitud de las autoridades de inspección señaladas en el artículo 269, o a petición de los propios trabajadores.",
+    "source_quote": "Corresponderá al juzgado de trabajo de la jurisdicción donde está ubicado el centro de trabajo, la imposición de las sanciones que se indican en el artículo 271, lo que hará de oficio o a gestión de las autoridades de inspección, indicadas en el artículo 269, o de los propios trabajadores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "272",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_272"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "272",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_272",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién corresponde imponer las sanciones indicadas en el artículo 271?",
+    "output": "Corresponde al juzgado de trabajo de la jurisdicción donde está ubicado el centro de trabajo.",
+    "source_quote": "Corresponderá al juzgado de trabajo de la jurisdicción donde está ubicado el centro de trabajo, la imposición de las sanciones que se indican en el artículo 271.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "272",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_272",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De qué maneras puede el juzgado de trabajo imponer las sanciones según el artículo 272?",
+    "output": "Puede hacerlo de oficio, a gestión de las autoridades de inspección indicadas en el artículo 269, o a gestión de los propios trabajadores.",
+    "source_quote": "lo que hará de oficio o a gestión de las autoridades de inspección, indicadas en el artículo 269, o de los propios trabajadores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "272",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_272",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la autoridad judicial competente para imponer las sanciones laborales, vinculándola al lugar donde se ubica el centro de trabajo, lo que garantiza la cercanía y el conocimiento del contexto laboral.",
+    "source_quote": "Corresponderá al juzgado de trabajo de la jurisdicción donde está ubicado el centro de trabajo, la imposición de las sanciones que se indican en el artículo 271.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "272",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_272",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las vías procesales para iniciar la imposición de sanciones: por iniciativa del juzgado, por solicitud de inspectores de trabajo o por denuncia de los trabajadores, ampliando el acceso a la justicia laboral.",
+    "source_quote": "lo que hará de oficio o a gestión de las autoridades de inspección, indicadas en el artículo 269, o de los propios trabajadores.",
+    "item_index": 2
+  }
+]

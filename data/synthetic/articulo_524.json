@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 524 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 524 regula qué hacer cuando un juez rechaza una prueba. Permite que la parte que la ofreció vuelva a solicitarla durante la audiencia. Si el juez mantiene el rechazo, la parte puede impugnar esa decisión en ese mismo momento, siguiendo el procedimiento del Código. En ese caso, la apelación se manejará de manera confidencial.",
+    "source_quote": "Cuando se deniegue alguna prueba, el ofrecimiento podrá reintentarse en la audiencia respectiva y si se mantuviera la denegatoria esta podrá impugnarse en esa oportunidad, de la forma prevista en este Código, caso en el cual la apelación se tramitará de forma reservada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "524",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_524"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "524",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_524",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer una parte si se le deniega una prueba?",
+    "output": "Puede reintentar el ofrecimiento de la prueba en la audiencia respectiva.",
+    "source_quote": "Cuando se deniegue alguna prueba, el ofrecimiento podrá reintentarse en la audiencia respectiva",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "524",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_524",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el juez mantiene la denegatoria de la prueba?",
+    "output": "La parte puede impugnar esa decisión en esa misma oportunidad, según lo previsto en el Código, y la apelación se tramitará de forma reservada.",
+    "source_quote": "si se mantuviera la denegatoria esta podrá impugnarse en esa oportunidad, de la forma prevista en este Código, caso en el cual la apelación se tramitará de forma reservada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "524",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_524",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho de la parte a volver a presentar la solicitud de prueba durante la audiencia, evitando que un rechazo inicial sea definitivo sin oportunidad de reconsideración.",
+    "source_quote": "Cuando se deniegue alguna prueba, el ofrecimiento podrá reintentarse en la audiencia respectiva",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "524",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_524",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el mecanismo de impugnación inmediata contra la denegatoria persistente y dispone que el recurso de apelación se maneje de manera confidencial para proteger la integridad del proceso.",
+    "source_quote": "si se mantuviera la denegatoria esta podrá impugnarse en esa oportunidad, de la forma prevista en este Código, caso en el cual la apelación se tramitará de forma reservada.",
+    "item_index": 2
+  }
+]

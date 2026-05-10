@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 464 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 464 regula el idioma en los procesos laborales. Establece que el español es obligatorio en todos los actos procesales. Si participa una persona que necesite lesco o una lengua indígena, se debe traducir obligatoriamente. Los documentos en otro idioma que presente el trabajador como prueba los traduce el despacho sin costo para él; los que presente el empleador, los traduce por su cuenta. Estas traducciones puede hacerlas un notario público que conozca el idioma, bajo su responsabilidad, y sin ser abogado de ninguna parte. Cuando un declarante no hable español o no pueda comunicarse oralmente, se usa un intérprete: si lo propone el empleador, este paga; si lo propone el trabajador, paga el despacho. Si el circuito judicial tiene intérprete oficial, este auxilia en ambos casos.",
+    "source_quote": "En todos los actos procesales será obligatorio el uso del idioma español. En los actos procesales en los cuales intervenga una persona que requiera el uso del idioma lesco o de idiomas indígenas será de carácter obligatorio su traducción, según sea el caso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "464",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_464"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "464",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_464",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume el costo de la traducción de documentos ofrecidos como prueba por la parte trabajadora?",
+    "output": "El despacho asume el costo, es decir, se traducen por cuenta del despacho.",
+    "source_quote": "Los documentos redactados en otro idioma y ofrecidos como prueba por la parte trabajadora deberán traducirse por cuenta del despacho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "464",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_464",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos debe cumplir un notario público para realizar las traducciones de documentos en otro idioma?",
+    "output": "Debe conocer el idioma, actuar bajo su responsabilidad, conforme al Código Notarial, y no puede ser a su vez el abogado de una de las partes.",
+    "source_quote": "Estas traducciones podrán ser realizadas por un notario público, bajo su responsabilidad, en caso de conocer el idioma, de conformidad con lo indicado en el Código Notarial. El notario no podrá ser a su vez el abogado de una de las partes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "464",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_464",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el idioma oficial del proceso laboral, garantizando uniformidad y comprensión en todas las actuaciones judiciales.",
+    "source_quote": "En todos los actos procesales será obligatorio el uso del idioma español.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "464",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_464",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegura el derecho de defensa y la participación efectiva de personas que no dominan el español, distribuyendo el costo del intérprete según quién propone la prueba, con protección especial para el trabajador.",
+    "source_quote": "Cuando los declarantes no hablen español o no puedan comunicarse oralmente, la declaración se tomará con el auxilio de un intérprete a cargo de la parte proponente, si se trata de la empleadora o, por cuenta del despacho, cuando el proponente sea la trabajadora.",
+    "item_index": 2
+  }
+]

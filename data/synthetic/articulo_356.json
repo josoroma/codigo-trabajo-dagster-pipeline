@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 356 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 356 establece el destino del activo líquido de un sindicato cuando se disuelve, sin importar la causa de la disolución. En primer lugar, ese activo se transfiere a la federación a la que el sindicato esté afiliado. Si no existe tal federación, de manera subsidiaria, el activo se reparte en partes iguales entre todos los sindicatos de la misma clase que existan en el país.",
+    "source_quote": "Sea cual fuere la causa de la disolución de un sindicato, su activo líquido pasará a la Federación a que pertenezca y, en forma subsidiaria, se distribuirá en porciones iguales entre todos los de su misma clase existentes en el país.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "356",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_356"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "356",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_356",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se transfiere en primer lugar el activo líquido de un sindicato disuelto?",
+    "output": "A la Federación a la que pertenezca.",
+    "source_quote": "su activo líquido pasará a la Federación a que pertenezca",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "356",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_356",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se distribuye el activo líquido si no hay federación a la que pertenezca el sindicato disuelto?",
+    "output": "Se distribuye en porciones iguales entre todos los sindicatos de su misma clase existentes en el país.",
+    "source_quote": "en forma subsidiaria, se distribuirá en porciones iguales entre todos los de su misma clase existentes en el país.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "356",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_356",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la causa de disolución es irrelevante para la transferencia del activo, y que el primer destino es la federación correspondiente.",
+    "source_quote": "Sea cual fuere la causa de la disolución de un sindicato, su activo líquido pasará a la Federación a que pertenezca",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "356",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_356",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el destino subsidiario del activo, garantizando una distribución equitativa entre sindicatos de la misma clase en caso de que no exista federación.",
+    "source_quote": "y, en forma subsidiaria, se distribuirá en porciones iguales entre todos los de su misma clase existentes en el país.",
+    "item_index": 2
+  }
+]

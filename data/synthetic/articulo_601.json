@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 601 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 601 establece que contra las resoluciones dictadas por los tribunales de trabajo se puede interponer el recurso de revisión. Este recurso se fundamenta en las causales previstas en la legislación procesal civil, y su tramitación se ajusta a dicha normativa. Además, cuando sea necesario reproducir la audiencia, esta se realizará siguiendo el procedimiento establecido para los casos de nulidad de la sentencia.",
+    "source_quote": "Contra las resoluciones de los tribunales de trabajo es procedente la revisión, con base en las causales establecidas en la legislación procesal civil, a la cual se ajustará la respectiva tramitación y la audiencia se llevará a cabo, cuando sea necesario reproducirla, de la forma prevista para el supuesto de la nulidad de la sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "601",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_601"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "601",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_601",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Contra qué tipo de resoluciones procede la revisión según el artículo 601?",
+    "output": "Procede contra las resoluciones de los tribunales de trabajo.",
+    "source_quote": "Contra las resoluciones de los tribunales de trabajo es procedente la revisión",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "601",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_601",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué normativa rige las causales y la tramitación del recurso de revisión laboral?",
+    "output": "Las causales y la tramitación se rigen por la legislación procesal civil.",
+    "source_quote": "con base en las causales establecidas en la legislación procesal civil, a la cual se ajustará la respectiva tramitación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "601",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_601",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la procedencia del recurso de revisión contra las decisiones de los tribunales laborales y remite a las causales y al procedimiento de la legislación procesal civil para su interposición y trámite.",
+    "source_quote": "Contra las resoluciones de los tribunales de trabajo es procedente la revisión, con base en las causales establecidas en la legislación procesal civil, a la cual se ajustará la respectiva tramitación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "601",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_601",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte regula la forma en que debe realizarse la audiencia en el recurso de revisión, indicando que se seguirá el procedimiento establecido para los casos de nulidad de sentencia, garantizando así un trámite uniforme y previsible.",
+    "source_quote": "la audiencia se llevará a cabo, cuando sea necesario reproducirla, de la forma prevista para el supuesto de la nulidad de la sentencia",
+    "item_index": 2
+  }
+]

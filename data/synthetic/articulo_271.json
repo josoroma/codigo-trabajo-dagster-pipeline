@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 271 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 271 establece las sanciones para el patrono que, habiendo recibido una orden de suspensión de trabajos o cierre del centro de trabajo según lo dispuesto en el Código, no la cumple. Las sanciones son una multa específica y el cierre temporal del centro de trabajo hasta por un mes.",
+    "source_quote": "El patrono al que se le ordene la suspensión de los trabajos o el cierre de los centros de trabajo, conforme a lo establecido en este Código, e incumpla esa decisión, se hará acreedor a las siguientes sanciones: - A la multa comprendida en el numeral dos del artículo 614 de este Código. - Al cierre temporal del centro de trabajo hasta por un mes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "271",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_271"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "271",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_271",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanciones se imponen al patrono que incumple una orden de suspensión de trabajos o cierre del centro de trabajo?",
+    "output": "Se imponen dos sanciones: una multa según el numeral dos del artículo 614 del Código de Trabajo y el cierre temporal del centro de trabajo hasta por un mes.",
+    "source_quote": "se hará acreedor a las siguientes sanciones: - A la multa comprendida en el numeral dos del artículo 614 de este Código. - Al cierre temporal del centro de trabajo hasta por un mes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "271",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_271",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la duración máxima del cierre temporal que puede ordenarse como sanción?",
+    "output": "El cierre temporal puede ser hasta por un mes.",
+    "source_quote": "Al cierre temporal del centro de trabajo hasta por un mes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "271",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_271",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el supuesto de hecho: el incumplimiento por parte del patrono de una orden de suspensión o cierre emitida según el Código, y anuncia la consecuencia jurídica.",
+    "source_quote": "El patrono al que se le ordene la suspensión de los trabajos o el cierre de los centros de trabajo, conforme a lo establecido en este Código, e incumpla esa decisión, se hará acreedor a las siguientes sanciones:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "271",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_271",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera las sanciones aplicables: una multa remitida al artículo 614 y el cierre temporal del centro de trabajo, con un límite máximo de un mes, para garantizar el acatamiento de las órdenes de seguridad o laborales.",
+    "source_quote": "- A la multa comprendida en el numeral dos del artículo 614 de este Código. - Al cierre temporal del centro de trabajo hasta por un mes.",
+    "item_index": 2
+  }
+]

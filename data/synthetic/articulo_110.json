@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 110 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 110 impone dos obligaciones a los patronos que emplean trabajadores a domicilio. Primero, deben llevar un libro sellado y autorizado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social, donde registran los nombres, residencias, detalles de la obra y el salario exacto de cada trabajador. Segundo, deben imprimir comprobantes por duplicado que se firman al entregar materiales o pagar salarios, o al recibir la obra terminada, especificando cada transacción.",
+    "source_quote": "Todo patrono que ocupe los servicios de uno o más trabajadores a domicilio deberá llevar un libro sellado y autorizado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social, en el que anotará los nombres y apellidos de éstos, sus residencias, la cantidad y naturaleza de la obra u obras encomendadas y el monto exacto de las respectivas remuneraciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "110",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_110"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "110",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_110",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe registrar el patrono en el libro sellado y autorizado?",
+    "output": "Debe anotar los nombres y apellidos de los trabajadores, sus residencias, la cantidad y naturaleza de la obra encomendada y el monto exacto de las remuneraciones.",
+    "source_quote": "anotará los nombres y apellidos de éstos, sus residencias, la cantidad y naturaleza de la obra u obras encomendadas y el monto exacto de las respectivas remuneraciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "110",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_110",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el trabajador debe firmar un comprobante por duplicado?",
+    "output": "El trabajador debe firmar el comprobante cada vez que reciba los materiales que deban entregársele o el salario que le corresponde.",
+    "source_quote": "que le firmará el trabajador cada vez que reciba los materiales que deban entregársele o el salario que le corresponde",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "110",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_110",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición busca crear un registro oficial y transparente de la relación laboral a domicilio, permitiendo a la autoridad administrativa verificar las condiciones de trabajo y los salarios, y protegiendo los derechos de los trabajadores.",
+    "source_quote": "Todo patrono que ocupe los servicios de uno o más trabajadores a domicilio deberá llevar un libro sellado y autorizado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social, en el que anotará los nombres y apellidos de éstos, sus residencias, la cantidad y naturaleza de la obra u obras encomendadas y el monto exacto de las respectivas remuneraciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "110",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_110",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "El propósito es documentar cada entrega de materiales, pago de salario o recepción de obra, creando prueba escrita de las transacciones y exigiendo la debida especificación para evitar disputas sobre lo entregado o pagado.",
+    "source_quote": "Además hará imprimir comprobantes por duplicado, que le firmará el trabajador cada vez que reciba los materiales que deban entregársele o el salario que le corresponde; o que el patrono firmará y dará al trabajador cada vez que éste le entregue la obra ejecutada. En todos estos casos debe hacerse la especificación o individualización que proceda.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 523 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 523 establece que durante la audiencia de juicio, se debe dar un traslado sumarísimo de las pruebas que se hayan incorporado al expediente después de la audiencia preliminar. Esto significa que las partes tendrán la oportunidad de conocer y pronunciarse sobre esas nuevas pruebas de manera muy rápida y breve, sin dilatar el proceso.",
+    "source_quote": "En la audiencia de juicio se dará traslado sumarísimo de las probanzas incorporadas al expediente, después de la audiencia preliminar.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "523",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_523"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "523",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_523",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento procesal se da el traslado sumarísimo de las probanzas según el artículo 523?",
+    "output": "En la audiencia de juicio.",
+    "source_quote": "En la audiencia de juicio se dará traslado sumarísimo de las probanzas incorporadas al expediente, después de la audiencia preliminar.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "523",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_523",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de traslado se debe dar a las probanzas incorporadas después de la audiencia preliminar?",
+    "output": "Un traslado sumarísimo.",
+    "source_quote": "En la audiencia de juicio se dará traslado sumarísimo de las probanzas incorporadas al expediente, después de la audiencia preliminar.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "523",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_523",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita contiene la totalidad del artículo y su propósito es regular el procedimiento en la audiencia de juicio, garantizando el principio de contradicción y el derecho de defensa al permitir que las partes conozcan y se manifiesten de forma expedita sobre las pruebas agregadas con posterioridad a la audiencia preliminar.",
+    "source_quote": "En la audiencia de juicio se dará traslado sumarísimo de las probanzas incorporadas al expediente, después de la audiencia preliminar.",
+    "item_index": 1
+  }
+]

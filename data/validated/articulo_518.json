@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 518 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 518 regula el orden y la forma en que se desarrolla la fase complementaria del juicio laboral. Primero, se leen las pruebas anticipadas e irrepetibles para incorporarlas al debate. Luego, se reciben las pruebas admitidas: primero los peritos, quienes resumen su dictamen y responden preguntas, y después los declarantes (partes y testigos), quienes exponen espontáneamente y luego son interrogados. El juez modera los interrogatorios para evitar abusos. Después, las partes formulan sus conclusiones. Finalmente, el juez delibera y dicta oralmente la parte dispositiva de la sentencia, señalando fecha para entregar el texto escrito integral, salvo que las partes renuncien a la redacción completa. El juez que realizó la audiencia conserva competencia para dictar sentencia aunque haya dejado el cargo.",
+    "source_quote": "En la fase complementaria: 1) Se leerán las pruebas anticipadas e irrepetibles... 2) Se recibirán las pruebas admitidas... 3) Se procederá a la formulación de las conclusiones... 4) Se deliberará y dictará la parte dispositiva de la sentencia... 5) La persona juzgadora... conservará la competencia para dictar la sentencia...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "518",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_518"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "518",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_518",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué orden se reciben las pruebas admitidas durante la fase complementaria?",
+    "output": "Primero se llama a los peritos citados y luego se reciben las declaraciones de parte y de los testigos.",
+    "source_quote": "2.1. Primero se llamará a los peritos citados... 2.2. De seguido, se recibirán las declaraciones de parte y de los testigos...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "518",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_518",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer el juez para moderar los interrogatorios a peritos y declarantes?",
+    "output": "El que dirige moderará el interrogatorio y evitará preguntas capciosas, sugestivas, repetidas, excesivas, impertinentes, indebidas, de tal manera que el derecho de preguntar no se torne en un abuso contrario a la dignidad de las personas y al principio de celeridad.",
+    "source_quote": "Tanto en el caso de los peritos como de los declarantes, el que dirige moderará el interrogatorio y evitará preguntas capciosas, sugestivas, repetidas, excesivas, impertinentes, indebidas, de tal manera que el derecho de preguntar no se torne en un abuso contrario a la dignidad de las personas y al principio de celeridad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "518",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_518",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el mecanismo para integrar al juicio aquellas pruebas que no pueden reproducirse en la audiencia, garantizando su consideración por el juzgador.",
+    "source_quote": "Se leerán las pruebas anticipadas e irrepetibles, las cuales se incorporarán por esa vía al debate.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "518",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_518",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegurar la celeridad procesal mediante el dictado oral inmediato de la decisión, pero permitiendo su documentación escrita posterior para certeza jurídica y eventual impugnación.",
+    "source_quote": "Se deliberará y dictará la parte dispositiva de la sentencia de inmediato de forma oral, debiendo señalarse, en ese mismo acto, la hora y fecha, dentro de los cinco días siguientes, para la incorporación al expediente y entrega a las partes del texto integral del fallo, el cual será escrito.",
+    "item_index": 2
+  }
+]

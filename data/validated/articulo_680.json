@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 680 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 680 establece que el procedimiento para revisar las sentencias que condenan por violaciones a las leyes laborales y de seguridad social se debe ajustar, en lo que corresponda, a lo que dispone el artículo 601 del mismo código.",
+    "source_quote": "La revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social se regirá, en lo pertinente, por lo que al respecto dispone el artículo 601.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "680",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_680"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "680",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_680",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma rige la revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social?",
+    "output": "Se rige, en lo pertinente, por lo que dispone el artículo 601 del Código de Trabajo.",
+    "source_quote": "La revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social se regirá, en lo pertinente, por lo que al respecto dispone el artículo 601.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "680",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_680",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué tipo de sentencias se refiere el artículo 680?",
+    "output": "A las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social.",
+    "source_quote": "La revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "680",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_680",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación del artículo: el mecanismo de revisión de fallos condenatorios en materia laboral y de seguridad social.",
+    "source_quote": "La revisión de las sentencias condenatorias por infracciones a las leyes de trabajo y seguridad social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "680",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_680",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la remisión normativa al artículo 601 como la fuente que regula el procedimiento de revisión, evitando duplicidades y asegurando coherencia procesal.",
+    "source_quote": "se regirá, en lo pertinente, por lo que al respecto dispone el artículo 601.",
+    "item_index": 2
+  }
+]

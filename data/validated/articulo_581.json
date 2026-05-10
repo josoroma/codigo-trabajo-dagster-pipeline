@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 581 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 581 establece que contra los autos escritos procede el recurso de revocatoria, el cual debe presentarse en un plazo de tres días. Asimismo, el órgano que debe resolverlo cuenta con el mismo plazo de tres días para emitir su decisión.",
+    "source_quote": "Los autos escritos admiten el recurso de revocatoria, cuyo plazo de presentación se fija en tres días. Con igual término contará el órgano para resolver el recurso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "581",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_581"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "581",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_581",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de resoluciones admiten el recurso de revocatoria según el artículo 581?",
+    "output": "Los autos escritos.",
+    "source_quote": "Los autos escritos admiten el recurso de revocatoria",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "581",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_581",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para presentar el recurso de revocatoria?",
+    "output": "Tres días.",
+    "source_quote": "cuyo plazo de presentación se fija en tres días",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "581",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_581",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la procedencia del recurso de revocatoria contra autos escritos y el plazo perentorio para interponerlo.",
+    "source_quote": "Los autos escritos admiten el recurso de revocatoria, cuyo plazo de presentación se fija en tres días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "581",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_581",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el órgano jurisdiccional dispone del mismo plazo de tres días para resolver el recurso de revocatoria.",
+    "source_quote": "Con igual término contará el órgano para resolver el recurso.",
+    "item_index": 2
+  }
+]

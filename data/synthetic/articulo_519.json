@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 519 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 519 permite que, en procesos laborales ordinarios de gran complejidad, el juicio se realice en dos audiencias separadas en lugar de una sola. Esto puede ocurrir a petición de una de las partes o por decisión del propio juzgado. En la primera audiencia se llevan a cabo todos los actos de la fase preliminar, y en la segunda se desarrolla la fase complementaria o de juicio. La decisión de dividir el proceso debe estar razonada, es decir, justificada.",
+    "source_quote": "A solicitud de parte o por decisión del juzgado, los procesos ordinarios de evidente complejidad podrán ventilarse en dos audiencias, en cuyo caso en la primera audiencia se cumplirán los actos de la fase preliminar del proceso en única audiencia y, en la segunda, los de la fase complementaria o de juicio. La decisión debe ser razonada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "519",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_519"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "519",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_519",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede solicitar que un proceso ordinario laboral se ventile en dos audiencias?",
+    "output": "Puede solicitarlo una de las partes o decidirlo el juzgado por iniciativa propia.",
+    "source_quote": "A solicitud de parte o por decisión del juzgado, los procesos ordinarios de evidente complejidad podrán ventilarse en dos audiencias",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "519",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_519",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué actos se realizan en la primera audiencia cuando el proceso se divide en dos?",
+    "output": "En la primera audiencia se cumplen los actos de la fase preliminar del proceso en única audiencia.",
+    "source_quote": "en cuyo caso en la primera audiencia se cumplirán los actos de la fase preliminar del proceso en única audiencia",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "519",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_519",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la posibilidad procesal de dividir el juicio en dos audiencias y los sujetos legitimados para activar esa división: las partes o el propio juzgado, siempre que el proceso sea de evidente complejidad.",
+    "source_quote": "A solicitud de parte o por decisión del juzgado, los procesos ordinarios de evidente complejidad podrán ventilarse en dos audiencias",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "519",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_519",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone el deber de motivar la resolución que ordena ventilar el proceso en dos audiencias, garantizando así la transparencia y el control de la decisión judicial.",
+    "source_quote": "La decisión debe ser razonada.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 69 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 69 enumera obligaciones adicionales de los patronos fuera de las contenidas en otros artículos del Código, sus reglamentos y leyes conexas. Estas incluyen originalmente la remisión de informes semestrales al Ministerio de Trabajo con datos sobre salarios y trabajadores (obligación actualmente suspendida por la ley N° 212 de 1948); preferir a costarricenses y a exempleados de buen desempeño en igualdad de circunstancias; guardar consideración a los trabajadores absteniéndose de maltrato; suministrar oportunamente útiles y materiales de calidad, salvo pacto de uso de herramienta propia; proporcionar local seguro para guarda de herramientas con registro a solicitud; y permitir inspecciones de las autoridades de trabajo y brindarles informes.",
+    "source_quote": "Fuera de las contenidas en otros artículos de este Código, en sus Reglamentos y en sus leyes supletorias o conexas, son obligaciones de los patronos:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "69",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_69"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "69",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_69",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente la obligación de los patronos de enviar informes semestrales al Ministerio de Trabajo según el artículo 69?",
+    "output": "No, dicha obligación fue suspendida mediante la ley N° 212 de 8 de octubre de 1948.",
+    "source_quote": "Mediante el artículo 1° de la ley Nº 212 de 8 de octubre de 1948, se ordena suspender la obligación a cargo de los patronos estipulada en el inciso anterior",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "69",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_69",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué establece el artículo 69 sobre el suministro de herramientas y materiales por parte del patrono?",
+    "output": "El patrono debe dar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para el trabajo, de buena calidad, y reponerlos cuando dejen de ser eficientes, a menos que haya consentido en que el trabajador use herramienta propia.",
+    "source_quote": "d. Dar oportunamente a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido, debiendo suministrarlos de buena calidad y reponerles tan luego como dejen de ser eficientes, siempre que el patrono haya consentido en que aquéllos no usen herramienta propia;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "69",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_69",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta obligación busca favorecer el empleo de nacionales y reconocer la lealtad y buen desempeño previo de los trabajadores, estableciendo un criterio de selección que, en condiciones equivalentes, prioriza a ciertos grupos.",
+    "source_quote": "b. Preferir, en igualdad de circunstancias, a los costarricenses sobre quienes no lo son, y a los que les hayan servido bien con anterioridad respecto de quienes no estén en ese caso;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "69",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_69",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al patrono el deber de respeto y trato digno hacia sus trabajadores, prohibiendo cualquier forma de abuso verbal o físico, en aras de proteger la integridad moral y física en el ámbito laboral.",
+    "source_quote": "c. Guardar a los trabajadores la debida consideración, absteniéndose de maltrato de palabra o de obra;",
+    "item_index": 2
+  }
+]

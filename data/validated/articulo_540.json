@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 540 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 540 establece que las personas trabajadoras, tanto del sector público como del privado, que gocen de un fuero especial que les otorgue estabilidad en el empleo o procedimientos especiales para ser afectadas, pueden impugnar despidos, medidas disciplinarias o discriminatorias mediante la vía sumarísima laboral. Enumera nueve categorías específicas de personas protegidas, incluyendo servidores del régimen de servicio civil, mujeres embarazadas o en lactancia, trabajadores adolescentes, representantes sindicales, denunciantes de hostigamiento sexual, entre otros. Además, permite demandar en esta vía la tutela del debido proceso para estas personas aforadas y extiende la vía sumarísima a cualquier caso de discriminación en el trabajo.",
+    "source_quote": "Las personas trabajadoras, tanto del sector público como del privado, que en virtud de un fuero especial gocen de estabilidad en su empleo o de procedimientos especiales para ser afectados, podrán impugnar en la vía sumarísima prevista en esta sección, con motivo del despido o de cualquier otra medida disciplinaria o discriminatoria, la violación de fueros especiales de protección, de procedimientos a que tienen derecho, formalidades o autorizaciones especialmente previstas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "540",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_540"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "540",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_540",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de procedimiento pueden utilizar las personas trabajadoras con fuero especial para impugnar un despido o medida disciplinaria?",
+    "output": "La vía sumarísima prevista en esta sección.",
+    "source_quote": "podrán impugnar en la vía sumarísima prevista en esta sección",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "540",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_540",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Están protegidas por el artículo 540 las personas trabajadoras adolescentes?",
+    "output": "Sí, conforme al inciso 4, que remite al artículo 91 del Código de la Niñez y la Adolescencia.",
+    "source_quote": "4) Las personas trabajadoras adolescentes, conforme lo manda el artículo 91 de la Ley N.° 7739, Código de la Niñez y la Adolescencia, de 6 de enero de 1998.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "540",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_540",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el ámbito general de aplicación: otorga a las personas trabajadoras con fuero especial la posibilidad de acudir a un proceso sumarísimo para defender sus derechos frente a despidos o medidas disciplinarias o discriminatorias, garantizando una tutela rápida y efectiva de sus protecciones especiales.",
+    "source_quote": "Las personas trabajadoras, tanto del sector público como del privado, que en virtud de un fuero especial gocen de estabilidad en su empleo o de procedimientos especiales para ser afectados, podrán impugnar en la vía sumarísima prevista en esta sección, con motivo del despido o de cualquier otra medida disciplinaria o discriminatoria, la violación de fueros especiales de protección, de procedimientos a que tienen derecho, formalidades o autorizaciones especialmente previstas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "540",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_540",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la vía sumarísima a todos los casos de discriminación laboral, sin necesidad de que la persona trabajadora goce de un fuero especial, asegurando así una protección amplia contra cualquier acto discriminatorio en el ámbito laboral.",
+    "source_quote": "También, podrán impugnarse en la vía sumarísima prevista en esta sección, los casos de discriminación por cualquier causa, en contra de trabajadores o trabajadoras, que tengan lugar en el trabajo o con ocasión de él.",
+    "item_index": 2
+  }
+]

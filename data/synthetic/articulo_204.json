@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 204 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 204 establece que los riesgos del trabajo deben ser asegurados de manera exclusiva por el Instituto Nacional de Seguros. Este seguro es pagado por el patrono y beneficia a sus trabajadores. Además, autoriza al Instituto Nacional de Seguros a emitir recibos o pólizas que sirvan como comprobante de la existencia de dicho seguro.",
+    "source_quote": "Los riesgos del trabajo serán asegurados, exclusivamente, por el Instituto Nacional de Seguros, a cargo del patrono, y a favor de sus trabajadores. Se autoriza el Instituto Nacional de seguros a emitir recibos pólizas, para acreditar la existencia de este seguro.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "204",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_204"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "204",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_204",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a asegurar los riesgos del trabajo según el artículo 204?",
+    "output": "El Instituto Nacional de Seguros, de manera exclusiva.",
+    "source_quote": "Los riesgos del trabajo serán asegurados, exclusivamente, por el Instituto Nacional de Seguros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "204",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_204",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documento puede emitir el Instituto Nacional de Seguros para acreditar la existencia del seguro de riesgos del trabajo?",
+    "output": "Recibos pólizas.",
+    "source_quote": "Se autoriza el Instituto Nacional de seguros a emitir recibos pólizas, para acreditar la existencia de este seguro.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "204",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_204",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de que el seguro de riesgos laborales sea contratado únicamente con el Instituto Nacional de Seguros, que el costo recae sobre el patrono y que la protección beneficia directamente a los trabajadores.",
+    "source_quote": "Los riesgos del trabajo serán asegurados, exclusivamente, por el Instituto Nacional de Seguros, a cargo del patrono, y a favor de sus trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "204",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_204",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Instituto Nacional de Seguros la facultad de expedir documentos (recibos o pólizas) que sirvan como prueba fehaciente de que el seguro de riesgos del trabajo ha sido constituido.",
+    "source_quote": "Se autoriza el Instituto Nacional de seguros a emitir recibos pólizas, para acreditar la existencia de este seguro.",
+    "item_index": 2
+  }
+]

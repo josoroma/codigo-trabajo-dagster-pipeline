@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 239 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 239 establece que cuando se declara una incapacidad parcial permanente, el trabajador tiene derecho a recibir una renta anual. Esta renta se paga en doceavas partes (mensualidades) durante un período de diez años, y su monto equivale al 67% del salario anual que se determine.",
+    "source_quote": "La declaratoria de incapacidad parcial permanente determina para el trabajador el derecho a percibir una renta anual, pagadera un dozavos, durante un plazo de diez años, equivalente al 67% del salario anual que se determine.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "239",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_239"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "239",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_239",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de incapacidad genera el derecho a la renta anual según el artículo 239?",
+    "output": "La incapacidad parcial permanente.",
+    "source_quote": "La declaratoria de incapacidad parcial permanente determina para el trabajador el derecho a percibir una renta anual...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "239",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_239",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el porcentaje del salario anual que corresponde como renta y por cuánto tiempo se paga?",
+    "output": "El 67% del salario anual, durante un plazo de diez años.",
+    "source_quote": "...equivalente al 67% del salario anual que se determine... durante un plazo de diez años...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "239",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_239",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el hecho generador del derecho (la declaratoria de incapacidad parcial permanente) y la naturaleza de la prestación (una renta anual).",
+    "source_quote": "La declaratoria de incapacidad parcial permanente determina para el trabajador el derecho a percibir una renta anual",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "239",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_239",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las condiciones de pago: periodicidad mensual (dozavos), duración limitada (diez años) y monto de la renta (67% del salario anual determinado).",
+    "source_quote": "pagadera un dozavos, durante un plazo de diez años, equivalente al 67% del salario anual que se determine.",
+    "item_index": 2
+  }
+]

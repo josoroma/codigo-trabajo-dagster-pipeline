@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 584 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 584 regula la forma de interponer apelaciones contra resoluciones interlocutorias. Si la resolución es escrita, la apelación debe presentarse por escrito ante el mismo órgano que la dictó, en un plazo de tres días. Si la resolución es oral y se dicta en audiencia, la apelación debe interponerse en el mismo momento de la notificación, y se debe dejar constancia de su interposición y motivación en el acta de la audiencia.",
+    "source_quote": "Las apelaciones contra las resoluciones interlocutorias escritas se formularán de esa misma manera ante el órgano que dictó el pronunciamiento, dentro de tres días, y las que procedan contra las orales dictadas en audiencia deberán interponerse en el mismo acto de la notificación y deberá dejarse constancia de su interposición y motivación en el acta.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "584",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_584"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "584",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_584",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se deben interponer las apelaciones contra las resoluciones interlocutorias escritas según el artículo 584?",
+    "output": "Se formularán por escrito ante el órgano que dictó el pronunciamiento, dentro de tres días.",
+    "source_quote": "Las apelaciones contra las resoluciones interlocutorias escritas se formularán de esa misma manera ante el órgano que dictó el pronunciamiento, dentro de tres días",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "584",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_584",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos deben cumplir las apelaciones contra resoluciones orales dictadas en audiencia?",
+    "output": "Deberán interponerse en el mismo acto de la notificación y deberá dejarse constancia de su interposición y motivación en el acta.",
+    "source_quote": "las que procedan contra las orales dictadas en audiencia deberán interponerse en el mismo acto de la notificación y deberá dejarse constancia de su interposición y motivación en el acta.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "584",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_584",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el procedimiento y el plazo perentorio para apelar resoluciones interlocutorias escritas: deben presentarse por escrito ante la misma autoridad que las emitió, en un término de tres días, garantizando orden y celeridad procesal.",
+    "source_quote": "Las apelaciones contra las resoluciones interlocutorias escritas se formularán de esa misma manera ante el órgano que dictó el pronunciamiento, dentro de tres días",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "584",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_584",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la apelación de resoluciones orales emitidas en audiencia, exigiendo su interposición inmediata al momento de la notificación y el registro de la motivación en el acta, para asegurar la debida constancia procesal y evitar dilaciones.",
+    "source_quote": "las que procedan contra las orales dictadas en audiencia deberán interponerse en el mismo acto de la notificación y deberá dejarse constancia de su interposición y motivación en el acta.",
+    "item_index": 2
+  }
+]

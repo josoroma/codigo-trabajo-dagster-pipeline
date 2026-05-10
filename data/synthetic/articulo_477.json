@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 477 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 477 establece que, en un proceso laboral, la parte que alega un hecho en su beneficio debe probarlo. La carga de la prueba se define como la obligación de presentar las pruebas en el momento procesal oportuno.",
+    "source_quote": "En principio, la carga de la prueba de los hechos controvertidos, constitutivos e impeditivos le corresponde a quien los invoca en su favor.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "477",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_477"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "477",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_477",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién le corresponde la carga de la prueba según el artículo 477?",
+    "output": "A quien invoca los hechos controvertidos, constitutivos e impeditivos en su favor.",
+    "source_quote": "la carga de la prueba de los hechos controvertidos, constitutivos e impeditivos le corresponde a quien los invoca en su favor.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "477",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_477",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo define el artículo 477 el concepto de carga de la prueba?",
+    "output": "Como la obligación de la parte de ofrecer, allegar o presentar la probanza en el momento procesal oportuno.",
+    "source_quote": "El concepto de carga debe entenderse como la obligación de la parte de ofrecer, allegar o presentar la probanza en el momento procesal oportuno.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "477",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_477",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de distribución de la carga probatoria, indicando que cada parte debe probar los hechos que alega en su beneficio.",
+    "source_quote": "En principio, la carga de la prueba de los hechos controvertidos, constitutivos e impeditivos le corresponde a quien los invoca en su favor.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "477",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_477",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el significado procesal de la carga de la prueba, precisando que constituye una obligación de aportar las pruebas en el momento adecuado del proceso.",
+    "source_quote": "El concepto de carga debe entenderse como la obligación de la parte de ofrecer, allegar o presentar la probanza en el momento procesal oportuno.",
+    "item_index": 2
+  }
+]

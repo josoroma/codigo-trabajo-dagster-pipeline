@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 657 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 657 establece que, en los procesos mencionados en este capítulo, cada parte debe pagar todos los gastos legales generados por su tramitación. La única excepción es el arbitraje, donde el laudo arbitral puede decidir lo contrario sobre la distribución de costos.",
+    "source_quote": "En los procesos a que se refiere este capítulo, cada una de las partes asumirá todos los gastos legales que demande su tramitación, excepto en el arbitraje, si en el laudo se establece lo contrario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "657",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_657"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "657",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_657",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la regla general sobre los gastos legales en los procesos a los que se refiere este capítulo?",
+    "output": "La regla general es que cada una de las partes asume todos los gastos legales que demande la tramitación del proceso.",
+    "source_quote": "En los procesos a que se refiere este capítulo, cada una de las partes asumirá todos los gastos legales que demande su tramitación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "657",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_657",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Existe alguna excepción a la regla general sobre gastos legales?",
+    "output": "Sí, en el arbitraje sí está permitido que el laudo establezca lo contrario sobre los gastos legales.",
+    "source_quote": "excepto en el arbitraje, si en el laudo se establece lo contrario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "657",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_657",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la regla general de que, en los procesos cubiertos por este capítulo, cada parte es responsable de sus propios costos legales, sin que la contraria tenga que reembolsarlos.",
+    "source_quote": "En los procesos a que se refiere este capítulo, cada una de las partes asumirá todos los gastos legales que demande su tramitación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "657",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_657",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Crear una excepción para el proceso arbitral, permitiendo que el árbitro determine en el laudo una distribución diferente de los gastos legales, en reconocimiento de la flexibilidad que otorga este mecanismo de resolución de conflictos.",
+    "source_quote": "excepto en el arbitraje, si en el laudo se establece lo contrario.",
+    "item_index": 2
+  }
+]

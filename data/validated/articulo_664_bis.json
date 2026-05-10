@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 664_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que en los servicios de importancia transcendental y en los casos del artículo 376 quinquies, si el juez de trabajo realiza una inspección ocular y constata que no se está cumpliendo el plan de servicios mínimos (ya sea acordado por las partes o fijado por el juez), esa sola comprobación hace que la huelga sea considerada ilegal.",
+    "source_quote": "la constatación por medio de inspección ocular que realice el juez de trabajo, del incumplimiento del plan de servicios mínimos acordado entre las partes o determinado por el juez de trabajo, determinará por si sola la ilegalidad del movimiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de servicios se aplica la regla de que la constatación del incumplimiento del plan de servicios mínimos determina la ilegalidad de la huelga?",
+    "output": "En los servicios de importancia transcendental y en el caso del artículo 376 quinquies.",
+    "source_quote": "En los servicios de importancia transcendental, así como en el caso del artículo 376 quinquies",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la constatación por inspección ocular del juez de trabajo del incumplimiento del plan de servicios mínimos?",
+    "output": "Determina por sí sola la ilegalidad del movimiento (huelga).",
+    "source_quote": "la constatación por medio de inspección ocular que realice el juez de trabajo, del incumplimiento del plan de servicios mínimos acordado entre las partes o determinado por el juez de trabajo, determinará por si sola la ilegalidad del movimiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la norma, indicando que se aplica a servicios de importancia transcendental y a los supuestos del artículo 376 quinquies.",
+    "source_quote": "En los servicios de importancia transcendental, así como en el caso del artículo 376 quinquies",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664_bis",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la verificación judicial del incumplimiento del plan de servicios mínimos mediante inspección ocular convierte automáticamente la huelga en ilegal, sin necesidad de otros elementos probatorios.",
+    "source_quote": "la constatación por medio de inspección ocular que realice el juez de trabajo, del incumplimiento del plan de servicios mínimos acordado entre las partes o determinado por el juez de trabajo, determinará por si sola la ilegalidad del movimiento.",
+    "item_index": 2
+  }
+]

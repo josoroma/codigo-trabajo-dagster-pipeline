@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 194_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 194 bis crea un seguro especial de riesgos del trabajo, emitido por el Instituto Nacional de Seguros, que cubre únicamente los accidentes por envenenamiento por mordedura de serpiente sufridos por trabajadores agrícolas independientes que no tengan suscrito el seguro de riesgos del trabajo. Este seguro opera al costo, con condiciones técnicas aprobadas por la Sugese. El Consejo de Salud Ocupacional es el tomador de la póliza y debe cumplir ciertas obligaciones legales. No se requiere presentar planillas ni reportar previamente al trabajador. Su financiamiento proviene, en primer lugar, de los excedentes del seguro de riesgos del trabajo trasladados al Consejo; si estos son insuficientes, el Consejo asume el costo con sus recursos acumulados; y en última instancia, el INS cubre la prima, deduciéndola del impuesto sobre la renta.",
+    "source_quote": "El Instituto Nacional de Seguros emitirá un seguro de riesgos del trabajo especial, que cubra únicamente los siniestros por envenenamiento por mordeduras de serpiente, sufridos con ocasión o por consecuencia de las labores que realicen las personas trabajadoras agrícolas independientes y que no tengan suscrito el seguro de riesgos del trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es el tomador de la póliza de este seguro especial?",
+    "output": "El Consejo de Salud Ocupacional.",
+    "source_quote": "El Consejo de Salud Ocupacional será el tomador de la póliza y el encargado de cumplir con las obligaciones dispuestas en los incisos a), b) y c) del artículo 214 del Código de Trabajo respecto a los trabajadores independientes indicados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es necesario presentar planillas para asegurar a los trabajadores bajo este seguro?",
+    "output": "No, no será necesario presentar planillas ni reportar de previo al siniestro al trabajador para el aseguramiento.",
+    "source_quote": "No será necesario presentar planillas ni reportar de previo al siniestro al trabajador para el aseguramiento; no obstante, el Consejo de Salud Ocupacional deberá llevar los controles o registros necesarios para verificar que los reportes de accidente que remita sean procedentes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el objeto del seguro, el ente emisor, la cobertura limitada a envenenamientos por mordedura de serpiente y los beneficiarios: trabajadores agrícolas independientes sin seguro de riesgos del trabajo.",
+    "source_quote": "El Instituto Nacional de Seguros emitirá un seguro de riesgos del trabajo especial, que cubra únicamente los siniestros por envenenamiento por mordeduras de serpiente, sufridos con ocasión o por consecuencia de las labores que realicen las personas trabajadoras agrícolas independientes y que no tengan suscrito el seguro de riesgos del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194_bis",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un mecanismo de financiamiento escalonado que garantiza la cobertura sin costo directo para los trabajadores, utilizando excedentes del seguro de riesgos del trabajo, recursos acumulados del Consejo de Salud Ocupacional y, en última instancia, la asunción por el INS con deducción fiscal.",
+    "source_quote": "Su financiamiento será de la siguiente forma: 3.1 La prima será deducida por el Instituto Nacional de Seguros del traslado de excedentes que efectúe al Consejo de Salud Ocupacional conforme al párrafo segundo del artículo 205 del Código de Trabajo. 3.2 En aquellos años en que el seguro de riesgos del trabajo no genere excedentes correspondientes al Consejo de Salud Ocupacional que sean suficientes para el pago de la prima, ese Consejo asumirá el costo de la prima o la parte de ella al descubierto, de los recursos que mantenga acumulados. En caso de que esos recursos sean administrados o invertidos por el INS, este puede deducir de ellos la prima. 3.3 En caso de que la prima no pueda ser pagada total o parcialmente mediante los mecanismos dispuestos en los puntos 3.1 y 3.2 de este artículo, el INS asumirá la prima, o la parte de ella que quede al descubierto, y ese costo será deducible del impuesto sobre la renta que deba pagar.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 275 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 275 establece la composición del Consejo de Salud Ocupacional, integrado por ocho miembros propietarios que representan a diversas instituciones y sectores: uno del Ministerio de Trabajo y Seguridad Social (quien lo preside), uno del Ministerio de Salud, uno del Instituto Nacional de Seguros, uno de la Caja Costarricense de Seguro Social, dos de los patronos y dos de los trabajadores. Además, define cómo se designan estos representantes: el Poder Ejecutivo nombra a los patronos de ternas enviadas por cámaras patronales, y a los trabajadores de forma rotativa de ternas de confederaciones de trabajadores, con un sorteo inicial para el orden. Los ministerios y las juntas directivas de la Caja y el INS designan a sus propios representantes.",
+    "source_quote": "El Consejo de Salud Ocupacional estará integrado por ocho miembros propietarios.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "275",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_275"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "275",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_275",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos miembros propietarios integran el Consejo de Salud Ocupacional?",
+    "output": "Ocho miembros propietarios.",
+    "source_quote": "El Consejo de Salud Ocupacional estará integrado por ocho miembros propietarios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "275",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_275",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se designan los representantes de los trabajadores en el Consejo de Salud Ocupacional?",
+    "output": "El Poder Ejecutivo los escoge en forma rotativa de ternas enviadas por las confederaciones de trabajadores, y en la primera designación se realiza un sorteo para establecer el orden respectivo.",
+    "source_quote": "Y escogerá, en forma rotativa, a los dos representantes de los trabajadores, de las ternas enviadas por las confederaciones de trabajadores. En la oportunidad de la primera designación, se hará el sorteo correspondiente para establecer el orden respectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "275",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_275",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la composición del Consejo, asegurando una representación equilibrada entre el gobierno, los patronos y los trabajadores, y establece la presidencia en el Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "El Consejo de Salud Ocupacional estará integrado por ocho miembros propietarios. Uno representará al Ministerio de Trabajo y Seguridad Social, y será quien lo presida, uno al Ministerio de Salud, uno al Instituto Nacional de Seguros, uno a la Caja Costarricense de Seguro Social, dos a los patronos y dos a los trabajadores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "275",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_275",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo de designación de los representantes patronales y laborales, garantizando que sean seleccionados a partir de propuestas de sus organizaciones representativas, y para los trabajadores introduce un sistema rotativo que asegura alternancia.",
+    "source_quote": "El Poder Ejecutivo designará a los representantes de los patrono, escogidos de ternas enviadas por las cámaras patronales. Y escogerá, en forma rotativa, a los dos representantes de los trabajadores, de las ternas enviadas por las confederaciones de trabajadores.",
+    "item_index": 2
+  }
+]

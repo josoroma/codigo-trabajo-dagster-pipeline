@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 38 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 38 establece que si un trabajador es contratado para realizar un servicio o una obra en un lugar diferente al de su residencia habitual al momento de firmar el contrato, y la distancia entre ambos sitios es de diez kilómetros o más, el patrono debe pagar cada día los gastos razonables de transporte de ida y vuelta.",
+    "source_quote": "Si se contrata al trabajador por servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, el patrono sufragará diariamente los gastos razonables de ida y retorno, siempre que haya diez o más kilómetros de separación entre ambos sitios.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "38",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_38"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "38",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_38",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el patrono debe pagar los gastos de transporte del trabajador según el artículo 38?",
+    "output": "Cuando el trabajador es contratado por servicio o ejecución de obra en un lugar distinto a su residencia habitual y hay diez o más kilómetros de separación entre ambos sitios.",
+    "source_quote": "Si se contrata al trabajador por servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato, el patrono sufragará diariamente los gastos razonables de ida y retorno, siempre que haya diez o más kilómetros de separación entre ambos sitios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "38",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_38",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de gastos debe sufragar el patrono y con qué frecuencia?",
+    "output": "Debe sufragar diariamente los gastos razonables de ida y retorno.",
+    "source_quote": "el patrono sufragará diariamente los gastos razonables de ida y retorno",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "38",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_38",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el supuesto de hecho que activa la obligación patronal: contratación para servicio u obra en un lugar diferente a la residencia habitual del trabajador al momento del contrato.",
+    "source_quote": "Si se contrata al trabajador por servicio o ejecución de obra en lugar distinto al de su residencia habitual en el momento de celebrarse el contrato",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "38",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_38",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de cubrir los gastos de transporte diarios y fija la condición de distancia mínima de diez kilómetros para que dicha obligación sea exigible.",
+    "source_quote": "el patrono sufragará diariamente los gastos razonables de ida y retorno, siempre que haya diez o más kilómetros de separación entre ambos sitios",
+    "item_index": 2
+  }
+]

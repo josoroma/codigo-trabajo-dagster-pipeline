@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 185 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 185 del Código de Trabajo fue derogado, es decir, eliminado del ordenamiento jurídico, por la ley Nº 3372 del 6 de agosto de 1964. Actualmente no tiene contenido ni vigencia.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "185",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_185"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "185",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_185",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿El artículo 185 del Código de Trabajo está actualmente vigente?",
+    "output": "No, fue derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "185",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_185",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo y mediante qué ley fue derogado el artículo 185?",
+    "output": "Fue derogado el 6 de agosto de 1964 por el artículo 2º de la ley Nº 3372.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "185",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_185",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 185 fue derogado, señalando la ley y la fecha exacta de derogación, por lo que carece de efectos jurídicos y no debe ser aplicado.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 1
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 486 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 486 otorga a los tribunales de trabajo la facultad de ordenar, por iniciativa propia, las pruebas complementarias que consideren necesarias para resolver correctamente un caso, incluso si son nuevas o no fueron propuestas por las partes. Esta potestad puede ejercerse hasta antes de dictar sentencia. Además, en asuntos sobre pago de cuotas obrero-patronales u otras obligaciones de seguridad social, el tribunal está obligado a solicitar de oficio un informe a la Caja Costarricense de Seguro Social (CCSS). Todas las pruebas recabadas deben ponerse en conocimiento de las partes antes de cualquier resolución, y la misma regla aplica a pruebas anticipadas o irrepetibles, siempre que hayan sido ordenadas, comunicadas y dirigidas por el juez respetando los principios de inmediación y comunidad de la prueba.",
+    "source_quote": "Los tribunales de trabajo podrán ordenar las pruebas complementarias que juzguen necesarias para resolver con acierto los casos sometidos a su conocimiento, incluyendo elementos probatorios nuevos o no propuestos por las partes, hasta antes de dictarse la sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "486",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_486"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "486",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_486",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta qué momento pueden los tribunales de trabajo ordenar pruebas complementarias?",
+    "output": "Hasta antes de dictarse la sentencia.",
+    "source_quote": "hasta antes de dictarse la sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "486",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_486",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos deben los tribunales de trabajo solicitar de oficio un informe a la Caja Costarricense de Seguro Social (CCSS)?",
+    "output": "En los casos que se refieran al pago de cuotas obrero-patronales o al cumplimiento de otras obligaciones con la seguridad social.",
+    "source_quote": "en los casos que se refieran al pago de cuotas obrero-patronales o al cumplimiento de otras obligaciones con la seguridad social, los tribunales de trabajo deberán solicitar, de oficio, el informe respectivo a la Caja Costarricense de Seguro Social (CCSS).",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "486",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_486",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad oficiosa de los tribunales laborales para ordenar pruebas adicionales, incluso no solicitadas por las partes, con el fin de resolver correctamente el caso, limitando temporalmente esa facultad hasta antes de la sentencia.",
+    "source_quote": "Los tribunales de trabajo podrán ordenar las pruebas complementarias que juzguen necesarias para resolver con acierto los casos sometidos a su conocimiento, incluyendo elementos probatorios nuevos o no propuestos por las partes, hasta antes de dictarse la sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "486",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_486",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el principio de contradicción y el derecho de defensa, al exigir que las pruebas recabadas se comuniquen a las partes antes de tomar cualquier decisión.",
+    "source_quote": "Las pruebas, una vez recibidas y de previo a cualquier resolución, deberán ser puestas a conocimiento de las partes.",
+    "item_index": 2
+  }
+]

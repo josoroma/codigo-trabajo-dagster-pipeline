@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 346 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 346 enumera las atribuciones exclusivas de la Asamblea General del sindicato, es decir, las decisiones que solo este órgano puede tomar. Incluye nombrar a la Junta Directiva, aprobar estatutos, convenios colectivos, cuotas, declarar huelgas, acordar fusiones, aprobar presupuestos, autorizar inversiones mayores de cien colones y cualquier otra función que le asignen los estatutos o el Código, por ser la máxima autoridad sindical.",
+    "source_quote": "Son atribuciones exclusivas de la Asamblea General:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "346",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_346"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "346",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_346",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué órgano sindical tiene la atribución exclusiva de nombrar a la Junta Directiva cada año?",
+    "output": "La Asamblea General.",
+    "source_quote": "Nombren cada año a la Junta Directiva, cuyos miembros podrán ser reelectos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "346",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_346",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién le corresponde declarar las huelgas o paros legales según el artículo 346?",
+    "output": "A la Asamblea General, como atribución exclusiva.",
+    "source_quote": "Declarar las huelgas o paros legales;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "346",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_346",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la potestad exclusiva de la Asamblea General para elegir anualmente a los directivos del sindicato, garantizando la renovación democrática de su liderazgo y permitiendo la reelección.",
+    "source_quote": "Nombren cada año a la Junta Directiva, cuyos miembros podrán ser reelectos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "346",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_346",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Funciona como cláusula residual que reconoce a la Asamblea General como máxima autoridad sindical, permitiéndole ejercer cualquier atribución no listada que derive de los estatutos, del Código o de su naturaleza jerárquica.",
+    "source_quote": "Cualesquiera otras que expresamente le confieran los estatutos o este Código, o que sean propias de su carácter de suprema autoridad del sindicato.",
+    "item_index": 2
+  }
+]

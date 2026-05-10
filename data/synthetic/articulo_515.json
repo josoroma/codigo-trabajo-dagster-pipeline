@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 515 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 515 prohíbe a los patronos negar permiso a las personas trabajadoras para ausentarse del trabajo cuando deban comparecer como testigos, actuar en diligencias judiciales, realizar gestiones administrativas personales ante el Ministerio de Trabajo y Seguridad Social debidamente justificadas, o participar en procesos disciplinarios de la Administración Pública. Además, impide que se les rebaje el salario por estos motivos, siempre que presenten la orden de citación por anticipado y luego el comprobante de asistencia.",
+    "source_quote": "Queda prohibido a los patronos negar permiso a las personas trabajadoras para ausentarse del trabajo, cuando estas deban comparecer como testigos o actuar en alguna otra diligencia judicial, realizar alguna diligencia administrativa personal ante el Ministerio de Trabajo y Seguridad Social debidamente justificada o participar de algún proceso disciplinario de la Administración Pública. Tampoco podrán rebajarles sus salarios por tales motivos, siempre que las personas trabajadoras muestren, por anticipado, la respectiva orden de citación y, posteriormente, el comprobante de asistencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "515",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_515"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "515",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_515",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué situaciones un patrono no puede negar permiso a un trabajador para ausentarse del trabajo según el artículo 515?",
+    "output": "Cuando el trabajador deba comparecer como testigo, actuar en otra diligencia judicial, realizar una diligencia administrativa personal ante el Ministerio de Trabajo y Seguridad Social debidamente justificada, o participar en un proceso disciplinario de la Administración Pública.",
+    "source_quote": "Queda prohibido a los patronos negar permiso a las personas trabajadoras para ausentarse del trabajo, cuando estas deban comparecer como testigos o actuar en alguna otra diligencia judicial, realizar alguna diligencia administrativa personal ante el Ministerio de Trabajo y Seguridad Social debidamente justificada o participar de algún proceso disciplinario de la Administración Pública.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "515",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_515",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones debe cumplir el trabajador para que no le rebajen el salario por estas ausencias?",
+    "output": "Debe mostrar por anticipado la orden de citación y, posteriormente, el comprobante de asistencia.",
+    "source_quote": "siempre que las personas trabajadoras muestren, por anticipado, la respectiva orden de citación y, posteriormente, el comprobante de asistencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "515",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_515",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación patronal de conceder permiso para ausencias laborales en casos de comparecencias judiciales, gestiones administrativas ante el Ministerio de Trabajo y Seguridad Social y procesos disciplinarios públicos, protegiendo el derecho del trabajador a cumplir con deberes cívicos y administrativos.",
+    "source_quote": "Queda prohibido a los patronos negar permiso a las personas trabajadoras para ausentarse del trabajo, cuando estas deban comparecer como testigos o actuar en alguna otra diligencia judicial, realizar alguna diligencia administrativa personal ante el Ministerio de Trabajo y Seguridad Social debidamente justificada o participar de algún proceso disciplinario de la Administración Pública.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "515",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_515",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza la protección salarial del trabajador durante estas ausencias, condicionada a la presentación de la citación previa y la constancia posterior, evitando perjuicios económicos.",
+    "source_quote": "Tampoco podrán rebajarles sus salarios por tales motivos, siempre que las personas trabajadoras muestren, por anticipado, la respectiva orden de citación y, posteriormente, el comprobante de asistencia.",
+    "item_index": 2
+  }
+]

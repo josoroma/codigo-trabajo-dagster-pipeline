@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 442 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 442 regula los plazos para presentar recusaciones contra jueces o funcionarios judiciales en procesos laborales. Establece que deben interponerse antes de la audiencia de conciliación y juicio, o antes de la sentencia si no hay esa audiencia; en recursos sin vista, antes del voto; y en recursos con vista, antes de la vista. Excepcionalmente, si la parte no pudo conocer a la persona antes, tiene cinco días desde que la conoce. La presentación tardía hace perder el derecho de reclamar y la protesta se archiva. La recusación no suspende actos de mera ejecución.",
+    "source_quote": "Las recusaciones deberán interponerse:\n1) En instancia, antes de la celebración de la audiencia de conciliación y juicio o antes del dictado de la sentencia en los procesos en los cuales no se lleve a cabo ese trámite.\n2) En los recursos en los que no esté previsto el trámite de vista, antes de emitirse el voto correspondiente.\n3) En los recursos con trámite de vista, antes de la celebración de la vista.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "442",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_442"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "442",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_442",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo debe interponerse una recusación en instancia?",
+    "output": "Antes de la celebración de la audiencia de conciliación y juicio o antes del dictado de la sentencia en los procesos en los cuales no se lleve a cabo ese trámite.",
+    "source_quote": "1) En instancia, antes de la celebración de la audiencia de conciliación y juicio o antes del dictado de la sentencia en los procesos en los cuales no se lleve a cabo ese trámite.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "442",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_442",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene no interponer la recusación oportunamente?",
+    "output": "Hace perecer, de plano, el derecho de protestar y reclamar en cualquier vía por esa misma causa y torna inatendible cualquier protesta, debiendo el órgano disponer su archivo.",
+    "source_quote": "La no interposición oportuna de la recusación hace perecer, de plano, el derecho de protestar y reclamar en cualquier vía por esa misma causa y torna inatendible cualquier protesta, debiendo el órgano disponer su archivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "442",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_442",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los momentos procesales precisos para interponer recusaciones, garantizando que se planteen antes de que el juez o tribunal emita decisiones de fondo, evitando dilaciones indebidas.",
+    "source_quote": "Las recusaciones deberán interponerse:\n1) En instancia, antes de la celebración de la audiencia de conciliación y juicio o antes del dictado de la sentencia en los procesos en los cuales no se lleve a cabo ese trámite.\n2) En los recursos en los que no esté previsto el trámite de vista, antes de emitirse el voto correspondiente.\n3) En los recursos con trámite de vista, antes de la celebración de la vista.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "442",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_442",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Sanciona la inactividad de la parte, impidiendo que se cuestione la imparcialidad del juzgador fuera de los plazos establecidos, y ordena el archivo de cualquier protesta extemporánea.",
+    "source_quote": "La no interposición oportuna de la recusación hace perecer, de plano, el derecho de protestar y reclamar en cualquier vía por esa misma causa y torna inatendible cualquier protesta, debiendo el órgano disponer su archivo.",
+    "item_index": 2
+  }
+]

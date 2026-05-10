@@ -1,0 +1,13 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 583 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 583 enumera, de manera taxativa, las resoluciones judiciales que son apelables en materia laboral, además de las que ya señala expresamente el Código. Incluye, entre otras, las que declaran con lugar ciertas excepciones previas, las que resuelven sobre incompetencia por la materia, las que deniegan pruebas, las que desestiman nulidades antes de sentencia, las que resuelven incidentes, las que acuerdan intervención de terceros, las que ponen término al proceso, las de ejecución de sentencia, las que aprueban remates, las que otorgan o deniegan medidas cautelares, y las sentencias en procesos de menor cuantía.",
+    "source_quote": "Además de los pronunciamientos expresamente señalados por este Código, únicamente son apelables las resoluciones que:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "583",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_583"
+  }
+]

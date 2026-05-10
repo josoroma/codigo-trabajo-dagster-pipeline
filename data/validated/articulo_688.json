@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 688 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 688 establece que las conciliaciones, los laudos arbitrales y las convenciones colectivas son mecanismos válidos para resolver conflictos económicos y sociales de los trabajadores del sector público, siempre que cumplan con las disposiciones legales que se indican a continuación.",
+    "source_quote": "Serán válidos las conciliaciones y los laudos arbitrales para la solución de los conflictos económicos y sociales de los trabajadores y trabajadoras del sector público, así como las convenciones colectivas, siempre y cuando se ajusten a las siguientes disposiciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "688",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_688"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "688",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_688",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué instrumentos de solución de conflictos son válidos para los trabajadores del sector público según el artículo 688?",
+    "output": "Las conciliaciones, los laudos arbitrales y las convenciones colectivas.",
+    "source_quote": "Serán válidos las conciliaciones y los laudos arbitrales para la solución de los conflictos económicos y sociales de los trabajadores y trabajadoras del sector público, así como las convenciones colectivas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "688",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_688",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición deben cumplir estos instrumentos para ser válidos?",
+    "output": "Deben ajustarse a las disposiciones siguientes que establece la ley.",
+    "source_quote": "siempre y cuando se ajusten a las siguientes disposiciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "688",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_688",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce expresamente la validez de estos tres mecanismos de resolución de conflictos en el ámbito laboral público, delimitando su aplicación a los conflictos de naturaleza económica y social.",
+    "source_quote": "Serán válidos las conciliaciones y los laudos arbitrales para la solución de los conflictos económicos y sociales de los trabajadores y trabajadoras del sector público, así como las convenciones colectivas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "688",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_688",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la eficacia jurídica de dichos instrumentos al cumplimiento de los requisitos y procedimientos que se desarrollan en los artículos posteriores, garantizando así su sujeción al ordenamiento legal.",
+    "source_quote": "siempre y cuando se ajusten a las siguientes disposiciones",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 711 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 711 establece que las convenciones colectivas negociadas según el título correspondiente producen los efectos previstos en la Constitución Política y en el Código de Trabajo. Cuando las normas negociadas afecten el principio de legalidad presupuestaria y requieran aprobación legislativa, su eficacia queda condicionada a que se incluyan en la ley de presupuesto general o extraordinario. Además, prohíbe que la autoridad pública use sus prerrogativas financieras para perjudicar lo acordado. Para la administración descentralizada, impone un plazo de tres meses para incorporar las modificaciones presupuestarias; si se incumple, la parte interesada puede comunicarlo a la Contraloría General de la República para que se suspendan trámites de aprobación o modificación presupuestaria hasta que se incluya la partida correspondiente.",
+    "source_quote": "Las convenciones colectivas que se negocien y se firmen conforme a lo dispuesto en este título tendrán los efectos que señalan el artículo 62 de la Constitución Política y los artículos 54 y 55 de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "711",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_711"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "711",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_711",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efectos tienen las convenciones colectivas según el artículo 711?",
+    "output": "Tienen los efectos que señalan el artículo 62 de la Constitución Política y los artículos 54 y 55 del Código de Trabajo.",
+    "source_quote": "Las convenciones colectivas que se negocien y se firmen conforme a lo dispuesto en este título tendrán los efectos que señalan el artículo 62 de la Constitución Política y los artículos 54 y 55 de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "711",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_711",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene la administración descentralizada para incluir las modificaciones presupuestarias derivadas de una convención colectiva?",
+    "output": "Tres meses.",
+    "source_quote": "Tratándose de la administración descentralizada deberán incluirse las modificaciones presupuestarias correspondientes en el plazo de tres meses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "711",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_711",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina los efectos jurídicos de las convenciones colectivas, vinculándolos directamente a la Constitución Política y al Código de Trabajo, lo que les otorga fuerza normativa y estabilidad.",
+    "source_quote": "Las convenciones colectivas que se negocien y se firmen conforme a lo dispuesto en este título tendrán los efectos que señalan el artículo 62 de la Constitución Política y los artículos 54 y 55 de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "711",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_711",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un mecanismo de control y un plazo perentorio para que la administración descentralizada cumpla con los compromisos presupuestarios derivados de la convención colectiva, facultando a la parte interesada a acudir a la Contraloría General de la República para paralizar trámites presupuestarios en caso de incumplimiento.",
+    "source_quote": "Tratándose de la administración descentralizada deberán incluirse las modificaciones presupuestarias correspondientes en el plazo de tres meses. Si este plazo es incumplido, la parte interesada podrá enviar la comunicación pertinente a la Contraloría General de la República, para que no se ejecute ningún trámite de aprobación ni modificación respecto de los presupuestos de la administración pública respectiva, hasta tanto no se incluya la partida presupuestaria correspondiente.",
+    "item_index": 2
+  }
+]

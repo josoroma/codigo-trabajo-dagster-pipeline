@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 686 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 686 establece que los servidores públicos que reciben auxilio de cesantía (o prestaciones similares por terminación de la relación laboral, excepto fondos de capitalización laboral) no pueden ocupar cargos remunerados en ninguna dependencia del Estado durante un período igual al tiempo representado por la suma recibida. Si aceptan un cargo dentro de ese lapso, deben reintegrar al Tesoro Público lo recibido, deduciendo los salarios devengados mientras estuvieron cesantes. Además, designa a la Procuraduría General de la República o al representante legal del ente público que pagó para cobrar esas sumas, usando certificaciones que constituyen título ejecutivo.",
+    "source_quote": "Los servidores públicos que reciban auxilio de cesantía no podrán ocupar cargos remunerados en ninguna dependencia del Estado, durante un tiempo igual al representado por la suma recibida por dicho concepto o bajo otro título, por indemnización, reconocimiento de antigüedad o cualquier otra prestación similar pagada por la parte empleadora que se origine en la terminación de la relación de servicio, a excepción de los fondos de capitalización laboral. Si dentro de ese lapso llegaran a aceptar algún cargo quedarán obligados a reintegrar al Tesoro Público las sumas recibidas y deducirán aquellas que representen los salarios que hubieran devengado durante el tiempo en que permanecieron cesantes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "686",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_686"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "686",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_686",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohibición impone el artículo 686 a los servidores públicos que reciben auxilio de cesantía?",
+    "output": "Les prohíbe ocupar cargos remunerados en cualquier dependencia del Estado durante un tiempo igual al representado por la suma recibida por auxilio de cesantía u otras prestaciones similares originadas en la terminación de la relación de servicio, exceptuando los fondos de capitalización laboral.",
+    "source_quote": "Los servidores públicos que reciban auxilio de cesantía no podrán ocupar cargos remunerados en ninguna dependencia del Estado, durante un tiempo igual al representado por la suma recibida por dicho concepto o bajo otro título, por indemnización, reconocimiento de antigüedad o cualquier otra prestación similar pagada por la parte empleadora que se origine en la terminación de la relación de servicio, a excepción de los fondos de capitalización laboral.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "686",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_686",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está facultado para cobrar las sumas que deben reintegrarse por contravenir la prohibición del artículo 686?",
+    "output": "La Procuraduría General de la República, cuando se trate del Estado, o el representante legal de los demás entes públicos con personalidad jurídica y capacidad de derecho público y privado que realizó el pago.",
+    "source_quote": "La Procuraduría General de la República, cuando se trate del Estado, o el representante legal de los demás entes públicos, con personalidad jurídica y capacidad de derecho público y privado que pagó, procederá al cobro de las sumas que deban reintegrarse, por contravención a la prohibición establecida en el párrafo anterior, con fundamento en certificaciones extendidas por las oficinas correspondientes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "686",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_686",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una incompatibilidad temporal para evitar que un servidor público reciba simultáneamente una compensación por cesantía y un nuevo salario del Estado, protegiendo los fondos públicos. La obligación de reintegro con deducción de salarios cesantes asegura que el Estado recupere lo pagado indebidamente, pero reconoce el trabajo realizado durante el período de cesantía.",
+    "source_quote": "Los servidores públicos que reciban auxilio de cesantía no podrán ocupar cargos remunerados en ninguna dependencia del Estado, durante un tiempo igual al representado por la suma recibida por dicho concepto o bajo otro título, por indemnización, reconocimiento de antigüedad o cualquier otra prestación similar pagada por la parte empleadora que se origine en la terminación de la relación de servicio, a excepción de los fondos de capitalización laboral. Si dentro de ese lapso llegaran a aceptar algún cargo quedarán obligados a reintegrar al Tesoro Público las sumas recibidas y deducirán aquellas que representen los salarios que hubieran devengado durante el tiempo en que permanecieron cesantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "686",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_686",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa a las autoridades competentes para exigir el reintegro y otorga a las certificaciones administrativas el carácter de título ejecutivo, lo que agiliza el cobro judicial sin necesidad de un proceso declarativo previo, garantizando la efectividad de la prohibición.",
+    "source_quote": "La Procuraduría General de la República, cuando se trate del Estado, o el representante legal de los demás entes públicos, con personalidad jurídica y capacidad de derecho público y privado que pagó, procederá al cobro de las sumas que deban reintegrarse, por contravención a la prohibición establecida en el párrafo anterior, con fundamento en certificaciones extendidas por las oficinas correspondientes. Tales certificaciones tendrán el carácter de título ejecutivo por el monto resultante de la liquidación que haga la administración.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 487 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 487 regula la acumulación de pretensiones en el proceso laboral. Establece que solo se permite acumular demandas en el mismo acto de la demanda o por reconvención, cumpliendo los requisitos de la ley común, que todas las demandas sean competencia de los tribunales de trabajo o estén vinculadas a relaciones sustanciales de su jurisdicción, y que la vía procesal sea la misma. Si hay procesos conexos iniciados por separado, la acumulación procede si ambos están en la jurisdicción laboral, tienen la misma tramitación y no se ha celebrado audiencia o dictado sentencia de primera instancia. La acumulación puede ordenarse de oficio sin recurso cuando los procesos están en el mismo despacho; en caso contrario, se sigue el trámite de la legislación procesal civil.",
+    "source_quote": "La acumulación de pretensiones solo será procedente cuando se haga en el mismo acto de la demanda o mediante reconvención, siempre y cuando se den los requisitos para la procedencia de la acumulación, según la ley común; que todas las demandas sean propias de la competencia de los tribunales de trabajo o íntimamente vinculadas a las relaciones substanciales que sirven de base a las pretensiones propias de su jurisdicción, y que la vía señalada para tramitarlas sea la misma para todas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "487",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_487"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "487",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_487",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo es procedente la acumulación de pretensiones en el proceso laboral?",
+    "output": "Solo cuando se haga en el mismo acto de la demanda o mediante reconvención, y se cumplan los requisitos de la ley común, que todas las demandas sean competencia de los tribunales de trabajo o estén íntimamente vinculadas a relaciones sustanciales de su jurisdicción, y que la vía de tramitación sea la misma para todas.",
+    "source_quote": "La acumulación de pretensiones solo será procedente cuando se haga en el mismo acto de la demanda o mediante reconvención, siempre y cuando se den los requisitos para la procedencia de la acumulación, según la ley común; que todas las demandas sean propias de la competencia de los tribunales de trabajo o íntimamente vinculadas a las relaciones substanciales que sirven de base a las pretensiones propias de su jurisdicción, y que la vía señalada para tramitarlas sea la misma para todas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "487",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_487",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos procede la acumulación de procesos conexos iniciados por separado?",
+    "output": "Procede únicamente si ambos radican en la jurisdicción especial de trabajo, su tramitación sea la misma para todos, y no se hubiera celebrado la audiencia o dictado la sentencia de primera instancia, en los casos donde no existe el trámite de audiencia.",
+    "source_quote": "Si dos o más procesos, conexos entre sí, se inician por separado, la acumulación procederá únicamente si ambos radican en la jurisdicción especial de trabajo y su tramitación sea la misma para todos, siempre y cuando no se hubiera celebrado la audiencia o dictado la sentencia de primera instancia, en los casos donde no existe el trámite de audiencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "487",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_487",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones sustantivas y procesales para que proceda la acumulación de pretensiones en la jurisdicción laboral, limitándola al acto de demanda o reconvención y exigiendo unidad de competencia y vía procesal.",
+    "source_quote": "La acumulación de pretensiones solo será procedente cuando se haga en el mismo acto de la demanda o mediante reconvención, siempre y cuando se den los requisitos para la procedencia de la acumulación, según la ley común; que todas las demandas sean propias de la competencia de los tribunales de trabajo o íntimamente vinculadas a las relaciones substanciales que sirven de base a las pretensiones propias de su jurisdicción, y que la vía señalada para tramitarlas sea la misma para todas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "487",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_487",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta al juez para acumular procesos de oficio sin posibilidad de impugnación cuando están en el mismo despacho, y remite al procedimiento civil cuando están en despachos distintos, agilizando la tramitación y evitando decisiones contradictorias.",
+    "source_quote": "La acumulación podrá ordenarse de oficio, sin recurso alguno, cuando los procesos radiquen en un mismo despacho; de lo contrario, se estará al trámite de la acumulación señalado en la legislación procesal civil.",
+    "item_index": 2
+  }
+]

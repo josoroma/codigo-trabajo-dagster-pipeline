@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 661 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 661 regula los plazos para solicitar la calificación de una huelga o paro. Establece que, en general, se puede solicitar en cualquier momento mientras dure la huelga o el paro, salvo lo que disponga el artículo 384. Para los servicios públicos, permite solicitarla hasta tres días después de que finalice. Además, obliga a los jerarcas de entidades públicas a pedir la calificación dentro de las 24 horas siguientes a la suspensión de labores, bajo responsabilidad personal. Finalmente, limita a un solo proceso de calificación por el mismo movimiento o hechos cuando se trate del mismo empleador, aunque abarque todo el territorio nacional, y si ocurre solo en un centro de trabajo, la calificación se limita a ese centro.",
+    "source_quote": "La calificación podrá solicitarse en cualquier tiempo mientras subsista la huelga o el paro, salvo lo dispuesto en el artículo 384. En el caso de servicios públicos, la calificación podrá solicitarse hasta tres días después de su finalización.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta cuándo se puede solicitar la calificación de una huelga en servicios públicos?",
+    "output": "Hasta tres días después de su finalización.",
+    "source_quote": "En el caso de servicios públicos, la calificación podrá solicitarse hasta tres días después de su finalización.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen los jerarcas de las entidades públicas respecto a la calificación de la huelga?",
+    "output": "Están obligados a solicitar la calificación de la huelga dentro de las veinticuatro horas a partir de la suspensión de las labores; caso contrario, incurrirán de forma personal en las distintas responsabilidades que la ley señala.",
+    "source_quote": "Los jerarcas de las entidades públicas están obligados a solicitar la calificación de la huelga dentro de las veinticuatro horas a partir de la suspensión de las labores; caso contrario, incurrirán de forma personal en las distintas responsabilidades que la ley señala.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo general para solicitar la calificación de una huelga o paro, permitiendo que se haga en cualquier momento mientras subsista, y una excepción para servicios públicos que extiende el plazo hasta tres días después de finalizado el movimiento.",
+    "source_quote": "La calificación podrá solicitarse en cualquier tiempo mientras subsista la huelga o el paro, salvo lo dispuesto en el artículo 384. En el caso de servicios públicos, la calificación podrá solicitarse hasta tres días después de su finalización.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "661",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_661",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una obligación específica a los jerarcas de entidades públicas de solicitar la calificación en un plazo perentorio de 24 horas, so pena de incurrir en responsabilidades personales, con el fin de asegurar una pronta definición legal de la huelga en el sector público.",
+    "source_quote": "Los jerarcas de las entidades públicas están obligados a solicitar la calificación de la huelga dentro de las veinticuatro horas a partir de la suspensión de las labores; caso contrario, incurrirán de forma personal en las distintas responsabilidades que la ley señala.",
+    "item_index": 2
+  }
+]

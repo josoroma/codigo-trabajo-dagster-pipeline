@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 86 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 86 establece que el contrato de trabajo puede finalizar sin que ninguna de las partes (empleador ni trabajador) tenga que pagar indemnización o asumir responsabilidad, por tres motivos: cuando se cumple el plazo en los contratos temporales (a menos que se renueven), cuando se termina la obra en los contratos por obra determinada, cuando ocurre alguna causa que las partes hayan acordado expresamente en el contrato, o cuando ambas partes están de acuerdo en ponerle fin.",
+    "source_quote": "El contrato de trabajo terminará sin responsabilidad para ninguna de las partes por las siguientes causas: - Por el advenimiento del plazo en los contratos a plazo fijo, salvo el caso de prórroga, y por la conclusión de la obra en los contratos para obra determinada; - Por las causas expresamente estipuladas en él, y - Por mutuo consentimiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "86",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_86"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "86",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_86",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las causas por las que un contrato de trabajo termina sin responsabilidad para las partes según el artículo 86?",
+    "output": "Termina sin responsabilidad por el advenimiento del plazo en contratos a plazo fijo (salvo prórroga), por la conclusión de la obra en contratos para obra determinada, por las causas expresamente estipuladas en el contrato, y por mutuo consentimiento.",
+    "source_quote": "- Por el advenimiento del plazo en los contratos a plazo fijo, salvo el caso de prórroga, y por la conclusión de la obra en los contratos para obra determinada; - Por las causas expresamente estipuladas en él, y - Por mutuo consentimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "86",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_86",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué excepción contempla el artículo 86 para la terminación de un contrato a plazo fijo por vencimiento del plazo?",
+    "output": "La excepción es el caso de prórroga; si el contrato se prorroga, no termina por el advenimiento del plazo.",
+    "source_quote": "salvo el caso de prórroga",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "86",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_86",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita establece que los contratos de duración determinada (plazo fijo u obra) se extinguen automáticamente al cumplirse el término o finalizar la obra, sin generar responsabilidad, excepto si las partes acuerdan una prórroga en los contratos a plazo fijo.",
+    "source_quote": "Por el advenimiento del plazo en los contratos a plazo fijo, salvo el caso de prórroga, y por la conclusión de la obra en los contratos para obra determinada;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "86",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_86",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la facultad de las partes para dar por terminado el contrato de común acuerdo en cualquier momento, sin que ello implique consecuencias legales adversas para ninguna de ellas.",
+    "source_quote": "Por mutuo consentimiento.",
+    "item_index": 2
+  }
+]

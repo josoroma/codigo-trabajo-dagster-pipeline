@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 409 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 409 establece que cualquier discriminación de las mencionadas en el título correspondiente puede ser reclamada ante los juzgados de trabajo, ya sea por las autoridades o por la persona afectada, siguiendo el procedimiento del Código. Además, exige que quien alegue discriminación señale de manera específica los hechos en que se basa y los elementos de comparación que respalden su afirmación.",
+    "source_quote": "Toda discriminación de las contempladas en el presente título podrá ser hecha valer por las autoridades o la parte interesada ante los juzgados de trabajo, de la forma dispuesta en este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "409",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_409"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "409",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_409",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué instancia se puede hacer valer una discriminación según el artículo 409?",
+    "output": "Ante los juzgados de trabajo.",
+    "source_quote": "ante los juzgados de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "409",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_409",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe señalar específicamente quien alegue una discriminación?",
+    "output": "Debe señalar el sustento fáctico en el que funda su alegato y los términos de comparación que substancie su afirmación.",
+    "source_quote": "quien alegue la discriminación deberá señalar específicamente el sustento fáctico en el que funda su alegato y los términos de comparación que substancie su afirmación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "409",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_409",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la vía judicial laboral para reclamar discriminaciones y quiénes están legitimados para hacerlo.",
+    "source_quote": "Toda discriminación de las contempladas en el presente título podrá ser hecha valer por las autoridades o la parte interesada ante los juzgados de trabajo, de la forma dispuesta en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "409",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_409",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una carga procesal a quien alega discriminación, exigiendo precisión en los hechos y en los elementos comparativos que sustentan la denuncia.",
+    "source_quote": "En estos casos, quien alegue la discriminación deberá señalar específicamente el sustento fáctico en el que funda su alegato y los términos de comparación que substancie su afirmación.",
+    "item_index": 2
+  }
+]

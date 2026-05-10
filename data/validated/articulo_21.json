@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 21 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 21 establece que en todo contrato de trabajo se consideran automáticamente incorporados, como mínimo, todos los derechos y garantías que el Código de Trabajo y sus leyes supletorias o conexas conceden a los trabajadores. Esto significa que aunque no se escriban expresamente en el contrato, esas protecciones legales forman parte del acuerdo laboral, asegurando un piso mínimo de derechos irrenunciables.",
+    "source_quote": "En todo contrato de trabajo deben entenderse incluidos, por lo menos, las garantías y derechos que otorgan a los trabajadores el presente Código y sus leyes supletorias o conexas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "21",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_21"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "21",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_21",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué elementos deben considerarse incluidos en todo contrato de trabajo según el artículo 21?",
+    "output": "Las garantías y derechos que otorgan a los trabajadores el Código de Trabajo y sus leyes supletorias o conexas.",
+    "source_quote": "En todo contrato de trabajo deben entenderse incluidos, por lo menos, las garantías y derechos que otorgan a los trabajadores el presente Código y sus leyes supletorias o conexas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "21",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_21",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el nivel mínimo de protección que el artículo 21 asegura en un contrato laboral?",
+    "output": "El nivel mínimo son las garantías y derechos establecidos en el Código de Trabajo y sus leyes supletorias o conexas.",
+    "source_quote": "por lo menos, las garantías y derechos que otorgan a los trabajadores el presente Código y sus leyes supletorias o conexas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "21",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_21",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara la incorporación automática e implícita de un contenido mínimo protector en cualquier relación contractual laboral, sin necesidad de pacto expreso.",
+    "source_quote": "En todo contrato de trabajo deben entenderse incluidos, por lo menos, las garantías y derechos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "21",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_21",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica la fuente normativa de esos derechos y garantías: el propio Código de Trabajo y las leyes que lo complementan o se relacionan con él, delimitando así el alcance de la protección mínima.",
+    "source_quote": "que otorgan a los trabajadores el presente Código y sus leyes supletorias o conexas",
+    "item_index": 2
+  }
+]

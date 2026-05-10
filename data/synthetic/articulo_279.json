@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 279 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 279 establece que el Consejo de Salud Ocupacional debe preparar su presupuesto ordinario cada año, utilizando los recursos mencionados en el artículo anterior. Este presupuesto debe ser presentado por el Ministerio de Trabajo y Seguridad Social ante la Contraloría General de la República para su aprobación. El mismo procedimiento se aplica al presupuesto extraordinario.",
+    "source_quote": "Con los recursos a que se refiere el artículo anterior, el Consejo de Salud Ocupacional preparará en cada ejercicio, su presupuesto ordinario, el cual deberá ser sometido por el Ministerio de Trabajo y Seguridad Social a la aprobación de la Contraloría General de la República.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "279",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_279"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "279",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_279",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién prepara el presupuesto ordinario del Consejo de Salud Ocupacional?",
+    "output": "El Consejo de Salud Ocupacional.",
+    "source_quote": "el Consejo de Salud Ocupacional preparará en cada ejercicio, su presupuesto ordinario",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "279",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_279",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué entidad debe aprobar el presupuesto ordinario del Consejo de Salud Ocupacional?",
+    "output": "La Contraloría General de la República.",
+    "source_quote": "el cual deberá ser sometido por el Ministerio de Trabajo y Seguridad Social a la aprobación de la Contraloría General de la República",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "279",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_279",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del Consejo de Salud Ocupacional de elaborar anualmente su presupuesto ordinario con los recursos indicados en el artículo precedente, y define el procedimiento de aprobación: el Ministerio de Trabajo y Seguridad Social debe presentarlo a la Contraloría General de la República para su visto bueno.",
+    "source_quote": "Con los recursos a que se refiere el artículo anterior, el Consejo de Salud Ocupacional preparará en cada ejercicio, su presupuesto ordinario, el cual deberá ser sometido por el Ministerio de Trabajo y Seguridad Social a la aprobación de la Contraloría General de la República.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "279",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_279",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende el mismo procedimiento de elaboración y aprobación al presupuesto extraordinario, asegurando que cualquier modificación presupuestaria adicional también sea sometida a la Contraloría General de la República.",
+    "source_quote": "Igual trámite se seguirá en lo referente al presupuesto extraordinario.",
+    "item_index": 2
+  }
+]

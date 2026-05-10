@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 43 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 43 establece una prohibición absoluta para el Ministerio de Trabajo y de Seguridad Social de autorizar contratos de trabajo en el extranjero a ciertas personas. Específicamente, no se permite que realicen estos contratos los menores de dieciocho años; los menores de edad mayores de dieciocho años sin consentimiento escrito de sus padres, tutores o del Patronato Nacional de la Infancia (salvo emancipados); los hombres casados que no demuestren haber provisto el sustento de su esposa e hijos o cuyo contrato no garantice una remesa mensual para ese fin; y los trabajadores obligados a prestar alimentos si el contrato no asegura su cumplimiento.",
+    "source_quote": "En ningún caso el Ministerio de Trabajo y de Seguridad Social podrá permitir que realicen contratos para trabajar fuera del país:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "43",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_43"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "43",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_43",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un menor de dieciocho años firmar un contrato para trabajar fuera de Costa Rica?",
+    "output": "No, el Ministerio de Trabajo y de Seguridad Social no puede permitir que un menor de dieciocho años realice un contrato para trabajar fuera del país.",
+    "source_quote": "Los menores de dieciocho años;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "43",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_43",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición debe cumplir un hombre casado para que se le autorice un contrato de trabajo en el extranjero?",
+    "output": "Debe demostrar que deja provisto lo necesario para el mantenimiento de su esposa e hijos, legítimos o naturales, o bien el contrato debe estipular que de los salarios se rebajará una suma suficiente para ese objeto, la cual será remitida mensualmente o pagada aquí a dichos familiares.",
+    "source_quote": "Los hombres casados, si no demuestran que dejan provisto lo necesario para el mantenimiento de sus mujeres e hijos, legítimos o naturales, o si el contrato no estipula que de los salarios habrá de rebajarse una suma suficiente para ese objeto, que será remitida mensualmente o pagada aquí a dichos familiares",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "43",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_43",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta e imperativa que recae sobre el Ministerio, delimitando su facultad de autorizar contratos laborales internacionales respecto de las categorías de personas que se enumeran a continuación.",
+    "source_quote": "En ningún caso el Ministerio de Trabajo y de Seguridad Social podrá permitir que realicen contratos para trabajar fuera del país:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "43",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_43",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege de manera absoluta a los menores de dieciocho años, impidiendo que sean objeto de contratación para trabajar en el extranjero, en resguardo de su interés superior y desarrollo integral.",
+    "source_quote": "Los menores de dieciocho años;",
+    "item_index": 2
+  }
+]

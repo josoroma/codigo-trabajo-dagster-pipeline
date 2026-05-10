@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 531 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 531 establece que cualquier traslado que ocurra durante las audiencias debe realizarse de manera sumarísima, es decir, de forma inmediata y sin demoras, para que no interfiera con el desarrollo normal del proceso.",
+    "source_quote": "Los traslados que se den en las audiencias serán sumarísimos, para ser evacuados de forma inmediata, de tal manera que no constituyan un obstáculo para el normal desarrollo de la actividad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "531",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_531"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "531",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_531",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben ser los traslados en las audiencias según el artículo 531?",
+    "output": "Sumarísimos, para ser evacuados de forma inmediata.",
+    "source_quote": "Los traslados que se den en las audiencias serán sumarísimos, para ser evacuados de forma inmediata",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "531",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_531",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el propósito de que los traslados sean sumarísimos?",
+    "output": "Que no constituyan un obstáculo para el normal desarrollo de la actividad.",
+    "source_quote": "de tal manera que no constituyan un obstáculo para el normal desarrollo de la actividad",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "531",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_531",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la naturaleza sumaria y la obligación de evacuar los traslados de manera inmediata durante las audiencias, evitando dilaciones.",
+    "source_quote": "Los traslados que se den en las audiencias serán sumarísimos, para ser evacuados de forma inmediata",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "531",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_531",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que la celeridad en los traslados preserve la continuidad y eficiencia del proceso, sin interrumpir su curso normal.",
+    "source_quote": "de tal manera que no constituyan un obstáculo para el normal desarrollo de la actividad",
+    "item_index": 2
+  }
+]

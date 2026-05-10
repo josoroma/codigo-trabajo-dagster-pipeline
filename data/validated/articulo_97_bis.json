@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 97_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 97 bis establece que la persona empleadora debe facilitar a la trabajadora en período de lactancia pausas para extraerse leche, con un mínimo de 25 minutos cada 3 horas de trabajo. Estos períodos pueden ajustarse con certificación médica según necesidades fisiológicas, se consideran tiempo de trabajo efectivo remunerado, no son acumulables ni pueden usarse para otros fines. Además, en caso de pérdida del hijo o hija, la madre puede solicitar tiempo para el cese de la lactancia con certificación médica que indique el tiempo necesario sin perjuicio de su salud.",
+    "source_quote": "La persona empleadora deberá procurar, a la trabajadora en lactancia, espacios durante la jornada laboral para la extracción de leche, con un mínimo de 25 minutos cada 3 horas laborales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el tiempo mínimo que la persona empleadora debe procurar para la extracción de leche durante la jornada laboral?",
+    "output": "Un mínimo de 25 minutos cada 3 horas laborales.",
+    "source_quote": "con un mínimo de 25 minutos cada 3 horas laborales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición pueden modificarse los períodos de lactancia establecidos?",
+    "output": "Según las necesidades fisiológicas de las madres lactantes con una certificación médica.",
+    "source_quote": "Estos periodos de lactancia podrán ser modificados según las necesidades fisiológicas de las madres lactantes con una certificación médica.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación patronal de conceder pausas específicas para la extracción de leche, fijando un tiempo mínimo y una periodicidad, garantizando así el derecho a la lactancia materna en el ámbito laboral.",
+    "source_quote": "La persona empleadora deberá procurar, a la trabajadora en lactancia, espacios durante la jornada laboral para la extracción de leche, con un mínimo de 25 minutos cada 3 horas laborales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "97_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_97_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce una situación especial de duelo y necesidad fisiológica, permitiendo a la madre solicitar tiempo para detener la lactancia de forma segura, protegiendo su salud con respaldo médico.",
+    "source_quote": "En casos de pérdida del niño o niña, la madre podrá solicitar un periodo de extracción para realizar el cese del proceso de lactancia, con certificación médica que indique el tiempo que requiere para realizar el proceso sin perjuicio de su salud.",
+    "item_index": 2
+  }
+]

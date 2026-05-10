@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 351 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 351 establece que el Ministerio de Trabajo y Seguridad Social puede solicitar a los Tribunales de Trabajo la disolución de un sindicato cuando, a su juicio, este deje de cumplir con los requisitos de constitución señalados en los artículos 343, párrafo segundo, y 345, inciso c).",
+    "source_quote": "El Ministerio de Trabajo y Seguridad Social también solicitará a los Tribunales de Trabajo la disolución de los sindicatos que, a su juicio, dejen de llenar los requisitos que para su constitución señalan los artículos 273, párrafo segundo y 275, inciso c).",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "351",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_351"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "351",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_351",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede solicitar la disolución de un sindicato según el artículo 351?",
+    "output": "El Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "El Ministerio de Trabajo y Seguridad Social también solicitará a los Tribunales de Trabajo la disolución de los sindicatos...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "351",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_351",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué autoridad se solicita la disolución del sindicato?",
+    "output": "Ante los Tribunales de Trabajo.",
+    "source_quote": "...solicitará a los Tribunales de Trabajo la disolución de los sindicatos...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "351",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_351",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Ministerio de Trabajo la facultad de iniciar un proceso judicial de disolución sindical cuando considere que el sindicato ha dejado de cumplir con los requisitos legales de constitución, remitiendo a los artículos que contienen dichos requisitos (actualmente 343 y 345).",
+    "source_quote": "El Ministerio de Trabajo y Seguridad Social también solicitará a los Tribunales de Trabajo la disolución de los sindicatos que, a su juicio, dejen de llenar los requisitos que para su constitución señalan los artículos 273, párrafo segundo y 275, inciso c).",
+    "item_index": 1
+  }
+]

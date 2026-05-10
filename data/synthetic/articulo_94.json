@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 94 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 94 prohíbe a los empleadores despedir a trabajadoras embarazadas, en período de lactancia o que gocen de licencias del artículo 95, salvo por falta grave comprobada según el artículo 81. En ese caso, el empleador debe solicitar autorización ante la Dirección Nacional y la Inspección General de Trabajo, que resolverá mediante un procedimiento sumario. La trabajadora debe notificar su embarazo al empleador y puede presentar certificación médica. El empleador debe conceder un día de licencia con goce salarial para obtenerla y, tras la licencia, permisos remunerados para servicios médicos del recién nacido y la madre, y para retirar constancias de lactancia.",
+    "source_quote": "Queda prohibido a las personas empleadoras despedir a las trabajadoras que se encuentren en estado de embarazo o en período de lactancia, o bien, a las personas trabajadoras que gocen de las licencias especificadas en el artículo 95 de este Código, salvo por causa justificada originada en falta grave a los deberes derivados del contrato, conforme a las causales establecidas en el artículo 81.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se permite el despido de una trabajadora embarazada o en período de lactancia?",
+    "output": "Solo se permite por causa justificada originada en falta grave a los deberes del contrato, conforme a las causales del artículo 81, y previa autorización de la Dirección Nacional y la Inspección General de Trabajo, que debe comprobar la falta mediante un procedimiento sumario.",
+    "source_quote": "salvo por causa justificada originada en falta grave a los deberes derivados del contrato, conforme a las causales establecidas en el artículo 81. En caso de que la trabajadora incurra en falta grave, la persona empleadora deberá gestionar el despido ante la Dirección Nacional y la Inspección General de Trabajo, para lo cual deberá comprobar la falta.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir la trabajadora para gozar de la protección contra el despido por embarazo?",
+    "output": "Debe dar aviso de su estado de embarazo a la persona empleadora y puede aportar certificación médica o constancia de la Caja Costarricense de Seguro Social.",
+    "source_quote": "Para gozar de la protección que aquí se establece, la trabajadora deberá dar aviso de su estado de embarazo a la persona empleadora y podrá aportar certificación médica o constancia de la Caja Costarricense de Seguro Social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una protección especial contra el despido para trabajadoras en estado de embarazo, lactancia o con licencias del artículo 95, limitando las excepciones a faltas graves comprobadas según el artículo 81, con el fin de garantizar la estabilidad laboral durante la maternidad.",
+    "source_quote": "Queda prohibido a las personas empleadoras despedir a las trabajadoras que se encuentren en estado de embarazo o en período de lactancia, o bien, a las personas trabajadoras que gocen de las licencias especificadas en el artículo 95 de este Código, salvo por causa justificada originada en falta grave a los deberes derivados del contrato, conforme a las causales establecidas en el artículo 81.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "94",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_94",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a la trabajadora la obligación de notificar su embarazo para activar la protección, y al empleador la de facilitar un día de licencia remunerada para obtener la certificación, asegurando que la trabajadora pueda acreditar su condición sin perjuicio económico.",
+    "source_quote": "Para gozar de la protección que aquí se establece, la trabajadora deberá dar aviso de su estado de embarazo a la persona empleadora y podrá aportar certificación médica o constancia de la Caja Costarricense de Seguro Social. La persona empleadora deberá otorgarle a la trabajadora hasta un día de licencia con goce salarial para la obtención de esta.",
+    "item_index": 2
+  }
+]

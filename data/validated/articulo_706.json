@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 706 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 706 establece que la Administración y sus servidores tienen la opción, mas no la obligación, de resolver los conflictos económicos y sociales a través del arbitraje. Si deciden utilizar este mecanismo, deben ceñirse a lo estipulado en el Código de Trabajo, aunque con las excepciones y limitaciones específicas que introduce el capítulo del que forma parte este artículo.",
+    "source_quote": "Es potestativo para la Administración y sus servidores someter la solución de los conflictos económicos y sociales a arbitraje, en cuyo caso se estará a lo dispuesto en este mismo Código, con las excepciones y limitaciones que se establecen en este capítulo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "706",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_706"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "706",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_706",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden optar por someter los conflictos económicos y sociales al arbitraje?",
+    "output": "La Administración y sus servidores.",
+    "source_quote": "Es potestativo para la Administración y sus servidores someter la solución de los conflictos económicos y sociales a arbitraje",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "706",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_706",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Si se elige el arbitraje, ¿qué normativa rige?",
+    "output": "Se aplica lo dispuesto en el Código de Trabajo, con las excepciones y limitaciones establecidas en el capítulo correspondiente.",
+    "source_quote": "en cuyo caso se estará a lo dispuesto en este mismo Código, con las excepciones y limitaciones que se establecen en este capítulo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "706",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_706",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase declara el carácter facultativo del arbitraje para la Administración y sus servidores, indicando que no es una vía obligatoria sino una elección disponible para la resolución de conflictos en el ámbito económico y social.",
+    "source_quote": "Es potestativo para la Administración y sus servidores someter la solución de los conflictos económicos y sociales a arbitraje",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "706",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_706",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte precisa que, una vez adoptada la vía del arbitraje, el proceso se regirá por el propio Código de Trabajo, pero con las salvedades y restricciones que el capítulo señala, delimitando así el marco normativo aplicable.",
+    "source_quote": "en cuyo caso se estará a lo dispuesto en este mismo Código, con las excepciones y limitaciones que se establecen en este capítulo.",
+    "item_index": 2
+  }
+]

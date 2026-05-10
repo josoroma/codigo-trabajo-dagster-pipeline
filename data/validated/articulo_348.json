@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 348 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que cuando los directores de un sindicato contraen obligaciones civiles, el sindicato queda obligado por ellas, siempre y cuando los directores hayan actuado dentro de los límites de sus facultades.",
+    "source_quote": "Las obligaciones civiles contraídas por los directores de un sindicato obligan a éste, siempre que aquéllos obren dentro de sus facultades.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "348",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_348"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "348",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_348",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo obligan al sindicato las obligaciones civiles contraídas por sus directores?",
+    "output": "Obligan al sindicato siempre que los directores obren dentro de sus facultades.",
+    "source_quote": "siempre que aquéllos obren dentro de sus facultades.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "348",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_348",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de obligaciones contraídas por los directores de un sindicato pueden obligar a este?",
+    "output": "Las obligaciones civiles.",
+    "source_quote": "Las obligaciones civiles contraídas por los directores de un sindicato obligan a éste",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "348",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_348",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que el sindicato responde por las obligaciones civiles que asuman sus directores, atribuyéndole responsabilidad directa.",
+    "source_quote": "Las obligaciones civiles contraídas por los directores de un sindicato obligan a éste",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "348",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_348",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición limitante para que opere dicha responsabilidad, exigiendo que los directores actúen dentro del ámbito de sus facultades para que el sindicato quede vinculado.",
+    "source_quote": "siempre que aquéllos obren dentro de sus facultades",
+    "item_index": 2
+  }
+]

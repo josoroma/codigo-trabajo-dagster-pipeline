@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 23 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 23 establece que, en los casos no regulados por otras disposiciones, el contrato de trabajo debe formalizarse por escrito en tres ejemplares: uno para el trabajador, otro para el patrono y un tercero que el patrono debe remitir a la Oficina de Empleo del Ministerio de Trabajo y Seguridad Social, ya sea directamente o a través de la autoridad laboral o política correspondiente, dentro de los quince días siguientes a su celebración, modificación o novación.",
+    "source_quote": "En los demás casos el contrato de trabajo deberá extenderse por escrito, en tres tantos: uno para cada parte y otro que el patrono hará llegar a la Oficina de Empleo del Ministerio de Trabajo y Seguridad Social, directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los quince días posteriores a su celebración, modificación o novación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "23",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_23"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "23",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_23",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuántos tantos debe extenderse el contrato de trabajo según el artículo 23?",
+    "output": "En tres tantos.",
+    "source_quote": "en tres tantos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "23",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_23",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dentro de qué plazo debe el patrono hacer llegar un tanto del contrato a la Oficina de Empleo?",
+    "output": "Dentro de los quince días posteriores a su celebración, modificación o novación.",
+    "source_quote": "dentro de los quince días posteriores a su celebración, modificación o novación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "23",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_23",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita impone la formalidad escrita del contrato de trabajo en los supuestos no exceptuados, determina el número de copias requeridas y designa al patrono como responsable de remitir una de ellas a la autoridad laboral, garantizando así la constancia documental y el control administrativo de la relación laboral.",
+    "source_quote": "En los demás casos el contrato de trabajo deberá extenderse por escrito, en tres tantos: uno para cada parte y otro que el patrono hará llegar a la Oficina de Empleo del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "23",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_23",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece las vías de envío del tanto patronal y fija un plazo perentorio de quince días, contados desde la celebración, modificación o novación del contrato, para que el patrono cumpla con la obligación de depósito, asegurando la actualización oportuna de los registros oficiales y la protección de los derechos laborales.",
+    "source_quote": "directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los quince días posteriores a su celebración, modificación o novación",
+    "item_index": 2
+  }
+]

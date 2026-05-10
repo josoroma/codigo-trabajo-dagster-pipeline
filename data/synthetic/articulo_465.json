@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 465 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 465 regula la acreditación de la personería de los representantes legales de personas jurídicas en procesos laborales. Si actúan como demandantes, deben comprobarla en la primera presentación; si son demandados, basta que el actor indique el nombre o razón social, y la notificación se hará en la sede social. La carga de probar la personería recae en el demandado, quien debe hacerlo en su primera presentación, so pena de ineficacia si no subsana omisiones en tres días. También impone deberes de lealtad procesal para corregir datos y permite correcciones sin nulidades, salvo que impliquen sustituciones que violen el debido proceso. No se requiere comprobar la personería del Estado o entes públicos, y cada despacho debe llevar un registro de personerías.",
+    "source_quote": "Los representantes legales de toda persona jurídica, incluidas las organizaciones sociales, deberán demostrar su personería mediante el respectivo documento o invocando la publicación, en caso de que esté permitido hacerlo de ese modo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "465",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_465"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "465",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_465",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el representante legal de una persona jurídica si comparece como parte actora en un proceso laboral?",
+    "output": "Debe comprobar su personería en el acto de la primera presentación.",
+    "source_quote": "Si su comparecencia lo es como parte actora, la personería del representante debe comprobarse en el acto de la primera presentación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "465",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_465",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la consecuencia si la parte demandada omite probar su personería y no subsana la omisión dentro del plazo otorgado?",
+    "output": "Se considerará ineficaz la presentación.",
+    "source_quote": "Si se presentara alguna omisión, se prevendrá suplirla dentro del tercer día, bajo pena de considerar ineficaz la presentación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "465",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_465",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación general de acreditar la representación legal y los medios permitidos para hacerlo.",
+    "source_quote": "Los representantes legales de toda persona jurídica, incluidas las organizaciones sociales, deberán demostrar su personería mediante el respectivo documento o invocando la publicación, en caso de que esté permitido hacerlo de ese modo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "465",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_465",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la carga procesal del demandado y la sanción por incumplimiento, garantizando la seriedad de las actuaciones.",
+    "source_quote": "La carga de probar la personería legal le corresponde a la parte demandada, quien deberá hacerlo al realizar su primera presentación. Si se presentara alguna omisión, se prevendrá suplirla dentro del tercer día, bajo pena de considerar ineficaz la presentación.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 247 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que si un trabajador desaparece por un riesgo laboral y no se tienen noticias de él en 30 días, se presume su muerte para que sus familiares puedan recibir las prestaciones económicas del Código. Si después se comprueba que no falleció, deberán devolverse esos pagos.",
+    "source_quote": "Si a consecuencia de un riesgo del trabajo desapareciera un trabajador sin que haya certidumbre de su fallecimiento, y no se volviera a tener noticias de él dentro de los treinta días posteriores al suceso, se presumirá su muerte, a afecto de que los causahabientes perciban las prestaciones en dinero que dispone este Código, sin perjuicio de la devolución que procediere posteriormente, en caso de que se pruebe que el trabajador no había fallecido.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "247",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_247"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "247",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_247",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos días deben transcurrir sin noticias del trabajador desaparecido para que se presuma su muerte según el artículo 247?",
+    "output": "Treinta días posteriores al suceso.",
+    "source_quote": "no se volviera a tener noticias de él dentro de los treinta días posteriores al suceso, se presumirá su muerte",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "247",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_247",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si después de pagadas las prestaciones se prueba que el trabajador no falleció?",
+    "output": "Procede la devolución de las prestaciones en dinero que se hubieran pagado.",
+    "source_quote": "sin perjuicio de la devolución que procediere posteriormente, en caso de que se pruebe que el trabajador no había fallecido",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "247",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_247",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la presunción legal de muerte cuando un trabajador desaparece por un riesgo laboral y no hay noticias en 30 días, permitiendo activar las prestaciones sin necesidad de declaración judicial de fallecimiento.",
+    "source_quote": "Si a consecuencia de un riesgo del trabajo desapareciera un trabajador sin que haya certidumbre de su fallecimiento, y no se volviera a tener noticias de él dentro de los treinta días posteriores al suceso, se presumirá su muerte",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "247",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_247",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Salvaguarda el derecho a la restitución de las sumas pagadas si posteriormente se demuestra que el trabajador sobrevivió, evitando un enriquecimiento indebido de los causahabientes.",
+    "source_quote": "sin perjuicio de la devolución que procediere posteriormente, en caso de que se pruebe que el trabajador no había fallecido",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 408 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 408 garantiza que todas las personas, sin discriminación, tengan igualdad de oportunidades para conseguir empleo y sean consideradas elegibles en su área de especialidad, siempre que cumplan con los requisitos formales que pida el empleador o que estén fijados por ley o reglamento.",
+    "source_quote": "Todas las personas, sin discriminación alguna, gozarán de las mismas oportunidades para obtener empleo y deberán ser consideradas elegibles en el ramo de su especialidad, siempre y cuando reúnan los requisitos formales solicitados por la persona empleadora o que estén establecidos mediante ley o reglamento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "408",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_408"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "408",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_408",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho garantiza el artículo 408 a todas las personas en materia de empleo?",
+    "output": "El derecho a gozar de las mismas oportunidades para obtener empleo, sin discriminación alguna.",
+    "source_quote": "Todas las personas, sin discriminación alguna, gozarán de las mismas oportunidades para obtener empleo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "408",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_408",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición deben cumplir las personas para ser consideradas elegibles en su especialidad según este artículo?",
+    "output": "Deben reunir los requisitos formales solicitados por la persona empleadora o los establecidos mediante ley o reglamento.",
+    "source_quote": "siempre y cuando reúnan los requisitos formales solicitados por la persona empleadora o que estén establecidos mediante ley o reglamento",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "408",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_408",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de igualdad de oportunidades y no discriminación en el acceso al empleo, garantizando que todas las personas sean consideradas elegibles según su especialidad.",
+    "source_quote": "Todas las personas, sin discriminación alguna, gozarán de las mismas oportunidades para obtener empleo y deberán ser consideradas elegibles en el ramo de su especialidad",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "408",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_408",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona la elegibilidad al cumplimiento de requisitos formales, ya sean fijados por el empleador o por normativa legal o reglamentaria, delimitando así el alcance del derecho.",
+    "source_quote": "siempre y cuando reúnan los requisitos formales solicitados por la persona empleadora o que estén establecidos mediante ley o reglamento",
+    "item_index": 2
+  }
+]

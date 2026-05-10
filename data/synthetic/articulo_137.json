@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 137 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 137 define lo que se considera tiempo de trabajo efectivo, estableciendo dos situaciones: cuando el trabajador está bajo las órdenes del patrono o no puede abandonar el lugar de trabajo durante descansos y comidas. Además, aclara que el descanso mínimo obligatorio de media hora en jornadas continuas se computa como tiempo de trabajo efectivo.",
+    "source_quote": "Tiempo de trabajo efectivo es aquél en que el trabajador permanezca a las órdenes del patrono o no pueda salir del lugar donde presta sus servicios durante las horas de descanso y comidas. En todo caso se considerará como tiempo de trabajo efectivo el descanso mínimo obligatorio que deberá darse a los trabajadores durante media hora en la jornada, siempre que ésta sea continua.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "137",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_137"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "137",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_137",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se entiende por tiempo de trabajo efectivo según el artículo 137?",
+    "output": "Es aquel en que el trabajador permanece a las órdenes del patrono o no puede salir del lugar donde presta sus servicios durante las horas de descanso y comidas.",
+    "source_quote": "Tiempo de trabajo efectivo es aquél en que el trabajador permanezca a las órdenes del patrono o no pueda salir del lugar donde presta sus servicios durante las horas de descanso y comidas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "137",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_137",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se considera tiempo de trabajo efectivo el descanso mínimo obligatorio de media hora en una jornada continua?",
+    "output": "Sí, en todo caso el descanso mínimo obligatorio de media hora se considerará tiempo de trabajo efectivo, siempre que la jornada sea continua.",
+    "source_quote": "En todo caso se considerará como tiempo de trabajo efectivo el descanso mínimo obligatorio que deberá darse a los trabajadores durante media hora en la jornada, siempre que ésta sea continua.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "137",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_137",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la definición legal de tiempo de trabajo efectivo, delimitando las circunstancias en que el trabajador está a disposición del empleador, incluso durante pausas, para fines de cómputo de jornada.",
+    "source_quote": "Tiempo de trabajo efectivo es aquél en que el trabajador permanezca a las órdenes del patrono o no pueda salir del lugar donde presta sus servicios durante las horas de descanso y comidas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "137",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_137",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar que el descanso mínimo obligatorio no sea excluido de la remuneración ni del límite de la jornada, protegiendo el derecho al descanso sin perjuicio económico.",
+    "source_quote": "En todo caso se considerará como tiempo de trabajo efectivo el descanso mínimo obligatorio que deberá darse a los trabajadores durante media hora en la jornada, siempre que ésta sea continua.",
+    "item_index": 2
+  }
+]

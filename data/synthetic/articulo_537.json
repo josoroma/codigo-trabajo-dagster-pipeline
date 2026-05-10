@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 537 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 537 establece que si la sentencia se dicta, documenta o notifica fuera de los plazos legales sin causa justificada, se considera falta grave de servicio y genera responsabilidades civiles y disciplinarias. Además, regula el caso en que la persona juzgadora deba ser sustituida antes de dictar sentencia por muerte, incapacidad o fuerza mayor: el nuevo juzgado debe dictar sentencia basándose en el registro audiovisual del juicio oral, con un nuevo plazo. Si ese registro no existe o está incompleto, todo lo actuado es nulo y el juicio debe repetirse, excepto las pruebas irreproductibles, que conservan su validez.",
+    "source_quote": "El dictado de la sentencia, su documentación y notificación a las partes fuera de los plazos indicados en este Código, sin causa justificada, constituirá falta grave de servicio y dará lugar a las responsabilidades civiles y disciplinarias correspondientes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "537",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_537"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "537",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_537",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencias tiene dictar la sentencia fuera de los plazos establecidos sin causa justificada?",
+    "output": "Constituye falta grave de servicio y da lugar a responsabilidades civiles y disciplinarias.",
+    "source_quote": "El dictado de la sentencia, su documentación y notificación a las partes fuera de los plazos indicados en este Código, sin causa justificada, constituirá falta grave de servicio y dará lugar a las responsabilidades civiles y disciplinarias correspondientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "537",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_537",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si no existe o está incompleto el registro audiovisual cuando se sustituye al juzgador antes de dictar sentencia?",
+    "output": "Lo actuado y resuelto será nulo y el juicio oral y público deberá repetirse, salvo los actos probatorios irreproductibles, que mantienen su validez en la nueva audiencia.",
+    "source_quote": "De no existir o estar incompleto este registro, lo actuado y resuelto será nulo, por lo que el juicio oral y público deberá repetirse. Lo anterior, salvo en el caso de los actos y las actuaciones probatorias irreproductibles, que mantendrán su validez en la nueva audiencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "537",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_537",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la consecuencia jurídica de incumplir los plazos procesales para emitir, documentar y notificar la sentencia, calificándolo como falta grave y generando responsabilidades civiles y disciplinarias.",
+    "source_quote": "El dictado de la sentencia, su documentación y notificación a las partes fuera de los plazos indicados en este Código, sin causa justificada, constituirá falta grave de servicio y dará lugar a las responsabilidades civiles y disciplinarias correspondientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "537",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_537",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regular el procedimiento cuando el juzgador es sustituido antes de dictar sentencia, permitiendo que el nuevo juzgador resuelva con base en el registro audiovisual y otorgando un nuevo plazo para ello.",
+    "source_quote": "En caso de muerte, incapacidad o alguna otra situación fortuita o de fuerza mayor por la que deba sustituirse a la persona juzgadora, antes del dictado de la sentencia, el juzgado, con su nueva integración, deberá dictar sentencia con vista al registro audiovisual del juicio oral y público, para lo cual volverá a correr el plazo establecido en el inciso 4) del artículo 518.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 375_bis del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 375 bis establece que la huelga en servicios esenciales es manifiestamente ilegal, por lo que no se necesita el procedimiento de calificación de huelga. Ante una suspensión de labores en estos servicios, la parte patronal debe solicitar al Juzgado de Trabajo, dentro de 24 horas, una orden para que los trabajadores se reincorporen de inmediato, aportando prueba de que se trata de un servicio esencial. La Procuraduría General de la República también puede hacer esta solicitud. El juzgado da audiencia a los trabajadores por 24 horas y luego resuelve en otras 24 horas. Si niega la solicitud por no considerar el servicio como esencial, ordena tramitar el caso como calificación de huelga; si la admite, ordena la reincorporación inmediata. Ambas decisiones pueden apelarse en dos días naturales, con efecto devolutivo, y el tribunal superior debe celebrar una audiencia oral en 48 horas para resolver. Los plazos no pueden ampliarse.",
+    "source_quote": "La huelga en servicios esenciales es manifiestamente ilegal, por lo que no requiere del trámite de calificación previsto en este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer la parte patronal dentro de las veinticuatro horas siguientes a la suspensión de labores en una huelga en servicios esenciales?",
+    "output": "Debe solicitar al Juzgado de Trabajo la emisión de una orden dirigida a los trabajadores para que se reincorporen inmediatamente a sus labores, y aportar la prueba correspondiente para acreditar la condición de servicio esencial.",
+    "source_quote": "dentro de las veinticuatro horas siguientes a la suspensión de labores, la parte patronal estará obligada a solicitar al Juzgado de Trabajo la emisión de una orden dirigida a los trabajadores para que se reincorporen inmediatamente a sus labores. Con la solicitud se aportará la prueba correspondiente para acreditar la condición de servicio esencial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el Juzgado de Trabajo deniega la solicitud por considerar que no se trata de un servicio esencial?",
+    "output": "En la misma resolución, el juez ordenará la tramitación del caso bajo el procedimiento de calificación de la huelga.",
+    "source_quote": "Si la solicitud fuera denegada por el Juzgado por considerar que no se trata de un servicio esencial, en la misma resolución el juez ordenará la tramitación del caso bajo el procedimiento de calificación de la huelga.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la ilegalidad manifiesta de la huelga en servicios esenciales y excluye la necesidad del procedimiento ordinario de calificación, agilizando la intervención judicial.",
+    "source_quote": "La huelga en servicios esenciales es manifiestamente ilegal, por lo que no requiere del trámite de calificación previsto en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "375_bis",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_375_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Refuerza la celeridad y la perentoriedad del procedimiento especial, impidiendo dilaciones que afecten la continuidad de los servicios esenciales.",
+    "source_quote": "Bajo ninguna circunstancia podrán ampliarse los plazos establecidos en la presente norma.",
+    "item_index": 2
+  }
+]

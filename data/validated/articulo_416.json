@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 416 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 416 establece que el derecho de la persona trabajadora a terminar su contrato de trabajo con justa causa prescribe en seis meses. Este plazo se cuenta desde que el empleador dio el motivo para la separación o desde que la persona trabajadora supo de ese motivo.",
+    "source_quote": "Los derechos y las acciones de las personas trabajadoras, para dar por concluido con justa causa su contrato de trabajo, prescriben en el término de seis meses contado desde el momento en que el empleador o la empleadora dio motivo para la separación, o desde el momento en que dicha persona tuvo conocimiento del motivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "416",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_416"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "416",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_416",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuánto tiempo prescriben los derechos de la persona trabajadora para terminar su contrato con justa causa?",
+    "output": "Prescriben en el término de seis meses.",
+    "source_quote": "prescriben en el término de seis meses",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "416",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_416",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo se cuenta el plazo de prescripción para dar por concluido el contrato con justa causa?",
+    "output": "Se cuenta desde el momento en que el empleador dio motivo para la separación, o desde el momento en que la persona trabajadora tuvo conocimiento del motivo.",
+    "source_quote": "contado desde el momento en que el empleador o la empleadora dio motivo para la separación, o desde el momento en que dicha persona tuvo conocimiento del motivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "416",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_416",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo de prescripción de seis meses para que la persona trabajadora ejerza su derecho a terminar el contrato con justa causa, otorgando seguridad jurídica al limitar temporalmente la acción.",
+    "source_quote": "Los derechos y las acciones de las personas trabajadoras, para dar por concluido con justa causa su contrato de trabajo, prescriben en el término de seis meses",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "416",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_416",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el momento a partir del cual comienza a correr el plazo de prescripción, ya sea desde el acto del empleador que origina la justa causa o desde que la persona trabajadora se entera de dicho motivo, protegiendo así su derecho a reclamar cuando desconocía la causa.",
+    "source_quote": "contado desde el momento en que el empleador o la empleadora dio motivo para la separación, o desde el momento en que dicha persona tuvo conocimiento del motivo.",
+    "item_index": 2
+  }
+]

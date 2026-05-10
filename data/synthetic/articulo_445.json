@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 445 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 445 establece que las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes deben comparecer en los procesos laborales a través de sus representantes legítimos. Si no tienen representante o el que tienen tiene un interés opuesto, se les nombrará un curador sin costo, que será un abogado de asistencia social.",
+    "source_quote": "Las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes comparecerán por medio de sus representantes legítimos. Si no los tuvieran o el que ostentan se encuentra en opuesto interés, se nombrará para que los represente como curador, sin costo alguno, a una persona abogada de asistencia social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "445",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_445"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "445",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_445",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes deben comparecer por medio de sus representantes legítimos según el artículo 445?",
+    "output": "Las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes.",
+    "source_quote": "Las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes comparecerán por medio de sus representantes legítimos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "445",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_445",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si estas personas no tienen representante legítimo o si el que tienen tiene un interés opuesto?",
+    "output": "Se nombrará como curador, sin costo alguno, a una persona abogada de asistencia social.",
+    "source_quote": "Si no los tuvieran o el que ostentan se encuentra en opuesto interés, se nombrará para que los represente como curador, sin costo alguno, a una persona abogada de asistencia social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "445",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_445",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las categorías de personas que deben actuar mediante representación legal en los procesos laborales, garantizando su adecuada defensa.",
+    "source_quote": "Las personas declaradas en estado de interdicción, los incapaces naturales mayores de dieciocho años y los ausentes comparecerán por medio de sus representantes legítimos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "445",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_445",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prevé un mecanismo subsidiario y gratuito de representación mediante un abogado de asistencia social, para evitar la indefensión cuando falta representante legítimo o existe conflicto de intereses.",
+    "source_quote": "Si no los tuvieran o el que ostentan se encuentra en opuesto interés, se nombrará para que los represente como curador, sin costo alguno, a una persona abogada de asistencia social.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 681 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 681 establece la obligación de remitir copia literal de toda sentencia firme dictada en materia de faltas o infracciones laborales, por medios electrónicos y en un plazo de quince días, a la Inspección General de Trabajo y, cuando la infracción verse sobre leyes de seguros sociales, también a la institución de seguridad social respectiva, salvo que esta haya sido parte en el proceso. Además, indica que se aplicarán supletoriamente, en lo que sean compatibles, las disposiciones sobre infracciones y sanciones administrativas contenidas en el Código de Normas y Procedimientos Tributarios, la Ley General de la Administración Pública y el Código Procesal Contencioso-Administrativo.",
+    "source_quote": "De toda sentencia firme que se dicte en materia de faltas o infracciones reguladas en este título se remitirá, obligatoriamente, por medios electrónicos y en un plazo de quince días, copia literal a la Inspección General de Trabajo y también a la respectiva institución de seguridad social, cuando verse sobre infracciones a las leyes sobre los seguros que administra, salvo que haya figurado como parte en el proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "681",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_681"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "681",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_681",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué entidades debe remitirse copia de una sentencia firme en materia de faltas o infracciones laborales según el artículo 681?",
+    "output": "A la Inspección General de Trabajo y, cuando la infracción verse sobre leyes de seguros sociales, también a la respectiva institución de seguridad social, salvo que esta haya figurado como parte en el proceso.",
+    "source_quote": "De toda sentencia firme que se dicte en materia de faltas o infracciones reguladas en este título se remitirá, obligatoriamente, por medios electrónicos y en un plazo de quince días, copia literal a la Inspección General de Trabajo y también a la respectiva institución de seguridad social, cuando verse sobre infracciones a las leyes sobre los seguros que administra, salvo que haya figurado como parte en el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "681",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_681",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo y por qué medio debe enviarse la copia de la sentencia firme según el artículo 681?",
+    "output": "Debe enviarse por medios electrónicos en un plazo de quince días.",
+    "source_quote": "se remitirá, obligatoriamente, por medios electrónicos y en un plazo de quince días, copia literal",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "681",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_681",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el deber de comunicación de las sentencias firmes a las autoridades laborales y de seguridad social, garantizando su conocimiento y eventual ejecución de sanciones, con la excepción de cuando la institución ya fue parte procesal.",
+    "source_quote": "De toda sentencia firme que se dicte en materia de faltas o infracciones reguladas en este título se remitirá, obligatoriamente, por medios electrónicos y en un plazo de quince días, copia literal a la Inspección General de Trabajo y también a la respectiva institución de seguridad social, cuando verse sobre infracciones a las leyes sobre los seguros que administra, salvo que haya figurado como parte en el proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "681",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_681",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Incorporar un marco normativo supletorio para la aplicación de infracciones y sanciones administrativas en el ámbito laboral, remitiendo a leyes generales que regulan la materia, siempre que sean compatibles con la naturaleza del proceso laboral.",
+    "source_quote": "En cuanto sean compatibles, supletoriamente se aplicarán las disposiciones establecidas sobre infracciones y sanciones administrativas en la Ley N.° 4755, Código de Normas y Procedimientos Tributarios, de 3 de mayo de 1971, la Ley N.° 6227, Ley General de la Administración Pública, de 2 de mayo de 1978, y en la Ley N.° 8508, Código Procesal Contencioso-Administrativo, de 28 de abril de 2006.",
+    "item_index": 2
+  }
+]

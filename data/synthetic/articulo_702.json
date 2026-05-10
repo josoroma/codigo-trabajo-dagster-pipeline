@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 702 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 702 establece que la negociación debe comprender todos los aspectos y detalles del proyecto presentado a la administración. Además, obliga a levantar un acta por cada sesión de trabajo, la cual debe ser firmada por los representantes de ambas partes.",
+    "source_quote": "La negociación abarcará todos los aspectos y extremos del proyecto que se haya formulado a la administración o administraciones y deberá levantarse un acta de cada sesión de trabajo, la cual firmarán los representantes de ambas partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "702",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_702"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "702",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_702",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué aspectos debe cubrir la negociación según el artículo 702?",
+    "output": "Debe cubrir todos los aspectos y extremos del proyecto formulado a la administración o administraciones.",
+    "source_quote": "La negociación abarcará todos los aspectos y extremos del proyecto que se haya formulado a la administración o administraciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "702",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_702",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué formalidad exige el artículo 702 para cada sesión de trabajo durante la negociación?",
+    "output": "Exige que se levante un acta de cada sesión de trabajo y que sea firmada por los representantes de ambas partes.",
+    "source_quote": "deberá levantarse un acta de cada sesión de trabajo, la cual firmarán los representantes de ambas partes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "702",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_702",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición delimita el alcance de la negociación, asegurando que se traten integralmente todos los puntos del proyecto presentado, sin omitir ninguno de sus extremos.",
+    "source_quote": "La negociación abarcará todos los aspectos y extremos del proyecto que se haya formulado a la administración o administraciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "702",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_702",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta norma impone una formalidad documental para garantizar la transparencia y dejar constancia escrita de lo acordado en cada reunión, con la validación mediante las firmas de los representantes de las partes negociadoras.",
+    "source_quote": "deberá levantarse un acta de cada sesión de trabajo, la cual firmarán los representantes de ambas partes.",
+    "item_index": 2
+  }
+]

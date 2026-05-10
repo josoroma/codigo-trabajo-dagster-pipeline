@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 495 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 495 establece que toda pretensión laboral que no tenga un trámite especial se tramitará mediante el procedimiento ordinario. Además, detalla los requisitos obligatorios que debe contener la demanda, como los datos de identificación y domicilio del actor y del demandado, el lugar de prestación de servicios, los hechos numerados, las pretensiones claras y separadas, el ofrecimiento detallado de pruebas y la dirección para notificar al demandado.",
+    "source_quote": "Se sustanciará en el procedimiento ordinario toda pretensión para la cual no exista un trámite especialmente señalado. La demanda deberá ser presentada, por escrito o en formato electrónico, en los despachos en los cuales se tramiten los procesos en forma virtual. Obligatoriamente contendrá:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "495",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_495"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "495",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_495",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de procedimiento se aplica a una pretensión laboral que no tiene un trámite especial?",
+    "output": "Se aplica el procedimiento ordinario.",
+    "source_quote": "Se sustanciará en el procedimiento ordinario toda pretensión para la cual no exista un trámite especialmente señalado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "495",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_495",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué datos del demandado debe contener obligatoriamente la demanda según el artículo 495?",
+    "output": "El nombre del demandado, sus calidades, el domicilio y la dirección exactos. Si es una persona jurídica u organización empresarial, se debe hacer referencia al nombre o razón social del centro de trabajo y, de ser posible, al nombre de la persona bajo cuya dirección se ha laborado.",
+    "source_quote": "El nombre del demandado, sus calidades, el domicilio y la dirección exactos. Si se tratara de una persona jurídica o de una organización empresarial, se deberá hacer referencia al nombre o la razón social del centro de trabajo y, de ser posible, al nombre de la persona o las personas bajo cuya dirección se ha laborado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "495",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_495",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla de residualidad del procedimiento ordinario, garantizando que ninguna pretensión quede sin vía procesal.",
+    "source_quote": "Se sustanciará en el procedimiento ordinario toda pretensión para la cual no exista un trámite especialmente señalado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "495",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_495",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija los requisitos formales de presentación de la demanda, asegurando claridad y orden en el inicio del proceso laboral.",
+    "source_quote": "La demanda deberá ser presentada, por escrito o en formato electrónico, en los despachos en los cuales se tramiten los procesos en forma virtual. Obligatoriamente contendrá:",
+    "item_index": 2
+  }
+]

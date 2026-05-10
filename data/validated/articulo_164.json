@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 164 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 164 establece las distintas formas en que un patrono puede pagar el salario a sus trabajadores. Estas incluyen el pago por unidad de tiempo (como mes, quincena, semana, día u hora), por pieza, tarea o destajo, en dinero, en dinero combinado con especie, y mediante participación en utilidades, ventas o cobros realizados por el patrono.",
+    "source_quote": "El salario puede pagarse por unidad de tiempo (mes, quincena, semana, día u hora); por pieza, por tarea o a destajo; en dinero; en dinero y en especie; y por participación en las utilidades, ventas o cobros que haga el patrono.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "164",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_164"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "164",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_164",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las modalidades de pago del salario por unidad de tiempo que permite el artículo 164?",
+    "output": "El artículo permite el pago por mes, quincena, semana, día u hora.",
+    "source_quote": "por unidad de tiempo (mes, quincena, semana, día u hora)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "164",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_164",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Además del dinero, qué otras formas de retribución menciona el artículo 164 para el pago del salario?",
+    "output": "Menciona el pago en especie y la participación en utilidades, ventas o cobros que realice el patrono.",
+    "source_quote": "en dinero y en especie; y por participación en las utilidades, ventas o cobros que haga el patrono",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "164",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_164",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte enumera las unidades de tiempo permitidas para calcular el salario, brindando flexibilidad a las partes para pactar la periodicidad del pago según la naturaleza de la labor.",
+    "source_quote": "El salario puede pagarse por unidad de tiempo (mes, quincena, semana, día u hora)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "164",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_164",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta sección amplía las formas de remuneración más allá del tiempo, incluyendo sistemas de rendimiento, pago mixto y participación en resultados, lo que permite adaptar la compensación a distintos tipos de actividad económica.",
+    "source_quote": "por pieza, por tarea o a destajo; en dinero; en dinero y en especie; y por participación en las utilidades, ventas o cobros que haga el patrono",
+    "item_index": 2
+  }
+]

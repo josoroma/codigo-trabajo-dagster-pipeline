@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 451 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 451 regula la forma en que las partes pueden comparecer en un proceso laboral: personalmente, con asistencia de un abogado o mediante un representante con un poder especial judicial. Además, establece que, salvo acuerdo o ley en contrario, el poder otorgado incluye automáticamente la facultad de resolver el proceso por conciliación, aunque no se haya estipulado expresamente.",
+    "source_quote": "Las partes podrán comparecer por sí mismas o con patrocinio letrado, o hacerse representar por una persona con mandato especial judicial mediante poder constituido de acuerdo con las leyes comunes. Salvo pacto o disposición legal en contrario, el otorgamiento confiere al apoderado o apoderada la facultad de solucionar el proceso mediante conciliación, aunque expresamente no se haya estipulado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "451",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_451"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "451",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_451",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De qué maneras pueden comparecer las partes en un proceso laboral según el artículo 451?",
+    "output": "Pueden comparecer por sí mismas, con patrocinio letrado, o hacerse representar por una persona con mandato especial judicial mediante poder constituido de acuerdo con las leyes comunes.",
+    "source_quote": "Las partes podrán comparecer por sí mismas o con patrocinio letrado, o hacerse representar por una persona con mandato especial judicial mediante poder constituido de acuerdo con las leyes comunes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "451",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_451",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué facultad confiere el otorgamiento del poder al apoderado en cuanto a la conciliación, según el artículo 451?",
+    "output": "Salvo pacto o disposición legal en contrario, el otorgamiento confiere al apoderado la facultad de solucionar el proceso mediante conciliación, aunque expresamente no se haya estipulado.",
+    "source_quote": "Salvo pacto o disposición legal en contrario, el otorgamiento confiere al apoderado o apoderada la facultad de solucionar el proceso mediante conciliación, aunque expresamente no se haya estipulado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "451",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_451",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las formas de comparecencia en el proceso laboral, permitiendo la autodefensa, el patrocinio letrado o la representación mediante poder especial judicial, garantizando el acceso a la justicia y la defensa técnica.",
+    "source_quote": "Las partes podrán comparecer por sí mismas o con patrocinio letrado, o hacerse representar por una persona con mandato especial judicial mediante poder constituido de acuerdo con las leyes comunes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "451",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_451",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina que el poder otorgado incluye implícitamente la facultad de conciliar, salvo que se pacte lo contrario o la ley disponga otra cosa, facilitando la resolución alternativa del conflicto sin necesidad de una cláusula expresa.",
+    "source_quote": "Salvo pacto o disposición legal en contrario, el otorgamiento confiere al apoderado o apoderada la facultad de solucionar el proceso mediante conciliación, aunque expresamente no se haya estipulado.",
+    "item_index": 2
+  }
+]

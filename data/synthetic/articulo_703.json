@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 703 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 703 establece que, además de las actas de cada sesión de negociación, al finalizar el proceso se debe elaborar un acta de cierre. Esta acta debe contener el texto completo de todas las cláusulas que sí fueron negociadas y acordadas, y también debe señalar cuáles cláusulas del proyecto original fueron desechadas o no pudieron negociarse por falta de acuerdo.",
+    "source_quote": "Además de las actas individuales de cada sesión, al final del proceso negociador se levantará un acta de cierre en la que se recogerá el texto completo de las cláusulas que fueron negociadas y donde se indicará cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo acerca de ellas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "703",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_703"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "703",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_703",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe contener el acta de cierre según el artículo 703?",
+    "output": "El acta de cierre debe contener el texto completo de las cláusulas que fueron negociadas y la indicación de cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo.",
+    "source_quote": "al final del proceso negociador se levantará un acta de cierre en la que se recogerá el texto completo de las cláusulas que fueron negociadas y donde se indicará cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo acerca de ellas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "703",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_703",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con las cláusulas que no logran acuerdo durante la negociación?",
+    "output": "Las cláusulas que no logran acuerdo deben ser indicadas en el acta de cierre como desechadas o como no negociadas por falta de acuerdo.",
+    "source_quote": "donde se indicará cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo acerca de ellas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "703",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_703",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece la obligación de documentar formalmente el resultado de la negociación colectiva, recopilando todas las cláusulas acordadas para que sirvan como registro oficial del convenio alcanzado.",
+    "source_quote": "al final del proceso negociador se levantará un acta de cierre en la que se recogerá el texto completo de las cláusulas que fueron negociadas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "703",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_703",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición exige dejar constancia de las cláusulas que no prosperaron, ya sea por rechazo expreso o por imposibilidad de acuerdo, a fin de transparentar el proceso y evitar futuras controversias sobre lo no pactado.",
+    "source_quote": "donde se indicará cuáles cláusulas del proyecto fueron desechadas o no pudieron negociarse por falta de acuerdo acerca de ellas.",
+    "item_index": 2
+  }
+]

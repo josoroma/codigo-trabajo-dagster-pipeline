@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 196 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 196 define el accidente de trabajo como todo suceso que le ocurra al trabajador por causa o consecuencia de su labor, mientras esté bajo la dirección del patrono, y que pueda causarle muerte o incapacidad temporal o permanente. Además, extiende esa calificación a accidentes ocurridos en el trayecto usual al trabajo bajo ciertas condiciones, en cumplimiento de órdenes del patrono fuera del lugar y horario laboral, durante interrupciones en el centro de trabajo con consentimiento patronal, y en los eventos del inciso e) del artículo 71.",
+    "source_quote": "Se denomina accidente de trabajo a todo accidente que le suceda al trabajador como causa de la labor que ejecuta o como consecuencia de ésta, durante el tiempo que permanece bajo la dirección y dependencia del patrono o sus representantes, y que puede producirle la muerte o pérdida o reducción, temporal o permanente, de la capacidad para el trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "196",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_196"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "196",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_196",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se considera accidente de trabajo un accidente ocurrido en el trayecto del domicilio al trabajo?",
+    "output": "Cuando el recorrido usual no haya sido interrumpido o variado por interés personal del trabajador, y el patrono proporcione directamente o pague el transporte, o cuando en el acceso al centro de trabajo deban afrontarse peligros de naturaleza especial inherentes al trabajo mismo.",
+    "source_quote": "En el trayecto usual de su domicilio al trabajo y viceversa, cuando el recorrido que efectúa no haya sido interrumpido o variado, por motivo de su interés personal, siempre que el patrono proporcione directamente o pague el transporte, igualmente cuando en el acceso al centro de trabajo deban afrontarse peligros de naturaleza especial, que se consideren inherentes al trabajo mismo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "196",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_196",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de accidentes ocurridos fuera del lugar de trabajo y después de la jornada se califican como accidentes de trabajo?",
+    "output": "Los que ocurran en el cumplimiento de órdenes del patrono o en la prestación de un servicio bajo su autoridad.",
+    "source_quote": "En el cumplimiento de órdenes del patrono, o en la prestación de un servicio bajo su autoridad, aunque el accidente ocurra fuera del lugar de trabajo y después de finalizar la jornada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "196",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_196",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición general de accidente de trabajo, vinculándolo causalmente a la labor y a la subordinación, y delimita las consecuencias indemnizables (muerte o incapacidad).",
+    "source_quote": "Se denomina accidente de trabajo a todo accidente que le suceda al trabajador como causa de la labor que ejecuta o como consecuencia de ésta, durante el tiempo que permanece bajo la dirección y dependencia del patrono o sus representantes, y que puede producirle la muerte o pérdida o reducción, temporal o permanente, de la capacidad para el trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "196",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_196",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la protección a los accidentes in itinere bajo condiciones específicas, reconociendo el riesgo del desplazamiento cuando el patrono asume el transporte o existen peligros especiales en el acceso al centro de trabajo.",
+    "source_quote": "En el trayecto usual de su domicilio al trabajo y viceversa, cuando el recorrido que efectúa no haya sido interrumpido o variado, por motivo de su interés personal, siempre que el patrono proporcione directamente o pague el transporte, igualmente cuando en el acceso al centro de trabajo deban afrontarse peligros de naturaleza especial, que se consideren inherentes al trabajo mismo.",
+    "item_index": 2
+  }
+]

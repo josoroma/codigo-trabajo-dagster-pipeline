@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 344 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 344 establece el procedimiento para que un sindicato obtenga personería jurídica. Se requiere enviar una solicitud firmada por el presidente o secretario general a la Oficina de Sindicatos del Ministerio de Trabajo, acompañada de copias auténticas del acta constitutiva y los estatutos. El acta debe indicar el número de miembros, la clase de sindicato y los nombres de la directiva. El jefe de la Oficina revisa los documentos en un plazo de quince días: si cumplen la ley, informa favorablemente para que el Ministerio ordene la inscripción en registros públicos; si no, señala los errores para que se corrijan o se apele ante el Ministerio, que resuelve en diez días. Una vez inscrito, se extiende certificación con fe pública y se publica un extracto en el Diario Oficial. Los patronos deben reconocer la personería del sindicato con esa certificación; la negativa patronal puede dar lugar a que los tribunales declaren legal una huelga, sin perjuicio del artículo 373.",
+    "source_quote": "Para que se considere legalmente constituido un sindicato, en el pleno goce de su personería jurídica, es indispensable que se formule una solicitud suscrita por su presidente o secretario general y que se envíe a la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, directamente o por medio de las autoridades de trabajo o políticas del lugar, junto con copias auténticas de su acta constitutiva y de sus estatutos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "344",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_344"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "344",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_344",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documentos deben acompañar la solicitud para constituir legalmente un sindicato?",
+    "output": "Copias auténticas del acta constitutiva y de los estatutos.",
+    "source_quote": "junto con copias auténticas de su acta constitutiva y de sus estatutos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "344",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_344",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el Jefe de la Oficina de Sindicatos para examinar los documentos y qué sucede si encuentra deficiencias?",
+    "output": "Tiene quince días posteriores al recibo. Si los documentos no se ajustan a la ley, señalará los errores o deficiencias a los interesados para que los subsanen o interpongan recurso de apelación ante el Ministerio, el cual resolverá en diez días.",
+    "source_quote": "El Jefe de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social examinará, bajo su responsabilidad, dentro de los quince días posteriores a su recibo, si los mencionados documentos se ajustan a las prescripciones de ley; en caso afirmativo librará informe favorable... en caso negativo, dicho funcionario señalará a los interesados los errores o deficiencias que a su juicio existan, para que éstos los subsanen si les fuere posible, o para que interpongan, en cualquier tiempo, recurso de apelación ante el mencionado Ministerio, el cual dictará resolución en un plazo de diez días.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "344",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_344",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los contenidos mínimos obligatorios del acta constitutiva para garantizar la transparencia y la correcta identificación del sindicato, su naturaleza y sus representantes legales.",
+    "source_quote": "El acta constitutiva forzosamente expresará el número de miembros, la clase de sindicato y los nombres y apellidos de las personas que componen su directiva.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "344",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_344",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la certificación de inscripción valor probatorio pleno (fe pública) y obliga a los patronos a reconocer al sindicato, so pena de que la negativa pueda ser causal para que los tribunales declaren la legalidad de una huelga, protegiendo así el ejercicio de la libertad sindical.",
+    "source_quote": "La certificación que extienda la mencionada Oficina tendrá fe pública y los patronos están obligados, con vista de ella, a reconocer la personería del sindicato para todos los efectos legales. La negativa patronal a reconocer la personería del sindicato, legalmente acreditada mediante la certificación referida, dará lugar, en su caso, si el sindicato lo solicitara, a que los tribunales declaren legal una huelga; todo sin perjuicio de lo dispuesto en el artículo 373 de este Código.",
+    "item_index": 2
+  }
+]

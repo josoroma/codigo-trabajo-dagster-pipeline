@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 592 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 592 regula el trámite que debe seguir el tribunal al recibir una apelación. Establece un plazo de quince días para pronunciarse. Luego, el tribunal revisa primero la procedencia formal del recurso, el procedimiento y las nulidades alegadas, y solo puede declarar nulidades si los defectos constituyen vicios esenciales al debido proceso. Además, debe ordenar las correcciones necesarias y conservar las actuaciones que no estén afectadas o que puedan subsanarse. Finalmente, si no hay inadmisibilidad, nulidad o correcciones pendientes, resuelve los demás agravios del recurso.",
+    "source_quote": "El tribunal se pronunciará sobre la apelación dentro de los quince días posteriores al recibo de los autos. En primer término revisará la procedencia formal del recurso, el procedimiento y las cuestiones de nulidad propuestas y podrá acordar nulidades únicamente en el caso de que los defectos constituyan vicios esenciales al debido proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "592",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_592"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "592",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_592",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe el tribunal pronunciarse sobre la apelación?",
+    "output": "Dentro de los quince días posteriores al recibo de los autos.",
+    "source_quote": "El tribunal se pronunciará sobre la apelación dentro de los quince días posteriores al recibo de los autos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "592",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_592",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo puede el tribunal acordar nulidades?",
+    "output": "Únicamente en el caso de que los defectos constituyan vicios esenciales al debido proceso.",
+    "source_quote": "podrá acordar nulidades únicamente en el caso de que los defectos constituyan vicios esenciales al debido proceso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "592",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_592",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un plazo perentorio para resolver la apelación, garantizando celeridad y seguridad jurídica en el proceso laboral.",
+    "source_quote": "El tribunal se pronunciará sobre la apelación dentro de los quince días posteriores al recibo de los autos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "592",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_592",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita la declaración de nulidades a violaciones graves del debido proceso, evitando anulaciones por defectos menores y preservando la validez de las actuaciones.",
+    "source_quote": "podrá acordar nulidades únicamente en el caso de que los defectos constituyan vicios esenciales al debido proceso.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 225 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que toda enfermedad del trabajo debe ser tratada y curada todas las veces que sea necesario antes de declarar una incapacidad permanente. Solo se procede a establecer la incapacidad permanente cuando se determina que la curación es imposible o cuando el trabajador se ha sensibilizado al agente causante de la enfermedad. Además, autoriza al Poder Ejecutivo, previa consulta a la Junta Directiva del Instituto asegurador, a emitir reglamentos con tablas de enfermedades profesionales que dan derecho a indemnización, pero permite que los tribunales de trabajo reconozcan otras enfermedades no listadas si cumplen con los criterios del párrafo anterior.",
+    "source_quote": "Toda enfermedad del trabajo debe tratarse y curarse cuantas veces sea necesario, antes de establecerse incapacidad permanente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "225",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_225"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "225",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_225",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se debe establecer la incapacidad permanente en caso de una enfermedad del trabajo?",
+    "output": "Se debe establecer cuando se determina la imposibilidad de curación o cuando el trabajador se ha sensibilizado al agente que le produjo la enfermedad.",
+    "source_quote": "En caso de llegarse a determinar la imposibilidad de curación, o cuando el trabajador se haya sensibilizado al agente que le produjo la enfermedad, se procederá a establecer incapacidad permanente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "225",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_225",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden los tribunales de trabajo reconocer enfermedades profesionales no incluidas en las tablas emitidas por el Poder Ejecutivo?",
+    "output": "Sí, los tribunales de trabajo pueden conceptuar otras enfermedades no enumeradas en los decretos, siempre que estén comprendidas dentro de las previsiones del párrafo anterior del artículo.",
+    "source_quote": "sin perjuicio de que los tribunales de trabajo conceptúen otras enfermedades no enumeradas en el decreto o decretos respectivos, comprendidas dentro de las previsiones del párrafo anterior.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "225",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_225",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de agotar todos los tratamientos curativos posibles antes de declarar una incapacidad permanente, garantizando que se priorice la recuperación del trabajador.",
+    "source_quote": "Toda enfermedad del trabajo debe tratarse y curarse cuantas veces sea necesario, antes de establecerse incapacidad permanente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "225",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_225",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta al Poder Ejecutivo para crear listas oficiales de enfermedades profesionales indemnizables, previa consulta al ente asegurador, pero reserva a los tribunales laborales la potestad de reconocer otras enfermedades no listadas que cumplan los criterios legales, asegurando flexibilidad y protección integral.",
+    "source_quote": "El Poder Ejecutivo, habiendo oído de previo a la Junta Directiva del Instituto asegurador, podrá dictar, por vías de reglamento, las tablas de enfermedades profesionales que darán derecho a una indemnización, sin perjuicio de que los tribunales de trabajo conceptúen otras enfermedades no enumeradas en el decreto o decretos respectivos, comprendidas dentro de las previsiones del párrafo anterior.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 278 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 278 establece las fuentes de financiamiento del Consejo de Salud Ocupacional, que incluyen una asignación del presupuesto del Ministerio de Trabajo y Seguridad Social, un aporte del Instituto Nacional de Seguros, donaciones de personas físicas y jurídicas, y fondos de convenios con organismos nacionales e internacionales. Además, autoriza a todas las instituciones del Estado a realizar donaciones al Consejo.",
+    "source_quote": "Los recursos del Consejo de Salud Ocupacional estarán constituidos por: - La suma global que se le asigne el en presupuesto del Ministerio de Trabajo y Seguridad Social; - El aporte del Instituto Nacional de Seguros conforme al artículo 205; - Por las donaciones que le hagan las personas físicas y jurídicas; - Por las sumas que, en virtud de convenios con organismos nacionales e internacionales, se destinen a programas específicos para engrosar sus recursos de cualquier ejercicio. Para los fines del inciso c) de este artículo, todas las instituciones del Estado quedan autorizadas para hacer donaciones al Consejo de Salud Ocupacional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "278",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_278"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "278",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_278",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las fuentes de recursos del Consejo de Salud Ocupacional según el artículo 278?",
+    "output": "Las fuentes son: la suma global asignada en el presupuesto del Ministerio de Trabajo y Seguridad Social, el aporte del Instituto Nacional de Seguros conforme al artículo 205, las donaciones de personas físicas y jurídicas, y las sumas provenientes de convenios con organismos nacionales e internacionales destinadas a programas específicos.",
+    "source_quote": "Los recursos del Consejo de Salud Ocupacional estarán constituidos por: - La suma global que se le asigne el en presupuesto del Ministerio de Trabajo y Seguridad Social; - El aporte del Instituto Nacional de Seguros conforme al artículo 205; - Por las donaciones que le hagan las personas físicas y jurídicas; - Por las sumas que, en virtud de convenios con organismos nacionales e internacionales, se destinen a programas específicos para engrosar sus recursos de cualquier ejercicio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "278",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_278",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué autorización especial otorga el artículo 278 a las instituciones del Estado?",
+    "output": "Todas las instituciones del Estado quedan autorizadas para hacer donaciones al Consejo de Salud Ocupacional.",
+    "source_quote": "Para los fines del inciso c) de este artículo, todas las instituciones del Estado quedan autorizadas para hacer donaciones al Consejo de Salud Ocupacional.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "278",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_278",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte enumera las fuentes de financiamiento del Consejo, estableciendo su base económica para el cumplimiento de sus funciones.",
+    "source_quote": "Los recursos del Consejo de Salud Ocupacional estarán constituidos por: - La suma global que se le asigne el en presupuesto del Ministerio de Trabajo y Seguridad Social; - El aporte del Instituto Nacional de Seguros conforme al artículo 205; - Por las donaciones que le hagan las personas físicas y jurídicas; - Por las sumas que, en virtud de convenios con organismos nacionales e internacionales, se destinen a programas específicos para engrosar sus recursos de cualquier ejercicio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "278",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_278",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición amplía la capacidad de recibir donaciones al permitir que las instituciones estatales contribuyan, reforzando el financiamiento del Consejo.",
+    "source_quote": "Para los fines del inciso c) de este artículo, todas las instituciones del Estado quedan autorizadas para hacer donaciones al Consejo de Salud Ocupacional.",
+    "item_index": 2
+  }
+]

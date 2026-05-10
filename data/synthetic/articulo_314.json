@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 314 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 314 del Código de Trabajo fue derogado por la Ley N° 9343 del 25 de enero de 2016, conocida como Reforma Procesal Laboral. Esto significa que su contenido original ha sido eliminado del ordenamiento jurídico y carece de vigencia o aplicabilidad actual.",
+    "source_quote": "ARTICULO 314.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "314",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_314"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "314",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_314",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 314 del Código de Trabajo?",
+    "output": "El artículo 314 está derogado, es decir, ha sido eliminado y no tiene vigencia legal.",
+    "source_quote": "ARTICULO 314.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "314",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_314",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 314 del Código de Trabajo?",
+    "output": "Fue derogado por el artículo 4° de la Ley N° 9343 del 25 de enero de 2016, denominada Reforma Procesal Laboral.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "314",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_314",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita completa del artículo indica que su texto original ha sido suprimido del Código de Trabajo mediante una reforma legal, dejando constancia de la norma que lo derogó y la fecha de tal acto legislativo.",
+    "source_quote": "ARTICULO 314.- (Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 67 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 67 establece los requisitos que debe cumplir todo reglamento de trabajo en Costa Rica. Primero, debe ser aprobado previamente por la Oficina Legal, de Información y Relaciones Internacionales del Ministerio de Trabajo y Seguridad Social. Segundo, debe ser puesto en conocimiento de los trabajadores con quince días de anticipación a la fecha en que comenzará a regir. Tercero, debe imprimirse en caracteres fácilmente legibles y mantenerse colocado constantemente en al menos dos de los sitios más visibles del lugar de trabajo. Estas mismas disposiciones se aplican a cualquier modificación o derogatoria que el patrono haga al reglamento.",
+    "source_quote": "Todo reglamento de trabajo debe ser aprobado previamente por la Oficina Legal, de Información y Relaciones internacionales del Ministerio de Trabajo y Seguridad Social será puesto en conocimiento de los trabajadores con quince días de anticipación a la fecha en que comenzará a regir; se imprimirá en caracteres fácilmente legibles y se tendrá constantemente colocado, por lo menos, en dos de los sitios más visibles del lugar de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "67",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_67"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "67",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_67",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué entidad debe aprobar previamente un reglamento de trabajo según el artículo 67?",
+    "output": "La Oficina Legal, de Información y Relaciones Internacionales del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Todo reglamento de trabajo debe ser aprobado previamente por la Oficina Legal, de Información y Relaciones internacionales del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "67",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_67",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con cuántos días de anticipación debe ponerse en conocimiento de los trabajadores un reglamento de trabajo antes de que comience a regir?",
+    "output": "Con quince días de anticipación.",
+    "source_quote": "será puesto en conocimiento de los trabajadores con quince días de anticipación a la fecha en que comenzará a regir",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "67",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_67",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el requisito de aprobación previa por parte de una oficina específica del Ministerio de Trabajo, garantizando un control administrativo sobre el contenido del reglamento antes de su vigencia.",
+    "source_quote": "Todo reglamento de trabajo debe ser aprobado previamente por la Oficina Legal, de Información y Relaciones internacionales del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "67",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_CUARTO_articulo_67",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone obligaciones de publicidad y accesibilidad: un plazo mínimo de preaviso para los trabajadores, legibilidad del documento y su colocación permanente en lugares visibles, asegurando que los trabajadores conozcan las normas que regirán la relación laboral.",
+    "source_quote": "será puesto en conocimiento de los trabajadores con quince días de anticipación a la fecha en que comenzará a regir; se imprimirá en caracteres fácilmente legibles y se tendrá constantemente colocado, por lo menos, en dos de los sitios más visibles del lugar de trabajo.",
+    "item_index": 2
+  }
+]

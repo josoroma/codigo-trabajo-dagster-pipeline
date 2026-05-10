@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 310 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 310 establece que se impondrá una multa al empleador, según lo previsto en el artículo 398 del Código, cuando incurra en faltas relacionadas con los riesgos del trabajo y la salud ocupacional. Estas faltas incluyen no asegurar a los trabajadores, no declarar el salario real, presentar planillas tarde, no denunciar riesgos, alterar hechos de un riesgo, incumplir normas de salud ocupacional, o violar cualquier disposición del Título Cuarto o sus reglamentos.",
+    "source_quote": "Se impondrá al empleador o empleadora una multa de acuerdo con lo previsto en el artículo 398 de este Código, en los siguientes casos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "310",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_310"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "310",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_310",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son dos casos en los que se multa al empleador por incumplir disposiciones de salud ocupacional?",
+    "output": "Se multa cuando incumpla las disposiciones referentes a salud ocupacional y cuando ocurra un riesgo del trabajo por falta inexcusable debido al incumplimiento de disposiciones legales o reglamentarias de salud ocupacional.",
+    "source_quote": "e) Cuando incumpla las disposiciones referentes a salud ocupacional; f) Cuando ocurra un riesgo del trabajo por falta inexcusable, en los siguientes casos: 1.- Incumplimiento de las disposiciones legales o reglamentarias referentes a salud ocupacional.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "310",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_310",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia general (multa) y remite al artículo 398 para su cuantificación, aplicable a todas las infracciones listadas en los incisos siguientes.",
+    "source_quote": "Se impondrá al empleador o empleadora una multa de acuerdo con lo previsto en el artículo 398 de este Código, en los siguientes casos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "310",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_310",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Funciona como una cláusula residual que permite sancionar cualquier otra violación a las normas del Título Cuarto (Riesgos del Trabajo) o sus reglamentos, no enumerada específicamente en los incisos anteriores.",
+    "source_quote": "g) Cuando incurra en cualquier falta, infracción o violación de las disposiciones que contiene este Título o sus reglamentos que le sean aplicables.",
+    "item_index": 2
+  }
+]

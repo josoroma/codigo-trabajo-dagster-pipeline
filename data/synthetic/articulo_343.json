@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 343 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 343 reconoce a patronos y trabajadores el derecho de formar sindicatos sin necesidad de autorización previa. Sin embargo, dentro de los treinta días siguientes a su formación, deben iniciar los trámites indicados en el artículo siguiente. Además, establece un número mínimo de integrantes: al menos doce miembros para un sindicato de trabajadores y al menos cinco patronos de la misma actividad para un sindicato patronal.",
+    "source_quote": "Se reconoce a los patronos y a los trabajadores el derecho de formar sindicatos sin autorización previa, pero dentro de los treinta días siguientes deberán iniciar los trámites a que se refiere el artículo siguiente: Sin embargo, no podrá constituirse ninguno con menos de doce miembros si se trata de un sindicato, ni con menos de cinco patronos de la misma actividad, cuando se trate de sindicatos patronales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "343",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_343"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "343",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_343",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen los sindicatos dentro de los treinta días siguientes a su formación?",
+    "output": "Deben iniciar los trámites a que se refiere el artículo siguiente.",
+    "source_quote": "dentro de los treinta días siguientes deberán iniciar los trámites a que se refiere el artículo siguiente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "343",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_343",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el número mínimo de miembros para constituir un sindicato de trabajadores?",
+    "output": "Doce miembros.",
+    "source_quote": "no podrá constituirse ninguno con menos de doce miembros si se trata de un sindicato",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "343",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_343",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra el derecho fundamental de sindicalización sin necesidad de autorización previa, garantizando la libertad sindical de manera inmediata.",
+    "source_quote": "Se reconoce a los patronos y a los trabajadores el derecho de formar sindicatos sin autorización previa",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "343",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_343",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos mínimos de membresía para la constitución de sindicatos, diferenciando entre sindicatos de trabajadores y sindicatos patronales, y exigiendo identidad de actividad para estos últimos.",
+    "source_quote": "no podrá constituirse ninguno con menos de doce miembros si se trata de un sindicato, ni con menos de cinco patronos de la misma actividad, cuando se trate de sindicatos patronales",
+    "item_index": 2
+  }
+]

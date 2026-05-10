@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 376 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 376 define los servicios públicos esenciales como aquellos cuya interrupción puede causar daño significativo a la vida, la salud y la seguridad pública, y prohíbe de manera absoluta la huelga en una lista detallada de servicios, incluyendo salud, seguridad, transporte, suministros básicos y protección de personas vulnerables.",
+    "source_quote": "Para los efectos del artículo anterior se entienden por servicios públicos esenciales aquellos cuya suspensión, discontinuidad o paralización pueda causar daño significativo a los derechos a la vida, la salud y la seguridad pública. Por su carácter esencial, estará prohibida absolutamente la huelga en los siguientes servicios:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la definición de servicios públicos esenciales según el artículo 376?",
+    "output": "Son aquellos cuya suspensión, discontinuidad o paralización pueda causar daño significativo a los derechos a la vida, la salud y la seguridad pública.",
+    "source_quote": "Para los efectos del artículo anterior se entienden por servicios públicos esenciales aquellos cuya suspensión, discontinuidad o paralización pueda causar daño significativo a los derechos a la vida, la salud y la seguridad pública.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitida la huelga en los servicios de controladores aéreos y control migratorio en aeropuertos, puertos y puestos fronterizos?",
+    "output": "No, porque el artículo 376 prohíbe absolutamente la huelga en esos servicios, listados en el inciso c).",
+    "source_quote": "c) Controladores aéreos y control migratorio en aeropuertos, puertos y puestos fronterizos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el criterio para identificar los servicios públicos esenciales, vinculándolos al daño significativo a derechos fundamentales como la vida, la salud y la seguridad pública.",
+    "source_quote": "Para los efectos del artículo anterior se entienden por servicios públicos esenciales aquellos cuya suspensión, discontinuidad o paralización pueda causar daño significativo a los derechos a la vida, la salud y la seguridad pública.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declarar la prohibición absoluta de huelga en los servicios enumerados, garantizando su continuidad para proteger los derechos mencionados.",
+    "source_quote": "Por su carácter esencial, estará prohibida absolutamente la huelga en los siguientes servicios:",
+    "item_index": 2
+  }
+]

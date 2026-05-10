@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 254 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 254 establece la obligación del patrono de reinstalar al trabajador que sufrió un riesgo laboral en su puesto habitual cuando esté capacitado para laborar. Si médicamente no puede realizar su trabajo original pero sí otro distinto en la empresa, el patrono debe proporcionárselo si es factible, incluso reubicando personal. Si la reinstalación causa perjuicio objetivo al trabajador (por el tipo de puesto, salario, afectación a la rehabilitación o contacto con las causas del riesgo) y no es posible reubicarlo, el patrono pagará las prestaciones legales. El trabajador puede solicitar al ente asegurador un dictamen médico que indique su capacidad laboral y el medio de trabajo recomendado. Además, puede reclamar judicialmente este derecho dentro de los dos meses siguientes al alta, salvo que tenga incapacidad total permanente. Finalmente, el Poder Ejecutivo regulará las condiciones de trabajo y cuotas de colocación para minusválidos en empresas públicas y privadas.",
+    "source_quote": "El patrono está obligado a reponer en su trabajo habitual al trabajador que haya sufrido un riesgo del trabajo, cuando esté en capacidad de laborar.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "254",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_254"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "254",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_254",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el patrono si el trabajador no puede desempeñar su trabajo habitual tras un riesgo laboral, pero sí otro diferente en la empresa?",
+    "output": "El patrono está obligado a proporcionarle ese otro trabajo, siempre que sea factible, y puede realizar los movimientos de personas necesarios.",
+    "source_quote": "Si de conformidad con el criterio médico, el trabajador no pudiera desempeñar normalmente el trabajo que realizaba cuando le aconteció el riesgo, pero si otro diferente en la misma empresa, el patrono estará obligado a proporcionárselo, siempre que ello sea factible, para lo cual podrá realizar los movimientos de personas que sean necesarios.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "254",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_254",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el patrono debe pagar las prestaciones legales en lugar de reinstalar al trabajador?",
+    "output": "Cuando la reinstalación ocasione perjuicio objetivo al trabajador (por la índole personal del puesto, el salario, afectación negativa a su rehabilitación o contacto con las causas del riesgo) y no sea posible lograr la reubicación en la empresa.",
+    "source_quote": "En casos en que la reinstalación ocasione perjuicio objetivo al trabajador, ya sea por la índole personal del puesto, por el salario percibido, o porque afecta negativamente su proceso de rehabilitación, o bien porque incluso el trabajador se encuentra en contacto con las causas generativas del riesgo ocurrido, el patrono procederá a efectuar el pago de sus prestaciones legales correspondientes, extremos que serán procedentes si no es posible lograr la reubicación del trabajador en la empresa.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "254",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_254",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación principal del patrono de reinstalar al trabajador en su puesto original una vez que se recupera, garantizando la estabilidad laboral tras un riesgo del trabajo.",
+    "source_quote": "El patrono está obligado a reponer en su trabajo habitual al trabajador que haya sufrido un riesgo del trabajo, cuando esté en capacidad de laborar.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "254",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_254",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un plazo de caducidad de dos meses para la acción judicial y excluye los casos de incapacidad total permanente, protegiendo la seguridad jurídica y delimitando el alcance del derecho.",
+    "source_quote": "El trabajador podrá reclamar, por la vía jurisdiccional, este derecho, siempre que no hayan transcurrido dos meses desde que se le dio de alta, con o sin fijación de impedimento, y siempre que no se le haya señalado incapacidad total permanente.",
+    "item_index": 2
+  }
+]

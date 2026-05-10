@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 430 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 430 establece la competencia de los juzgados de trabajo en primera instancia, enumerando los asuntos que pueden conocer. Incluye conflictos jurídicos individuales o colectivos derivados del Código, contratos de trabajo o hechos vinculados a la relación laboral; conflictos económicos y sociales cuando actúan como tribunales de arbitraje o conciliación; juicios para disolver organizaciones sociales; cuestiones contenciosas de seguridad social, cotizaciones al Banco Popular y de Desarrollo Comunal, y cotizaciones de la Ley de Protección al Trabajador; pretensiones sobre regímenes de pensiones; demandas de riesgos de trabajo; juzgamiento de faltas contra leyes laborales o de previsión social; y cualquier otro asunto que la ley determine.",
+    "source_quote": "Los juzgados de trabajo conocerán en primera instancia de: 1) Todas las diferencias o los conflictos individuales o colectivos de carácter jurídico derivados de la aplicación del presente Código y legislación conexa, del contrato de trabajo o de hechos íntimamente vinculados a las respectivas relaciones. 2) Los conflictos de carácter económico y social, una vez que se constituyan en tribunales de arbitraje. ... 8) Todos los demás asuntos que determine la ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "430",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_430"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "430",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_430",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de conflictos individuales o colectivos conocen los juzgados de trabajo según el inciso 1 del artículo 430?",
+    "output": "Conocen todas las diferencias o conflictos individuales o colectivos de carácter jurídico derivados de la aplicación del Código de Trabajo y legislación conexa, del contrato de trabajo o de hechos íntimamente vinculados a las respectivas relaciones.",
+    "source_quote": "1) Todas las diferencias o los conflictos individuales o colectivos de carácter jurídico derivados de la aplicación del presente Código y legislación conexa, del contrato de trabajo o de hechos íntimamente vinculados a las respectivas relaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "430",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_430",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momento los juzgados de trabajo pueden conocer conflictos de carácter económico y social como tribunales de arbitraje?",
+    "output": "Pueden conocerlos una vez que se constituyan en tribunales de arbitraje, y también tienen competencia para arreglarlos en definitiva cuando se constituyan en tribunal de conciliación, conforme lo establece el Código.",
+    "source_quote": "2) Los conflictos de carácter económico y social, una vez que se constituyan en tribunales de arbitraje. Tendrán también competencia para arreglar en definitiva los mismos conflictos, una vez que se constituyan en tribunal de conciliación, conforme se establece en este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "430",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_430",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la competencia general de los juzgados de trabajo para resolver disputas jurídicas surgidas directamente de la relación laboral, el contrato de trabajo o la normativa laboral, abarcando tanto conflictos individuales como colectivos.",
+    "source_quote": "1) Todas las diferencias o los conflictos individuales o colectivos de carácter jurídico derivados de la aplicación del presente Código y legislación conexa, del contrato de trabajo o de hechos íntimamente vinculados a las respectivas relaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "430",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_430",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la competencia de los juzgados laborales a controversias sobre seguridad social y cotizaciones específicas, garantizando que estos asuntos sean resueltos por la jurisdicción especializada en materia de trabajo y protección social.",
+    "source_quote": "4) Las cuestiones de carácter contencioso que surjan con motivo de la aplicación de la legislación de seguridad social y sus reglamentos, así como las relacionadas con las cotizaciones al Banco Popular y de Desarrollo Comunal, y las cotizaciones establecidas en la Ley N.° 7983, Ley de Protección al Trabajador, de 16 de febrero de 2000.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 399 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 399 establece que la responsabilidad de las personas físicas es subjetiva, es decir, depende de la culpa o dolo del individuo, mientras que la responsabilidad de las personas jurídicas es objetiva, sin necesidad de probar culpa. Además, cuando un representante patronal de una empleadora persona jurídica o de un grupo de interés económico comete una falta, la sanción también recae sobre la persona jurídica o el grupo, y los efectos económicos de esa falta se extienden solidariamente a ellos.",
+    "source_quote": "La responsabilidad de las personas físicas es subjetiva y la de las personas jurídicas es objetiva. Cuando la conducta la realice un representante patronal de una empleadora persona jurídica o grupo de interés económico, en los términos del artículo 5 de este Código, la sanción recaerá también sobre estos según corresponda, a quienes solidariamente se extienden los efectos económicos de la falta del representante.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "399",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_399"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "399",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_399",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de responsabilidad tienen las personas físicas según el artículo 399?",
+    "output": "Las personas físicas tienen responsabilidad subjetiva.",
+    "source_quote": "La responsabilidad de las personas físicas es subjetiva",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "399",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_399",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes se extienden solidariamente los efectos económicos de la falta de un representante patronal de una empleadora persona jurídica?",
+    "output": "Se extienden solidariamente a la persona jurídica o grupo de interés económico empleador, según corresponda.",
+    "source_quote": "a quienes solidariamente se extienden los efectos económicos de la falta del representante",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "399",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_399",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la distinción fundamental entre el régimen de responsabilidad aplicable a las personas físicas (basado en la culpa) y a las personas jurídicas (sin necesidad de probar culpa), determinando así la carga probatoria y el fundamento de la imputación en cada caso.",
+    "source_quote": "La responsabilidad de las personas físicas es subjetiva y la de las personas jurídicas es objetiva.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "399",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_399",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la responsabilidad por las faltas laborales cometidas por representantes patronales a la persona jurídica o grupo de interés económico empleador, imponiendo una solidaridad en los efectos económicos de la sanción, para garantizar el cumplimiento de las obligaciones laborales y evitar la evasión de responsabilidades mediante estructuras societarias.",
+    "source_quote": "Cuando la conducta la realice un representante patronal de una empleadora persona jurídica o grupo de interés económico, en los términos del artículo 5 de este Código, la sanción recaerá también sobre estos según corresponda, a quienes solidariamente se extienden los efectos económicos de la falta del representante.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 673 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 673 regula la primera fase de la audiencia, en la que se busca una solución conciliada entre las partes. Esta conciliación solo se promueve si el arreglo no infringe las normas laborales y de previsión social. Los acuerdos son válidos y homologables únicamente si no vulneran derechos irrenunciables ni dichas disposiciones. Además, los hechos que fundamentaron la acusación no pueden ser invocados de nuevo como causa de infracción.",
+    "source_quote": "Tal solución solo será promovida cuando el posible arreglo no implique una infracción a las disposiciones de trabajo y de previsión social, y los acuerdos solo serán válidos y homologables si no son contrarios a derechos irrenunciables de las partes o en cualquier otra forma violatorios de dichas disposiciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "673",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_673"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "673",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_673",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se promueve una solución conciliada según el artículo 673?",
+    "output": "Solo cuando el posible arreglo no implique una infracción a las disposiciones de trabajo y de previsión social.",
+    "source_quote": "Tal solución solo será promovida cuando el posible arreglo no implique una infracción a las disposiciones de trabajo y de previsión social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "673",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_673",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tienen los hechos que sirvieron de sustento a la acusación una vez alcanzado un acuerdo?",
+    "output": "No podrán invocarse nuevamente como causa de infracción.",
+    "source_quote": "Los hechos que sirvieron de sustento a la acusación no podrán invocarse nuevamente como causa de infracción.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "673",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_673",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el objetivo principal de la primera fase de la audiencia, que es fomentar un arreglo conciliatorio entre las partes involucradas.",
+    "source_quote": "En la primera fase de la audiencia se procurará una solución conciliada, procurando el acuerdo entre las partes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "673",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_673",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que los hechos que motivaron la acusación original no puedan ser utilizados nuevamente para iniciar otro proceso por la misma causa, otorgando certeza jurídica y evitando la doble persecución.",
+    "source_quote": "Los hechos que sirvieron de sustento a la acusación no podrán invocarse nuevamente como causa de infracción.",
+    "item_index": 2
+  }
+]

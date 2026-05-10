@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 47 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo regula quién debe firmar los contratos de trabajo cuando el trabajador es un adolescente mayor de doce años pero menor de quince. Establece que el contrato debe celebrarse con su representante legal y, si no lo tiene, con el Patronato Nacional de la Infancia.",
+    "source_quote": "Los contratos relativos al trabajo de los mayores de doce años y menores de quince, deberán celebrarse con el respectivo representante legal y, en defecto de éste, con el Patronato Nacional de la Infancia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "47",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_47"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "47",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_47",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe celebrar los contratos de trabajo de los mayores de doce años y menores de quince?",
+    "output": "El respectivo representante legal.",
+    "source_quote": "Los contratos relativos al trabajo de los mayores de doce años y menores de quince, deberán celebrarse con el respectivo representante legal",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "47",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_47",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el menor no tiene representante legal?",
+    "output": "El contrato se celebrará con el Patronato Nacional de la Infancia.",
+    "source_quote": "y, en defecto de éste, con el Patronato Nacional de la Infancia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "47",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_47",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que el representante legal es quien debe firmar el contrato laboral del menor, protegiendo sus intereses y garantizando la validez del acto.",
+    "source_quote": "Los contratos relativos al trabajo de los mayores de doce años y menores de quince, deberán celebrarse con el respectivo representante legal",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "47",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_47",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prevé una solución subsidiaria cuando el menor carece de representante legal, designando al Patronato como entidad autorizada para celebrar el contrato en su representación y evitar que quede desprotegido.",
+    "source_quote": "y, en defecto de éste, con el Patronato Nacional de la Infancia.",
+    "item_index": 2
+  }
+]

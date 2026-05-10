@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 236 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 236 regula el subsidio por incapacidad temporal derivada de riesgos del trabajo. Establece que durante los primeros 45 días el trabajador recibe el 60% de su salario diario. Después de ese plazo, si gana hasta cien colones diarios, recibe el 100%; si gana más, sobre el exceso se paga un 67%. Además, detalla cómo se calcula el subsidio según la forma de pago (mensual, quincenal, semanal o diario), la referencia a planillas de los tres meses anteriores, el pago semanal cuando el trabajador está asegurado en el Instituto Nacional de Seguros, y fija un subsidio mínimo diario basado en el salario mínimo legal, proporcional si la jornada es inferior a la ordinaria. También indica que si el trabajador labora para varios patronos, el subsidio se calcula sumando los salarios de todos.",
+    "source_quote": "Durante la incapacidad temporal, el trabajador tendrá derecho a un subsidio igual al 60% de su salario diario durante los primeros cuarenta y cinco días de incapacidad. Transcurrido ese plazo, el subsidio que se reconocerá al trabajador será equivalente al 100% del salario diario, si percibiere una remuneración diaria igual o inferior a cien colones. Si el sueldo fuere superior a cien colones por día, sobre el exceso se pagará un subsidio igual al 67%.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "236",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_236"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "236",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_236",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje del salario diario recibe un trabajador como subsidio durante los primeros 45 días de incapacidad temporal?",
+    "output": "Recibe un subsidio igual al 60% de su salario diario.",
+    "source_quote": "Durante la incapacidad temporal, el trabajador tendrá derecho a un subsidio igual al 60% de su salario diario durante los primeros cuarenta y cinco días de incapacidad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "236",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_236",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se calcula el subsidio después de los primeros 45 días si el trabajador gana más de cien colones diarios?",
+    "output": "Se paga el 100% sobre los primeros cien colones y un 67% sobre el exceso de esa suma.",
+    "source_quote": "Transcurrido ese plazo, el subsidio que se reconocerá al trabajador será equivalente al 100% del salario diario, si percibiere una remuneración diaria igual o inferior a cien colones. Si el sueldo fuere superior a cien colones por día, sobre el exceso se pagará un subsidio igual al 67%.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "236",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_236",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la escala progresiva del subsidio por incapacidad temporal, diferenciando un primer tramo de 45 días al 60% y un segundo tramo con cobertura total o parcial según el nivel salarial, garantizando así una protección económica básica al trabajador accidentado.",
+    "source_quote": "Durante la incapacidad temporal, el trabajador tendrá derecho a un subsidio igual al 60% de su salario diario durante los primeros cuarenta y cinco días de incapacidad. Transcurrido ese plazo, el subsidio que se reconocerá al trabajador será equivalente al 100% del salario diario, si percibiere una remuneración diaria igual o inferior a cien colones. Si el sueldo fuere superior a cien colones por día, sobre el exceso se pagará un subsidio igual al 67%.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "236",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_236",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fijar un piso mínimo de protección para el subsidio, vinculándolo al salario mínimo legal, con el fin de evitar que el trabajador reciba una suma inferior a la mínima vital durante su incapacidad.",
+    "source_quote": "El monto del subsidio diario, en los casos de trabajadores que laboren jornada ordinaria de trabajo completa, no podrá ser inferior al salario que establece el Decreto de Salarios Mínimos para todos los trabajos no contemplados en las disposiciones generales en las cuales se establece el salario por actividades, o en otras leyes de la República.",
+    "item_index": 2
+  }
+]

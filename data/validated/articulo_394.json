@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 394 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 394 regula las medidas que deben adoptar los tribunales de trabajo y las autoridades de policía frente a una huelga o paro, según si han sido declarados legales o ilegales. Si la huelga o paro es legal, el tribunal ordena a la policía proteger a las personas y los bienes, y mantener cerrado el centro de trabajo. Si la legalidad solo afecta a un departamento o grupo específico, el cierre se limita a esa área. Además, mientras no se declare ilegal el movimiento, ninguna de las partes puede tomar represalias ni obstaculizar los derechos de la otra. En cambio, si la huelga o paro es ilegal, el tribunal ordena a la policía garantizar que el trabajo continúe por todos los medios posibles. Si se trata de servicios públicos prestados por empresas privadas, el Poder Ejecutivo puede asumir temporalmente el control, y el juzgado puede nombrar un curador.",
+    "source_quote": "En caso de huelga o paro legalmente declarado, los tribunales de trabajo darán orden inmediata a las autoridades de policía para que se proteja debidamente a las personas y propiedades cubiertas por dicha declaratoria y se mantengan clausurados los establecimientos, negocios, departamentos o centros de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "394",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_394"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "394",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_394",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ordena el tribunal de trabajo cuando una huelga o paro ha sido declarado legal?",
+    "output": "Ordena a las autoridades de policía proteger a las personas y propiedades, y mantener clausurados los establecimientos, negocios, departamentos o centros de trabajo.",
+    "source_quote": "los tribunales de trabajo darán orden inmediata a las autoridades de policía para que se proteja debidamente a las personas y propiedades cubiertas por dicha declaratoria y se mantengan clausurados los establecimientos, negocios, departamentos o centros de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "394",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_394",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la legalidad de la huelga solo se declara para un departamento o categoría específica de trabajadores?",
+    "output": "El cierre del centro de trabajo opera únicamente respecto a ese departamento, sección o categoría.",
+    "source_quote": "En los casos en que la legalidad de la huelga no se haya declarado en la totalidad del centro sino en uno de los departamentos, secciones o categoría de trabajadores específicos, el cierre operará únicamente respecto a estos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "394",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_394",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de los tribunales de trabajo de ordenar protección policial y cierre de los lugares de trabajo durante una huelga o paro legal, con el fin de salvaguardar la seguridad de las personas y los bienes, y garantizar el ejercicio del derecho de huelga sin interferencias.",
+    "source_quote": "En caso de huelga o paro legalmente declarado, los tribunales de trabajo darán orden inmediata a las autoridades de policía para que se proteja debidamente a las personas y propiedades cubiertas por dicha declaratoria y se mantengan clausurados los establecimientos, negocios, departamentos o centros de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "394",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_394",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohíbe cualquier acto de represalia u obstrucción de derechos entre empleadores y trabajadores durante el período en que la huelga o paro no ha sido declarado ilegal, preservando la paz laboral y el equilibrio de derechos hasta que exista un pronunciamiento judicial definitivo.",
+    "source_quote": "Mientras el movimiento no haya sido declarado ilegal, ninguna de las partes podrá tomar la menor represalia contra la otra, ni impedirle el ejercicio de sus derechos, según lo dispuesto en el artículo 620.",
+    "item_index": 2
+  }
+]

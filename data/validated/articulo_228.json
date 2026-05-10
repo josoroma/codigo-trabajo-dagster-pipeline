@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 228 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 228 establece que las instituciones públicas deben proporcionar al Instituto Nacional de Seguros los servicios de atención médica, quirúrgica, hospitalaria y de rehabilitación necesarios para administrar el régimen de riesgos del trabajo. Los costos de estos servicios se determinan a partir de informes de las propias instituciones públicas, considerando la opinión del asegurador. Si hay desacuerdo sobre el costo, se aplican las reglas de la Ley General de la Administración Pública para fijar el costo definitivo. Además, el pago de los servicios asistenciales solicitados por el Instituto se realiza según el reglamento de la ley.",
+    "source_quote": "Las instituciones públicas suministrarán al Instituto Nacional de Seguros la atención médico-quirúrgica-hospitalaria y de rehabilitación que este requiera para la administración del régimen de riesgos del trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "228",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_228"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "228",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_228",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a suministrar la atención médica al Instituto Nacional de Seguros según el artículo 228?",
+    "output": "Las instituciones públicas.",
+    "source_quote": "Las instituciones públicas suministrarán al Instituto Nacional de Seguros la atención médico-quirúrgica-hospitalaria y de rehabilitación que este requiera para la administración del régimen de riesgos del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "228",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_228",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se fijan los costos de los servicios que las instituciones públicas prestan al Instituto Nacional de Seguros?",
+    "output": "Con base en los informes presentados por las instituciones públicas, tomando en cuenta el criterio del ente asegurador.",
+    "source_quote": "La fijación de los costos se hará con base en los informes presentados por las instituciones públicas, tomando en cuenta el criterio del ente asegurador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "228",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_228",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de las instituciones públicas de proveer servicios asistenciales al Instituto Nacional de Seguros, garantizando los recursos necesarios para la gestión del seguro de riesgos laborales.",
+    "source_quote": "Las instituciones públicas suministrarán al Instituto Nacional de Seguros la atención médico-quirúrgica-hospitalaria y de rehabilitación que este requiera para la administración del régimen de riesgos del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "228",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_228",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de resolución de conflictos sobre la fijación de costos, remitiendo a la Ley General de la Administración Pública para asegurar una determinación objetiva y legal del costo final.",
+    "source_quote": "En caso de discrepancia se aplicarán las reglas establecidas en la Ley general de la Administración Pública, para determinar el costo definitivo de los servicios.",
+    "item_index": 2
+  }
+]

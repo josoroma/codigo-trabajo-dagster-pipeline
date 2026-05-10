@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 44 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 44 faculta al Ministerio de Trabajo y de Seguridad Social para negar el permiso o autorización mencionados en los artículos 41 y 42 cuando, según su criterio, exista escasez de trabajadores en el país, los trabajadores involucrados sean indispensables para el buen desarrollo de la producción nacional, o se presenten otras circunstancias especiales similares.",
+    "source_quote": "El Ministerio de Trabajo y de Seguridad Social podrá negarse a otorgar el permiso y autorización a que se refieren los artículo 41 y 42 cuando, a su juicio, haya carestía de brazos en el país o sean imprescindibles los trabajadores de que se trate para el buen desenvolvimiento de la producción nacional, o cuando se presenten otras circunstancias especiales análogas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "44",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_44"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "44",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_44",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el Ministerio de Trabajo puede negar el permiso o autorización según el artículo 44?",
+    "output": "Puede negarlo cuando haya carestía de brazos en el país, cuando los trabajadores sean imprescindibles para el buen desenvolvimiento de la producción nacional, o cuando se presenten otras circunstancias especiales análogas.",
+    "source_quote": "cuando, a su juicio, haya carestía de brazos en el país o sean imprescindibles los trabajadores de que se trate para el buen desenvolvimiento de la producción nacional, o cuando se presenten otras circunstancias especiales análogas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "44",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_44",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué permisos o autorizaciones se refiere el artículo 44?",
+    "output": "Se refiere a los permisos y autorizaciones mencionados en los artículos 41 y 42 del Código de Trabajo.",
+    "source_quote": "el permiso y autorización a que se refieren los artículo 41 y 42",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "44",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_44",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad discrecional del Ministerio para denegar los permisos y autorizaciones previstos en los artículos 41 y 42, condicionando su otorgamiento a la evaluación de la situación laboral y productiva del país.",
+    "source_quote": "El Ministerio de Trabajo y de Seguridad Social podrá negarse a otorgar el permiso y autorización a que se refieren los artículo 41 y 42",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "44",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_44",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Enumera las causales específicas y la cláusula general que habilitan al Ministerio a ejercer esa negativa, protegiendo la disponibilidad de mano de obra nacional y la continuidad de la producción, así como otras situaciones análogas no previstas expresamente.",
+    "source_quote": "cuando, a su juicio, haya carestía de brazos en el país o sean imprescindibles los trabajadores de que se trate para el buen desenvolvimiento de la producción nacional, o cuando se presenten otras circunstancias especiales análogas",
+    "item_index": 2
+  }
+]

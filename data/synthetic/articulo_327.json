@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 327 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 327 del Código de Trabajo fue derogado, es decir, eliminado del ordenamiento jurídico, por la Ley N° 9343 del 25 de enero de 2016, conocida como Reforma Procesal Laboral. Por lo tanto, actualmente no tiene contenido ni aplicación.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "327",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_327"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "327",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_327",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 327 del Código de Trabajo?",
+    "output": "Está derogado, es decir, sin vigencia jurídica.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "327",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_327",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ley derogó el artículo 327 y cuándo entró en vigor esa derogación?",
+    "output": "La ley N° 9343 del 25 de enero de 2016, denominada \"Reforma Procesal Laboral\", derogó el artículo 327 a partir de esa misma fecha.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "327",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_327",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indica el acto legislativo específico que eliminó la vigencia del artículo, señalando el número de ley, la fecha y el artículo derogatorio.",
+    "source_quote": "Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "327",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_327",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica el nombre de la ley que realizó la derogación, contextualizando que la eliminación del artículo fue parte de una reforma integral al proceso laboral.",
+    "source_quote": "\"Reforma Procesal Laboral\"",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 405 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 405 consagra el principio de igualdad de derechos laborales: todas las personas trabajadoras que realicen un trabajo igual bajo las mismas condiciones subjetivas y objetivas deben recibir el mismo trato en cuanto a jornada laboral y remuneración, sin discriminación alguna.",
+    "source_quote": "Todas las personas trabajadoras que desempeñen en iguales condiciones subjetivas y objetivas un trabajo igual gozarán de los mismos derechos, en cuanto a jornada laboral y remuneración, sin discriminación alguna.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "405",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_405"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "405",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_405",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derechos deben ser iguales para las personas trabajadoras que realizan un trabajo igual en iguales condiciones?",
+    "output": "Los mismos derechos en cuanto a jornada laboral y remuneración, sin discriminación alguna.",
+    "source_quote": "gozarán de los mismos derechos, en cuanto a jornada laboral y remuneración, sin discriminación alguna.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "405",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_405",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones deben cumplirse para que se aplique la igualdad de derechos según el artículo 405?",
+    "output": "Que las personas trabajadoras desempeñen un trabajo igual en iguales condiciones subjetivas y objetivas.",
+    "source_quote": "Todas las personas trabajadoras que desempeñen en iguales condiciones subjetivas y objetivas un trabajo igual",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "405",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_405",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de igualdad de derechos laborales, condicionado a la existencia de un trabajo igual y condiciones subjetivas y objetivas equivalentes, como fundamento para evitar discriminación.",
+    "source_quote": "Todas las personas trabajadoras que desempeñen en iguales condiciones subjetivas y objetivas un trabajo igual gozarán de los mismos derechos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "405",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_405",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Especifica los derechos concretos que deben ser iguales (jornada laboral y remuneración) y prohíbe cualquier forma de discriminación en su otorgamiento, reforzando la protección contra tratos desiguales injustificados.",
+    "source_quote": "en cuanto a jornada laboral y remuneración, sin discriminación alguna.",
+    "item_index": 2
+  }
+]

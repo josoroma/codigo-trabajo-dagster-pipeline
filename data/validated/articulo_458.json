@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 458 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 458 permite a la Administración Pública y demás instituciones de derecho público conciliar sobre su conducta administrativa, la validez de sus actos o sus efectos, sin importar si esos actos son públicos o privados. Regula quiénes asisten a la conciliación (partes o representantes, excluyendo coadyuvantes), exige que los representantes estatales tengan facultades suficientes acreditadas por el órgano competente y comprobadas antes de la audiencia judicial, y en el caso de la Procuraduría General de la República, requiere autorización expresa del procurador general o adjunto, previa audiencia al procurador asesor.",
+    "source_quote": "La Administración Pública y las demás instituciones de derecho público podrán conciliar, sobre su conducta administrativa, la validez de sus actos o sus efectos, con independencia de la naturaleza pública o privada de esos actos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "458",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_458"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "458",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_458",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden asistir a la actividad conciliatoria según el artículo 458?",
+    "output": "Las partes o sus representantes, con exclusión de los coadyuvantes.",
+    "source_quote": "A la actividad conciliatoria asistirán las partes o sus representantes, con exclusión de los coadyuvantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "458",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_458",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir los representantes de las instituciones del Estado para conciliar?",
+    "output": "Deben estar acreditados con facultades suficientes para conciliar, otorgadas por el órgano competente, y comprobarlo previamente a la audiencia respectiva en caso de intervención judicial.",
+    "source_quote": "Los representantes de las instituciones del Estado deberán estar acreditados con facultades suficientes para conciliar, otorgadas por el órgano competente, lo que deberá comprobarse previamente a la audiencia respectiva, en el caso de intervención judicial.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "458",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_458",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad de conciliación de las entidades públicas sobre su actuación administrativa, permitiendo resolver disputas sobre la validez o efectos de sus actos sin importar su naturaleza, lo que amplía el ámbito de la conciliación en el sector público.",
+    "source_quote": "La Administración Pública y las demás instituciones de derecho público podrán conciliar, sobre su conducta administrativa, la validez de sus actos o sus efectos, con independencia de la naturaleza pública o privada de esos actos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "458",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_CUARTO_articulo_458",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que los representantes estatales tengan autorización expresa y suficiente para conciliar, evitando acuerdos sin respaldo institucional, y exige la comprobación previa para asegurar la validez del proceso.",
+    "source_quote": "Los representantes de las instituciones del Estado deberán estar acreditados con facultades suficientes para conciliar, otorgadas por el órgano competente, lo que deberá comprobarse previamente a la audiencia respectiva, en el caso de intervención judicial.",
+    "item_index": 2
+  }
+]

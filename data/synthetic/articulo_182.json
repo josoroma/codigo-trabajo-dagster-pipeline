@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 182 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 182 del Código de Trabajo de Costa Rica fue derogado, es decir, eliminado del ordenamiento jurídico, por el artículo 2º de la ley Nº 3372 del 6 de agosto de 1964. Por lo tanto, actualmente no tiene contenido normativo ni produce efectos legales.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "182",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_182"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "182",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_182",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿El artículo 182 del Código de Trabajo de Costa Rica está vigente?",
+    "output": "No, el artículo 182 fue derogado y no está vigente.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "182",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_182",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 182 del Código de Trabajo?",
+    "output": "El artículo 182 fue derogado por el artículo 2º de la ley Nº 3372, promulgada el 6 de agosto de 1964.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "182",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_182",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 182 ha sido expresamente eliminado del Código de Trabajo mediante una ley posterior, por lo que carece de vigencia y no debe ser aplicado.",
+    "source_quote": "Derogado por el artículo 2º de la ley Nº 3372 de 6 de agosto de 1964",
+    "item_index": 1
+  }
+]

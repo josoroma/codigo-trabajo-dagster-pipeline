@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 245 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 245 establece un límite máximo para la suma de las rentas que se otorguen conforme al artículo 243. Ese límite es el 75% del salario anual del trabajador fallecido. Si las rentas sumadas superan ese porcentaje, se reducen proporcionalmente, pero se respetan las rentas ya fijadas según el orden de los incisos antes de alcanzar el tope.",
+    "source_quote": "La suma de las rentas que se acuerde con arreglo al artículo 243 no podrá exceder del 75% del salario anual del trabajador fallecido que se determine.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "245",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_245"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "245",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_245",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el porcentaje máximo del salario anual del trabajador fallecido que pueden alcanzar las rentas acordadas según el artículo 243?",
+    "output": "El 75% del salario anual del trabajador fallecido.",
+    "source_quote": "La suma de las rentas que se acuerde con arreglo al artículo 243 no podrá exceder del 75% del salario anual del trabajador fallecido que se determine.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "245",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_245",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la suma de las rentas excede ese 75%?",
+    "output": "Se reducen proporcionalmente, sin perjuicio de las rentas que se hayan establecido según el orden de los incisos antes de agotar ese máximo.",
+    "source_quote": "Si las rentas excedieren de ese 75% se reducirán proporcionalmente, sin perjuicio de las que se hayan establecido según el orden de los incisos, antes de agotar ese máximo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "245",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_245",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un tope máximo para el total de las prestaciones económicas, evitando que superen una proporción razonable del ingreso del trabajador fallecido.",
+    "source_quote": "La suma de las rentas que se acuerde con arreglo al artículo 243 no podrá exceder del 75% del salario anual del trabajador fallecido que se determine.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "245",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_245",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo de ajuste cuando se rebasa el límite, garantizando que las rentas ya asignadas conforme a la prelación legal no se vean afectadas por la reducción.",
+    "source_quote": "Si las rentas excedieren de ese 75% se reducirán proporcionalmente, sin perjuicio de las que se hayan establecido según el orden de los incisos, antes de agotar ese máximo.",
+    "item_index": 2
+  }
+]

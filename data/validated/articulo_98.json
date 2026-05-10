@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 98 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 98 establece cómo calcular el valor de las prestaciones por descanso pre y post-natal y el tiempo de lactancia, según la forma de pago del salario. Si el salario es por unidad de tiempo, se promedian los salarios de los últimos 180 días o la fracción trabajada. Si es por unidad de obra, tarea o a destajo, el descanso se calcula con el salario de los últimos 90 días o fracción, y el tiempo de lactancia se determina dividiendo el salario del período de pago entre las horas efectivamente trabajadas.",
+    "source_quote": "Cuando el trabajo se pague por unidad de tiempo, el valor de las prestaciones a que se refiere el artículo 96 se fijará sacando el promedio de salarios devengados durante los últimos ciento ochenta días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores. Cuando el trabajo se pague por unidad de obra, por tarea o a destajo, el valor del lapso destinado al descanso pre y post-natal se fijará de acuerdo con el salario devengado, durante los últimos noventa días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores; y el valor del tiempo diario destinado a la lactancia se determinará dividiendo el salario devengado en el respectivo período de pago por el número de horas efectivamente trabajadas, y estableciendo luego la equivalencia correspondiente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "98",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_98"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "98",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_98",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se calcula el valor de las prestaciones por descanso pre y post-natal cuando el trabajo se paga por unidad de tiempo?",
+    "output": "Se calcula sacando el promedio de los salarios devengados durante los últimos ciento ochenta días o la fracción de tiempo menor si no se ha completado ese plazo, contados desde que la trabajadora dejó sus labores.",
+    "source_quote": "Cuando el trabajo se pague por unidad de tiempo, el valor de las prestaciones a que se refiere el artículo 96 se fijará sacando el promedio de salarios devengados durante los últimos ciento ochenta días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "98",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_98",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se determina el valor del tiempo diario destinado a la lactancia cuando el trabajo se paga por unidad de obra, tarea o a destajo?",
+    "output": "Se determina dividiendo el salario devengado en el respectivo período de pago por el número de horas efectivamente trabajadas, y luego estableciendo la equivalencia correspondiente.",
+    "source_quote": "el valor del tiempo diario destinado a la lactancia se determinará dividiendo el salario devengado en el respectivo período de pago por el número de horas efectivamente trabajadas, y estableciendo luego la equivalencia correspondiente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "98",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_98",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la regla de cálculo para las prestaciones de descanso pre y post-natal cuando el salario se paga por unidad de tiempo, garantizando que el monto refleje el ingreso promedio reciente de la trabajadora.",
+    "source_quote": "Cuando el trabajo se pague por unidad de tiempo, el valor de las prestaciones a que se refiere el artículo 96 se fijará sacando el promedio de salarios devengados durante los últimos ciento ochenta días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "98",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_98",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fijar dos métodos de cálculo distintos para trabajadoras con salario variable: uno para el descanso pre y post-natal basado en un período de referencia de noventa días, y otro para el tiempo de lactancia basado en el salario por hora efectiva del período de pago, asegurando una remuneración justa y proporcional en cada caso.",
+    "source_quote": "Cuando el trabajo se pague por unidad de obra, por tarea o a destajo, el valor del lapso destinado al descanso pre y post-natal se fijará de acuerdo con el salario devengado, durante los últimos noventa días o fracción de tiempo menor si no se hubiere ajustado dicho término, contados a partir del momento en que la trabajadora dejó sus labores; y el valor del tiempo diario destinado a la lactancia se determinará dividiendo el salario devengado en el respectivo período de pago por el número de horas efectivamente trabajadas, y estableciendo luego la equivalencia correspondiente.",
+    "item_index": 2
+  }
+]

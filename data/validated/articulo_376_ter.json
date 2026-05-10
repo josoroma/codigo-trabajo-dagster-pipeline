@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 376_ter del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo define los servicios de importancia trascendental como aquellos estratégicos para el desarrollo socioeconómico del país, cuya paralización causaría un perjuicio sensible a la población. Enumera siete categorías específicas de estos servicios y establece que, en caso de huelga, debe garantizarse un plan de servicios mínimos continuos.",
+    "source_quote": "Los servicios de importancia trascendental son aquellos que, por su carácter estratégico para el desarrollo socioeconómico del país, su paralización o suspensión implican un perjuicio sensible a las condiciones de vida de toda o parte de la población.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_ter",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_ter"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_ter",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_ter",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué son los servicios de importancia trascendental según el artículo 376 ter?",
+    "output": "Son aquellos que, por su carácter estratégico para el desarrollo socioeconómico del país, su paralización o suspensión implican un perjuicio sensible a las condiciones de vida de toda o parte de la población.",
+    "source_quote": "Los servicios de importancia trascendental son aquellos que, por su carácter estratégico para el desarrollo socioeconómico del país, su paralización o suspensión implican un perjuicio sensible a las condiciones de vida de toda o parte de la población.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_ter",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_ter",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición se impone a la huelga en los servicios de importancia trascendental?",
+    "output": "La ejecución de la huelga estará condicionada a la prestación continua de un plan de servicios mínimos.",
+    "source_quote": "La ejecución de la huelga en este tipo de servicios estará condicionada a la prestación continua de un plan de servicios mínimos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_ter",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_ter",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de servicios de importancia trascendental y establece el criterio para su catalogación, basado en el impacto socioeconómico de su interrupción.",
+    "source_quote": "Los servicios de importancia trascendental son aquellos que, por su carácter estratégico para el desarrollo socioeconómico del país, su paralización o suspensión implican un perjuicio sensible a las condiciones de vida de toda o parte de la población.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "376_ter",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_376_ter",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una limitación al derecho de huelga en estos servicios, exigiendo que se mantengan servicios mínimos para proteger a la población afectada.",
+    "source_quote": "La ejecución de la huelga en este tipo de servicios estará condicionada a la prestación continua de un plan de servicios mínimos.",
+    "item_index": 2
+  }
+]

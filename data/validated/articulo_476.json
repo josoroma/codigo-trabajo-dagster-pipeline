@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 476 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 476 establece que el objetivo principal de la actividad probatoria en el proceso laboral es descubrir la verdad material. Para lograrlo, las partes deben actuar de buena fe y cooperar con los tribunales aportando las pruebas necesarias, mientras que los jueces deben esforzarse diligentemente para alcanzar ese fin.",
+    "source_quote": "La actividad probatoria en el proceso laboral tiene como objetivo fundamental la búsqueda de la verdad material.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "476",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_476"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "476",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_476",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el objetivo fundamental de la actividad probatoria en el proceso laboral según el artículo 476?",
+    "output": "La búsqueda de la verdad material.",
+    "source_quote": "La actividad probatoria en el proceso laboral tiene como objetivo fundamental la búsqueda de la verdad material.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "476",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_476",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación impone el artículo 476 a las partes respecto a la prueba?",
+    "output": "Deben cooperar con los tribunales de justicia, mediante un comportamiento de buena fe, en el acopio de los elementos probatorios necesarios para resolver con justicia los conflictos.",
+    "source_quote": "Las partes, por medio de un comportamiento de buena fe, deben cooperar con los tribunales de justicia en el acopio de los elementos probatorios necesarios para resolver con justicia los conflictos sometidos a su conocimiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "476",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_476",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el principio rector de la prueba en el proceso laboral, orientado a descubrir la realidad de los hechos por encima de formalismos.",
+    "source_quote": "La actividad probatoria en el proceso laboral tiene como objetivo fundamental la búsqueda de la verdad material.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "476",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_476",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las obligaciones de las partes y del juez para alcanzar la verdad material: las partes deben colaborar activamente y de buena fe, y los jueces deben actuar con máxima diligencia.",
+    "source_quote": "Las partes, por medio de un comportamiento de buena fe, deben cooperar con los tribunales de justicia en el acopio de los elementos probatorios necesarios para resolver con justicia los conflictos sometidos a su conocimiento, y los titulares de esos órganos pondrán todo su empeño y diligencia para la consecución de dicho objetivo.",
+    "item_index": 2
+  }
+]

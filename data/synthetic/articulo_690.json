@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 690 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 690 enumera las materias que, con ciertas limitaciones, pueden ser objeto de solución mediante un procedimiento específico. Estas materias incluyen: derechos y garantías sindicales (inciso a), aplicación e interpretación de normas de derecho colectivo (b), régimen disciplinario (c), regulación de ingreso, promoción y carrera profesional (d), manuales de puestos y procedimientos de asignación (e), seguridad e higiene ocupacional (f), becas y estímulos laborales (g), incentivos salariales a la productividad (h), y lo relacionado con salarios (i, texto truncado).",
+    "source_quote": "Con las limitaciones a que se hará referencia, pueden ser objeto de solución en la forma dicha, las siguientes materias:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "690",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_690"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "690",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_690",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derechos sindicales pueden ser objeto de solución según el artículo 690?",
+    "output": "Los derechos y garantías sindicales para dirigentes y sindicatos, que comprenden reunión, facilidades para locales, permisos con o sin goce de salario, divulgación de actividades, y cualquier otra contenida en la Recomendación Número 143 de la OIT o en recomendaciones del Comité de Libertad Sindical, siempre que no alteren gravemente el funcionamiento eficiente ni la continuidad de los servicios esenciales.",
+    "source_quote": "Los derechos y las garantías sindicales tanto para los dirigentes de las organizaciones como para los mismos sindicatos en cuanto personas jurídicas de duración indefinida. Estos derechos y garantías comprenden los de reunión, facilidades para el uso de locales, permisos para dirigentes con goce de salario y sin él, facilidades para la divulgación de actividades, lo mismo que cualquier otra contenida en la Recomendación Número 143 de la Organización Internacional del Trabajo o en las recomendaciones puntuales del Comité de Libertad Sindical de esta última organización. Es entendido que la aplicación de las garantías aquí mencionadas no deberá alterar en forma grave o imprudente el funcionamiento eficiente ni la continuidad de los servicios esenciales de cada institución o dependencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "690",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_690",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición puede ser objeto de solución el régimen disciplinario según el artículo 690?",
+    "output": "El régimen disciplinario puede ser objeto de solución siempre y cuando no se haga renuncia expresa o tácita ni delegación de las facultades legales o reglamentarias otorgadas a los jerarcas de las instituciones o dependencias.",
+    "source_quote": "El régimen disciplinario, siempre y cuando no se haga renuncia expresa o tácita ni delegación de las facultades legales o reglamentarias otorgadas en esta materia a los jerarcas de las instituciones o dependencias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "690",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_690",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el alcance de los derechos y garantías sindicales que pueden ser objeto de solución, incluyendo referencias a instrumentos internacionales, y fija un límite para no afectar servicios esenciales.",
+    "source_quote": "Los derechos y las garantías sindicales tanto para los dirigentes de las organizaciones como para los mismos sindicatos en cuanto personas jurídicas de duración indefinida. Estos derechos y garantías comprenden los de reunión, facilidades para el uso de locales, permisos para dirigentes con goce de salario y sin él, facilidades para la divulgación de actividades, lo mismo que cualquier otra contenida en la Recomendación Número 143 de la Organización Internacional del Trabajo o en las recomendaciones puntuales del Comité de Libertad Sindical de esta última organización. Es entendido que la aplicación de las garantías aquí mencionadas no deberá alterar en forma grave o imprudente el funcionamiento eficiente ni la continuidad de los servicios esenciales de cada institución o dependencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "690",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_690",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite que el régimen disciplinario sea materia de solución, pero protege las facultades legales y reglamentarias de los jerarcas, prohibiendo su renuncia o delegación.",
+    "source_quote": "El régimen disciplinario, siempre y cuando no se haga renuncia expresa o tácita ni delegación de las facultades legales o reglamentarias otorgadas en esta materia a los jerarcas de las instituciones o dependencias.",
+    "item_index": 2
+  }
+]

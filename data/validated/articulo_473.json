@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 473 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 473 regula la declaración de nulidad de actos procesales defectuosos. Permite que el órgano judicial declare la nulidad por iniciativa propia (de oficio) mientras mantenga competencia, siempre que el defecto procesal sea evidente. Sin embargo, esta facultad no aplica para sentencias ni autos que tengan carácter de sentencia. Además, si la nulidad afecta actuaciones de un órgano superior, solo ese órgano superior puede decretarla, y su decisión es inapelable.",
+    "source_quote": "La nulidad de los actos viciados también podrá declararse de oficio mientras subsista la competencia del órgano, cuando el quebranto procesal sea evidente; salvo en los casos de las sentencias y los autos con carácter de sentencia. Si la nulidad viciara actuaciones de un órgano superior, el competente para decretarla será este último y lo que resuelva no tendrá ulterior recurso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "473",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_473"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "473",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_473",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condiciones puede un órgano declarar de oficio la nulidad de actos viciados?",
+    "output": "Puede declararla de oficio mientras subsista su competencia y el quebranto procesal sea evidente, excepto en los casos de sentencias y autos con carácter de sentencia.",
+    "source_quote": "La nulidad de los actos viciados también podrá declararse de oficio mientras subsista la competencia del órgano, cuando el quebranto procesal sea evidente; salvo en los casos de las sentencias y los autos con carácter de sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "473",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_473",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué órgano es competente para decretar la nulidad cuando esta vicia actuaciones de un órgano superior y qué recurso cabe contra esa decisión?",
+    "output": "El competente es el propio órgano superior, y lo que resuelva no tendrá ulterior recurso.",
+    "source_quote": "Si la nulidad viciara actuaciones de un órgano superior, el competente para decretarla será este último y lo que resuelva no tendrá ulterior recurso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "473",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_473",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad del órgano judicial para declarar la nulidad por iniciativa propia, limitada temporalmente a su competencia y condicionada a un defecto procesal manifiesto, excluyendo expresamente las decisiones de fondo como sentencias y autos equivalentes.",
+    "source_quote": "La nulidad de los actos viciados también podrá declararse de oficio mientras subsista la competencia del órgano, cuando el quebranto procesal sea evidente; salvo en los casos de las sentencias y los autos con carácter de sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "473",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_473",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Atribuye competencia exclusiva al órgano superior para anular sus propias actuaciones viciadas y otorga firmeza definitiva a esa resolución, impidiendo cualquier impugnación posterior.",
+    "source_quote": "Si la nulidad viciara actuaciones de un órgano superior, el competente para decretarla será este último y lo que resuelva no tendrá ulterior recurso.",
+    "item_index": 2
+  }
+]

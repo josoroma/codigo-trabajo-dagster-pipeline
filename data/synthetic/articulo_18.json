@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 18 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 18 define el contrato individual de trabajo como aquel en que una persona se obliga a prestar servicios o ejecutar una obra para otra, bajo dependencia permanente y dirección de esta última, a cambio de una remuneración de cualquier tipo. Además, establece que se presume la existencia de este contrato entre quien presta los servicios y quien los recibe, sin importar el nombre que se le dé al acuerdo.",
+    "source_quote": "Contrato individual de trabajo, sea cual fuere su denominación, es todo aquél en que una persona se obliga a prestar a otra sus servicios o a ejecutarle una obra, bajo la dependencia permanente y dirección inmediata o delegada en ésta, y por una remuneración de cualquier clase o forma.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "18",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_18"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "18",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_18",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué es un contrato individual de trabajo según el artículo 18?",
+    "output": "Es todo aquel en que una persona se obliga a prestar a otra sus servicios o a ejecutarle una obra, bajo la dependencia permanente y dirección inmediata o delegada en ésta, y por una remuneración de cualquier clase o forma.",
+    "source_quote": "Contrato individual de trabajo, sea cual fuere su denominación, es todo aquél en que una persona se obliga a prestar a otra sus servicios o a ejecutarle una obra, bajo la dependencia permanente y dirección inmediata o delegada en ésta, y por una remuneración de cualquier clase o forma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "18",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_18",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué presunción establece el artículo 18 sobre la existencia del contrato de trabajo?",
+    "output": "Se presume la existencia del contrato individual de trabajo entre el trabajador que presta sus servicios y la persona que los recibe.",
+    "source_quote": "Se presume la existencia de este contrato entre el trabajador que presta sus servicios y la persona que los recibe.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "18",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_18",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de contrato individual de trabajo, estableciendo sus elementos esenciales: prestación personal de servicios o ejecución de obra, dependencia permanente, dirección del empleador (inmediata o delegada) y remuneración, sin importar el nombre que las partes le asignen.",
+    "source_quote": "Contrato individual de trabajo, sea cual fuere su denominación, es todo aquél en que una persona se obliga a prestar a otra sus servicios o a ejecutarle una obra, bajo la dependencia permanente y dirección inmediata o delegada en ésta, y por una remuneración de cualquier clase o forma.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "18",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_18",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una presunción legal que facilita la prueba de la relación laboral, invirtiendo la carga probatoria a favor del trabajador: basta demostrar la prestación de servicios para que se presuma la existencia del contrato de trabajo.",
+    "source_quote": "Se presume la existencia de este contrato entre el trabajador que presta sus servicios y la persona que los recibe.",
+    "item_index": 2
+  }
+]

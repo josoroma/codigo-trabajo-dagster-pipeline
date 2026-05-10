@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 561 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 561 establece reglas para las sentencias laborales: prohíbe condicionar la procedencia de un extremo a una demostración futura; permite al juzgado declarar la ineficacia de la condena si ya fue satisfecha antes del fallo; y exige que los pronunciamientos económicos fijen montos exactos (incluyendo costas, intereses y ajustes), salvo que falten datos, caso en el cual se permite una condena en abstracto indicando las bases para su liquidación posterior.",
+    "source_quote": "Queda prohibido declarar en sentencia la procedencia de algún extremo, condicionándolo a la demostración posterior del supuesto de hecho que lo ampara.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "561",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_561"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "561",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_561",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitido que una sentencia laboral condicione la procedencia de un extremo a una demostración posterior?",
+    "output": "No, queda prohibido.",
+    "source_quote": "Queda prohibido declarar en sentencia la procedencia de algún extremo, condicionándolo a la demostración posterior del supuesto de hecho que lo ampara.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "561",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_561",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe contener un pronunciamiento sobre extremos económicos en una sentencia laboral?",
+    "output": "Debe establecer de una vez el monto exacto de las cantidades, incluyendo costas, intereses y adecuaciones hasta ese momento. Solo excepcionalmente, cuando no se cuente con los datos necesarios, podrá hacerse una condena en abstracto y se indicarán las bases para la liquidación posterior.",
+    "source_quote": "En todo pronunciamiento sobre extremos económicos o resolubles en dinero deberá establecerse de una vez el monto exacto de las cantidades, incluido el monto de las costas, de los intereses y adecuaciones que correspondan hasta ese momento. Solo excepcionalmente, cuando no se cuente en el momento del fallo con los datos necesarios para hacer la fijación, podrá hacerse una condena en abstracto, y se indicarán las bases para hacer la liquidación posteriormente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "561",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_561",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que las sentencias sean definitivas y no sujetas a condiciones futuras, evitando incertidumbre para las partes y asegurando la cosa juzgada material.",
+    "source_quote": "Queda prohibido declarar en sentencia la procedencia de algún extremo, condicionándolo a la demostración posterior del supuesto de hecho que lo ampara.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "561",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_561",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asegura la certeza y ejecutabilidad inmediata de la condena económica, permitiendo una excepción limitada cuando falten datos, pero exigiendo bases claras para la liquidación posterior, lo que evita dilaciones y garantiza el derecho de defensa.",
+    "source_quote": "En todo pronunciamiento sobre extremos económicos o resolubles en dinero deberá establecerse de una vez el monto exacto de las cantidades, incluido el monto de las costas, de los intereses y adecuaciones que correspondan hasta ese momento. Solo excepcionalmente, cuando no se cuente en el momento del fallo con los datos necesarios para hacer la fijación, podrá hacerse una condena en abstracto, y se indicarán las bases para hacer la liquidación posteriormente.",
+    "item_index": 2
+  }
+]

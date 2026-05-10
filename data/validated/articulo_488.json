@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 488 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 488 regula el reclamo de créditos laborales cuando el deudor es una sucesión, está en concurso o es una persona jurídica disuelta en liquidación. Permite iniciar o continuar un proceso judicial ante los tribunales de trabajo, con la participación de representantes como el albacea, interventor, administrador concursal, liquidador o el propio deudor. Además, ordena la anotación de la demanda, sentencia y liquidaciones en el proceso universal, y establece que el tribunal de ese proceso debe remitir al laboral el producto necesario para cubrir el crédito. Finalmente, dispone que los créditos laborales no soportan gastos de la masa, salvo que el producto de la liquidación sea insuficiente.",
+    "source_quote": "Cuando el crédito laboral se pretenda ante una sucesión, concurso o persona jurídica disuelta pendiente de liquidación, se podrá iniciar o continuar un proceso judicial en los tribunales de trabajo competentes, con la participación del albacea, interventor, administrador concursal, liquidador o por el propio deudor, cuando proceda de acuerdo con la ley concursal vigente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "488",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_488"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "488",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_488",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué situaciones se puede iniciar o continuar un proceso judicial laboral según el artículo 488?",
+    "output": "Ante una sucesión, concurso o persona jurídica disuelta pendiente de liquidación.",
+    "source_quote": "Cuando el crédito laboral se pretenda ante una sucesión, concurso o persona jurídica disuelta pendiente de liquidación, se podrá iniciar o continuar un proceso judicial en los tribunales de trabajo competentes...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "488",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_488",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Soportan los créditos laborales gastos de la masa en el proceso universal?",
+    "output": "No, a menos que del producto de la liquidación no sobre lo suficiente para cubrirlos.",
+    "source_quote": "Los créditos laborales no soportarán gastos de la masa, a menos que del producto de la liquidación no sobre lo suficiente para cubrirlos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "488",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_488",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la vía judicial laboral para reclamar créditos en contextos de insolvencia o liquidación, determinando quiénes pueden intervenir en representación del deudor, garantizando así el acceso a la justicia y la correcta integración de la litis.",
+    "source_quote": "Cuando el crédito laboral se pretenda ante una sucesión, concurso o persona jurídica disuelta pendiente de liquidación, se podrá iniciar o continuar un proceso judicial en los tribunales de trabajo competentes, con la participación del albacea, interventor, administrador concursal, liquidador o por el propio deudor, cuando proceda de acuerdo con la ley concursal vigente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "488",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_488",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege la integridad de los créditos laborales al eximirlos de los gastos comunes del proceso universal, salvo que los fondos sean insuficientes, con lo cual se refuerza su carácter privilegiado y se evita su disminución injustificada.",
+    "source_quote": "Los créditos laborales no soportarán gastos de la masa, a menos que del producto de la liquidación no sobre lo suficiente para cubrirlos.",
+    "item_index": 2
+  }
+]

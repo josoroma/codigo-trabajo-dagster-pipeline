@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 642 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 642 establece que la sentencia arbitral es obligatoria para las partes por un plazo mínimo de dos años, que será fijado en la propia sentencia. Además, permite a las partes solicitar al juzgado de trabajo la ejecución de los montos líquidos o liquidables mediante el procedimiento de ejecución de sentencia. Finalmente, dispone que la parte que se niegue a cumplir o incumpla el fallo arbitral será sancionada según lo previsto en el artículo 401 del mismo Código.",
+    "source_quote": "La sentencia arbitral será obligatoria para las partes por el plazo que ella determine, el cual no podrá ser inferior de dos años. Las partes pueden pedir al respectivo juzgado de trabajo la ejecución de los extremos líquidos o liquidables, por los trámites de la ejecución de sentencia previstos en este mismo Código. La parte que se niegue a cumplir o que incumpla los términos de un fallo arbitral será sancionada conforme a lo establecido en el artículo 401.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo mínimo de vigencia obligatoria de una sentencia arbitral según el artículo 642?",
+    "output": "El plazo mínimo de vigencia obligatoria de una sentencia arbitral es de dos años.",
+    "source_quote": "La sentencia arbitral será obligatoria para las partes por el plazo que ella determine, el cual no podrá ser inferior de dos años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer una parte si la otra incumple los términos de un fallo arbitral?",
+    "output": "Puede pedir al juzgado de trabajo la ejecución de los extremos líquidos o liquidables, y la parte incumplidora será sancionada conforme al artículo 401 del Código de Trabajo.",
+    "source_quote": "Las partes pueden pedir al respectivo juzgado de trabajo la ejecución de los extremos líquidos o liquidables, por los trámites de la ejecución de sentencia previstos en este mismo Código. La parte que se niegue a cumplir o que incumpla los términos de un fallo arbitral será sancionada conforme a lo establecido en el artículo 401.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la fuerza vinculante del laudo arbitral y fija un límite temporal mínimo de dos años para garantizar estabilidad en las relaciones laborales resueltas por esta vía.",
+    "source_quote": "La sentencia arbitral será obligatoria para las partes por el plazo que ella determine, el cual no podrá ser inferior de dos años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Faculta a las partes para acudir a la vía judicial ordinaria laboral a fin de hacer efectivo el cumplimiento forzoso de las obligaciones dinerarias contenidas en el fallo arbitral.",
+    "source_quote": "Las partes pueden pedir al respectivo juzgado de trabajo la ejecución de los extremos líquidos o liquidables, por los trámites de la ejecución de sentencia previstos en este mismo Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "642",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_642",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone una consecuencia sancionatoria para quien desobedezca el laudo, remitiendo al régimen de sanciones del artículo 401, lo que refuerza la obligatoriedad del arbitraje.",
+    "source_quote": "La parte que se niegue a cumplir o que incumpla los términos de un fallo arbitral será sancionada conforme a lo establecido en el artículo 401.",
+    "item_index": 3
+  }
+]

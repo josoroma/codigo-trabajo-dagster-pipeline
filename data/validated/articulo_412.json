@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 412 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 412 establece que los derechos reconocidos en una sentencia judicial laboral prescriben en diez años, contados a partir de que la sentencia queda firme.",
+    "source_quote": "Los derechos provenientes de sentencia judicial prescribirán en el término de diez años, que se comenzará a contar desde el día de la firmeza de la sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "412",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_412"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "412",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_412",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuánto tiempo prescriben los derechos provenientes de una sentencia judicial según el artículo 412?",
+    "output": "Diez años.",
+    "source_quote": "Los derechos provenientes de sentencia judicial prescribirán en el término de diez años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "412",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_412",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo se empieza a contar el plazo de prescripción de esos derechos?",
+    "output": "Desde el día de la firmeza de la sentencia.",
+    "source_quote": "que se comenzará a contar desde el día de la firmeza de la sentencia",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "412",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_412",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo de prescripción de diez años para los derechos derivados de una sentencia judicial.",
+    "source_quote": "Los derechos provenientes de sentencia judicial prescribirán en el término de diez años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "412",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_412",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el momento exacto en que inicia el cómputo del plazo de prescripción, que es cuando la sentencia adquiere firmeza.",
+    "source_quote": "que se comenzará a contar desde el día de la firmeza de la sentencia",
+    "item_index": 2
+  }
+]

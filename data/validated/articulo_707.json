@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 707 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 707 establece que cuando no se pueda realizar una huelga por tratarse de servicios esenciales y fracase la conciliación, el conflicto económico y social debe resolverse mediante arbitraje obligatorio. También se aplica este arbitraje cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental. El arbitraje podrá realizarse en el Poder Judicial, el Ministerio de Trabajo y Seguridad Social, el Colegio de Abogados y Abogadas o mediante arbitraje ad hoc. Si no hay acuerdo sobre la sede, se llevará a cabo en el Ministerio de Trabajo y Seguridad Social. Será un arbitraje de derecho y, en caso de impedimento, inhibitoria o recusación contra un miembro del tribunal, solo se afecta a ese miembro, no al tribunal en pleno, excluyendo la aplicación del inciso 3° del numeral 12 del Código Procesal Civil.",
+    "source_quote": "Cuando exista impedimento para acudir a la huelga, por tratarse de servicios esenciales, fracasada la conciliación, deberá someterse la solución del conflicto económico y social a arbitraje, en la forma, los términos y las condiciones indicados en esta normativa. El arbitraje obligatorio también se aplicará cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "707",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_707"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "707",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_707",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se aplica el arbitraje obligatorio según el artículo 707?",
+    "output": "Se aplica cuando exista impedimento para la huelga por tratarse de servicios esenciales y haya fracasado la conciliación, o cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental.",
+    "source_quote": "Cuando exista impedimento para acudir a la huelga, por tratarse de servicios esenciales, fracasada la conciliación, deberá someterse la solución del conflicto económico y social a arbitraje... El arbitraje obligatorio también se aplicará cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "707",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_707",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las sedes en las que puede realizarse el arbitraje obligatorio y qué sucede si no hay acuerdo sobre la sede?",
+    "output": "El arbitraje obligatorio puede realizarse en el Poder Judicial, el Ministerio de Trabajo y Seguridad Social, el Colegio de Abogados y Abogadas o mediante arbitraje ad hoc. Si no hay acuerdo sobre la sede, se llevará a cabo en el Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Este arbitraje obligatorio podrá realizarse en las siguientes sedes: a) Poder Judicial. b) Ministerio de Trabajo y Seguridad Social. c) Colegio de Abogados y Abogadas. d) Arbitraje ad hoc. En caso de no llegar a un acuerdo en cuanto a la sede del arbitraje, este se llevará a cabo en el Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "707",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_707",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los supuestos en los que procede el arbitraje obligatorio como mecanismo sustitutivo de la huelga en conflictos económicos y sociales, garantizando la continuidad de servicios esenciales y de importancia trascendental.",
+    "source_quote": "Cuando exista impedimento para acudir a la huelga, por tratarse de servicios esenciales, fracasada la conciliación, deberá someterse la solución del conflicto económico y social a arbitraje, en la forma, los términos y las condiciones indicados en esta normativa. El arbitraje obligatorio también se aplicará cuando se alcance el plazo máximo de huelga en servicios de importancia trascendental.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "707",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_707",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Precisa que las causales de impedimento, inhibitoria o recusación contra un árbitro no invalidan la composición del tribunal arbitral en su conjunto, evitando dilaciones procesales y dando continuidad al procedimiento.",
+    "source_quote": "En caso de que alguno de los miembros del tribunal arbitral se encuentre bajo una causal de impedimento o alguna de las partes presente una solicitud de inhibitoria o recusación contra alguno de dichos miembros, dicha situación solo afectará únicamente al miembro cuestionado y no a la totalidad del tribunal, por lo que no será de aplicación el inciso 3° del numeral 12 de la Ley N.° 9342, Código Procesal Civil, de 3 de febrero de 2016.",
+    "item_index": 2
+  }
+]

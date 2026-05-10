@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 359 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 359 establece que cualquier sindicato que esté afiliado a una federación o confederación puede separarse de ella en cualquier momento, siempre que la mayoría de sus miembros tome esa decisión. Además, declara que cualquier norma contraria a este derecho que se incluya en los estatutos de la federación o confederación es completamente nula.",
+    "source_quote": "Todo sindicato afiliado puede retirarse de un federación o confederación en cualquier tiempo, cuando la mayoría de sus miembros así lo dispusiere. Será absolutamente nula la disposición en contrario que se adopte en los respectivos estatutos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "359",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_359"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "359",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_359",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir un sindicato afiliado para retirarse de una federación o confederación según el artículo 359?",
+    "output": "Debe contar con la decisión de la mayoría de sus miembros.",
+    "source_quote": "cuando la mayoría de sus miembros así lo dispusiere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "359",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_359",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto legal tiene una disposición estatutaria que prohíba el retiro de un sindicato afiliado?",
+    "output": "Esa disposición es absolutamente nula.",
+    "source_quote": "Será absolutamente nula la disposición en contrario que se adopte en los respectivos estatutos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "359",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_359",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce el derecho de un sindicato a retirarse voluntariamente de una estructura sindical superior, condicionando ese acto a la voluntad mayoritaria de sus integrantes, lo que garantiza la autonomía colectiva.",
+    "source_quote": "Todo sindicato afiliado puede retirarse de un federación o confederación en cualquier tiempo, cuando la mayoría de sus miembros así lo dispusiere.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "359",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_359",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege el derecho de retiro frente a posibles restricciones internas, declarando la invalidez de cualquier norma estatutaria que pretenda limitarlo o impedirlo, asegurando así la primacía de la libertad sindical.",
+    "source_quote": "Será absolutamente nula la disposición en contrario que se adopte en los respectivos estatutos.",
+    "item_index": 2
+  }
+]

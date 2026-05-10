@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 470 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 470 establece que todas las actuaciones judiciales deben respetar las normas que definen la competencia de los jueces y los procedimientos que garantizan el debido proceso. Además, obliga a los jueces a vigilar que estas reglas se cumplan, para evitar que se niegue el acceso a la justicia o se perjudique el derecho de defensa de las partes.",
+    "source_quote": "Las actuaciones jurisdiccionales deberán cumplir las disposiciones que ajustan la competencia de los jueces y consagran las ritualidades establecidas para garantizar el debido proceso. Los titulares de los órganos jurisdiccionales velarán por el cumplimiento de esas disposiciones, de tal manera que no se produzca, en ningún momento, denegación del acceso a la justicia o se afecte el derecho de defensa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "470",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_470"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "470",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_470",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben cumplir las actuaciones jurisdiccionales según el artículo 470?",
+    "output": "Deben cumplir las disposiciones que ajustan la competencia de los jueces y consagran las ritualidades establecidas para garantizar el debido proceso.",
+    "source_quote": "Las actuaciones jurisdiccionales deberán cumplir las disposiciones que ajustan la competencia de los jueces y consagran las ritualidades establecidas para garantizar el debido proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "470",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_470",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la obligación de los titulares de los órganos jurisdiccionales respecto a estas disposiciones?",
+    "output": "Velar por el cumplimiento de esas disposiciones, de tal manera que no se produzca denegación del acceso a la justicia o se afecte el derecho de defensa.",
+    "source_quote": "Los titulares de los órganos jurisdiccionales velarán por el cumplimiento de esas disposiciones, de tal manera que no se produzca, en ningún momento, denegación del acceso a la justicia o se afecte el derecho de defensa.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "470",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_470",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte impone a todas las actuaciones judiciales la obligación de respetar las normas de competencia y los procedimientos formales que aseguran un juicio justo y el debido proceso legal.",
+    "source_quote": "Las actuaciones jurisdiccionales deberán cumplir las disposiciones que ajustan la competencia de los jueces y consagran las ritualidades establecidas para garantizar el debido proceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "470",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_470",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte asigna a los jueces la responsabilidad de supervisar activamente el cumplimiento de dichas normas, con el fin de prevenir cualquier negación del acceso a la justicia o vulneración del derecho de defensa de las partes.",
+    "source_quote": "Los titulares de los órganos jurisdiccionales velarán por el cumplimiento de esas disposiciones, de tal manera que no se produzca, en ningún momento, denegación del acceso a la justicia o se afecte el derecho de defensa.",
+    "item_index": 2
+  }
+]

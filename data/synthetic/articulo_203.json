@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 203 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo faculta a inspectores de las municipalidades, del Ministerio de Trabajo y Seguridad Social y del Instituto Nacional de Seguros para ordenar, sin trámites adicionales y previa comprobación de que un trabajo carece del seguro obligatorio contra riesgos laborales, la paralización y cierre inmediato de dicho trabajo, de acuerdo con la reglamentación respectiva.",
+    "source_quote": "Los inspectores, con autoridad, de las municipalidades, del Ministerio de Trabajo y Seguridad Social y del Instituto Nacional de Seguros, sin ningún trámite especial, previa constatación de que un trabajo se realiza sin la existencia del seguro contra riesgos del trabajo, podrán ordenar su paralización y cierre, conforme lo disponga el reglamento respectivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "203",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_203"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "203",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_203",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están autorizados para ordenar la paralización y cierre de un trabajo sin seguro de riesgos?",
+    "output": "Los inspectores de las municipalidades, del Ministerio de Trabajo y Seguridad Social y del Instituto Nacional de Seguros.",
+    "source_quote": "Los inspectores, con autoridad, de las municipalidades, del Ministerio de Trabajo y Seguridad Social y del Instituto Nacional de Seguros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "203",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_203",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requerimiento previo deben cumplir los inspectores para ordenar la paralización y cierre?",
+    "output": "Constatar que el trabajo se realiza sin la existencia del seguro contra riesgos del trabajo.",
+    "source_quote": "previa constatación de que un trabajo se realiza sin la existencia del seguro contra riesgos del trabajo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "203",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_203",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga competencia a los inspectores de estas entidades para ordenar directamente la paralización y cierre de la obra, sin necesidad de procedimientos administrativos previos, garantizando una actuación inmediata ante la falta de seguro.",
+    "source_quote": "Los inspectores, con autoridad, de las municipalidades, del Ministerio de Trabajo y Seguridad Social y del Instituto Nacional de Seguros, sin ningún trámite especial, podrán ordenar su paralización y cierre",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "203",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_203",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Condiciona el ejercicio de la potestad a la verificación de que el trabajo carece del seguro obligatorio, asegurando que la medida se tome únicamente cuando se compruebe el incumplimiento.",
+    "source_quote": "previa constatación de que un trabajo se realiza sin la existencia del seguro contra riesgos del trabajo",
+    "item_index": 2
+  }
+]

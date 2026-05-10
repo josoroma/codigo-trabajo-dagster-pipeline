@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 509 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 509 permite que, en un proceso laboral, el juez declare mediante una sentencia anticipada la prescripción o la caducidad de los derechos reclamados, siempre que estas figuras estén expresamente autorizadas por la ley sustantiva. Esto evita la continuación innecesaria del juicio cuando el derecho ya no es exigible por el transcurso del tiempo.",
+    "source_quote": "La prescripción y la caducidad autorizada expresamente por el ordenamiento sustantivo, de los derechos pretendidos en juicio, son declarables en sentencia anticipada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "509",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_509"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "509",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_509",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué figuras jurídicas pueden declararse en sentencia anticipada según el artículo 509 del Código de Trabajo?",
+    "output": "La prescripción y la caducidad.",
+    "source_quote": "La prescripción y la caducidad autorizada expresamente por el ordenamiento sustantivo, de los derechos pretendidos en juicio, son declarables en sentencia anticipada.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "509",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_509",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir la prescripción y la caducidad para ser declarables en sentencia anticipada conforme a este artículo?",
+    "output": "Deben estar autorizadas expresamente por el ordenamiento sustantivo.",
+    "source_quote": "autorizada expresamente por el ordenamiento sustantivo",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "509",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_509",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica las figuras de prescripción y caducidad como aquellas que pueden resolverse anticipadamente, y establece la condición indispensable de que estén expresamente autorizadas por la ley sustantiva, limitando su aplicación a los derechos que son objeto del litigio.",
+    "source_quote": "La prescripción y la caducidad autorizada expresamente por el ordenamiento sustantivo, de los derechos pretendidos en juicio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "509",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_509",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia procesal: el juez puede emitir un pronunciamiento definitivo sobre la prescripción o caducidad sin necesidad de agotar todas las etapas del juicio, agilizando así la resolución del conflicto.",
+    "source_quote": "son declarables en sentencia anticipada",
+    "item_index": 2
+  }
+]

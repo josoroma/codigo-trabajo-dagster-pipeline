@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 175 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 175 extiende un privilegio legal, originalmente previsto en el concepto segundo del artículo 33, a los créditos por salarios devengados. Esta extensión se aplica sin límite de monto ni de tiempo trabajado, y sin importar si el trabajador sigue o no prestando servicios.",
+    "source_quote": "En los casos a que se refiere el concepto segundo del artículo 33, se hará extensivo el privilegio que ahí se establece a los créditos por salarios devengados, sin limitación de suma ni de tiempo trabajado, ya sea que el trabajador continúe o no prestando sus servicios.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "175",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_175"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "175",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_175",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué créditos se extiende el privilegio según el artículo 175?",
+    "output": "Se extiende a los créditos por salarios devengados.",
+    "source_quote": "se hará extensivo el privilegio que ahí se establece a los créditos por salarios devengados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "175",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_175",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Existe alguna limitación de suma o de tiempo trabajado para este privilegio?",
+    "output": "No, el privilegio se concede sin limitación de suma ni de tiempo trabajado.",
+    "source_quote": "sin limitación de suma ni de tiempo trabajado",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "175",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_175",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación a los supuestos del concepto segundo del artículo 33 y ordena extender el privilegio allí contenido a los créditos salariales, garantizando su protección preferente.",
+    "source_quote": "En los casos a que se refiere el concepto segundo del artículo 33, se hará extensivo el privilegio que ahí se establece a los créditos por salarios devengados",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "175",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_175",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Elimina cualquier tope cuantitativo o temporal para el privilegio y aclara que la protección opera con independencia de la vigencia de la relación laboral, asegurando una cobertura amplia e incondicional.",
+    "source_quote": "sin limitación de suma ni de tiempo trabajado, ya sea que el trabajador continúe o no prestando sus servicios",
+    "item_index": 2
+  }
+]

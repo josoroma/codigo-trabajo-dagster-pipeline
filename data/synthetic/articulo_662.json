@@ -1,0 +1,97 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 662 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 662 establece los requisitos que debe contener la solicitud inicial en un procedimiento de calificación de huelga. Indica que se debe incluir: los datos personales y el carácter con que actúa el solicitante; las causas o motivos del movimiento si hubo conciliación previa; en otros casos, una descripción detallada de los hechos de presión y quiénes dirigen el movimiento; los medios de prueba; y el lugar o medio para recibir notificaciones.",
+    "source_quote": "En la solicitud inicial se indicará lo siguiente: 1) El nombre, las calidades, el documento de identificación y el domicilio del solicitante, así como el carácter en que actúa. 2) Las causas o los motivos del movimiento, cuando respecto de ese hubiera antecedido procedimiento de conciliación. 3) En los demás casos, una descripción detallada de los hechos de presión y la indicación de la organización, los comités, los representantes o las personas que dirigen el movimiento. 4) Indicación de los medios de prueba. 5) Señalamiento de lugar o medio para notificaciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué datos de identificación del solicitante debe contener la solicitud inicial según el artículo 662?",
+    "output": "El nombre, las calidades, el documento de identificación y el domicilio del solicitante, así como el carácter en que actúa.",
+    "source_quote": "1) El nombre, las calidades, el documento de identificación y el domicilio del solicitante, así como el carácter en que actúa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se debe indicar en la solicitud cuando no ha existido un procedimiento de conciliación previo al movimiento?",
+    "output": "Una descripción detallada de los hechos de presión y la indicación de la organización, los comités, los representantes o las personas que dirigen el movimiento.",
+    "source_quote": "3) En los demás casos, una descripción detallada de los hechos de presión y la indicación de la organización, los comités, los representantes o las personas que dirigen el movimiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identificar plenamente a la persona que presenta la solicitud y la calidad jurídica con la que comparece, garantizando la legitimación procesal.",
+    "source_quote": "1) El nombre, las calidades, el documento de identificación y el domicilio del solicitante, así como el carácter en que actúa.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Informar al tribunal sobre el origen del conflicto cuando ya se ha agotado una etapa conciliatoria, permitiendo contextualizar la solicitud.",
+    "source_quote": "2) Las causas o los motivos del movimiento, cuando respecto de ese hubiera antecedido procedimiento de conciliación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proveer al juzgador de los elementos fácticos necesarios para calificar la huelga cuando no hubo conciliación previa, identificando a los responsables del movimiento.",
+    "source_quote": "3) En los demás casos, una descripción detallada de los hechos de presión y la indicación de la organización, los comités, los representantes o las personas que dirigen el movimiento.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permitir que el solicitante anuncie las pruebas con las que sustentará su petición, en cumplimiento del principio de carga probatoria.",
+    "source_quote": "4) Indicación de los medios de prueba.",
+    "item_index": 4
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "662",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_662",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el domicilio procesal para recibir comunicaciones judiciales, asegurando el derecho de defensa y la validez de las notificaciones.",
+    "source_quote": "5) Señalamiento de lugar o medio para notificaciones.",
+    "item_index": 5
+  }
+]

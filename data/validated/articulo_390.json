@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 390 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 390 establece que las reglas contenidas en el artículo 380 del mismo código se aplican también a los paros laborales. Es decir, extiende la regulación prevista para otro supuesto al caso específico del paro.",
+    "source_quote": "Son aplicables al paro las disposiciones del artículo 380.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "390",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_390"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "390",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_390",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué disposiciones se aplican al paro según el artículo 390?",
+    "output": "Las disposiciones del artículo 380 del Código de Trabajo.",
+    "source_quote": "Son aplicables al paro las disposiciones del artículo 380.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "390",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_390",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el efecto jurídico del artículo 390?",
+    "output": "Hace extensivas al paro las normas contenidas en el artículo 380.",
+    "source_quote": "Son aplicables al paro las disposiciones del artículo 380.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "390",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_390",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase constituye el contenido normativo del artículo, cuya finalidad es remitir la regulación del paro a lo dispuesto en el artículo 380, evitando repetir normas y asegurando coherencia legal.",
+    "source_quote": "Son aplicables al paro las disposiciones del artículo 380.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "390",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_390",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta nota indica la fuente de la reforma que dio al artículo su redacción actual, proporcionando trazabilidad legislativa y certeza sobre su vigencia.",
+    "source_quote": "(Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  }
+]

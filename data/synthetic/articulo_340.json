@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 340 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 340 del Código de Trabajo establece las actividades principales que pueden desarrollar los sindicatos. Estas comprenden la celebración de convenciones y contratos colectivos, la participación en la formación de organismos estatales cuando la ley lo disponga, la creación, administración o subvención de instituciones de utilidad común como cooperativas o entidades educativas, y cualquier otra actividad que no contradiga sus fines esenciales ni la legislación vigente.",
+    "source_quote": "Son actividades principales de los sindicatos: - Celebrar convenciones y contratos colectivos; - Participar en la formación de los organismos estatales que les indique la ley; - Crear, administrar o subvencionar instituciones, establecimientos u obras sociales de utilidad común, tales como cooperativas, entidades deportivas, culturales, educacionales, de asistencia y de previsión, y - En general, todas aquellas que no estén reñidas con sus fines esenciales ni con las leyes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "340",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_340"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "340",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_340",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es una de las actividades principales de los sindicatos relacionada con la negociación laboral?",
+    "output": "Celebrar convenciones y contratos colectivos.",
+    "source_quote": "- Celebrar convenciones y contratos colectivos;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "340",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_340",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de entidades pueden crear o apoyar los sindicatos según el artículo 340?",
+    "output": "Instituciones, establecimientos u obras sociales de utilidad común, como cooperativas, entidades deportivas, culturales, educacionales, de asistencia y de previsión.",
+    "source_quote": "- Crear, administrar o subvencionar instituciones, establecimientos u obras sociales de utilidad común, tales como cooperativas, entidades deportivas, culturales, educacionales, de asistencia y de previsión,",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "340",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_340",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición reconoce la función primordial de los sindicatos en la negociación colectiva, permitiéndoles pactar condiciones laborales en representación de los trabajadores.",
+    "source_quote": "- Celebrar convenciones y contratos colectivos;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "340",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_340",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cláusula general otorga flexibilidad a los sindicatos para emprender cualquier actividad lícita, siempre que sea coherente con su objeto social y no infrinja el ordenamiento jurídico.",
+    "source_quote": "- En general, todas aquellas que no estén reñidas con sus fines esenciales ni con las leyes.",
+    "item_index": 2
+  }
+]

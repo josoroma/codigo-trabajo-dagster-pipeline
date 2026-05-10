@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 558 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 558 establece que si el empleador se opuso a una solicitud de reinstalación o reubicación de la persona trabajadora y un juez determina que dicha reinstalación o reubicación es procedente, el empleador deberá pagar los salarios caídos completos desde que terminó la incapacidad, más un mes de salario adicional como indemnización fija por daños y perjuicios.",
+    "source_quote": "Si habiendo mediado oposición de la parte empleadora a la solicitud de reinstalación o reubicación y alguna de estas se considera procedente en sentencia, esa parte deberá pagarle a la persona trabajadora salarios caídos completos desde el día en que cesó la incapacidad y, a título de daños y perjuicios y como indemnización fija, un mes de salario adicional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "558",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_558"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "558",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_558",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe pagar el empleador si se opuso a la reinstalación o reubicación y esta es declarada procedente en sentencia?",
+    "output": "Debe pagar los salarios caídos completos desde el día en que cesó la incapacidad y, además, un mes de salario adicional como indemnización fija por daños y perjuicios.",
+    "source_quote": "esa parte deberá pagarle a la persona trabajadora salarios caídos completos desde el día en que cesó la incapacidad y, a título de daños y perjuicios y como indemnización fija, un mes de salario adicional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "558",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_558",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo se calculan los salarios caídos que debe pagar el empleador según este artículo?",
+    "output": "Se calculan desde el día en que cesó la incapacidad de la persona trabajadora.",
+    "source_quote": "salarios caídos completos desde el día en que cesó la incapacidad",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "558",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_558",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición para que se aplique la consecuencia del artículo: que el empleador haya manifestado oposición a la reinstalación o reubicación y que un juez determine que tal medida es procedente.",
+    "source_quote": "Si habiendo mediado oposición de la parte empleadora a la solicitud de reinstalación o reubicación y alguna de estas se considera procedente en sentencia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "558",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_558",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija la sanción económica para el empleador que se opuso injustificadamente: el pago de los salarios dejados de percibir desde el fin de la incapacidad y una indemnización adicional equivalente a un mes de salario, como reparación fija por los daños y perjuicios causados.",
+    "source_quote": "esa parte deberá pagarle a la persona trabajadora salarios caídos completos desde el día en que cesó la incapacidad y, a título de daños y perjuicios y como indemnización fija, un mes de salario adicional.",
+    "item_index": 2
+  }
+]

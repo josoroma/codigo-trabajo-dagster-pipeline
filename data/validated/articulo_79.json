@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 79 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 79 establece que la enfermedad comprobada del trabajador que lo incapacite para sus labores hasta por tres meses es causa de suspensión del contrato sin responsabilidad para él. Durante ese período, el patrono debe conceder licencia hasta su restablecimiento y pagar medio salario según la antigüedad del trabajador, salvo que apliquen disposiciones especiales o la Ley de Seguro Social. También permite al patrono contratar un sustituto interino.",
+    "source_quote": "Igualmente es causa de suspensión del contrato, sin responsabilidad para el trabajador, la enfermedad comprobada que lo incapacite para el normal desempeño de sus labores durante un período no mayor de tres meses.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "79",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_79"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "79",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_79",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la obligación del patrono cuando un trabajador se enferma y se suspende el contrato según el artículo 79?",
+    "output": "La única obligación es dar licencia al trabajador hasta su total restablecimiento, siempre que ocurra dentro de los tres meses, y pagar medio salario según las reglas de antigüedad, salvo que existan disposiciones especiales o el caso esté protegido por la Ley de Seguro Social.",
+    "source_quote": "Salvo lo dicho en disposiciones especiales o que se tratare de un caso protegido por la Ley de Seguro Social, la única obligación del patrono es la de dar licencia al trabajador, hasta su total restablecimiento, siempre que éste se produzca dentro del lapso indicado, y de acuerdo con las reglas siguientes:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "79",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_79",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuánto tiempo debe pagar el patrono medio salario a un trabajador que ha laborado continuamente por más de nueve meses y se enferma?",
+    "output": "Le pagará medio salario durante tres meses.",
+    "source_quote": "Después de un trabajo continuo mayor de nueve meses, le pagará medio salario durante tres meses.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "79",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_79",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la causal de suspensión del contrato por enfermedad del trabajador, eximiéndolo de responsabilidad, y establece el límite máximo de tres meses para dicha suspensión.",
+    "source_quote": "Igualmente es causa de suspensión del contrato, sin responsabilidad para el trabajador, la enfermedad comprobada que lo incapacite para el normal desempeño de sus labores durante un período no mayor de tres meses.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "79",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_79",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita la obligación patronal durante la suspensión, condicionándola a que no existan normas especiales o cobertura del Seguro Social, y remite a las reglas de pago de medio salario según antigüedad.",
+    "source_quote": "Salvo lo dicho en disposiciones especiales o que se tratare de un caso protegido por la Ley de Seguro Social, la única obligación del patrono es la de dar licencia al trabajador, hasta su total restablecimiento, siempre que éste se produzca dentro del lapso indicado, y de acuerdo con las reglas siguientes:",
+    "item_index": 2
+  }
+]

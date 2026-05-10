@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 502 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 502 establece que las partes en un proceso laboral no están obligadas a mencionar las normas jurídicas en que basan sus peticiones, pero sí deben expresarlas de forma clara y precisa, explicando los motivos que, según su criterio, las respaldan.",
+    "source_quote": "Las partes no tienen obligación de indicar los fundamentos jurídicos de las proposiciones, pero deben plantearlas con claridad y precisión e indicar las razones que a su juicio las amparan.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "502",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_502"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "502",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_502",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Están obligadas las partes a indicar los fundamentos jurídicos de sus proposiciones?",
+    "output": "No, las partes no tienen obligación de indicar los fundamentos jurídicos de sus proposiciones.",
+    "source_quote": "Las partes no tienen obligación de indicar los fundamentos jurídicos de las proposiciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "502",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_502",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos deben cumplir las proposiciones según el artículo 502?",
+    "output": "Deben plantearlas con claridad y precisión e indicar las razones que a su juicio las amparan.",
+    "source_quote": "pero deben plantearlas con claridad y precisión e indicar las razones que a su juicio las amparan",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "502",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_502",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Eximir a las partes de la carga de citar normas legales, facilitando la presentación de sus argumentos sin exigir conocimientos técnicos jurídicos.",
+    "source_quote": "Las partes no tienen obligación de indicar los fundamentos jurídicos de las proposiciones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "502",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_502",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer el deber de formular las proposiciones de manera comprensible y justificada, garantizando el derecho de defensa y la correcta tramitación del proceso.",
+    "source_quote": "pero deben plantearlas con claridad y precisión e indicar las razones que a su juicio las amparan",
+    "item_index": 2
+  }
+]

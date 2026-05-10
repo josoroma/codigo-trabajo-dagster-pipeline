@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 298 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 298 establece que las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros deben colaborar entre sí para lograr el cumplimiento exacto de las normas contenidas en este Capítulo (relativo a riesgos del trabajo).",
+    "source_quote": "Todas las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros colaborarán a fin de obtener el cumplimiento exacto de las disposiciones de este Capítulo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "298",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_298"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "298",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_298",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué autoridades deben colaborar según el artículo 298?",
+    "output": "Todas las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros.",
+    "source_quote": "Todas las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros colaborarán",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "298",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_298",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué finalidad deben colaborar estas autoridades?",
+    "output": "A fin de obtener el cumplimiento exacto de las disposiciones de este Capítulo.",
+    "source_quote": "a fin de obtener el cumplimiento exacto de las disposiciones de este Capítulo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "298",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_298",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica a los sujetos obligados a la colaboración interinstitucional, delimitando las entidades cuyas autoridades de inspección deben actuar conjuntamente.",
+    "source_quote": "Todas las autoridades de inspección del Ministerio de Trabajo y Seguridad Social, del Ministerio de Salud y del Instituto Nacional de Seguros colaborarán",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "298",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_298",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el objetivo de la colaboración, que es garantizar la aplicación rigurosa y precisa de las normas del capítulo sobre riesgos del trabajo.",
+    "source_quote": "a fin de obtener el cumplimiento exacto de las disposiciones de este Capítulo",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 121 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 121 establece que el patrono tiene la obligación de regresar al trabajador al lugar o puerto que corresponda según la modalidad del contrato, antes de finalizar la relación laboral. Esta obligación se mantiene incluso en caso de siniestro, pero no aplica si el trabajador es encarcelado por un delito cometido en el extranjero o en situaciones similares que hagan imposible cumplirla.",
+    "source_quote": "Será siempre obligación del patrono restituir al trabajador al lugar o puerto que cada modalidad de contrato establece el artículo anterior, antes de darlo por concluido. No se exceptúa el caso de siniestro, pero si el de prisión impuesta al trabajador por delito cometido en el extranjero y otros análogos que denoten imposibilidad absoluta de cumplimiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "121",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_121"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "121",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_121",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el patrono antes de dar por concluido el contrato de trabajo, según el artículo 121?",
+    "output": "Restituir al trabajador al lugar o puerto que establece el artículo anterior según la modalidad del contrato.",
+    "source_quote": "Será siempre obligación del patrono restituir al trabajador al lugar o puerto que cada modalidad de contrato establece el artículo anterior, antes de darlo por concluido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "121",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_121",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el artículo 121 exceptúa la obligación de restitución del patrono?",
+    "output": "Cuando el trabajador sufre prisión por delito cometido en el extranjero y en otros casos análogos que impliquen imposibilidad absoluta de cumplimiento. No se exceptúa el caso de siniestro.",
+    "source_quote": "No se exceptúa el caso de siniestro, pero si el de prisión impuesta al trabajador por delito cometido en el extranjero y otros análogos que denoten imposibilidad absoluta de cumplimiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "121",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_121",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una obligación incondicional para el patrono de devolver al trabajador al punto de origen o puerto acordado, garantizando que la finalización del contrato no implique abandono del trabajador en un lugar distinto al pactado.",
+    "source_quote": "Será siempre obligación del patrono restituir al trabajador al lugar o puerto que cada modalidad de contrato establece el artículo anterior, antes de darlo por concluido.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "121",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_121",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las excepciones a la obligación: mantiene la responsabilidad patronal incluso en eventos catastróficos (siniestro), pero la libera cuando la imposibilidad de cumplimiento es absoluta por causas ajenas al patrono, como el encarcelamiento del trabajador en el extranjero.",
+    "source_quote": "No se exceptúa el caso de siniestro, pero si el de prisión impuesta al trabajador por delito cometido en el extranjero y otros análogos que denoten imposibilidad absoluta de cumplimiento.",
+    "item_index": 2
+  }
+]

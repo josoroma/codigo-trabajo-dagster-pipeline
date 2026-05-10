@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 685 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 685 establece que los servidores públicos no tienen derecho a indemnizaciones por despido cuando existe una causa justificada, salvo que leyes especiales, reglamentos autónomos o acuerdos colectivos dispongan lo contrario. La causa justificada se determina según los artículos 81 y 369 del Código y otras normas más beneficiosas. Además, si un servidor público renuncia o se jubila mientras enfrenta un proceso disciplinario, este continúa y se suspende el pago de la cesantía hasta que se resuelva si el despido fue improcedente. La Sala Constitucional aclaró que la suspensión solo procede después de notificado el traslado de cargos y únicamente en procesos que puedan terminar en despido, no en sanciones menores.",
+    "source_quote": "En el caso de haber causa justificada para el despido, los servidores indicados en el artículo inicial de este título no tendrán derecho a las indemnizaciones señaladas, con las excepciones que admitan leyes especiales, reglamentos autónomos de trabajo o acuerdos colectivos concluidos conforme a lo dispuesto en este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "685",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_685"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "685",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_685",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos los servidores públicos no tienen derecho a indemnizaciones por despido según el artículo 685?",
+    "output": "No tienen derecho cuando existe una causa justificada para el despido, calificada según los artículos 81 y 369 del Código de Trabajo y otras normas aplicables, salvo que leyes especiales, reglamentos autónomos o acuerdos colectivos establezcan excepciones.",
+    "source_quote": "En el caso de haber causa justificada para el despido, los servidores indicados en el artículo inicial de este título no tendrán derecho a las indemnizaciones señaladas, con las excepciones que admitan leyes especiales, reglamentos autónomos de trabajo o acuerdos colectivos concluidos conforme a lo dispuesto en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "685",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_685",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre con el pago de la cesantía de un servidor público que renuncia o se jubila mientras tiene un proceso disciplinario pendiente?",
+    "output": "El proceso disciplinario continúa y se suspende el pago de la cesantía. Solo se hará efectivo el pago si se declara la improcedencia del despido sin responsabilidad para la parte empleadora. Según la Sala Constitucional, la suspensión solo es válida después de notificado el traslado de cargos y únicamente en procedimientos que puedan conllevar el despido.",
+    "source_quote": "Los procesos disciplinarios pendientes contra un servidor público que renuncie o se jubile deberán continuar y se suspenderá el pago de la cesantía que pudiera corresponderle, la cual solo se hará efectiva cuando se declare la improcedencia del despido sin responsabilidad para la parte empleadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "685",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_685",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que la existencia de una causa justificada de despido elimina el derecho a indemnizaciones para los servidores públicos, pero permite que normas más favorables (leyes especiales, reglamentos autónomos o acuerdos colectivos) puedan otorgar ese derecho excepcionalmente.",
+    "source_quote": "En el caso de haber causa justificada para el despido, los servidores indicados en el artículo inicial de este título no tendrán derecho a las indemnizaciones señaladas, con las excepciones que admitan leyes especiales, reglamentos autónomos de trabajo o acuerdos colectivos concluidos conforme a lo dispuesto en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "685",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_685",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que la renuncia o jubilación no extinga la responsabilidad disciplinaria del servidor público, y condiciona el pago de la cesantía a la resolución final del proceso, protegiendo los intereses de la administración y evitando que el trabajador eluda consecuencias mediante su salida voluntaria.",
+    "source_quote": "Los procesos disciplinarios pendientes contra un servidor público que renuncie o se jubile deberán continuar y se suspenderá el pago de la cesantía que pudiera corresponderle, la cual solo se hará efectiva cuando se declare la improcedencia del despido sin responsabilidad para la parte empleadora.",
+    "item_index": 2
+  }
+]

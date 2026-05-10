@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 593 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 593 regula el trámite del recurso de casación laboral. Establece que, una vez recibido el expediente, si el recurso no es declarado inadmisible, el órgano de casación debe dictar sentencia en el plazo de un mes. Si se ordena prueba documental, tras recibirla se concede un traslado de tres días a la parte interesada. Cuando sea necesario aplicar el principio de inmediación, las pruebas se reciben en audiencia oral con citación de las partes. El plazo para dictar sentencia corre después del traslado o de la audiencia. Además, estas disposiciones se aplican, en lo pertinente, al recurso de apelación.",
+    "source_quote": "Recibido el expediente por el órgano de casación, si no fuera del caso declarar la inadmisibilidad del recurso, se dictará sentencia dentro del mes siguiente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "593",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_593"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "593",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_593",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para dictar sentencia en casación si el recurso no es inadmisible?",
+    "output": "Dentro del mes siguiente a la recepción del expediente.",
+    "source_quote": "se dictará sentencia dentro del mes siguiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "593",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_593",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo de traslado se otorga a la parte interesada cuando se ordena prueba documental en casación?",
+    "output": "Tres días, una vez recibidas las piezas probatorias.",
+    "source_quote": "una vez recibidas las piezas probatorias, se le dará traslado de ellas a la parte interesada por tres días.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "593",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_593",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija el plazo perentorio de un mes para resolver el recurso de casación, garantizando celeridad procesal una vez superado el examen de admisibilidad.",
+    "source_quote": "Recibido el expediente por el órgano de casación, si no fuera del caso declarar la inadmisibilidad del recurso, se dictará sentencia dentro del mes siguiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "593",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_593",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la regulación procesal sobre plazos, traslados y audiencias al recurso de apelación, unificando el trámite en segunda instancia en lo que resulte compatible.",
+    "source_quote": "Lo dispuesto en esta norma será aplicable en lo pertinente en el trámite del recurso de apelación.",
+    "item_index": 2
+  }
+]

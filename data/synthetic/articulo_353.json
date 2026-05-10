@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 353 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 353 establece que, cuando un sindicato se disuelve, la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social debe cancelar su inscripción mediante una nota marginal y ordenar la publicación de un extracto de la resolución que acordó la disolución (ya sea judicial, administrativa o de la Asamblea del sindicato) por tres veces consecutivas en el Diario Oficial.",
+    "source_quote": "En todo caso de disolución la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social cancelará la respectiva inscripción por nota marginal y ordenará que se publique por tres veces consecutivas en el Diario Oficial un extracto de la resolución judicial, administrativa o de la Asamblea del sindicato, que así lo haya acordado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "353",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_353"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "353",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_353",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer la Oficina de Sindicatos en caso de disolución de un sindicato?",
+    "output": "Cancelar la respectiva inscripción por nota marginal y ordenar la publicación de un extracto de la resolución de disolución por tres veces consecutivas en el Diario Oficial.",
+    "source_quote": "cancelará la respectiva inscripción por nota marginal y ordenará que se publique por tres veces consecutivas en el Diario Oficial un extracto de la resolución judicial, administrativa o de la Asamblea del sindicato, que así lo haya acordado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "353",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_353",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de resoluciones pueden acordar la disolución de un sindicato según este artículo?",
+    "output": "Resoluciones judiciales, administrativas o de la Asamblea del sindicato.",
+    "source_quote": "resolución judicial, administrativa o de la Asamblea del sindicato, que así lo haya acordado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "353",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_353",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de cancelar el registro sindical mediante anotación marginal cuando ocurre una disolución, formalizando la extinción de la personalidad jurídica del sindicato.",
+    "source_quote": "En todo caso de disolución la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social cancelará la respectiva inscripción por nota marginal",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "353",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_353",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la publicidad de la disolución mediante la publicación del extracto de la resolución que la acordó, garantizando el conocimiento público y la seguridad jurídica frente a terceros.",
+    "source_quote": "y ordenará que se publique por tres veces consecutivas en el Diario Oficial un extracto de la resolución judicial, administrativa o de la Asamblea del sindicato, que así lo haya acordado.",
+    "item_index": 2
+  }
+]

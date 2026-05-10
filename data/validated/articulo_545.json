@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 545 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 545 regula la competencia del órgano jurisdiccional en las acciones de tutela. Esta competencia se limita a verificar si se quebrantó la protección, el procedimiento o los aspectos formales garantizados por el fuero. Si la sentencia es favorable al accionante, se decreta la nulidad del acto, se repone a la situación anterior y se condena al empleador a pagar daños y perjuicios; si los efectos no se suspendieron, se ordena la reinstalación con salarios caídos. En el caso específico del artículo 20 de la Ley N° 10437, se impone sanción al empleador. Si la acción se desestima y los efectos estaban suspendidos, la ejecución del acto puede realizarse una vez firme la denegatoria, sin autorización expresa. Además, la sentencia estimatoria no prejuzga sobre el contenido sustancial de la conducta del demandado cuando la tutela solo se refiere a derechos procedimentales, requisitos o formalidades.",
+    "source_quote": "La competencia del órgano jurisdiccional se limitará para estimar la pretensión de tutela, a la comprobación del quebranto de la protección, el procedimiento o los aspectos formales garantizados por el fuero",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "545",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_545"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "545",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_545",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el alcance de la competencia del órgano jurisdiccional en una acción de tutela según el artículo 545?",
+    "output": "Se limita a comprobar el quebranto de la protección, el procedimiento o los aspectos formales garantizados por el fuero.",
+    "source_quote": "La competencia del órgano jurisdiccional se limitará para estimar la pretensión de tutela, a la comprobación del quebranto de la protección, el procedimiento o los aspectos formales garantizados por el fuero",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "545",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_545",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la acción de tutela es desestimada y los efectos del acto habían sido suspendidos?",
+    "output": "Su ejecución podrá llevarse a cabo una vez firme el pronunciamiento denegatorio, sin necesidad de ninguna autorización expresa.",
+    "source_quote": "Si la acción se desestima y los efectos del acto hubieran sido detenidos, su ejecución podrá llevarse a cabo una vez firme el pronunciamiento denegatorio, sin necesidad de ninguna autorización expresa en ese sentido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "545",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_545",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el alcance limitado de la revisión judicial en la tutela, centrado en aspectos formales y de protección, y las consecuencias de una sentencia estimatoria: nulidad, reposición e indemnización.",
+    "source_quote": "La competencia del órgano jurisdiccional se limitará para estimar la pretensión de tutela, a la comprobación del quebranto de la protección, el procedimiento o los aspectos formales garantizados por el fuero y, si la sentencia resultara favorable a la parte accionante, se decretará la nulidad que corresponda y se le repondrá a la situación previa al acto que dio origen a la acción, y condenará a la parte empleadora a pagar los daños y perjuicios causados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "545",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_545",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Aclara que el fallo favorable no implica un juicio sobre el fondo de la conducta del demandado, limitándose a la protección de derechos procedimentales o formales.",
+    "source_quote": "La sentencia estimatoria en estos casos no prejuzga sobre el contenido sustancial o material de la conducta del demandado, cuando la tutela se refiere, únicamente, a derechos sobre un procedimiento, requisito o formalidad.",
+    "item_index": 2
+  }
+]

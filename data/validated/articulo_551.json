@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 551 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 551 regula dos momentos del proceso sucesorio laboral. Primero, una vez vencido el plazo del emplazamiento, el juez debe declarar de inmediato quiénes son los sucesores del patrimonio a distribuir y ordenar su adjudicación y entrega conforme a la ley. Segundo, si surge una disputa sobre el derecho a participar en esa distribución, la controversia se resuelve dentro del mismo expediente, aunque involucre normas de derecho de familia. La demanda de mejor derecho u oposición debe cumplir los requisitos de una demanda ordinaria, incluyendo el ofrecimiento de pruebas. Se notifica a los contradictores por cinco días y el conflicto se juzga de manera sumaria en audiencia oral, dictándose sentencia con las formalidades del proceso ordinario.",
+    "source_quote": "Transcurrido el término del emplazamiento, se hará de inmediato la declaratoria de las personas a quienes corresponde como sucesoras el patrimonio a distribuir y se dispondrá la adjudicación y entrega de la forma establecida en la ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "551",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_551"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "551",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_551",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se hace inmediatamente después de transcurrido el término del emplazamiento?",
+    "output": "Se declara quiénes son las personas sucesoras del patrimonio a distribuir y se dispone la adjudicación y entrega según la ley.",
+    "source_quote": "Transcurrido el término del emplazamiento, se hará de inmediato la declaratoria de las personas a quienes corresponde como sucesoras el patrimonio a distribuir y se dispondrá la adjudicación y entrega de la forma establecida en la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "551",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_551",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se resuelve una contención sobre el derecho de participación en el patrimonio?",
+    "output": "Se dirime en el mismo expediente, mediante demanda que cumpla los requisitos de la demanda ordinaria, con traslado por cinco días a los contradictores, y se juzga sumariamente en audiencia oral, dictándose sentencia como en el proceso ordinario.",
+    "source_quote": "Si surgiera contención sobre el derecho de participación, la cuestión se dirimirá en el mismo expediente, aunque involucre la aplicación de normas e institutos propios del derecho de familia. El escrito de demanda de mejor derecho o de oposición deberá reunir los requisitos de la demanda ordinaria, inclusive el que se refiere al ofrecimiento de las pruebas. Figurarán como contradictoras las personas cuyo derecho se pretende afectar, a quienes se trasladará la demanda por cinco días. El conflicto se juzgará sumariamente en audiencia oral y se deberá dictar la sentencia en la misma forma prevista para el proceso ordinario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "551",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_551",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del juez de declarar a los sucesores y ordenar la distribución del patrimonio una vez finalizado el plazo de emplazamiento, sin dilaciones.",
+    "source_quote": "Transcurrido el término del emplazamiento, se hará de inmediato la declaratoria de las personas a quienes corresponde como sucesoras el patrimonio a distribuir y se dispondrá la adjudicación y entrega de la forma establecida en la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "551",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_551",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que la contención sobre el derecho de participación se resuelva mediante un procedimiento sumario y oral, asegurando una decisión rápida pero con las mismas formalidades de una sentencia ordinaria.",
+    "source_quote": "El conflicto se juzgará sumariamente en audiencia oral y se deberá dictar la sentencia en la misma forma prevista para el proceso ordinario.",
+    "item_index": 2
+  }
+]

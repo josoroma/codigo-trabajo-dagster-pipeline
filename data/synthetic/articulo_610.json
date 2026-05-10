@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 610 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 610 regula el procedimiento en los procesos arbitrales laborales. Establece que se tramitarán mediante audiencias orales y con las reglas de carga de la prueba previstas en el Código. El laudo se dictará conforme a lo dispuesto para el proceso ordinario. Contra el laudo solo se admite recurso de casación ante la sala laboral, por vicios formales o violación de derechos indisponibles. Si el recurso prospera por forma, se devuelve al tribunal arbitral para repetir el juicio sin honorarios adicionales. Si se comprueba violación de derechos indisponibles, la Sala repone lo que corresponda en la misma sentencia.",
+    "source_quote": "El proceso se substanciará por el sistema de audiencias orales dispuesto en el presente Código y en cuanto a la carga de la prueba se estará a lo dispuesto en este ordenamiento procesal.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "610",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_610"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "610",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_610",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué sistema se substancia el proceso según el artículo 610?",
+    "output": "Por el sistema de audiencias orales dispuesto en el presente Código.",
+    "source_quote": "El proceso se substanciará por el sistema de audiencias orales dispuesto en el presente Código",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "610",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_610",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué recurso cabe contra el laudo y por qué motivos?",
+    "output": "Únicamente cabrá recurso para ante la sala de casación competente para conocer la materia laboral por vicios de orden formal o por conculcación de derechos indisponibles.",
+    "source_quote": "Contra el laudo únicamente cabrá recurso para ante la sala de casación competente para conocer la materia laboral por vicios de orden formal o por conculcación de derechos indisponibles.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "610",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_610",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el procedimiento aplicable al arbitraje laboral, remitiendo a las reglas generales del Código sobre oralidad y carga probatoria, garantizando coherencia con el proceso ordinario.",
+    "source_quote": "El proceso se substanciará por el sistema de audiencias orales dispuesto en el presente Código y en cuanto a la carga de la prueba se estará a lo dispuesto en este ordenamiento procesal.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "610",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_610",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita los medios de impugnación del laudo arbitral, reservando la revisión a la Sala de Casación Laboral exclusivamente por defectos formales o violación de derechos fundamentales, protegiendo la definitividad del arbitraje.",
+    "source_quote": "Contra el laudo únicamente cabrá recurso para ante la sala de casación competente para conocer la materia laboral por vicios de orden formal o por conculcación de derechos indisponibles.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 372 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 372 define quiénes son los titulares del derecho de huelga y cómo pueden ejercerlo. Los titulares son los trabajadores y las trabajadoras. Ellos ejercen este derecho a través de sus organizaciones sindicales. Sin embargo, en los lugares de trabajo donde no haya personas sindicalizadas o el número de sindicalizados sea insuficiente para formar un sindicato, el derecho se puede ejercer mediante una coalición temporal.",
+    "source_quote": "Los titulares del derecho de huelga son los trabajadores y las trabajadoras, quienes lo ejercerán por medio de sus organizaciones sindicales o de una coalición temporal, en las empresas, las instituciones, los establecimientos o los centros de trabajo donde no hubiera personas sindicalizadas o cuando su número fuera insuficiente para constituir una organización sindical.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "372",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_372"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "372",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_372",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son los titulares del derecho de huelga según el artículo 372?",
+    "output": "Los titulares del derecho de huelga son los trabajadores y las trabajadoras.",
+    "source_quote": "Los titulares del derecho de huelga son los trabajadores y las trabajadoras",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "372",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_372",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede ejercer el derecho de huelga mediante una coalición temporal?",
+    "output": "Se puede ejercer mediante una coalición temporal en las empresas, instituciones, establecimientos o centros de trabajo donde no hubiera personas sindicalizadas o cuando su número fuera insuficiente para constituir una organización sindical.",
+    "source_quote": "en las empresas, las instituciones, los establecimientos o los centros de trabajo donde no hubiera personas sindicalizadas o cuando su número fuera insuficiente para constituir una organización sindical",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "372",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_372",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define quiénes ostentan la titularidad del derecho de huelga, reconociendo a todos los trabajadores y trabajadoras como sujetos activos de este derecho.",
+    "source_quote": "Los titulares del derecho de huelga son los trabajadores y las trabajadoras",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "372",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_372",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los mecanismos de ejercicio del derecho de huelga: la vía ordinaria a través de organizaciones sindicales, y la vía excepcional mediante coalición temporal en ausencia o insuficiencia de sindicalización, garantizando así el acceso al derecho en todos los centros de trabajo.",
+    "source_quote": "quienes lo ejercerán por medio de sus organizaciones sindicales o de una coalición temporal, en las empresas, las instituciones, los establecimientos o los centros de trabajo donde no hubiera personas sindicalizadas o cuando su número fuera insuficiente para constituir una organización sindical",
+    "item_index": 2
+  }
+]

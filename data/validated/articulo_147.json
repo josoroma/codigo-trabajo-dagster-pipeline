@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 147 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 147 establece que todos los días del año son hábiles para el trabajo, con excepción de los feriados y los días de descanso semanal que existan por disposición legal o por convenio entre las partes.",
+    "source_quote": "Son hábiles para el trabajo, todos los días del año, excepto los feriados y los días de descanso semanal existentes por disposición legal o convenio entre las partes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "147",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_147"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "147",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_147",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué días se consideran hábiles para el trabajo según el artículo 147?",
+    "output": "Todos los días del año, excepto los feriados y los días de descanso semanal.",
+    "source_quote": "Son hábiles para el trabajo, todos los días del año, excepto los feriados y los días de descanso semanal existentes por disposición legal o convenio entre las partes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "147",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_147",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se determinan los días de descanso semanal que no son hábiles para el trabajo?",
+    "output": "Por disposición legal o por convenio entre las partes.",
+    "source_quote": "los días de descanso semanal existentes por disposición legal o convenio entre las partes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "147",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_147",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que todos los días del calendario son laborables, salvo las excepciones previstas.",
+    "source_quote": "Son hábiles para el trabajo, todos los días del año",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "147",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_147",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las excepciones a la regla general, excluyendo de los días hábiles a los feriados y a los descansos semanales, cuya existencia puede derivar de la ley o de acuerdos entre empleador y trabajador.",
+    "source_quote": "excepto los feriados y los días de descanso semanal existentes por disposición legal o convenio entre las partes.",
+    "item_index": 2
+  }
+]

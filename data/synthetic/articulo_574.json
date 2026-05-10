@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 574 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 574 establece el procedimiento que puede seguir la persona trabajadora cuando la reinstalación ordenada no se puede realizar por obstáculo del empleador o cuando ella misma lo prefiere. Le permite presentarse en el centro de trabajo dentro de los ocho días siguientes a la notificación de la sentencia o resolución, acompañada de un notario público o de la autoridad administrativa de trabajo, o bien solicitar al juzgado la presencia de un asistente judicial. Las autoridades deben actuar de inmediato, so pena de falta grave disciplinaria. En todos los casos se levanta un acta. Excepcionalmente, en lugares alejados y de difícil acceso, se puede comisionar a la policía para constatar la presentación, instruyéndola sobre cómo levantar el acta, y el juez puede disponer otras medidas razonables para la ejecución.",
+    "source_quote": "Si la reinstalación no se pudiera realizar por obstáculo de la parte patronal o si la parte interesada así lo prefiriera, podrá presentarse al respectivo centro de trabajo dentro de los ocho días siguientes a la notificación de la sentencia o resolución a reasumir sus labores, en compañía de un notario público o de la autoridad administrativa de trabajo de la jurisdicción, o bien, solicitar al juzgado, en forma escrita o verbal, la presencia del asistente judicial del despacho.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "574",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_574"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "574",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_574",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dentro de qué plazo debe presentarse la persona trabajadora al centro de trabajo para reasumir sus labores tras la notificación de la sentencia?",
+    "output": "Dentro de los ocho días siguientes a la notificación de la sentencia o resolución.",
+    "source_quote": "dentro de los ocho días siguientes a la notificación de la sentencia o resolución",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "574",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_574",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para las autoridades administrativas y judiciales el incumplimiento del deber de actuar de forma inmediata?",
+    "output": "Se considerará falta grave para efectos disciplinarios.",
+    "source_quote": "El incumplimiento de este deber se considerará falta grave para efectos disciplinarios.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "574",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_574",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo alternativo para que la persona trabajadora pueda hacer efectiva su reinstalación cuando el empleador la obstaculiza o cuando ella así lo prefiere, fijando un plazo perentorio y las opciones de acompañamiento oficial para dar fe del acto.",
+    "source_quote": "Si la reinstalación no se pudiera realizar por obstáculo de la parte patronal o si la parte interesada así lo prefiriera, podrá presentarse al respectivo centro de trabajo dentro de los ocho días siguientes a la notificación de la sentencia o resolución a reasumir sus labores, en compañía de un notario público o de la autoridad administrativa de trabajo de la jurisdicción, o bien, solicitar al juzgado, en forma escrita o verbal, la presencia del asistente judicial del despacho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "574",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_574",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a las autoridades el deber de actuar con celeridad y prioridad absoluta, y sanciona su incumplimiento como falta grave, garantizando la efectividad y seriedad del procedimiento de reinstalación.",
+    "source_quote": "Las autoridades administrativas y judiciales deberán actuar de forma inmediata, dejando de lado cualquier otra ocupación. El incumplimiento de este deber se considerará falta grave para efectos disciplinarios.",
+    "item_index": 2
+  }
+]

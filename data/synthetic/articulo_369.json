@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 369 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 369 establece causas justas adicionales a las del artículo 81, que permiten al empleador terminar el contrato de trabajo de los trabajadores protegidos por una ley especial (como la de huelgas). Estas causas incluyen actos de violencia o coacción, atentar contra bienes de la empresa, incitar a la destrucción de materiales o mercancías, reducir intencionalmente el rendimiento, interrumpir ilegalmente el trabajo, retener personas o bienes indebidamente en piquetes, e incitar a dañar instalaciones públicas o privadas.",
+    "source_quote": "Además de las mencionadas en el artículo 81 de este Código, también son causas justas, que facultan al empleador a dar por terminado el contrato de trabajo de los trabajadores protegidos en virtud de la presente Ley, las siguientes:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "369",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_369"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "369",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_369",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué conductas relacionadas con la violencia facultan al empleador a despedir a un trabajador protegido según el artículo 369?",
+    "output": "Cometer actos de coacción o de violencia sobre las personas o las cosas, o cualquier otro acto que tenga por objeto promover el desorden o quitar a la huelga su carácter pacífico.",
+    "source_quote": "Cometer actos de coacción o de violencia, sobre las personas o las cosas, o cualquier otro acto que tenga por objeto promover el desorden o quitar a la huelga su carácter pacífico.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "369",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_369",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es causa justa de terminación del contrato incitar a la reducción intencional del rendimiento laboral?",
+    "output": "Sí, el artículo 369, inciso ch), establece como causa justa incitar, dirigir o participar en la reducción intencional del rendimiento, en la interrupción o en el entorpecimiento ilegal de actividades de trabajo.",
+    "source_quote": "Incitar, dirigir o participar en la reducción intencional del rendimiento, en la interrupción o en el entorpecimiento ilegal de actividades de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "369",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_369",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta introducción amplía el catálogo de causas justas de despido previsto en el artículo 81, aplicándolo específicamente a trabajadores amparados por una ley especial (como la que regula la huelga), y enumera conductas graves que justifican la terminación unilateral del contrato por parte del empleador.",
+    "source_quote": "Además de las mencionadas en el artículo 81 de este Código, también son causas justas, que facultan al empleador a dar por terminado el contrato de trabajo de los trabajadores protegidos en virtud de la presente Ley, las siguientes:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "369",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_369",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta causa protege la integridad física y patrimonial durante el ejercicio del derecho de huelga, sancionando cualquier acción violenta o coercitiva que desnaturalice su carácter pacífico y ponga en riesgo a personas o bienes.",
+    "source_quote": "Cometer actos de coacción o de violencia, sobre las personas o las cosas, o cualquier otro acto que tenga por objeto promover el desorden o quitar a la huelga su carácter pacífico.",
+    "item_index": 2
+  }
+]

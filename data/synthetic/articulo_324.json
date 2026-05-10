@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 324 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 324 del Código de Trabajo fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, denominada 'Reforma Procesal Laboral'. Por lo tanto, este artículo ya no se encuentra vigente y carece de efectos jurídicos.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "324",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_324"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "324",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_324",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está vigente el artículo 324 del Código de Trabajo?",
+    "output": "No, el artículo 324 fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, por lo que no está vigente.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "324",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_324",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma derogó el artículo 324 del Código de Trabajo?",
+    "output": "El artículo 324 fue derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, conocida como 'Reforma Procesal Laboral'.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "324",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_324",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 324 ha sido eliminado del ordenamiento jurídico mediante una reforma procesal laboral, por lo que su contenido original ya no es aplicable.",
+    "source_quote": "(Derogado por el artículo 4° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 1
+  }
+]

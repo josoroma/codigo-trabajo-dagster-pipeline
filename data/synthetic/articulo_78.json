@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 78 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 78 establece que el contrato de trabajo se suspende sin responsabilidad para el patrono ni para el trabajador cuando este último es arrestado por una autoridad judicial o administrativa, o se le decreta prisión preventiva, siempre que al final sea absuelto. El trabajador debe avisar al patrono de la causa de su ausencia dentro de los tres días siguientes al inicio del arresto o prisión, y reincorporarse al trabajo dentro de los dos días siguientes al cese de esas circunstancias. Si no cumple con estos plazos, el contrato se termina sin responsabilidad para ninguna de las partes. Además, el trabajador puede solicitar al Jefe de la Cárcel constancias para probar estos hechos.",
+    "source_quote": "Es también causa de suspensión del contrato de trabajo, sin responsabilidad para el patrono ni para el trabajador, el arresto que alguna autoridad judicial o administrativa le imponga a éste, o la prisión preventiva que en su contra se decrete, siempre que sea seguida de sentencia absolutoria.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "78",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_78"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "78",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_78",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el trabajador para que el arresto o prisión preventiva no termine su contrato de trabajo?",
+    "output": "Debe dar aviso al patrono de la causa que le impide asistir al trabajo dentro de los tres días siguientes al inicio del arresto o prisión, y reanudar su trabajo dentro de los dos días siguientes al cese de esas circunstancias.",
+    "source_quote": "Es obligación del trabajador dar aviso al patrono de la causa que le impide asistir al trabajo, dentro de los tres días siguientes a aquél en que comenzó su arresto o prisión; y reanudar su trabajo dentro de los dos días siguientes a aquél en que cesaron dichas circunstancias.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "78",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_78",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el trabajador no avisa al patrono o no se reincorpora a tiempo tras un arresto o prisión preventiva?",
+    "output": "Se dará por terminado el contrato, sin que ninguna de las partes incurra en responsabilidad.",
+    "source_quote": "Si no lo hiciere se dará por terminado el contrato, sin que ninguna de las partes incurra en responsabilidad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "78",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_78",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la causal de suspensión del contrato por arresto o prisión preventiva, eximiendo de responsabilidad a ambas partes, siempre que el proceso concluya con absolución.",
+    "source_quote": "Es también causa de suspensión del contrato de trabajo, sin responsabilidad para el patrono ni para el trabajador, el arresto que alguna autoridad judicial o administrativa le imponga a éste, o la prisión preventiva que en su contra se decrete, siempre que sea seguida de sentencia absolutoria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "78",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_78",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los deberes del trabajador de notificar y reincorporarse en plazos perentorios, y la consecuencia de la terminación del contrato sin responsabilidad si incumple.",
+    "source_quote": "Es obligación del trabajador dar aviso al patrono de la causa que le impide asistir al trabajo, dentro de los tres días siguientes a aquél en que comenzó su arresto o prisión; y reanudar su trabajo dentro de los dos días siguientes a aquél en que cesaron dichas circunstancias. Si no lo hiciere se dará por terminado el contrato, sin que ninguna de las partes incurra en responsabilidad.",
+    "item_index": 2
+  }
+]

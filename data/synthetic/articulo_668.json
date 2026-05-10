@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 668 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 668 regula la impugnación de resoluciones en el proceso de calificación de movimientos (como huelgas). Establece que durante la tramitación no se admite apelación alguna, salvo la sentencia final de calificación, que es recurrible según el artículo 663. También permite la apelación reservada contra resoluciones que denieguen nulidades o rechacen pruebas, pero solo pueden alegarse en la audiencia preliminar, no de forma interlocutoria. La sentencia produce cosa juzgada sobre la legalidad del movimiento con base en las causas discutidas; si esas causas cambian, puede iniciarse un nuevo proceso. Además, se debe enviar copia de toda sentencia a la Oficina de Estadísticas del Ministerio de Trabajo.",
+    "source_quote": "Durante la tramitación del proceso no será admisible ninguna apelación. Únicamente la sentencia de calificación del movimiento será recurrible en los términos señalados en el artículo 663.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "668",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_668"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "668",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_668",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede apelar alguna resolución durante la tramitación del proceso de calificación de movimiento?",
+    "output": "No, durante la tramitación del proceso no es admisible ninguna apelación.",
+    "source_quote": "Durante la tramitación del proceso no será admisible ninguna apelación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "668",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_668",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si cambian las causas o motivos que sirvieron de base a la sentencia de calificación?",
+    "output": "El cambio de esas causas o motivos puede ser objeto de un nuevo proceso de calificación, si existe interés.",
+    "source_quote": "El cambio de esas causas o motivos que posteriormente pueda llegarse a operar podrá ser objeto de un nuevo proceso de calificación, si en ello hubiera interés.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "668",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_668",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de inapelabilidad de las resoluciones durante el proceso, limitando la impugnación únicamente a la sentencia final de calificación, lo que busca celeridad y evitar dilaciones.",
+    "source_quote": "Durante la tramitación del proceso no será admisible ninguna apelación. Únicamente la sentencia de calificación del movimiento será recurrible en los términos señalados en el artículo 663.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "668",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_668",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el efecto de cosa juzgada de la sentencia, pero permite un nuevo proceso si las circunstancias fácticas cambian, garantizando que la decisión no sea inmutable ante nuevas realidades.",
+    "source_quote": "Lo fallado hace estado sobre la legalidad del movimiento o hechos discutidos en el proceso, según las causas o los motivos que sirvieron de base. El cambio de esas causas o motivos que posteriormente pueda llegarse a operar podrá ser objeto de un nuevo proceso de calificación, si en ello hubiera interés.",
+    "item_index": 2
+  }
+]

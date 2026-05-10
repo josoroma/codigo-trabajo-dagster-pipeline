@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 291 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 291 establece que los equipos y elementos de protección personal, seguridad y prevención de riesgos laborales pueden importarse sin pagar impuestos, tasas ni sobretasas, siempre que el Consejo de Salud Ocupacional apruebe y autorice su uso y características. Además, el Poder Ejecutivo fijará por decreto el precio máximo de venta de estos artículos.",
+    "source_quote": "Los equipos y elementos destinados a la protección personal del trabajador, a la seguridad en el trabajo y a la prevención de los riesgos del trabajo, podrán ser importados e internados exentos del pago de impuestos, tasas y sobretasas, siempre que su uso y características hayan sido aprobados y autorizados por el Consejo de Salud Ocupacional. El Poder Ejecutivo establecerá, por medio de decreto, el precio máximo de venta de estos artículos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "291",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_291"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "291",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_291",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de artículos pueden importarse exentos de impuestos según el artículo 291?",
+    "output": "Los equipos y elementos destinados a la protección personal del trabajador, a la seguridad en el trabajo y a la prevención de los riesgos del trabajo.",
+    "source_quote": "Los equipos y elementos destinados a la protección personal del trabajador, a la seguridad en el trabajo y a la prevención de los riesgos del trabajo, podrán ser importados e internados exentos del pago de impuestos, tasas y sobretasas...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "291",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_291",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué entidad debe aprobar y autorizar el uso y características de estos equipos para que gocen de la exención?",
+    "output": "El Consejo de Salud Ocupacional.",
+    "source_quote": "...siempre que su uso y características hayan sido aprobados y autorizados por el Consejo de Salud Ocupacional.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "291",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_291",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un beneficio fiscal para la importación de equipos de protección y seguridad laboral, condicionado a la aprobación técnica del Consejo de Salud Ocupacional, con el fin de facilitar el acceso a estos insumos y promover la prevención de riesgos en el trabajo.",
+    "source_quote": "Los equipos y elementos destinados a la protección personal del trabajador, a la seguridad en el trabajo y a la prevención de los riesgos del trabajo, podrán ser importados e internados exentos del pago de impuestos, tasas y sobretasas, siempre que su uso y características hayan sido aprobados y autorizados por el Consejo de Salud Ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "291",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_291",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Poder Ejecutivo la facultad de regular el precio máximo de venta de estos equipos, con el objetivo de evitar abusos comerciales y garantizar que los empleadores y trabajadores puedan adquirirlos a un costo justo, reforzando así la protección de la salud ocupacional.",
+    "source_quote": "El Poder Ejecutivo establecerá, por medio de decreto, el precio máximo de venta de estos artículos.",
+    "item_index": 2
+  }
+]

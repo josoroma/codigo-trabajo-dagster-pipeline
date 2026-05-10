@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 27 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 27 regula la duración máxima de los contratos de trabajo por tiempo fijo. Establece que, como regla general, no pueden pactarse por más de un año si ello perjudica al trabajador. Excepcionalmente, cuando los servicios requieren preparación técnica especial, la duración puede extenderse hasta cinco años bajo las mismas condiciones de no perjuicio. Además, dispone que todo contrato por tiempo fijo puede ser prorrogado, ya sea de manera expresa o tácita, entendiéndose esta última cuando el trabajador sigue laborando con conocimiento del patrono.",
+    "source_quote": "No puede estipularse el contrato de trabajo por más de un año en perjuicio del trabajador; pero si se tratare de servicios que requieran preparación técnica especial, la duración podrá ser, en las mismas condiciones, hasta de cinco años.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "27",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_27"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "27",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_27",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la duración máxima de un contrato de trabajo por tiempo fijo según el artículo 27?",
+    "output": "La duración máxima es de un año, salvo que se trate de servicios que requieran preparación técnica especial, en cuyo caso puede ser de hasta cinco años, siempre que no sea en perjuicio del trabajador.",
+    "source_quote": "No puede estipularse el contrato de trabajo por más de un año en perjuicio del trabajador; pero si se tratare de servicios que requieran preparación técnica especial, la duración podrá ser, en las mismas condiciones, hasta de cinco años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "27",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_27",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se puede prorrogar un contrato por tiempo fijo de acuerdo con este artículo?",
+    "output": "El contrato por tiempo fijo puede prorrogarse de manera expresa o tácita. La prórroga tácita ocurre cuando el trabajador continúa prestando sus servicios con conocimiento del patrono.",
+    "source_quote": "No obstante, todo contrato por tiempo fijo es susceptible de prórroga, expresa o tácita. Lo será de esta última manera por el hecho de continuar el trabajador prestando sus servicios con conocimiento del patrono.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "27",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_27",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición fija el límite temporal de los contratos por tiempo fijo, protegiendo al trabajador contra vinculaciones excesivamente largas que podrían perjudicarlo, y establece una excepción justificada por la naturaleza técnica del servicio, permitiendo una mayor duración sin desproteger al trabajador.",
+    "source_quote": "No puede estipularse el contrato de trabajo por más de un año en perjuicio del trabajador; pero si se tratare de servicios que requieran preparación técnica especial, la duración podrá ser, en las mismas condiciones, hasta de cinco años.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "27",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_27",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce la posibilidad de extender la relación laboral más allá del plazo original, ya sea por acuerdo explícito entre las partes o por la conducta de ambas al continuar la prestación del servicio con el consentimiento del empleador, lo que otorga seguridad jurídica a la continuidad laboral.",
+    "source_quote": "No obstante, todo contrato por tiempo fijo es susceptible de prórroga, expresa o tácita. Lo será de esta última manera por el hecho de continuar el trabajador prestando sus servicios con conocimiento del patrono.",
+    "item_index": 2
+  }
+]

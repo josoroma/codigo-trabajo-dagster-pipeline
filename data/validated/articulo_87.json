@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 87 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 87 prohíbe de manera absoluta contratar a personas menores de dieciocho años para trabajos insalubres, pesados o peligrosos, tanto física como moralmente. La determinación de cuáles labores entran en esas categorías se hará mediante reglamento y resolución del Consejo de Salud Ocupacional, tomando en cuenta el artículo 199. Además, si un menor sufre un accidente o enfermedad a causa de esas labores prohibidas, el patrono culpable deberá pagarle una indemnización equivalente a tres meses de salario, sin perjuicio de otras sanciones legales.",
+    "source_quote": "Queda absolutamente prohibido contratar el trabajo de las personas menores de dieciocho años para desempeñar labores insalubres, pesadas o peligrosas, en los aspectos físico o moral, según la determinación que de estos se hará en el reglamento y mediante resolución del Consejo de Salud Ocupacional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "87",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_87"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "87",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_87",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la edad límite para la prohibición de contratar menores en labores insalubres, pesadas o peligrosas?",
+    "output": "La prohibición aplica a personas menores de dieciocho años.",
+    "source_quote": "personas menores de dieciocho años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "87",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_87",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué indemnización debe pagar el patrono si un menor sufre un accidente o enfermedad por realizar labores prohibidas?",
+    "output": "Debe pagar una cantidad equivalente al importe de tres meses de salario.",
+    "source_quote": "una cantidad equivalente al importe de tres meses de salario",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "87",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_87",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de emplear a menores de edad en trabajos riesgosos y delega en el reglamento y el Consejo de Salud Ocupacional la definición concreta de dichas labores, protegiendo su integridad física y moral.",
+    "source_quote": "Queda absolutamente prohibido contratar el trabajo de las personas menores de dieciocho años para desempeñar labores insalubres, pesadas o peligrosas, en los aspectos físico o moral, según la determinación que de estos se hará en el reglamento y mediante resolución del Consejo de Salud Ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "87",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_87",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una sanción económica específica al patrono que incumpla la prohibición, consistente en una indemnización de tres meses de salario para el menor afectado, sin excluir otras responsabilidades legales.",
+    "source_quote": "cuando les ocurriera un accidente o enfermedad a las personas de que habla el párrafo anterior, y se comprobara que tiene su causa en la ejecución de las mencionadas labores prohibidas, el patrono culpable deberá satisfacerle a la persona accidentada o enferma una cantidad equivalente al importe de tres meses de salario.",
+    "item_index": 2
+  }
+]

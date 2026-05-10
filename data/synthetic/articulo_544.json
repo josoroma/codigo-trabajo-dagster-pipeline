@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 544 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 544 regula las consecuencias procesales cuando la parte demandada no responde dentro del plazo y no se opone, o no aporta la certificación del debido proceso requerida. En esos casos, se declara con lugar la acción, a menos que el caso amerite una solución distinta según la ley. Si la parte demandada sí responde, el informe se traslada a la parte actora por tres días. Cuando se requieren pruebas no documentales, se celebra una audiencia prioritaria y la sentencia se dicta en ese acto.",
+    "source_quote": "Si no se respondiera dentro del término señalado y al mismo tiempo no se produce oposición de la parte demandada, o bien, si no se aporta la certificación del expediente del debido proceso cuando este haya sido necesario, se declarará con lugar la acción, si el caso, de acuerdo con los autos, no amerita una solución diferente según el ordenamiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "544",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_544"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "544",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_544",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la parte demandada no responde dentro del término y no se opone?",
+    "output": "Se declarará con lugar la acción, a menos que el caso amerite una solución diferente según el ordenamiento.",
+    "source_quote": "Si no se respondiera dentro del término señalado y al mismo tiempo no se produce oposición de la parte demandada, o bien, si no se aporta la certificación del expediente del debido proceso cuando este haya sido necesario, se declarará con lugar la acción, si el caso, de acuerdo con los autos, no amerita una solución diferente según el ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "544",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_544",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la parte demandada presenta un informe o respuesta?",
+    "output": "El informe rendido y cualquier respuesta se pondrán a conocimiento por tres días a la parte promotora del proceso.",
+    "source_quote": "En el caso contrario, el informe rendido y cualquier respuesta se pondrán a conocimiento por tres días a la parte promotora del proceso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "544",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_544",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia de la inactividad procesal de la parte demandada, permitiendo al juez declarar con lugar la acción, salvo que el análisis del expediente indique una solución distinta conforme a derecho.",
+    "source_quote": "Si no se respondiera dentro del término señalado y al mismo tiempo no se produce oposición de la parte demandada, o bien, si no se aporta la certificación del expediente del debido proceso cuando este haya sido necesario, se declarará con lugar la acción, si el caso, de acuerdo con los autos, no amerita una solución diferente según el ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "544",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_544",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho de audiencia y contradicción de la parte actora, al darle traslado de la respuesta presentada por la demandada para que pueda manifestarse.",
+    "source_quote": "En el caso contrario, el informe rendido y cualquier respuesta se pondrán a conocimiento por tres días a la parte promotora del proceso.",
+    "item_index": 2
+  }
+]

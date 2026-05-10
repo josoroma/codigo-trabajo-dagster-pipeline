@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 224 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 224 establece la tabla de impedimentos físicos que se utiliza para valorar las consecuencias de riesgos laborales. Contiene una lista detallada de pérdidas anatómicas en las extremidades superiores, asignando a cada una un porcentaje de incapacidad. Los porcentajes se presentan en rangos, donde el valor superior corresponde al miembro más útil y el inferior al menos útil, y representan la disminución de la capacidad general de la persona trabajadora.",
+    "source_quote": "Para los efectos de este Código, se adopta la siguiente tabla de impedimentos físicos. Los porcentajes de impedimento que se señalan en los incisos de esta tabla, del 1 al 38, inclusive, se refieren a pérdidas totales o parciales, y se establecen de manera tal que el porcentaje superior corresponde al miembro más útil y el inferior al menos útil. Los porcentajes corresponden a pérdida o disminución de la capacidad general, con las excepciones indicadas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "224",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_224"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "224",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_224",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué porcentaje de incapacidad se asigna a la pérdida total de la mano según la tabla del artículo 224?",
+    "output": "Se asigna un porcentaje de incapacidad del 55 al 65 por ciento.",
+    "source_quote": "6) Por la pérdida total de la mano 55-65",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "224",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_224",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se valora la pérdida de la falange distal de cualquier dedo según el artículo 224?",
+    "output": "La pérdida de parte de la falange distal de cualquier dedo solo se asimila a la pérdida total de la misma cuando se produce a nivel de la raíz de la uña, con su correspondiente amputación de partes blandas y óseas.",
+    "source_quote": "La pérdida de parte de la falange distal de cualquier dedo sólo se asimilará a la pérdida total de la misma cuando se produzca a nivel de la raíz de la uña, y su correspondiente amputación de partes blandas y óseas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "224",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_224",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas del artículo 224 y explica su propósito legal.",
+    "output": "Esta frase introductoria establece que la tabla contenida en el artículo es la herramienta oficial para valorar impedimentos físicos en el ámbito laboral, dándole carácter normativo y vinculante.",
+    "source_quote": "Para los efectos de este Código, se adopta la siguiente tabla de impedimentos físicos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "224",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_224",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas del artículo 224 y explica su propósito legal.",
+    "output": "Esta disposición explica la metodología de los rangos porcentuales: el valor más alto se aplica cuando la lesión afecta el miembro dominante o más funcional, y el más bajo cuando afecta el menos útil, permitiendo una valoración diferenciada y justa de la incapacidad.",
+    "source_quote": "Los porcentajes de impedimento que se señalan en los incisos de esta tabla, del 1 al 38, inclusive, se refieren a pérdidas totales o parciales, y se establecen de manera tal que el porcentaje superior corresponde al miembro más útil y el inferior al menos útil.",
+    "item_index": 2
+  }
+]

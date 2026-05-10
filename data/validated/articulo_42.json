@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 42 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 42 establece que los contratos de trabajo para prestar servicios en el exterior deben celebrarse por escrito. El Agente debe presentar dos copias auténticas al Ministerio de Trabajo antes de la salida de los trabajadores. Además, el Poder Ejecutivo encarga al cónsul costarricense o de una nación amiga vigilar el cumplimiento del contrato, para lo cual recibe una copia y debe enviar informes mensuales y extraordinarios. El artículo también incluye dos cláusulas irrenunciables: el Agente asume todos los gastos de transporte, alimentación y migración del trabajador y sus familiares, y el trabajador recibe el salario íntegro sin descuentos por los motivos señalados en los incisos a) al d) del artículo 41.",
+    "source_quote": "Todos los contratos a que se refiere el artículo anterior deberán celebrarse por escrito, y el Agente presentará al Ministerio de Trabajo y de Seguridad Social, también antes del embarque o salida de los trabajadores, dos copias de los mismos, de cuya autenticidad se hará responsable.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "42",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_42"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "42",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_42",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe presentar las copias del contrato al Ministerio de Trabajo y cuándo?",
+    "output": "El Agente debe presentar dos copias del contrato al Ministerio de Trabajo y de Seguridad Social antes del embarque o salida de los trabajadores.",
+    "source_quote": "el Agente presentará al Ministerio de Trabajo y de Seguridad Social, también antes del embarque o salida de los trabajadores, dos copias de los mismos, de cuya autenticidad se hará responsable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "42",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_42",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué gastos relacionados con el traslado del trabajador al exterior son de cuenta exclusiva del Agente?",
+    "output": "Los gastos de transporte al exterior y alimentación del trabajador y de sus familiares, y todos los que se originen por el paso de las fronteras y cumplimiento de las disposiciones sobre migración o por cualquier otro concepto semejante.",
+    "source_quote": "Los gastos de transporte al exterior y alimentación del trabajador y de sus familiares, en su caso, y todos los que se originen por el paso de las fronteras y cumplimiento de las disposiciones sobre migración o por cualquier otro concepto semejante, serán de cuenta exclusiva al Agente",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "42",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_42",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la formalidad escrita del contrato y la obligación del Agente de entregar copias auténticas al Ministerio antes de la partida, garantizando un control previo y la veracidad del documento.",
+    "source_quote": "Todos los contratos a que se refiere el artículo anterior deberán celebrarse por escrito, y el Agente presentará al Ministerio de Trabajo y de Seguridad Social, también antes del embarque o salida de los trabajadores, dos copias de los mismos, de cuya autenticidad se hará responsable.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "42",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_42",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Incorpora cláusulas protectoras mínimas e irrenunciables que trasladan al Agente los costos de traslado y migración, y aseguran el pago íntegro del salario sin descuentos prohibidos, reforzando la protección del trabajador migrante.",
+    "source_quote": "En estos contratos se entenderán incluidas las siguientes cláusulas irrenunciables, lo mismo que todas las de carácter protector al trabajo que consigna el presente Código: - Los gastos de transporte al exterior y alimentación del trabajador y de sus familiares, en su caso, y todos los que se originen por el paso de las fronteras y cumplimiento de las disposiciones sobre migración o por cualquier otro concepto semejante, serán de cuenta exclusiva al Agente, y - El trabajador percibirá íntegro el salario convenido, sin que pueda descontársele cantidad alguna por cualquiera de los motivos a que se refieren los incisos a), b), c) y d) del artículo 41.",
+    "item_index": 2
+  }
+]

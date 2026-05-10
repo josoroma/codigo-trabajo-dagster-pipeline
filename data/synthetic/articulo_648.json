@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 648 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 648 regula el caso de desacuerdo parcial en un conflicto colectivo. Indica que si las partes solo discrepan en algunos puntos, los acuerdos alcanzados ante el órgano conciliador o las decisiones del órgano arbitral se incorporan a la convención colectiva. Esa parte de la convención entrará en vigor según lo que ella misma establezca, o según lo dispuesto en el arreglo conciliatorio o el laudo arbitral, dependiendo de cómo se haya resuelto.",
+    "source_quote": "Si la desavenencia fuera solo parcial, lo que se acuerde ante el órgano conciliador o resuelva el órgano arbitral se considerará como parte de la convención, la cual entrará en vigencia según lo establecido en ella, o bien, conforme a lo dispuesto en el arreglo conciliatorio o laudo arbitral, según sea el caso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "648",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_648"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "648",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_648",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre con los puntos acordados o resueltos cuando la desavenencia en un conflicto colectivo es solo parcial?",
+    "output": "Se consideran como parte de la convención colectiva.",
+    "source_quote": "Si la desavenencia fuera solo parcial, lo que se acuerde ante el órgano conciliador o resuelva el órgano arbitral se considerará como parte de la convención.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "648",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_648",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo entra en vigencia la parte de la convención que surge de un acuerdo parcial o un laudo arbitral?",
+    "output": "Entra en vigencia según lo establecido en la propia convención, o conforme a lo dispuesto en el arreglo conciliatorio o el laudo arbitral, según corresponda.",
+    "source_quote": "la cual entrará en vigencia según lo establecido en ella, o bien, conforme a lo dispuesto en el arreglo conciliatorio o laudo arbitral, según sea el caso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "648",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_648",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que en conflictos colectivos con desacuerdo parcial, los acuerdos logrados en conciliación o las decisiones arbitrales se integran a la convención colectiva, evitando que la falta de consenso total paralice la vigencia de lo ya acordado.",
+    "source_quote": "Si la desavenencia fuera solo parcial, lo que se acuerde ante el órgano conciliador o resuelva el órgano arbitral se considerará como parte de la convención.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "648",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_648",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el momento de entrada en vigor de esa parte de la convención, remitiéndose a lo pactado por las partes o a lo resuelto en el arreglo o laudo, lo que brinda certeza sobre su aplicación temporal.",
+    "source_quote": "la cual entrará en vigencia según lo establecido en ella, o bien, conforme a lo dispuesto en el arreglo conciliatorio o laudo arbitral, según sea el caso.",
+    "item_index": 2
+  }
+]

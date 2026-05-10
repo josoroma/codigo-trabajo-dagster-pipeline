@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 350 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 350 establece que los Tribunales de Trabajo, a solicitud del Ministerio respectivo, pueden ordenar la disolución de un sindicato si se demuestra en juicio que ha incurrido en alguna de las causales enumeradas, como intervenir en política electoral, fomentar luchas religiosas, realizar actividades contrarias al régimen democrático, ejercer comercio con fines de lucro, usar violencia para obligar a afiliarse o impedir el trabajo, fomentar actos delictuosos o suministrar datos falsos a las autoridades laborales. En los tres últimos casos, se reserva la acción penal para los perjudicados.",
+    "source_quote": "A instancia del respectivo Ministerio los Tribunales de Trabajo ordenarán la disolución de los sindicatos, siempre que se les pruebe en juicio:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "350",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_350"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "350",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_350",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué autoridad puede solicitar la disolución de un sindicato según el artículo 350?",
+    "output": "El respectivo Ministerio.",
+    "source_quote": "A instancia del respectivo Ministerio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "350",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_350",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es una de las causales de disolución relacionada con el suministro de información falsa?",
+    "output": "Que maliciosamente suministran datos falsos a las autoridades de trabajo.",
+    "source_quote": "Que maliciosamente suministran datos falsos a las autoridades de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "350",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_350",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo procesal para la disolución sindical: requiere iniciativa del Ministerio y que las causales se acrediten en un proceso judicial ante los Tribunales de Trabajo.",
+    "source_quote": "A instancia del respectivo Ministerio los Tribunales de Trabajo ordenarán la disolución de los sindicatos, siempre que se les pruebe en juicio:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "350",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_350",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Detalla las primeras causales de disolución, orientadas a proteger el orden constitucional y la neutralidad política y religiosa de los sindicatos, remitiendo a la prohibición del artículo 263 (actual artículo 333).",
+    "source_quote": "Que intervienen en asuntos político- electorales, que inician o fomentan luchas religiosas, que mantienen actividades contrarias al régimen democrático que establece la Constitución del país, o que en alguna otra forma infringen la prohibición del artículo 263",
+    "item_index": 2
+  }
+]

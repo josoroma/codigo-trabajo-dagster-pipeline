@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 660 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 660 establece quiénes están legitimados para solicitar la calificación de una huelga. Indica que pueden pedirla el sindicato o los sindicatos, la coalición de trabajadores, o el patrono o los patronos que estén directamente involucrados en el conflicto.",
+    "source_quote": "Podrá pedir la calificación el sindicato o los sindicatos, la coalición de trabajadores o el patrono o los patronos directamente involucrados en la huelga.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "660",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_660"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "660",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_660",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden pedir la calificación de una huelga según el artículo 660?",
+    "output": "Pueden pedirla el sindicato o los sindicatos, la coalición de trabajadores o el patrono o los patronos directamente involucrados en la huelga.",
+    "source_quote": "Podrá pedir la calificación el sindicato o los sindicatos, la coalición de trabajadores o el patrono o los patronos directamente involucrados en la huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "660",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_660",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un patrono solicitar la calificación de la huelga en la que está directamente involucrado?",
+    "output": "Sí, el artículo 660 permite que el patrono o los patronos directamente involucrados en la huelga pidan la calificación.",
+    "source_quote": "o el patrono o los patronos directamente involucrados en la huelga.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "660",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_660",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte otorga legitimación activa a las organizaciones de trabajadores —sindicatos y coaliciones— para solicitar la calificación de la huelga, reconociendo su interés directo en el conflicto colectivo.",
+    "source_quote": "Podrá pedir la calificación el sindicato o los sindicatos, la coalición de trabajadores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "660",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_660",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte extiende la misma facultad a la parte empleadora, permitiendo que el patrono o patronos afectados directamente por la huelga también puedan pedir su calificación, garantizando el equilibrio procesal entre las partes.",
+    "source_quote": "o el patrono o los patronos directamente involucrados en la huelga.",
+    "item_index": 2
+  }
+]

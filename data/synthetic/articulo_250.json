@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 250 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 250 establece que si un trabajador sufre enajenación mental como consecuencia de un riesgo laboral, las prestaciones económicas que le correspondan se pagarán a la persona que lo represente legalmente según el Código Civil o de Familia. La misma regla se aplica a los beneficiarios del trabajador fallecido que sean menores de edad o padezcan enajenación mental.",
+    "source_quote": "Si como consecuencia de un riesgo del trabajo, el trabajador quedare con enajenación mental, las prestaciones en dinero que le correspondan serán pagadas a la persona que conforme al Código Civil o de Familia lo represente. Igual regla regirá para los causahabientes del trabajador que falleciere, que sean menores de edad o enajenados mentales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "250",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_250"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "250",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_250",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se le pagan las prestaciones en dinero si el trabajador queda con enajenación mental debido a un riesgo del trabajo?",
+    "output": "Se pagan a la persona que conforme al Código Civil o de Familia lo represente.",
+    "source_quote": "Si como consecuencia de un riesgo del trabajo, el trabajador quedare con enajenación mental, las prestaciones en dinero que le correspondan serán pagadas a la persona que conforme al Código Civil o de Familia lo represente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "250",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_250",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué regla se aplica a los causahabientes del trabajador fallecido que sean menores de edad o enajenados mentales?",
+    "output": "Se aplica la misma regla: las prestaciones en dinero se pagan a la persona que los represente conforme al Código Civil o de Familia.",
+    "source_quote": "Igual regla regirá para los causahabientes del trabajador que falleciere, que sean menores de edad o enajenados mentales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "250",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_250",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla de pago de las prestaciones económicas al representante legal cuando el trabajador sufre enajenación mental derivada de un riesgo laboral, garantizando que los fondos lleguen a quien legalmente puede administrarlos.",
+    "source_quote": "Si como consecuencia de un riesgo del trabajo, el trabajador quedare con enajenación mental, las prestaciones en dinero que le correspondan serán pagadas a la persona que conforme al Código Civil o de Familia lo represente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "250",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_250",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la misma protección a los beneficiarios del trabajador fallecido que carecen de capacidad legal plena (menores o enajenados mentales), asegurando que las prestaciones se entreguen a su representante conforme al Código Civil o de Familia.",
+    "source_quote": "Igual regla regirá para los causahabientes del trabajador que falleciere, que sean menores de edad o enajenados mentales.",
+    "item_index": 2
+  }
+]

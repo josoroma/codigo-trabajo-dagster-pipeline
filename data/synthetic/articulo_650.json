@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 650 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 650 regula el pago de dietas a conciliadores y árbitros por cada sesión, calculadas según el salario base de juez conciliador. Establece que el Estado cubre los honorarios de los propuestos por la parte trabajadora, mientras que la parte empleadora paga los que ella proponga. Los emolumentos deben depositarse en tres días tras la notificación de la prevención, salvo que el interesado releve expresamente del depósito en ese plazo. Además, permite que los honorarios de los trabajadores se cubran con el Fondo de Apoyo a la Solución Alterna de Conflictos. Finalmente, dispone que los árbitros no rinden caución, el cargo es obligatorio una vez aceptado y compatible con otros empleos, excepto limitaciones legales para servidores públicos.",
+    "source_quote": "Las personas indicadas en el artículo anterior devengarán, por cada sesión que celebren, una dieta calculada de acuerdo con el salario base de juez conciliador.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "650",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_650"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "650",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_650",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume el costo de los honorarios de los conciliadores y árbitros propuestos por la parte trabajadora?",
+    "output": "El Estado cubre esos honorarios.",
+    "source_quote": "Los honorarios del arbitraje y la conciliación a cargo de la parte trabajadora los cubrirá el Estado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "650",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_650",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo deben depositarse los emolumentos y qué excepción existe?",
+    "output": "Deben depositarse dentro de los tres días siguientes a la notificación de la prevención, salvo que el interesado releve expresamente a la parte del depósito dentro de ese mismo término, bajo su responsabilidad.",
+    "source_quote": "los emolumentos deberán depositarse dentro de los tres días siguientes a la fecha en que se le notifique la respectiva prevención, salvo que el interesado releve, dentro de ese mismo término, de forma expresa, a la parte del depósito, lo cual hará bajo su responsabilidad.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "650",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_650",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Distribuye la responsabilidad económica de los honorarios: el Estado financia los de la parte trabajadora y el empleador los propios, garantizando acceso a la justicia laboral sin costo para el trabajador.",
+    "source_quote": "Los honorarios del arbitraje y la conciliación a cargo de la parte trabajadora los cubrirá el Estado. La parte empleadora asumirá el costo de los que proponga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "650",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_650",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones del cargo de árbitro: exención de caución para facilitar la aceptación, obligatoriedad para asegurar continuidad, y compatibilidad laboral general, excepto restricciones legales para servidores públicos, preservando la imparcialidad y disponibilidad.",
+    "source_quote": "Quienes funjan como árbitros o árbitras no deberán rendir caución y, una vez aceptado, el cargo será obligatorio y compatible con cualquier otro empleo, salvo el caso de prohibiciones o limitaciones que resulten de la ley para los servidores públicos.",
+    "item_index": 2
+  }
+]

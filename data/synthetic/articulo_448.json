@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 448 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece que cuando se presentan demandas laborales contra el Estado por actuaciones de ciertas entidades públicas en el ejercicio de su función administrativa, la representación y defensa legal estará a cargo de la Procuraduría General de la República.",
+    "source_quote": "En las demandas contra el Estado, por actuaciones de la Administración Central, de los Poderes del Estado, del Tribunal Supremo de Elecciones, de la Contraloría General de la República y de la Defensoría de los Habitantes de la República, en tanto ejerzan función administrativa, la representación y defensa corresponderá a la Procuraduría General de la República.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "448",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_448"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "448",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_448",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién asume la representación y defensa en las demandas laborales contra el Estado por actuaciones de la Administración Central?",
+    "output": "La Procuraduría General de la República.",
+    "source_quote": "En las demandas contra el Estado, por actuaciones de la Administración Central... la representación y defensa corresponderá a la Procuraduría General de la República.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "448",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_448",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición deben cumplir las actuaciones del Tribunal Supremo de Elecciones para que su defensa en demandas laborales corresponda a la Procuraduría General de la República?",
+    "output": "Deben ser actuaciones en ejercicio de función administrativa.",
+    "source_quote": "En las demandas contra el Estado, por actuaciones... del Tribunal Supremo de Elecciones... en tanto ejerzan función administrativa, la representación y defensa corresponderá a la Procuraduría General de la República.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "448",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_448",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determinar el ámbito de aplicación subjetivo y objetivo de la norma, indicando las entidades cuyas actuaciones administrativas generan la obligación de que la Procuraduría asuma la representación y defensa en procesos laborales.",
+    "source_quote": "En las demandas contra el Estado, por actuaciones de la Administración Central, de los Poderes del Estado, del Tribunal Supremo de Elecciones, de la Contraloría General de la República y de la Defensoría de los Habitantes de la República, en tanto ejerzan función administrativa, la representación y defensa corresponderá a la Procuraduría General de la República.",
+    "item_index": 1
+  }
+]

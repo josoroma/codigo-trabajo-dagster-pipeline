@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 577 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 577 establece las consecuencias de negarse a cumplir una orden de reinstalación laboral. La negativa se sanciona con la multa prevista en el inciso 6) del artículo 398. Si el infractor es un servidor público, esa negativa constituye falta grave que justifica su despido o remoción. Además, cuando la persona no reinstalada es representante de los trabajadores, se ordena al empleador no limitar su labor de representación ni sus funciones protegidas, y se le advierte que, si impide u obstaculiza ese ejercicio, además de la sanción anterior, se podrá declarar huelga legal siempre que se cumplan los requisitos exigidos.",
+    "source_quote": "La negativa a la reinstalación será sancionada con la multa establecida en el inciso 6) del artículo 398.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "577",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_577"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "577",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_577",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción se aplica por la negativa a la reinstalación de una persona trabajadora?",
+    "output": "La multa establecida en el inciso 6) del artículo 398.",
+    "source_quote": "La negativa a la reinstalación será sancionada con la multa establecida en el inciso 6) del artículo 398.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "577",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_577",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia adicional tiene la negativa a reinstalar a un representante de las personas trabajadoras?",
+    "output": "Se ordena al empleador abstenerse de limitar su labor de representación y, si impide u opone obstáculos, además de la sanción anterior, dará derecho a la declaratoria de huelga legal siempre que se cumplan los requisitos exigidos.",
+    "source_quote": "Tratándose de representantes de las personas trabajadoras que no hayan sido reinstaladas, se ordenará al empleador o empleadora abstenerse de limitar la labor de representación... y se advertirá al empleador o empleadora que, de impedir u oponer algún obstáculo a dicho ejercicio, su conducta, además de lo dispuesto en el párrafo anterior, dará derecho a la declaratoria de huelga legal, siempre y cuando se cumplan los requisitos exigidos para tal efecto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "577",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_577",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la sanción general por incumplir la orden de reinstalación, remitiendo a la multa prevista en el artículo 398 inciso 6.",
+    "source_quote": "La negativa a la reinstalación será sancionada con la multa establecida en el inciso 6) del artículo 398.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "577",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_577",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege la labor de representación de los trabajadores no reinstalados, ordenando al empleador no obstaculizarla y advirtiendo que el impedimento puede dar lugar a huelga legal, además de la sanción del párrafo anterior.",
+    "source_quote": "Tratándose de representantes de las personas trabajadoras que no hayan sido reinstaladas, se ordenará al empleador o empleadora abstenerse de limitar la labor de representación que venía desarrollando en el seno de la empresa, así como todas sus funciones protegidas por la legislación nacional y se advertirá al empleador o empleadora que, de impedir u oponer algún obstáculo a dicho ejercicio, su conducta, además de lo dispuesto en el párrafo anterior, dará derecho a la declaratoria de huelga legal, siempre y cuando se cumplan los requisitos exigidos para tal efecto.",
+    "item_index": 2
+  }
+]

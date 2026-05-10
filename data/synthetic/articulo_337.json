@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 337 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 337 asigna al Ministerio de Trabajo y Seguridad Social, a través de su Oficina de Sindicatos, la función de vigilar estrictamente a las organizaciones sociales, con el único fin de asegurar que cumplan con la ley. Además, indica que para ello se deben cumplir las obligaciones y ejercer el derecho mencionados en el inciso f) del artículo 69.",
+    "source_quote": "Corresponderá al Ministerio de Trabajo y Seguridad Social llevar a cabo, por medio de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, la más estricta vigilancia sobre las organizaciones sociales, con el exclusivo propósito de que éstas funcionen ajustadas a las prescripciones de ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "337",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_337"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "337",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_337",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién corresponde la vigilancia sobre las organizaciones sociales según el artículo 337?",
+    "output": "Al Ministerio de Trabajo y Seguridad Social, por medio de la Oficina de Sindicatos.",
+    "source_quote": "Corresponderá al Ministerio de Trabajo y Seguridad Social llevar a cabo, por medio de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, la más estricta vigilancia sobre las organizaciones sociales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "337",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_337",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el propósito exclusivo de esa vigilancia?",
+    "output": "Que las organizaciones sociales funcionen ajustadas a las prescripciones de ley.",
+    "source_quote": "con el exclusivo propósito de que éstas funcionen ajustadas a las prescripciones de ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "337",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_337",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la autoridad competente y el mecanismo institucional para ejercer una fiscalización rigurosa sobre las organizaciones sociales, limitando su objetivo a la verificación del cumplimiento legal.",
+    "source_quote": "Corresponderá al Ministerio de Trabajo y Seguridad Social llevar a cabo, por medio de la Oficina de Sindicatos del Ministerio de Trabajo y Seguridad Social, la más estricta vigilancia sobre las organizaciones sociales, con el exclusivo propósito de que éstas funcionen ajustadas a las prescripciones de ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "337",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_337",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Remite a las facultades y deberes específicos contenidos en el artículo 69 inciso f), los cuales deben ser aplicados por el Ministerio para materializar la vigilancia ordenada.",
+    "source_quote": "Al efecto cumplirán las obligaciones y ejercerán el derecho de que habla el inciso f) del artículo 69.",
+    "item_index": 2
+  }
+]

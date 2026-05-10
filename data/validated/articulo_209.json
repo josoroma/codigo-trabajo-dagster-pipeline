@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 209 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 209 establece que se aplicarán las sanciones previstas por la ley al empleador que no cumpla con la obligación de enviar periódicamente las planillas al Instituto Nacional de Seguros.",
+    "source_quote": "Se impondrán las sanciones legales correspondientes, al patrono que omita el envío regular de planillas al Instituto Nacional de Seguros.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "209",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_209"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "209",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_209",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para el patrono la omisión del envío regular de planillas al Instituto Nacional de Seguros?",
+    "output": "Se le impondrán las sanciones legales correspondientes.",
+    "source_quote": "Se impondrán las sanciones legales correspondientes, al patrono que omita el envío regular de planillas al Instituto Nacional de Seguros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "209",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_209",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué entidad debe el patrono enviar regularmente las planillas según este artículo?",
+    "output": "Al Instituto Nacional de Seguros.",
+    "source_quote": "al patrono que omita el envío regular de planillas al Instituto Nacional de Seguros.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "209",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_209",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición establece la obligación del patrono de remitir periódicamente las planillas al Instituto Nacional de Seguros y la consecuencia jurídica de su incumplimiento, que es la imposición de las sanciones previstas en el ordenamiento.",
+    "source_quote": "Se impondrán las sanciones legales correspondientes, al patrono que omita el envío regular de planillas al Instituto Nacional de Seguros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "209",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_209",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta nota indica que el texto actual del artículo fue modificado por la Ley sobre Riesgos del Trabajo, proporcionando el contexto normativo de su vigencia.",
+    "source_quote": "(Así reformado por el artículo 1º de la Ley Sobre Riesgos del Trabajo, Nº 6727 de 9 de marzo de 1982)",
+    "item_index": 2
+  }
+]

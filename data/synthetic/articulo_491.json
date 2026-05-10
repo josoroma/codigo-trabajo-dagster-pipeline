@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 491 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 491 regula el embargo preventivo en procesos laborales. Permite que se dicte esta medida sin necesidad de fianza cuando exista evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante el proceso, volviéndose insuficiente para garantizar los derechos del trabajador. Para solicitarlo, la parte debe ofrecer el testimonio de dos personas y cualquier otra prueba que considere importante, a fin de demostrar de forma preliminar la prestación del servicio y la veracidad de los hechos. Las pruebas se tramitan por escrito de manera sumaria, incluso sin la presencia de la parte contraria, y los tribunales deben actuar con prudencia para que el embargo sea proporcionado y no se use de forma innecesaria o abusiva. Si el embargo se pide antes de presentar la demanda, esta debe interponerse en un plazo máximo de diez días después de practicada la medida; de lo contrario, se revocará y se condenará al solicitante al pago de daños y perjuicios equivalentes al 10% del monto embargado, lo cual se advierte en la resolución inicial y se cobra en el mismo proceso.",
+    "source_quote": "El embargo preventivo procederá sin necesidad de fianza, cuando haya evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante la tramitación del proceso, como garantía de los eventuales derechos del trabajador o la trabajadora, tornándolo insuficiente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "491",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_491"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "491",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_491",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué circunstancia procede el embargo preventivo sin necesidad de fianza según el artículo 491?",
+    "output": "Procede cuando haya evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante la tramitación del proceso, tornándolo insuficiente para garantizar los eventuales derechos del trabajador.",
+    "source_quote": "El embargo preventivo procederá sin necesidad de fianza, cuando haya evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante la tramitación del proceso, como garantía de los eventuales derechos del trabajador o la trabajadora, tornándolo insuficiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "491",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_491",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisitos probatorios debe cumplir la parte que solicita el embargo preventivo para comprobar la prestación del servicio y la veracidad de los hechos?",
+    "output": "Debe ofrecer el testimonio de dos personas, así como cualquier otro elemento probatorio que juzgue importante.",
+    "source_quote": "Con el propósito de comprobar 'prima facie' la prestación personal del servicio y la veracidad del hecho o los hechos en que el pedimento se apoya, esa parte deberá ofrecer el testimonio de dos personas, así como cualquier otro elemento probatorio que juzgue importante.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "491",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_491",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la procedencia del embargo preventivo sin fianza como medida cautelar para proteger los derechos laborales cuando el patrimonio del deudor está en riesgo de deterioro, asegurando así la efectividad de una eventual sentencia favorable al trabajador.",
+    "source_quote": "El embargo preventivo procederá sin necesidad de fianza, cuando haya evidencia de que el patrimonio del deudor corre peligro de desmejorarse durante la tramitación del proceso, como garantía de los eventuales derechos del trabajador o la trabajadora, tornándolo insuficiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "491",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_491",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone un plazo perentorio para presentar la demanda tras un embargo previo y establece una consecuencia económica disuasoria (10% del monto embargado) en caso de incumplimiento, evitando el uso abusivo o dilatorio de la medida cautelar.",
+    "source_quote": "Si el embargo se solicitara como acto previo a la demanda, la presentación de esta última deberá hacerse a más tardar diez días después de practicado. Si no lo hiciera, de oficio o a solicitud de parte, se revocará la medida y se condenará al solicitante al pago de los daños y perjuicios en el tanto de un diez por ciento (10%) del monto del embargo.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 582 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 582 establece que durante las audiencias, cualquier observación que las partes quieran hacer sobre las decisiones que se tomen, o cualquier solicitud para que se revoquen esas decisiones, debe hacerse de manera oral y en el momento, antes de que se pase a la siguiente etapa del proceso. El juez o tribunal debe resolver y comunicar su decisión también de forma oral e inmediata, a menos que necesite suspender la audiencia para estudiar el asunto.",
+    "source_quote": "Las observaciones de las partes a las providencias adoptadas en las audiencias y la solicitud de revocatoria de los autos dictados en esa misma actividad procesal deberán hacerse de forma oral e inmediata, antes de pasarse a una etapa o fase posterior, y el órgano las resolverá y comunicará en ese mismo momento y forma, salvo que sea necesario suspender la audiencia para el estudio de la cuestión, según quedó dispuesto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "582",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_582"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "582",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_582",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo deben presentarse las observaciones a las providencias adoptadas en audiencia?",
+    "output": "De forma oral e inmediata, antes de pasarse a una etapa o fase posterior.",
+    "source_quote": "deberán hacerse de forma oral e inmediata, antes de pasarse a una etapa o fase posterior",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "582",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_582",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el órgano necesita estudiar la cuestión antes de resolver una observación o solicitud de revocatoria?",
+    "output": "Se puede suspender la audiencia para el estudio de la cuestión.",
+    "source_quote": "salvo que sea necesario suspender la audiencia para el estudio de la cuestión",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "582",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_582",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de oralidad e inmediatez para las impugnaciones y observaciones durante las audiencias, fijando el momento procesal oportuno para su presentación.",
+    "source_quote": "Las observaciones de las partes a las providencias adoptadas en las audiencias y la solicitud de revocatoria de los autos dictados en esa misma actividad procesal deberán hacerse de forma oral e inmediata, antes de pasarse a una etapa o fase posterior",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "582",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_582",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la obligación del tribunal de resolver y notificar oralmente en la misma audiencia, con la única excepción de suspenderla si requiere un análisis más detenido.",
+    "source_quote": "el órgano las resolverá y comunicará en ese mismo momento y forma, salvo que sea necesario suspender la audiencia para el estudio de la cuestión",
+    "item_index": 2
+  }
+]

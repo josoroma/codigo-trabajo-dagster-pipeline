@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 484 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 484 establece que cuando se apliquen normas de derecho público en el proceso laboral, se deben respetar los requisitos de validez y prueba de los actos que exige el ordenamiento jurídico. También obliga a acatar los valores fijados para ciertos elementos probatorios, presunciones y principios, ya sea como criterios de valoración, fuerza probatoria o según la doctrina aplicable.",
+    "source_quote": "Cuando deban aplicarse normas de derecho público deberán respetarse los requisitos de validez y prueba de los actos exigidos por el ordenamiento, así como los valores establecidos de forma particular para determinados elementos probatorios, presunciones y principios, establecidos como criterios de valoración o fuerza probatoria, o que resulten de aplicación de acuerdo con la respectiva doctrina.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "484",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_484"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "484",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_484",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe respetarse cuando se aplican normas de derecho público según el artículo 484?",
+    "output": "Deben respetarse los requisitos de validez y prueba de los actos exigidos por el ordenamiento.",
+    "source_quote": "Cuando deban aplicarse normas de derecho público deberán respetarse los requisitos de validez y prueba de los actos exigidos por el ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "484",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_484",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué otros elementos deben acatarse al aplicar normas de derecho público conforme al artículo 484?",
+    "output": "Deben acatarse los valores establecidos de forma particular para determinados elementos probatorios, presunciones y principios, ya sea como criterios de valoración, fuerza probatoria o según la doctrina aplicable.",
+    "source_quote": "así como los valores establecidos de forma particular para determinados elementos probatorios, presunciones y principios, establecidos como criterios de valoración o fuerza probatoria, o que resulten de aplicación de acuerdo con la respectiva doctrina.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "484",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_484",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de cumplir con las formalidades legales de validez y prueba propias del derecho público cuando estas normas incidan en el proceso laboral, garantizando la seguridad jurídica y la legalidad de los actos.",
+    "source_quote": "Cuando deban aplicarse normas de derecho público deberán respetarse los requisitos de validez y prueba de los actos exigidos por el ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "484",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_484",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone el respeto a las reglas especiales de valoración probatoria, presunciones y principios del derecho público, incluyendo aquellos derivados de la doctrina, para asegurar coherencia en la apreciación de la prueba cuando convergen normas de distinta naturaleza.",
+    "source_quote": "así como los valores establecidos de forma particular para determinados elementos probatorios, presunciones y principios, establecidos como criterios de valoración o fuerza probatoria, o que resulten de aplicación de acuerdo con la respectiva doctrina.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 74 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 74 enumera las causas por las cuales los contratos de trabajo pueden suspenderse temporalmente sin que el patrono ni los trabajadores incurran en responsabilidad. Estas causas son: falta de materia prima no imputable al patrono, fuerza mayor o caso fortuito que provoque la suspensión necesaria, inmediata y directa del trabajo, y muerte o incapacidad del patrono con el mismo efecto. Además, en los dos primeros casos, el Poder Ejecutivo puede adoptar medidas de emergencia para aliviar la situación económica de los trabajadores sin perjudicar los intereses patronales. Una nota aclaratoria indica que los contratos de personas enroladas en el ejército o en oficinas creadas por emergencia nacional se consideran suspendidos bajo este artículo.",
+    "source_quote": "Son causas de suspensión temporal de los contratos de trabajo, sin responsabilidad para el patrono ni para los trabajadores:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "74",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_74"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "74",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_74",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las causas de suspensión temporal de los contratos de trabajo según el artículo 74?",
+    "output": "Las causas son: la falta de materia prima para llevar adelante los trabajos, siempre que no sea imputable al patrono; la fuerza mayor o el caso fortuito, cuando traiga como consecuencia necesaria, inmediata y directa la suspensión del trabajo; y la muerte o la incapacidad del patrono, cuando tenga como consecuencia necesaria, inmediata y directa la suspensión del trabajo.",
+    "source_quote": "- La falta de materia prima para llevar adelante los trabajos, siempre que no sea imputable al patrono; - La fuerza mayor o el caso fortuito, cuando traiga como consecuencia necesaria, inmediata y directa la suspensión del trabajo, y - La muerte o la incapacidad del patrono, cuando tenga como consecuencia necesaria, inmediata y directa la suspensión del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "74",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_74",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede hacer el Poder Ejecutivo en los casos de falta de materia prima o fuerza mayor?",
+    "output": "El Poder Ejecutivo podrá dictar medidas de emergencia que, sin lesionar los intereses patronales, den por resultado el alivio de la situación económica de los trabajadores.",
+    "source_quote": "En los dos primeros casos el Poder Ejecutivo podrá dictar medidas de emergencia que, sin lesionar los intereses patronales, den por resultado el alivio de la situación económica de los trabajadores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "74",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_74",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece de manera taxativa las tres causales que permiten la suspensión temporal de los contratos de trabajo sin responsabilidad para ninguna de las partes, delimitando las condiciones específicas de cada una.",
+    "source_quote": "- La falta de materia prima para llevar adelante los trabajos, siempre que no sea imputable al patrono; - La fuerza mayor o el caso fortuito, cuando traiga como consecuencia necesaria, inmediata y directa la suspensión del trabajo, y - La muerte o la incapacidad del patrono, cuando tenga como consecuencia necesaria, inmediata y directa la suspensión del trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "74",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_74",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía el alcance del artículo 74 para incluir como causal de suspensión temporal los contratos de trabajo de personas vinculadas al ejército o a instituciones creadas por emergencia nacional, reconociendo estas situaciones como comprendidas dentro de las causales originales.",
+    "source_quote": "De conformidad con el artículo 1° de la ley N° 305 del 15 de diciembre de 1948, se estableció lo siguiente; \"Artículo 1º.-Los contratos de Trabajo en que son parte personas que se han enrolado en las filas del Ejército Nacional, o que prestan sus servicios en oficinas o instituciones que se han creado con motivo de la actual emergencia, se declaran suspendidos temporalmente, considerándose que la causal de suspensión se encuentra comprendida en el artículo 74 del Código de Trabajo\"",
+    "item_index": 2
+  }
+]

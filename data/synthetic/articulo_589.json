@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 589 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 589 establece que en los recursos de apelación o casación solo se pueden discutir asuntos que las partes hayan planteado y debatido previamente en el proceso. La sentencia que resuelva el recurso no puede tratar puntos diferentes a los alegados en el recurso, excepto cuando el tribunal, por iniciativa propia, deba declarar nulidades, hacer correcciones o reponer actuaciones. Además, prohíbe que la decisión del tribunal empeore la situación de quien presentó el recurso (reforma en perjuicio).",
+    "source_quote": "No podrán ser objeto de apelación o casación cuestiones que no hayan sido propuestas ni debatidas oportunamente por los litigantes y la sentencia que se dicte no podrá abrazar otros puntos distintos de los planteados en el recurso, salvo las nulidades, correcciones o reposiciones que procedan por iniciativa del órgano. Se prohíbe la reforma en perjuicio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "589",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_589"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "589",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_589",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de cuestiones no pueden ser objeto de apelación o casación según el artículo 589?",
+    "output": "No pueden ser objeto de apelación o casación las cuestiones que no hayan sido propuestas ni debatidas oportunamente por los litigantes.",
+    "source_quote": "No podrán ser objeto de apelación o casación cuestiones que no hayan sido propuestas ni debatidas oportunamente por los litigantes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "589",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_589",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe expresamente el artículo 589 en relación con la decisión del tribunal que conoce el recurso?",
+    "output": "Prohíbe la reforma en perjuicio, es decir, que la sentencia empeore la situación de la parte que recurrió.",
+    "source_quote": "Se prohíbe la reforma en perjuicio.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "589",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_589",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el principio de congruencia recursiva: limita el objeto del recurso a lo previamente debatido por las partes y restringe el contenido de la sentencia a los puntos del recurso, con la excepción de actuaciones oficiosas del tribunal para subsanar vicios procesales.",
+    "source_quote": "No podrán ser objeto de apelación o casación cuestiones que no hayan sido propuestas ni debatidas oportunamente por los litigantes y la sentencia que se dicte no podrá abrazar otros puntos distintos de los planteados en el recurso, salvo las nulidades, correcciones o reposiciones que procedan por iniciativa del órgano.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "589",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_589",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Consagra la prohibición de la reformatio in peius, garantizando que el tribunal de alzada no agrave la situación jurídica de quien interpuso el recurso.",
+    "source_quote": "Se prohíbe la reforma en perjuicio.",
+    "item_index": 2
+  }
+]

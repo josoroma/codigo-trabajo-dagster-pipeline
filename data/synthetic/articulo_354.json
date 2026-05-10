@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 354 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que cualquier acto o contrato realizado por un sindicato después de su disolución es completamente nulo, a menos que esté relacionado exclusivamente con el proceso de liquidación de la organización. Además, aclara que, incluso después de disuelto, el sindicato se considera existente únicamente para efectos de su liquidación.",
+    "source_quote": "Serán absolutamente nulos los actos o contratos celebrados o ejecutados por el sindicato después de disuelto, salvo los que se refieran exclusivamente a su liquidación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "354",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_354"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "354",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_354",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué validez tienen los actos o contratos celebrados por un sindicato después de su disolución?",
+    "output": "Son absolutamente nulos, excepto aquellos que se refieran exclusivamente a la liquidación del sindicato.",
+    "source_quote": "Serán absolutamente nulos los actos o contratos celebrados o ejecutados por el sindicato después de disuelto, salvo los que se refieran exclusivamente a su liquidación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "354",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_354",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Para qué fines se considera existente un sindicato después de disuelto?",
+    "output": "Se reputa existente sólo en lo que afecte a su liquidación.",
+    "source_quote": "Es entendido que aun después de disuelto un sindicato se reputará existente sólo en lo que afecte a su liquidación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "354",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_354",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición declara la nulidad absoluta de cualquier acto o contrato posterior a la disolución, protegiendo a terceros y delimitando la capacidad jurídica del sindicato, con la única excepción de aquellos necesarios para concluir su existencia legal mediante la liquidación.",
+    "source_quote": "Serán absolutamente nulos los actos o contratos celebrados o ejecutados por el sindicato después de disuelto, salvo los que se refieran exclusivamente a su liquidación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "354",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_354",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta aclaración establece una ficción legal que permite al sindicato mantener una personalidad jurídica limitada y transitoria, exclusivamente para realizar los actos indispensables de liquidación, evitando así un vacío legal durante ese proceso.",
+    "source_quote": "Es entendido que aun después de disuelto un sindicato se reputará existente sólo en lo que afecte a su liquidación.",
+    "item_index": 2
+  }
+]

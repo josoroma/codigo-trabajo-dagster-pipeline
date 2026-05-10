@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 616 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que, durante la negociación de una convención colectiva, una vez iniciada la conciliación o el arbitraje, o mientras se ejecuta una huelga legal, cualquier arreglo directo que se firme debe hacerse exclusivamente con la organización sindical o el comité que está a cargo de la negociación o del conflicto, impidiendo acuerdos con otros grupos o personas.",
+    "source_quote": "Durante el proceso de negociación de una convención colectiva de trabajo o una vez iniciado el procedimiento de conciliación o arbitraje, y durante la ejecución de una huelga legal, solo podrá suscribirse un arreglo directo con la organización o el comité responsable de la negociación o del conflicto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "616",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_616"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "616",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_616",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué momentos solo se puede suscribir un arreglo directo con la organización o comité responsable?",
+    "output": "Durante el proceso de negociación de una convención colectiva de trabajo, una vez iniciado el procedimiento de conciliación o arbitraje, y durante la ejecución de una huelga legal.",
+    "source_quote": "Durante el proceso de negociación de una convención colectiva de trabajo o una vez iniciado el procedimiento de conciliación o arbitraje, y durante la ejecución de una huelga legal, solo podrá suscribirse un arreglo directo con la organización o el comité responsable de la negociación o del conflicto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "616",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_616",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con quién debe suscribirse el arreglo directo en esos momentos?",
+    "output": "Con la organización o el comité responsable de la negociación o del conflicto.",
+    "source_quote": "solo podrá suscribirse un arreglo directo con la organización o el comité responsable de la negociación o del conflicto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "616",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_616",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita los escenarios temporales y procesales en los que aplica la restricción, abarcando desde la negociación directa hasta la huelga legal, para garantizar que la representación colectiva se mantenga en todas las etapas del conflicto.",
+    "source_quote": "Durante el proceso de negociación de una convención colectiva de trabajo o una vez iniciado el procedimiento de conciliación o arbitraje, y durante la ejecución de una huelga legal",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "616",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_616",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la exclusividad de la representación sindical o del comité para la firma de acuerdos directos, evitando negociaciones paralelas con otros interlocutores que puedan debilitar la posición colectiva y la eficacia del proceso.",
+    "source_quote": "solo podrá suscribirse un arreglo directo con la organización o el comité responsable de la negociación o del conflicto",
+    "item_index": 2
+  }
+]

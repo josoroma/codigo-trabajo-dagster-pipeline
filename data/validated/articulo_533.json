@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 533 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 533 del Código de Trabajo establece que en toda audiencia se debe levantar un acta que contenga información específica, como la fecha, las partes, el desarrollo de la audiencia, las resoluciones, la prueba documental, los declarantes, las apelaciones y la sentencia. Además, indica quiénes deben firmar y qué hacer si alguien se niega, y permite reemplazar el acta por una constancia si la audiencia se grabó en audio y video.",
+    "source_quote": "Con motivo de la audiencia se levantará un acta, en la cual se dejará constancia de lo siguiente:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "533",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_533"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "533",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_533",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una persona se niega a firmar el acta de la audiencia?",
+    "output": "Se dejará constancia de ese hecho en el acta.",
+    "source_quote": "Si alguna persona se negara a firmar, o se ha retirado antes de la lectura de la parte dispositiva de la sentencia, se dejará constando ese hecho también en el acta.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "533",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_533",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se debe hacer si la audiencia se graba en audio y video en lugar de levantar un acta?",
+    "output": "Se consignará una constancia firmada por quien dirigió la audiencia y las partes, indicando que el acto se llevó a cabo, con la fecha y horas de realización.",
+    "source_quote": "Si la audiencia se hubiera grabado en audio y video, en lugar del acta se consignará una constancia firmada por quien ha dirigido la audiencia y dichas partes, de que el acto fue llevado a cabo, con indicación de las horas y la fecha de su realización.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "533",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_533",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Este inciso exige que el acta resuma brevemente cómo transcurrió la audiencia y, si se alcanzó un acuerdo conciliatorio, su contenido.",
+    "source_quote": "Una descripción lacónica de las etapas de la audiencia y de su desarrollo y, de producirse, del contenido de la solución conciliada del conflicto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "533",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_533",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece quiénes deben firmar el acta, cómo se registra la asistencia de otros comparecientes, y la obligación de dejar constancia si alguien se niega a firmar o se retira antes de la lectura de la sentencia.",
+    "source_quote": "El acta será firmada por la persona que ha dirigido la audiencia, las partes y sus abogados o abogadas. Las otras personas comparecientes firmarán un documento de asistencia, el cual será agregado al expediente. Si alguna persona se negara a firmar, o se ha retirado antes de la lectura de la parte dispositiva de la sentencia, se dejará constando ese hecho también en el acta.",
+    "item_index": 2
+  }
+]

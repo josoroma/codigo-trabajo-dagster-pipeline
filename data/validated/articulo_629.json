@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 629 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 629 regula los efectos del arreglo conciliatorio en conflictos laborales. Si se alcanza un acuerdo, el conflicto termina y las partes deben firmar y cumplir el convenio en el plazo fijado. Si una parte se niega a firmar, se le impone una multa según la escala más alta del artículo 398, considerando su situación económica. La parte que sí cumplió conserva el derecho a declarar huelga o paro sin nueva conciliación por las mismas causas, o a pedir a los tribunales la ejecución del acuerdo o indemnización por daños.",
+    "source_quote": "Si hubiera arreglo se dará por terminado el conflicto y las partes quedarán obligadas a firmar y cumplir el convenio que se redacte, dentro del término que fije el órgano.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "629",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_629"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "629",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_629",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una de las partes se niega a firmar el convenio alcanzado en una conciliación laboral?",
+    "output": "Será sancionada con una multa que se fija con base en la escala mayor de la tabla del artículo 398, tomando en cuenta su situación económica como empleadora o trabajadora.",
+    "source_quote": "La parte que se niegue a firmar el convenio será sancionada con una multa que se fijará con base en la escala mayor de la tabla contenida en el artículo 398; para fijar la multa se tomará en cuenta la situación económica derivada de la condición de las partes como empleadoras o trabajadoras.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "629",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_629",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué opciones tiene la parte que sí cumplió el arreglo conciliatorio si la otra parte incumple?",
+    "output": "Puede declararse en huelga o paro sin necesidad de una nueva conciliación, siempre que sea por las mismas causas, o bien pedir a los tribunales de trabajo la ejecución del acuerdo o el pago de daños y perjuicios.",
+    "source_quote": "Queda a salvo el derecho de la parte que ha respetado el arreglo conciliatorio para declararse en huelga o en paro, según corresponda, sin acudir nuevamente a la conciliación, siempre que lo haga por las mismas causas que dieron origen a la inconformidad. Dicha parte también podrá optar por pedir a los tribunales de trabajo la ejecución del acuerdo a costa de quien ha incumplido o el pago de los daños y perjuicios que prudencialmente estos determinen.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "629",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_629",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el efecto inmediato del arreglo conciliatorio: el conflicto termina y surge la obligación de firmar y cumplir el convenio en un plazo. La multa por negarse a firmar busca garantizar el cumplimiento y disuadir el incumplimiento, graduando la sanción según la capacidad económica de cada parte.",
+    "source_quote": "Si hubiera arreglo se dará por terminado el conflicto y las partes quedarán obligadas a firmar y cumplir el convenio que se redacte, dentro del término que fije el órgano. La parte que se niegue a firmar el convenio será sancionada con una multa que se fijará con base en la escala mayor de la tabla contenida en el artículo 398; para fijar la multa se tomará en cuenta la situación económica derivada de la condición de las partes como empleadoras o trabajadoras.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "629",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_629",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Protege a la parte cumplidora otorgándole vías de acción directas: medidas de autotutela (huelga o paro) sin necesidad de agotar conciliación nuevamente, y la posibilidad de acudir a la vía judicial para exigir el cumplimiento forzoso o una indemnización por los perjuicios sufridos.",
+    "source_quote": "Queda a salvo el derecho de la parte que ha respetado el arreglo conciliatorio para declararse en huelga o en paro, según corresponda, sin acudir nuevamente a la conciliación, siempre que lo haga por las mismas causas que dieron origen a la inconformidad. Dicha parte también podrá optar por pedir a los tribunales de trabajo la ejecución del acuerdo a costa de quien ha incumplido o el pago de los daños y perjuicios que prudencialmente estos determinen.",
+    "item_index": 2
+  }
+]

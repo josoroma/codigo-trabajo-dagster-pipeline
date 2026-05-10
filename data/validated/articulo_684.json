@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 684 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 684 establece que las personas exceptuadas del ámbito del Código de Trabajo (según el artículo anterior) no se rigen por este código, sino por leyes, decretos o acuerdos especiales. Sin embargo, excepto quienes ocupan cargos de elección popular, tienen derecho al pago de cesantía si se jubilan, pensionan o fallecen en el cargo con derecho a jubilación, siempre que sea la primera vez que adquieren el beneficio de pensión.",
+    "source_quote": "Las personas exceptuadas en el artículo anterior no se regirán por las disposiciones de este Código, sino únicamente por las que establezcan leyes, decretos o acuerdos especiales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "684",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_684"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "684",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_684",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué personas no se rigen por el Código de Trabajo según el artículo 684?",
+    "output": "Las personas exceptuadas en el artículo anterior.",
+    "source_quote": "Las personas exceptuadas en el artículo anterior no se regirán por las disposiciones de este Código, sino únicamente por las que establezcan leyes, decretos o acuerdos especiales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "684",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_684",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos tienen derecho al pago de cesantía las personas exceptuadas, según el artículo 684?",
+    "output": "Tienen derecho si se jubilan o pensionan, o fallecen en el cargo con derecho jubilatorio, siempre que sea la primera vez que adquieren el beneficio de pensión, excepto quienes ocupen cargos de elección popular.",
+    "source_quote": "Sin embargo, a excepción de las personas que ocupen cargos de elección popular, tendrán derecho al pago de cesantía si se jubilaran o pensionaran, o fallecieran en el cargo con derecho jubilatorio, sin perjuicio de lo que dispongan leyes especiales. El pago de la cesantía procederá, en estos casos, cuando el beneficio de pensión se adquiere por primera vez.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "684",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_684",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que las personas exceptuadas del ámbito del Código de Trabajo se rigen exclusivamente por normativa especial, excluyendo la aplicación de este código.",
+    "source_quote": "Las personas exceptuadas en el artículo anterior no se regirán por las disposiciones de este Código, sino únicamente por las que establezcan leyes, decretos o acuerdos especiales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "684",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_PRIMERO_articulo_684",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Introduce una excepción a la regla general, otorgando el derecho a cesantía en casos de jubilación, pensión o fallecimiento con derecho jubilatorio, limitado a la primera adquisición del beneficio y excluyendo a quienes ocupan cargos de elección popular.",
+    "source_quote": "Sin embargo, a excepción de las personas que ocupen cargos de elección popular, tendrán derecho al pago de cesantía si se jubilaran o pensionaran, o fallecieran en el cargo con derecho jubilatorio, sin perjuicio de lo que dispongan leyes especiales. El pago de la cesantía procederá, en estos casos, cuando el beneficio de pensión se adquiere por primera vez.",
+    "item_index": 2
+  }
+]

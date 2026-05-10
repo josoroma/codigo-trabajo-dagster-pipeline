@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 150 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 150 enumera las excepciones a la regla general de cierre de establecimientos. Permite que ciertos negocios, como hoteles, restaurantes, teatros y expendios de alimentos, permanezcan abiertos según leyes o reglamentos especiales. Regula horarios específicos para barberías y peluquerías en la capital, y para todo comercio los domingos y feriados, con cierre total en Jueves y Viernes Santos. Además, establece que los trabajadores de comercio no están obligados a laborar esos días, pero si lo hacen por acuerdo, deben recibir la remuneración especial del artículo 152.",
+    "source_quote": "Los hoteles, boticas, cantinas, cafeterías, refresquerías, panaderías, restaurantes, hosterías, fondas, teatros, cines, espectáculos públicos en general, cigarrerías, ventas de gasolina y expendios de verduras, frutas y leches, así como las instituciones de beneficencia, podrán permanecer abiertos durante todos los días y horas que lo permitan las leyes vigentes o reglamentos especiales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "150",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_150"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "150",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_150",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué establecimientos pueden permanecer abiertos todos los días y horas según el inciso b) del artículo 150?",
+    "output": "Hoteles, boticas, cantinas, cafeterías, refresquerías, panaderías, restaurantes, hosterías, fondas, teatros, cines, espectáculos públicos en general, cigarrerías, ventas de gasolina y expendios de verduras, frutas y leches, así como las instituciones de beneficencia.",
+    "source_quote": "Los hoteles, boticas, cantinas, cafeterías, refresquerías, panaderías, restaurantes, hosterías, fondas, teatros, cines, espectáculos públicos en general, cigarrerías, ventas de gasolina y expendios de verduras, frutas y leches, así como las instituciones de beneficencia, podrán permanecer abiertos durante todos los días y horas que lo permitan las leyes vigentes o reglamentos especiales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "150",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_150",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Están obligados los trabajadores de establecimientos de comercio a trabajar los domingos y días feriados según el artículo 150?",
+    "output": "No, no están obligados. Si trabajan por acuerdo con el patrono, deben ser remunerados conforme al párrafo final del artículo 152 del Código de Trabajo.",
+    "source_quote": "Los trabajadores en establecimientos de comercio en todo el país no estarán obligados a trabajar los domingos y días feriados; si lo hicieren, puestos de acuerdo con sus patronos, éstos deberán remunerar su trabajo en la forma determinada en el párrafo final del artículo 152 de este Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "150",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_150",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un horario máximo de apertura para los comercios en días de descanso, con cierre total obligatorio en Jueves y Viernes Santos, protegiendo así el descanso en fechas religiosas significativas.",
+    "source_quote": "Todo establecimiento de comercio podrá permanecer abierto hasta las doce horas los domingos y días feriados, excepto los Jueves y Viernes Santos, días en que el cierre será total.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "150",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_150",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho al descanso dominical y en feriados para los trabajadores del comercio, y condiciona cualquier trabajo en esos días a un acuerdo voluntario con remuneración especial, remitiendo al artículo 152 para su cálculo.",
+    "source_quote": "Los trabajadores en establecimientos de comercio en todo el país no estarán obligados a trabajar los domingos y días feriados; si lo hicieren, puestos de acuerdo con sus patronos, éstos deberán remunerar su trabajo en la forma determinada en el párrafo final del artículo 152 de este Código.",
+    "item_index": 2
+  }
+]

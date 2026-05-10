@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 300 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 300 establece que toda empresa con más de cincuenta trabajadores permanentes debe contar con una oficina o departamento de salud ocupacional. Además, dispone que los requisitos de formación profesional de los encargados de esa oficina se fijarán mediante reglamento, en consulta con el Consejo de Salud Ocupacional, considerando el número de trabajadores, la actividad de la empresa y la disponibilidad de especialistas en el mercado laboral.",
+    "source_quote": "Toda empresa que ocupe, permanentemente, más de cincuenta trabajadores está obligada a mantener una oficina o departamento de salud ocupacional.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "300",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_300"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "300",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_300",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo está obligada una empresa a mantener una oficina o departamento de salud ocupacional?",
+    "output": "Cuando ocupe permanentemente más de cincuenta trabajadores.",
+    "source_quote": "Toda empresa que ocupe, permanentemente, más de cincuenta trabajadores está obligada a mantener una oficina o departamento de salud ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "300",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_300",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores se toman en cuenta para establecer los requisitos de formación profesional de los encargados de la oficina de salud ocupacional?",
+    "output": "El número de trabajadores de la empresa, la actividad a la cual se dedica y la existencia de recursos humanos especializados en salud ocupacional en el mercado de trabajo.",
+    "source_quote": "para lo cual se tomará en cuenta el número de trabajadores de la empresa, la actividad a la cual se dedica y la existencia de recursos humanos especializados en salud ocupacional en el mercado de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "300",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_300",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la obligación patronal de contar con una estructura dedicada a la salud ocupacional cuando se supera el umbral de cincuenta trabajadores permanentes, garantizando así condiciones mínimas de prevención y atención en el ámbito laboral.",
+    "source_quote": "Toda empresa que ocupe, permanentemente, más de cincuenta trabajadores está obligada a mantener una oficina o departamento de salud ocupacional.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "300",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_300",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delegar en la vía reglamentaria, con participación del Consejo de Salud Ocupacional, la definición de los perfiles profesionales exigidos, y fijar criterios objetivos (tamaño de la empresa, tipo de actividad y oferta de especialistas) para modular esa exigencia según las circunstancias concretas de cada empleador y del mercado laboral.",
+    "source_quote": "Reglamentariamente y en consulta con el Consejo de Salud Ocupacional, se establecerán los requisitos de formación profesional que deben tener las personas encargadas de tal oficina o departamento, para lo cual se tomará en cuenta el número de trabajadores de la empresa, la actividad a la cual se dedica y la existencia de recursos humanos especializados en salud ocupacional en el mercado de trabajo.",
+    "item_index": 2
+  }
+]

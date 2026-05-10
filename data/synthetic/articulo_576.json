@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 576 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 576 regula el pago de salarios caídos cuando el empleador no reinstala al trabajador por su culpa. Establece que el juez ordenará seguir pagando el salario con los aumentos hasta que se concrete la reinstalación, mediante ejecuciones periódicas de hasta seis meses de salario. También permite al trabajador optar por no reinstalarse dentro de los ocho días posteriores a la firmeza de la sentencia, recibiendo preaviso y cesantía por todo el tiempo laborado. Si el trabajador no se presenta sin justa causa en ese plazo, la sentencia se vuelve ineficaz en cuanto a salarios caídos posteriores, y si no ejerce la reinstalación en un mes y quince días, el derecho caduca. Si hay imposibilidad absoluta ajena al trabajador, los salarios se limitan a la fecha del evento, salvo riesgos de trabajo o incapacidad médica, donde se tiene por reinstalado.",
+    "source_quote": "La obligación de pagar los salarios caídos se mantendrá por todo el tiempo que la reinstalación no se cumpla por culpa de la parte empleadora.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "576",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_576"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "576",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_576",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Hasta cuándo se mantiene la obligación de pagar salarios caídos según el artículo 576?",
+    "output": "Se mantiene por todo el tiempo que la reinstalación no se cumpla por culpa de la parte empleadora.",
+    "source_quote": "La obligación de pagar los salarios caídos se mantendrá por todo el tiempo que la reinstalación no se cumpla por culpa de la parte empleadora.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "576",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_576",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué opción tiene la persona trabajadora dentro de los ocho días posteriores a la firmeza de la sentencia?",
+    "output": "Puede optar por la no reinstalación, a cambio del pago del preaviso y la cesantía que le correspondan por todo el tiempo laborado, incluido el transcurrido hasta la firmeza de la sentencia, además de las otras prestaciones concedidas en la sentencia.",
+    "source_quote": "La parte trabajadora podrá optar, dentro de ese mismo lapso de ocho días, por la no reinstalación, a cambio, además de las otras prestaciones concedidas en la sentencia, del pago del preaviso y la cesantía que le correspondan por todo el tiempo laborado, incluido el transcurrido hasta la firmeza de la sentencia, solo si lo hace saber así al órgano dentro de los ocho días posteriores a la firmeza de la sentencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "576",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_576",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la responsabilidad del empleador de pagar salarios caídos y daños mientras no reinstale por su culpa, garantizando la protección del trabajador ante el incumplimiento.",
+    "source_quote": "La obligación de pagar los salarios caídos se mantendrá por todo el tiempo que la reinstalación no se cumpla por culpa de la parte empleadora. En este caso deberán pagarse, además, los daños y perjuicios que se causen con el incumplimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "576",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_576",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la consecuencia de la inacción del trabajador, perdiendo el derecho a salarios caídos posteriores a la firmeza, para incentivar la pronta definición del proceso.",
+    "source_quote": "Si la parte trabajadora no se presenta dentro del expresado lapso de ocho días, sin justa causa, y tampoco ejerce la opción indicada en el párrafo anterior, la respectiva resolución judicial se tornará ineficaz en cuanto al pago de salarios caídos a partir de la firmeza de la sentencia o resolución.",
+    "item_index": 2
+  }
+]

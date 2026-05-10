@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 331 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 331 establece que el sistema de tarifas para el seguro de riesgos del trabajo del Estado, instituciones públicas y municipalidades se basará en primas retrospectivas, calculadas según el costo real anual de cada grupo de empleados públicos asegurados. Obliga a que cada presupuesto ordinario aprobado por la Asamblea Legislativa incluya una partida para cubrir esas primas. Además, faculta a la Contraloría General de la República para modificar los presupuestos de instituciones públicas y municipalidades que no contemplen la asignación suficiente, y asigna al Instituto Nacional de Seguros la determinación del monto anual de dichas primas.",
+    "source_quote": "El sistema de tarifas que se aplicará al caso del Estado, instituciones públicas y municipalidades se basará en primas retrospectivas, fundamentado en el costo real que anualmente se determine para los grupos de empleados públicos asegurados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué se basa el sistema de tarifas aplicable al Estado, instituciones públicas y municipalidades según el artículo 331?",
+    "output": "Se basa en primas retrospectivas, fundamentado en el costo real que anualmente se determine para los grupos de empleados públicos asegurados.",
+    "source_quote": "El sistema de tarifas que se aplicará al caso del Estado, instituciones públicas y municipalidades se basará en primas retrospectivas, fundamentado en el costo real que anualmente se determine para los grupos de empleados públicos asegurados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer la Contraloría General de la República si una institución pública o municipalidad no incluye la asignación presupuestaria suficiente para cubrir las primas retrospectivas?",
+    "output": "Debe modificar los presupuestos anuales de esas instituciones para incluir la asignación suficiente.",
+    "source_quote": "La Contraloría General de la República modificará los presupuestos anuales de las instituciones públicas y municipalidades, que no incluyan la asignación presupuestaria suficiente para cubrir dichas primas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el mecanismo de financiamiento del seguro de riesgos del trabajo para el sector público, estableciendo que las primas se ajustan anualmente según los costos reales incurridos, en lugar de tarifas fijas.",
+    "source_quote": "El sistema de tarifas que se aplicará al caso del Estado, instituciones públicas y municipalidades se basará en primas retrospectivas, fundamentado en el costo real que anualmente se determine para los grupos de empleados públicos asegurados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación presupuestaria de incluir anualmente los fondos necesarios para cubrir estas primas, garantizando la previsión financiera del seguro.",
+    "source_quote": "En cada presupuesto ordinario que apruebe la Asamblea Legislativa, deberá consignarse siempre la partida que ampare las primas retrospectivas correspondientes a cada ejercicio económico.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la Contraloría la facultad de intervenir y corregir los presupuestos de entes públicos que omitan o subestimen la partida, asegurando el cumplimiento de la obligación.",
+    "source_quote": "La Contraloría General de la República modificará los presupuestos anuales de las instituciones públicas y municipalidades, que no incluyan la asignación presupuestaria suficiente para cubrir dichas primas.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "331",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_331",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Asigna al Instituto Nacional de Seguros la competencia exclusiva para calcular el monto de las primas, basándose en la experiencia de siniestralidad y costos del período.",
+    "source_quote": "El Instituto Nacional de Seguros determinará, para el caso del Estado, instituciones públicas y municipalidades, el monto anual de esas primas retrospectivas.",
+    "item_index": 4
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 607 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 607 establece los requisitos formales que debe contener una solicitud de arbitraje laboral y la autoridad ante la cual se presenta. La solicitud se dirige al Departamento de Relaciones de Trabajo o a la dependencia regional del Ministerio de Trabajo. Debe incluir: identificación de las partes, relación de hechos, petición expresa de arbitraje, objeto del pronunciamiento, designación de árbitros, pruebas y medio para notificaciones, además de acompañar copia auténtica del compromiso arbitral. No es obligatorio señalar el derecho aplicable, aunque las partes pueden sugerir normas útiles. Si no se cumplen todos los requisitos, la solicitud no será tramitada.",
+    "source_quote": "Mientras no se cumplan todos esos requisitos, no se le dará curso a la solicitud.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "607",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_607"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "607",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_607",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es necesario indicar el derecho aplicable en el compromiso arbitral según el artículo 607?",
+    "output": "No es necesario indicar el derecho aplicable, aunque las partes pueden señalar las normas que consideren útiles para la solución del asunto.",
+    "source_quote": "No es necesario indicar en el compromiso arbitral el derecho aplicable, aunque las partes podrán indicar las normas que a su juicio resulten útiles para la solución del asunto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "607",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_607",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si no se cumplen todos los requisitos de la solicitud de arbitraje?",
+    "output": "No se le dará curso a la solicitud.",
+    "source_quote": "Mientras no se cumplan todos esos requisitos, no se le dará curso a la solicitud.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "607",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_607",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la autoridad competente para recibir la solicitud de arbitraje y enumera de manera taxativa los requisitos que debe contener dicha solicitud, garantizando que la parte interesada proporcione toda la información necesaria para iniciar el procedimiento.",
+    "source_quote": "La solicitud se presentará directamente ante el Departamento de Relaciones de Trabajo de la Dirección de Asuntos Laborales del Ministerio de Trabajo y Seguridad Social o a la respectiva dependencia regional de este Ministerio, competente por razón del territorio, que funcionará como centro de arbitraje, sin perjuicio de lo que se establezca reglamentariamente, y contendrá lo siguiente: a) El nombre completo, la razón o la denominación social de las partes, la dirección y las demás calidades. b) Una relación de los hechos en que se basa la solicitud o el conflicto, especificados en forma separada. c) La petición de que la controversia sea resuelta mediante arbitraje. d) El objeto sobre el cual deberán pronunciarse el o los árbitros o las árbitras que conozcan del asunto. e) La designación de la persona o de las personas que se proponen como árbitras. f) Las pruebas de los hechos que de acuerdo con este Código le corresponda a la parte acreditar. g) Señalamiento de oficina o medio para notificaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "607",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_607",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone una condición suspensiva para la tramitación de la solicitud, de modo que el incumplimiento de cualquiera de los requisitos impide que el centro de arbitraje le dé trámite, asegurando el orden y la completitud del proceso.",
+    "source_quote": "Mientras no se cumplan todos esos requisitos, no se le dará curso a la solicitud.",
+    "item_index": 2
+  }
+]

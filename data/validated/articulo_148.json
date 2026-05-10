@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 148 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 148 establece los días feriados en Costa Rica, distinguiendo entre aquellos de pago obligatorio (1 de enero, 11 de abril, Jueves y Viernes Santos, 1 de mayo, 25 de julio, 15 de agosto, 15 de setiembre y 25 de diciembre) y aquellos que son feriados pero sin pago obligatorio (2 y 31 de agosto, y 1 de diciembre). Además, regula la forma de pago de los feriados según el tipo de salario, permite a trabajadores de otras religiones solicitar días libres para sus celebraciones religiosas, y contiene disposiciones transitorias que trasladan el disfrute de ciertos feriados a lunes en años específicos (2020, 2021, 2022).",
+    "source_quote": "Se considerarán días feriados y, por lo tanto, de pago obligatorio los siguientes: el 1° de enero, el 11 de abril, el Jueves y Viernes Santos, el 1° de mayo, el 25 de julio, el 15 de agosto, el 15 de setiembre y el 25 de diciembre.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "148",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_148"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "148",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_148",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los días feriados que no tienen pago obligatorio según el artículo 148?",
+    "output": "Los días 2 y 31 de agosto y el 1° de diciembre.",
+    "source_quote": "Los días 2 y 31 de agosto y el 1° de diciembre también se considerarán días feriados, pero su pago no será obligatorio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "148",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_148",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho tienen los practicantes de religiones distintas a la católica respecto a días feriados?",
+    "output": "Pueden solicitar a su patrono el otorgamiento de los días de celebración religiosa propios de su creencia como días libres, y el patrono está obligado a concederlo, acordando el día de reposición que podrá rebajarse de las vacaciones.",
+    "source_quote": "Los practicantes de religiones distintas de la católica podrán solicitar a su patrono el otorgamiento de los días de celebración religiosa propios de su creencia como días libres y el patrono estará obligado a concederlo. Cuando ello ocurra, el patrono y el trabajador acordarán el día de la reposición, el cual podrá rebajarse de las vacaciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "148",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_148",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer de manera taxativa los días feriados que conllevan el pago obligatorio para los trabajadores, garantizando su derecho al descanso remunerado en esas fechas.",
+    "source_quote": "Se considerarán días feriados y, por lo tanto, de pago obligatorio los siguientes: el 1° de enero, el 11 de abril, el Jueves y Viernes Santos, el 1° de mayo, el 25 de julio, el 15 de agosto, el 15 de setiembre y el 25 de diciembre.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "148",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_148",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proteger la libertad religiosa de los trabajadores no católicos, permitiéndoles ausentarse del trabajo en sus propias festividades religiosas, con la obligación de reponer el día, lo que armoniza el derecho al trabajo con la diversidad de creencias.",
+    "source_quote": "Los practicantes de religiones distintas de la católica podrán solicitar a su patrono el otorgamiento de los días de celebración religiosa propios de su creencia como días libres y el patrono estará obligado a concederlo. Cuando ello ocurra, el patrono y el trabajador acordarán el día de la reposición, el cual podrá rebajarse de las vacaciones.",
+    "item_index": 2
+  }
+]

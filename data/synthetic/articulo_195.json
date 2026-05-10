@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 195 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 195 define los riesgos del trabajo como los accidentes y enfermedades que sufren los trabajadores debido a su labor subordinada y remunerada, incluyendo el empeoramiento directo e indudable de esas condiciones.",
+    "source_quote": "Constituyen riesgos del trabajo los accidentes y las enfermedades que ocurran a los trabajadores, con ocasión o por consecuencia del trabajo que desempeñen en forma subordinada y remunerada, así como la agravación o reagravación que resulte como consecuencia directa, inmediata e indudable de esos accidentes y enfermedades.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "195",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_195"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "195",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_195",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué elementos deben estar presentes para que un accidente o enfermedad sea considerado riesgo del trabajo?",
+    "output": "Debe tratarse de un accidente o enfermedad que ocurra al trabajador con ocasión o por consecuencia del trabajo que desempeña en forma subordinada y remunerada.",
+    "source_quote": "los accidentes y las enfermedades que ocurran a los trabajadores, con ocasión o por consecuencia del trabajo que desempeñen en forma subordinada y remunerada",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "195",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_195",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplir la agravación o reagravación de un accidente o enfermedad para ser considerada riesgo del trabajo?",
+    "output": "Debe ser consecuencia directa, inmediata e indudable de esos accidentes y enfermedades.",
+    "source_quote": "así como la agravación o reagravación que resulte como consecuencia directa, inmediata e indudable de esos accidentes y enfermedades.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "195",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_195",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición básica de riesgo laboral, vinculando causalmente el accidente o enfermedad a la relación de trabajo subordinado y remunerado.",
+    "source_quote": "Constituyen riesgos del trabajo los accidentes y las enfermedades que ocurran a los trabajadores, con ocasión o por consecuencia del trabajo que desempeñen en forma subordinada y remunerada",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "195",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_195",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Amplía la cobertura a las secuelas agravadas, exigiendo un nexo causal directo, inmediato e indudable para su reconocimiento como riesgo del trabajo.",
+    "source_quote": "así como la agravación o reagravación que resulte como consecuencia directa, inmediata e indudable de esos accidentes y enfermedades.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 420 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 420 define la competencia de la jurisdicción laboral. Establece que en esta jurisdicción se resolverán conflictos individuales y colectivos que requieran aplicar normas de derecho del trabajo y seguridad social, así como asuntos conexos a esas relaciones. Además, incluye expresamente las prestaciones del empleo público y la impugnación de actos u omisiones de instituciones públicas relativas a ese empleo, cuando por su contenido y régimen jurídico deban ventilarse en la vía laboral.",
+    "source_quote": "En la jurisdicción de trabajo, establecida en el artículo 70 de la Constitución Política, se dirimirán los conflictos individuales y colectivos, cuya solución requiera la aplicación de normas de derecho de trabajo y seguridad social, y los principios que lo informan, así como los asuntos conexos a las relaciones sustanciales propias de ese derecho.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "420",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_420"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "420",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_420",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de conflictos conoce la jurisdicción de trabajo según el artículo 420?",
+    "output": "Conoce conflictos individuales y colectivos que requieran la aplicación de normas de derecho de trabajo y seguridad social, y los principios que lo informan, así como los asuntos conexos a las relaciones sustanciales propias de ese derecho.",
+    "source_quote": "En la jurisdicción de trabajo... se dirimirán los conflictos individuales y colectivos, cuya solución requiera la aplicación de normas de derecho de trabajo y seguridad social, y los principios que lo informan, así como los asuntos conexos a las relaciones sustanciales propias de ese derecho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "420",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_420",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Incluye el artículo 420 las prestaciones derivadas del empleo público dentro de la jurisdicción laboral?",
+    "output": "Sí, incluye el conocimiento de todas las prestaciones derivadas de las relaciones de empleo público, para el cobro o cumplimiento de extremos laborales, así como las impugnaciones o nulidades de actos u omisiones de instituciones u órganos de derecho público relativas a dicho empleo, cuando por su contenido material o sustancial y el régimen jurídico aplicable deban ser ventiladas ante la jurisdicción laboral.",
+    "source_quote": "Dentro de ese ámbito se incluyen el conocimiento de todas las prestaciones derivadas de las relaciones de empleo público, para el cobro o cumplimiento de extremos laborales, así como las impugnaciones o nulidades de actos u omisiones de todas las instituciones u órganos de derecho público, relativas a dicho empleo, cuando por su contenido material o sustancial y el régimen jurídico aplicable deban ser ventiladas ante la jurisdicción laboral.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "420",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_420",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimitar la competencia material de la jurisdicción laboral, abarcando conflictos laborales y de seguridad social, así como asuntos conexos, con fundamento constitucional.",
+    "source_quote": "En la jurisdicción de trabajo, establecida en el artículo 70 de la Constitución Política, se dirimirán los conflictos individuales y colectivos, cuya solución requiera la aplicación de normas de derecho de trabajo y seguridad social, y los principios que lo informan, así como los asuntos conexos a las relaciones sustanciales propias de ese derecho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "420",
+    "chunk_id": "libro_None_titulo_DÉCIMO_capitulo_PRIMERO_articulo_420",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extender expresamente la competencia laboral a las controversias sobre empleo público, incluyendo cobro de prestaciones e impugnación de actos administrativos, siempre que por su naturaleza correspondan a esa jurisdicción.",
+    "source_quote": "Dentro de ese ámbito se incluyen el conocimiento de todas las prestaciones derivadas de las relaciones de empleo público, para el cobro o cumplimiento de extremos laborales, así como las impugnaciones o nulidades de actos u omisiones de todas las instituciones u órganos de derecho público, relativas a dicho empleo, cuando por su contenido material o sustancial y el régimen jurídico aplicable deban ser ventiladas ante la jurisdicción laboral.",
+    "item_index": 2
+  }
+]

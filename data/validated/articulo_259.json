@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 259 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 259 establece que cualquier acuerdo sobre conmutación de rentas que no cumpla con los requisitos del capítulo correspondiente es completamente nulo. Además, la persona que haya realizado algún pago bajo ese acuerdo nulo no puede exigir su devolución, compensarlo ni reclamarlo de ninguna manera al trabajador o a sus herederos.",
+    "source_quote": "Todo arreglo referente a conmutación de rentas, que se realice sin la observancia de los artículos de este capítulo, será absolutamente nulo, y quien hubiere pagado cualquier suma, no podrá repetir, compensar, ni reclamar en ninguna otra forma, al trabajador, o a sus causahabientes, las sumas que les hubiere entregado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "259",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_259"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "259",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_259",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene un arreglo de conmutación de rentas realizado sin observar los artículos del capítulo?",
+    "output": "El arreglo es absolutamente nulo.",
+    "source_quote": "Todo arreglo referente a conmutación de rentas, que se realice sin la observancia de los artículos de este capítulo, será absolutamente nulo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "259",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_259",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede quien pagó sumas bajo un arreglo nulo de conmutación de rentas recuperar ese dinero del trabajador o sus causahabientes?",
+    "output": "No, no puede repetir, compensar ni reclamar en ninguna forma las sumas entregadas.",
+    "source_quote": "quien hubiere pagado cualquier suma, no podrá repetir, compensar, ni reclamar en ninguna otra forma, al trabajador, o a sus causahabientes, las sumas que les hubiere entregado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "259",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_259",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declarar la nulidad absoluta de cualquier acuerdo de conmutación de rentas que no cumpla con las disposiciones del capítulo, protegiendo al trabajador de arreglos informales o contrarios a la ley.",
+    "source_quote": "Todo arreglo referente a conmutación de rentas, que se realice sin la observancia de los artículos de este capítulo, será absolutamente nulo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "259",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_259",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Imponer una sanción adicional al pagador, impidiéndole recuperar lo pagado, para desincentivar los pagos realizados sin cumplir el procedimiento legal y garantizar que el trabajador o sus herederos conserven las sumas recibidas.",
+    "source_quote": "quien hubiere pagado cualquier suma, no podrá repetir, compensar, ni reclamar en ninguna otra forma, al trabajador, o a sus causahabientes, las sumas que les hubiere entregado.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 34 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 34 establece que el incumplimiento del contrato de trabajo solo genera responsabilidad económica para quien incumple, prohibiendo cualquier coacción contra las personas. Además, si durante el proceso se descubre una infracción grave, el juez puede ordenar que se remita testimonio para el juzgamiento penal correspondiente, según los artículos 134, 608 o 612, aunque la remisión al artículo 612 ha quedado sin efecto por reforma posterior.",
+    "source_quote": "La falta de cumplimiento del contrato de trabajo sólo obligará a los que en ella incurran a la responsabilidad económica respectiva, sin que en ningún caso pueda hacerse coacción contra las personas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "34",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_34"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "34",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_34",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de responsabilidad genera el incumplimiento del contrato de trabajo según el artículo 34?",
+    "output": "Genera únicamente responsabilidad económica, sin que pueda ejercerse coacción contra las personas.",
+    "source_quote": "La falta de cumplimiento del contrato de trabajo sólo obligará a los que en ella incurran a la responsabilidad económica respectiva, sin que en ningún caso pueda hacerse coacción contra las personas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "34",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_34",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede ordenar el juez si encuentra una infracción grave durante los procedimientos laborales?",
+    "output": "Puede ordenar, en sentencia, que se testimonie lo conducente para el correspondiente juzgamiento penal, con base en los artículos 134, 608 o 612, aunque la remisión al artículo 612 ha quedado sin efecto por reforma posterior.",
+    "source_quote": "Cuando de los procedimientos seguidos aparezca que ha sido cometida una infracción cuya importancia, a juicio del juzgador, amerite la aplicación de las sanciones que prevén los artículos 134, 608 o 612, podrá ordenarse, en sentencia, testimoniar lo conducente para el correspondiente juzgamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "34",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_34",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de que el incumplimiento contractual laboral solo acarrea consecuencias económicas, prohibiendo cualquier forma de coerción personal, garantizando así la libertad individual.",
+    "source_quote": "La falta de cumplimiento del contrato de trabajo sólo obligará a los que en ella incurran a la responsabilidad económica respectiva, sin que en ningún caso pueda hacerse coacción contra las personas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "34",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_34",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite al juez, si detecta una infracción grave, remitir el caso a la vía penal para su juzgamiento, aunque la referencia al artículo 612 está actualmente sin efecto por reforma posterior.",
+    "source_quote": "Cuando de los procedimientos seguidos aparezca que ha sido cometida una infracción cuya importancia, a juicio del juzgador, amerite la aplicación de las sanciones que prevén los artículos 134, 608 o 612, podrá ordenarse, en sentencia, testimoniar lo conducente para el correspondiente juzgamiento.",
+    "item_index": 2
+  }
+]

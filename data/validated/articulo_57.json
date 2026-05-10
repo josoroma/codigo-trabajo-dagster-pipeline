@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 57 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 57 establece los requisitos formales que debe cumplir una convención colectiva de trabajo para tener validez legal. Debe constar por escrito en tres ejemplares, so pena de nulidad absoluta. Cada parte conserva un ejemplar y el tercero se deposita en la Oficina de Asuntos Gremiales y de Conciliación Administrativa del Ministerio de Trabajo y Seguridad Social. La convención no tendrá valor legal sino a partir de la fecha en que quede depositada la copia, y el funcionario que la reciba extenderá un recibo a los suscriptores. Además, el depósito se comunica inmediatamente a dicha oficina para que, si la convención viola el Código, ordene a las partes ajustarse a los requisitos de ley.",
+    "source_quote": "La convención colectiva se extenderá por escrito en tres ejemplares, bajo pena de nulidad absoluta. [...] No tendrá valor legal sino a partir de la fecha en que quede depositada la copia y, para este efecto, el funcionario a quien se entregue extenderá un recibo a cada uno de los que la hayan suscrito.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "57",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_57"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "57",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_57",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos ejemplares debe tener una convención colectiva y cuál es la consecuencia de no cumplir con este requisito?",
+    "output": "Debe extenderse en tres ejemplares; de lo contrario, la convención es nula de nulidad absoluta.",
+    "source_quote": "La convención colectiva se extenderá por escrito en tres ejemplares, bajo pena de nulidad absoluta.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "57",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_57",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué momento adquiere valor legal una convención colectiva?",
+    "output": "A partir de la fecha en que quede depositada la copia en la Oficina de Asuntos Gremiales y de Conciliación Administrativa del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "No tendrá valor legal sino a partir de la fecha en que quede depositada la copia",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "57",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_57",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la formalidad esencial de la convención colectiva: debe ser escrita y en tres copias, so pena de nulidad absoluta, garantizando seguridad jurídica y certeza en el instrumento.",
+    "source_quote": "La convención colectiva se extenderá por escrito en tres ejemplares, bajo pena de nulidad absoluta.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "57",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_57",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el momento en que la convención surte efectos legales, condicionándolo al depósito de la copia y a la entrega de recibos, lo que permite un control administrativo y publicidad del acto.",
+    "source_quote": "No tendrá valor legal sino a partir de la fecha en que quede depositada la copia y, para este efecto, el funcionario a quien se entregue extenderá un recibo a cada uno de los que la hayan suscrito.",
+    "item_index": 2
+  }
+]

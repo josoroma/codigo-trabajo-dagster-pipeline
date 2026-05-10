@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 269 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 269 otorga a los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social la facultad de ordenar la suspensión o el cierre de centros de trabajo cuando en ellos se cometan infracciones al Título correspondiente que sean lo suficientemente graves como para merecer esa sanción.",
+    "source_quote": "Los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social podrán ordenar la suspensión o cierre de los centros de trabajo, donde se cometan infracciones al presente Título, que ameriten tal sanción.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "269",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_269"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "269",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_269",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes pueden ordenar la suspensión o cierre de centros de trabajo según el artículo 269?",
+    "output": "Los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "Los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social podrán ordenar la suspensión o cierre de los centros de trabajo...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "269",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_269",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede ordenar la suspensión o cierre de un centro de trabajo conforme a este artículo?",
+    "output": "Cuando se cometan infracciones al presente Título que ameriten tal sanción.",
+    "source_quote": "...donde se cometan infracciones al presente Título, que ameriten tal sanción.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "269",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_269",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa a las autoridades competentes para imponer las medidas de suspensión o cierre, delimitando quiénes ejercen esta potestad sancionatoria.",
+    "source_quote": "Los inspectores del Instituto Nacional de Seguros y del Ministerio de Trabajo y Seguridad Social podrán ordenar la suspensión o cierre de los centros de trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "269",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_269",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición material para la aplicación de la sanción: la comisión de infracciones al Título correspondiente que, por su gravedad, justifiquen la suspensión o el cierre del centro de trabajo.",
+    "source_quote": "donde se cometan infracciones al presente Título, que ameriten tal sanción",
+    "item_index": 2
+  }
+]

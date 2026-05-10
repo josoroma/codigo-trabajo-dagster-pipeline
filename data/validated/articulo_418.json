@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 418 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 418 establece que todos los derechos y acciones derivados del Código de Trabajo, sus reglamentos y leyes conexas (incluidas las de previsión social), que no provengan directamente de contratos de trabajo ni de conflictos jurídicos entre empleadores y trabajadores, prescriben en un año. Además, indica que el plazo comienza a correr, para los derechos, desde que ocurre el hecho o se tiene conocimiento de él, y para las acciones y demás interesados, desde que están en posibilidad efectiva de reclamar.",
+    "source_quote": "todos los derechos y las acciones provenientes de este Código, de sus reglamentos, de sus leyes conexas, incluidas las de previsión social, que no se originen directamente en contratos de trabajo ni se relacionen con conflictos jurídicos entre personas empleadoras y trabajadoras, prescriben en un año.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "418",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_418"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "418",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_418",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo empieza a correr el plazo de prescripción para los derechos mencionados en el artículo 418?",
+    "output": "Desde el acaecimiento del hecho respectivo o desde que se tuvo conocimiento de él.",
+    "source_quote": "para las primeras, desde el acaecimiento del hecho respectivo o desde que tuvieron conocimiento",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "418",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_418",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito de aplicación y fija el plazo general de prescripción de un año para aquellos derechos y acciones laborales que no derivan directamente de contratos de trabajo ni de conflictos entre empleadores y trabajadores.",
+    "source_quote": "todos los derechos y las acciones provenientes de este Código, de sus reglamentos, de sus leyes conexas, incluidas las de previsión social, que no se originen directamente en contratos de trabajo ni se relacionen con conflictos jurídicos entre personas empleadoras y trabajadoras, prescriben en un año.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "418",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_418",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el momento de inicio del cómputo del plazo de prescripción, distinguiendo entre derechos (desde el hecho o su conocimiento) y acciones e interesados (desde la posibilidad efectiva de reclamar).",
+    "source_quote": "Ese plazo correrá, para las primeras, desde el acaecimiento del hecho respectivo o desde que tuvieron conocimiento y, para las segundas y las demás personas interesadas, desde el momento en que estén en posibilidad efectiva de reclamar sus derechos o de ejercitar las acciones correspondientes.",
+    "item_index": 2
+  }
+]

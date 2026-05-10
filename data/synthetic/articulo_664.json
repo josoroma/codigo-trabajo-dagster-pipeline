@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 664 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 664 regula las pruebas en el procedimiento de calificación de huelga. Establece que las pruebas deben limitarse a los requisitos legales de calificación y hechos conexos, y presentarse en la audiencia complementaria. Para la calificación previa, la constatación del apoyo sindical se hace con la certificación de la asamblea o actas de votación, según reglamento del Ministerio de Trabajo. El juez debe verificar otros hechos en el sitio de forma sumaria e inmediata, dentro de las 72 horas posteriores al emplazamiento. En casos calificados, otro juez puede auxiliar. Además, para el cómputo del apoyo se consideran trabajadores a los despedidos sin autorización tras iniciada la conciliación, excluyendo a los del artículo 382.",
+    "source_quote": "Las pruebas deben referirse únicamente a los requisitos legales necesarios para la calificación y a los hechos relacionados con ellos, y deberán rendirse en la audiencia complementaria indicada en el artículo anterior.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se realiza la constatación del apoyo en la calificación previa de una huelga?",
+    "output": "Mediante la certificación del resultado de la asamblea general del sindicato o los sindicatos respectivos, o por medio de las actas de votación, siguiendo el procedimiento que determine el Ministerio de Trabajo y Seguridad Social vía reglamentaria.",
+    "source_quote": "En el caso de la calificación previa, la constatación del apoyo se hará mediante la certificación del resultado de la asamblea general del sindicato o los sindicatos respectivos, o bien, por medio de las actas de votación, en cuyo caso se seguirá el procedimiento que al efecto determine el Ministerio de Trabajo y Seguridad Social vía reglamentaria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién realiza la constatación de otros hechos relevantes en el sitio y en qué plazo?",
+    "output": "El juez, sumariamente de manera inmediata, una vez recibida la solicitud de calificación de la huelga y dentro del plazo de setenta y dos horas previsto para el señalamiento de la audiencia oral de carácter sumarísima, posterior al emplazamiento.",
+    "source_quote": "La constatación de otros hechos relevantes en el sitio lo hará el juez sumariamente de manera inmediata, una vez recibida la solicitud de calificación de la huelga y dentro del plazo de setenta y dos horas previsto para el señalamiento de la audiencia oral de carácter sumarísima, posterior al emplazamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de pertinencia probatoria, limitando las pruebas a los requisitos de calificación de la huelga y hechos conexos, y fija el momento procesal para su presentación en la audiencia complementaria.",
+    "source_quote": "Las pruebas deben referirse únicamente a los requisitos legales necesarios para la calificación y a los hechos relacionados con ellos, y deberán rendirse en la audiencia complementaria indicada en el artículo anterior.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "664",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_664",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el universo de trabajadores que se consideran para verificar el apoyo a la huelga, incluyendo a quienes fueron despedidos sin autorización tras el inicio de la conciliación y excluyendo a los mencionados en el artículo 382, para garantizar un cómputo justo del respaldo sindical.",
+    "source_quote": "Para efectos de la constatación del apoyo se tendrán como trabajadores o trabajadoras de la empresa las personas que hubieran sido despedidas del trabajo sin autorización después de iniciado el procedimiento de conciliación y no se computarán como tales los trabajadores indicados en el artículo 382.",
+    "item_index": 2
+  }
+]

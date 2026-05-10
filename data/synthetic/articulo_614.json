@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 614 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 614 establece que los conflictos económicos y sociales que surgen en las relaciones laborales pueden resolverse mediante tres mecanismos: el arreglo directo, la conciliación y el arbitraje.",
+    "source_quote": "Son medios de solución de los conflictos económicos y sociales generados en las relaciones laborales, el arreglo directo, la conciliación y el arbitraje.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "614",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_614"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "614",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_614",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los medios de solución de los conflictos económicos y sociales en las relaciones laborales según el artículo 614?",
+    "output": "El arreglo directo, la conciliación y el arbitraje.",
+    "source_quote": "Son medios de solución de los conflictos económicos y sociales generados en las relaciones laborales, el arreglo directo, la conciliación y el arbitraje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "614",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_614",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de conflictos aborda el artículo 614 del Código de Trabajo?",
+    "output": "Conflictos económicos y sociales generados en las relaciones laborales.",
+    "source_quote": "conflictos económicos y sociales generados en las relaciones laborales",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "614",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_614",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer los tres mecanismos legales disponibles para resolver conflictos laborales de naturaleza económica y social, promoviendo soluciones pacíficas y ordenadas.",
+    "source_quote": "Son medios de solución de los conflictos económicos y sociales generados en las relaciones laborales, el arreglo directo, la conciliación y el arbitraje.",
+    "item_index": 1
+  }
+]

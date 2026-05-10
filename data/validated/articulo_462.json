@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 462 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 462 establece los requisitos de firma para que las gestiones escritas de las partes en un proceso laboral tengan validez. Exige que todo escrito esté firmado por el peticionario, y si se tramita por medios tecnológicos, la firma debe autenticarse según la ley. Si la persona no sabe o no puede firmar, se hará constar esa circunstancia y otra persona firmará a su ruego. No se necesita autenticación de abogado cuando el escrito se presenta personalmente. En los demás casos, la firma debe ser autenticada por un profesional en derecho autorizado para litigar; si se omite, se previene a la parte para que la autentique en tres días naturales, so pena de declarar ineficaz el escrito.",
+    "source_quote": "Para que los actos de proposición de las partes y en general todas sus gestiones escritas tengan efecto, deberán estar firmadas por el peticionario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "462",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_462"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "462",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_462",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito deben cumplir las gestiones escritas de las partes para que tengan efecto según el artículo 462?",
+    "output": "Deben estar firmadas por el peticionario.",
+    "source_quote": "Para que los actos de proposición de las partes y en general todas sus gestiones escritas tengan efecto, deberán estar firmadas por el peticionario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "462",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_462",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si se omite la autenticación de la firma por un profesional en derecho autorizado para litigar?",
+    "output": "Se prevendrá a la parte para que se presente a autenticarlas dentro de un plazo de tres días naturales, bajo apercibimiento de que, de no hacerlo, se declarará ineficaz la presentación del escrito.",
+    "source_quote": "Si se omitiera el requisito, se prevendrá a la parte para que se presente a autenticarlas, dentro de un plazo de tres días naturales, bajo el apercibimiento de que, de no hacerlo, se declarará ineficaz la presentación del escrito.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "462",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_462",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de que toda gestión escrita en el proceso laboral debe llevar la firma del peticionario para ser considerada válida y producir efectos jurídicos.",
+    "source_quote": "Para que los actos de proposición de las partes y en general todas sus gestiones escritas tengan efecto, deberán estar firmadas por el peticionario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "462",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_462",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la consecuencia procesal por omitir la autenticación de la firma: se concede un plazo breve para subsanar el defecto, y si no se cumple, el escrito se tiene por no presentado, garantizando así la seriedad y formalidad de las actuaciones.",
+    "source_quote": "Si se omitiera el requisito, se prevendrá a la parte para que se presente a autenticarlas, dentro de un plazo de tres días naturales, bajo el apercibimiento de que, de no hacerlo, se declarará ineficaz la presentación del escrito.",
+    "item_index": 2
+  }
+]

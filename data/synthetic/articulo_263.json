@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 263 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 263 establece los requisitos que debe cumplir una persona para ser miembro de la junta médica calificadora de la incapacidad para el trabajo, como ser médico colegiado, ciudadano en ejercicio, tener experiencia en medicina del trabajo, y no tener ciertos impedimentos políticos o laborales. Además, dispone que la junta se integra por decreto ejecutivo y debe incluir un médico general, un ortopedista y un fisiatra. Los miembros son nombrados por cinco años con posibilidad de reelección, y pueden celebrar hasta ocho sesiones remuneradas al mes, recibiendo dietas según el reglamento.",
+    "source_quote": "Para ser miembro integrante de la junta médica calificadora de la incapacidad para el trabajo se requieren los siguientes requisitos",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "263",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_263"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "263",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_263",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Puede un empleado del Instituto Nacional de Seguros ser miembro de la junta médica calificadora de la incapacidad para el trabajo?",
+    "output": "No, excepto cuando se trate del representante de esta Institución ante la junta médica.",
+    "source_quote": "No ser empleado del Instituto Nacional de Seguros, excepto cuando se trate del representante de esta Institución ante la junta médica.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "263",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_263",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Por cuánto tiempo son designados los miembros de la junta médica y pueden ser reelectos?",
+    "output": "Son designados por períodos de cinco años y sí pueden ser reelectos.",
+    "source_quote": "Los miembros de la junta médica calificadora de la incapacidad para el trabajo serán designados por períodos de cinco años, y podrán ser reelectos.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "263",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_263",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el mecanismo de integración de la junta médica mediante decreto ejecutivo y garantiza una composición multidisciplinaria obligatoria con tres especialidades médicas, asegurando una evaluación integral de la incapacidad laboral.",
+    "source_quote": "La junta será integrada por decreto. El Poder Ejecutivo velará porque en ella formen parte un médico general, un ortopedista y un fisiatra.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "263",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_263",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la duración del mandato de los miembros, otorgando estabilidad en el cargo por un plazo fijo, y permite la continuidad mediante la reelección, lo que favorece la experiencia acumulada en la calificación de incapacidades.",
+    "source_quote": "Los miembros de la junta médica calificadora de la incapacidad para el trabajo serán designados por períodos de cinco años, y podrán ser reelectos.",
+    "item_index": 2
+  }
+]

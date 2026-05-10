@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 63 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 63 establece los requisitos para que una convención colectiva de trabajo adquiera fuerza de ley para todos los patronos y trabajadores, sindicalizados o no, de una rama industrial, actividad económica o región determinada. Estos requisitos incluyen: constar por escrito en tres ejemplares; estar suscrita por sindicatos o patronos que representen dos terceras partes de los trabajadores ocupados y de los sindicalizados en ese ámbito; presentar una solicitud al Ministerio de Trabajo para su publicación y posible oposición en un plazo de quince días; y, finalmente, que el Poder Ejecutivo emita un decreto de obligatoriedad si no hay oposición o esta es desechada. La convención así extendida prevalece sobre contratos individuales o colectivos previos, excepto en lo más favorable al trabajador.",
+    "source_quote": "Para que la convención colectiva se extienda con fuerza de ley para todos los patronos y trabajadores, sindicalizados o no, de determinada rama de la industria, actividad económica o región del país, será necesario:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "63",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_63"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "63",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_63",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo para presentar oposición a la extensión obligatoria de una convención colectiva?",
+    "output": "El plazo es de quince días improrrogables, contados a partir de la publicación en el Diario Oficial.",
+    "source_quote": "concediendo un término improrrogable de quince días para que cualquier patrono o sindicato de trabajadores que resulte directa e indudablemente afectado, formule oposición razonada contra la extensión obligatoria del pacto",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "63",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_63",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si transcurre el plazo de oposición sin que se presente ninguna?",
+    "output": "El Poder Ejecutivo emite un decreto declarando la obligatoriedad de la convención colectiva, siempre que no se oponga a leyes de interés público y carácter social vigentes.",
+    "source_quote": "Que transcurrido dicho término sin que se formule oposición o desechadas las que se hubieren presentado, el Poder Ejecutivo emita decreto declarando su obligatoriedad en lo que no se oponga a las leyes de interés público y de carácter social vigentes, y la circunscripción territorial, empresas o industrias que habrá de abarcar.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "63",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_63",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la formalidad documental de la convención colectiva, exigiendo su constancia escrita y la elaboración de tres copias para garantizar su registro, entrega a las partes y presentación ante la autoridad administrativa.",
+    "source_quote": "Que se haga constar por escrito, en tres ejemplares, uno para cada parte y otro para acompañarlo junto con la solicitud de que habla el inciso d);",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "63",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_63",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la jerarquía normativa de la convención extendida, la cual prevalece sobre otros acuerdos contractuales previos, pero respetando el principio de condición más beneficiosa para el trabajador.",
+    "source_quote": "Es entendido que la convención colectiva declarada de extensión obligatoria se aplicará, a pesar de cualquier disposición en contrario contenida en los contratos individuales o colectivos que las empresas que afecte tengan celebrados, salvo en aquellos puntos en que estas estipulaciones sean más favorables a los trabajadores.",
+    "item_index": 2
+  }
+]

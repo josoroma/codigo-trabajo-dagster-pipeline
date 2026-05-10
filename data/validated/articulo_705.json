@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 705 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 705 establece reglas especiales para el procedimiento de conciliación cuando participan empleados del Estado. Indica que: a) la parte empleadora debe designar a sus delegados y al miembro del tribunal conciliador en un plazo de quince días; b) el acuerdo conciliatorio está condicionado a la aprobación del órgano competente para obligar al empleador; c) si no hay acuerdo y no se comprometen a arbitraje, se cierra el procedimiento y se habilita la huelga, siempre que se cumplan los requisitos legales, y la iniciación de la huelga se regirá por lo establecido en el arreglo no aprobado por la Administración.",
+    "source_quote": "El procedimiento de conciliación que involucre a servidores del Estado en cualquiera de los regímenes se llevará a cabo de acuerdo con lo previsto en este Código, con las modificaciones que resulten de las siguientes reglas especiales:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuánto tiempo debe la parte empleadora designar a los delegados y a la persona que integrará el tribunal conciliador?",
+    "output": "Dentro de quince días.",
+    "source_quote": "La designación de los delegados y de la persona que integrará el tribunal conciliador se deberá hacer por la parte empleadora dentro de quince días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con el acuerdo conciliatorio en este procedimiento especial?",
+    "output": "Está sujeto a lo indicado en los artículos 691 y 692, y se entiende siempre condicionado a la aprobación del órgano con facultades para obligar a la parte empleadora.",
+    "source_quote": "El acuerdo a que se llegue estará sujeto a lo indicado en los artículos 691 y 692 y se entiende siempre condicionado a la aprobación del órgano con facultades para obligar a la parte empleadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un plazo perentorio para que el empleador público nombre a sus representantes en la conciliación, agilizando el procedimiento.",
+    "source_quote": "a) La designación de los delegados y de la persona que integrará el tribunal conciliador se deberá hacer por la parte empleadora dentro de quince días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Somete la validez del acuerdo conciliatorio a la revisión y aprobación de la autoridad que puede comprometer al Estado, evitando acuerdos sin respaldo institucional.",
+    "source_quote": "b) El acuerdo a que se llegue estará sujeto a lo indicado en los artículos 691 y 692 y se entiende siempre condicionado a la aprobación del órgano con facultades para obligar a la parte empleadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "705",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_None_articulo_705",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el cierre del procedimiento conciliatorio infructuoso y abre la posibilidad de huelga legal, supeditada al cumplimiento de los requisitos del Código.",
+    "source_quote": "c) Si no hubiera arreglo y no se estuviera en el caso de avenimiento entre las partes para someter las diferencias a arbitraje, se dará por concluido el procedimiento y quedará así expedita la vía de la huelga, siempre y cuando se cumplan todos los requisitos exigidos en este Código para su legalidad.",
+    "item_index": 3
+  }
+]

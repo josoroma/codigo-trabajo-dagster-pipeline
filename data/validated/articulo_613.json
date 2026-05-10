@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 613 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 613 autoriza al Colegio de Abogados a organizar centros de arbitraje laboral, con la condición de que estos servicios sean gratuitos para los trabajadores que califiquen para recibir asistencia legal gratuita. Estos centros se regirán por las normas sobre árbitros de la sección segunda y por lo dispuesto en este capítulo. Además, su funcionamiento general será definido mediante un reglamento.",
+    "source_quote": "Se faculta al Colegio de Abogados para que organice centros de arbitraje laboral, siempre y cuando sea sin costo alguno para los trabajadores y las trabajadoras que se hallen en condiciones de recibir asistencia legal gratuita",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "613",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_613"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "613",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_613",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se faculta para organizar centros de arbitraje laboral según el artículo 613?",
+    "output": "Se faculta al Colegio de Abogados.",
+    "source_quote": "Se faculta al Colegio de Abogados para que organice centros de arbitraje laboral",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "613",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_613",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se establecerá el funcionamiento de los centros de arbitraje en general?",
+    "output": "Se establecerá por reglamento.",
+    "source_quote": "El funcionamiento de los centros de arbitraje, en general, se establecerá por reglamento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "613",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_613",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Colegio de Abogados la potestad de crear centros de arbitraje laboral, imponiendo como condición que el servicio sea gratuito para los trabajadores con derecho a asistencia legal gratuita, y remite a la normativa sobre árbitros y al capítulo correspondiente para su regulación sustantiva.",
+    "source_quote": "Se faculta al Colegio de Abogados para que organice centros de arbitraje laboral, siempre y cuando sea sin costo alguno para los trabajadores y las trabajadoras que se hallen en condiciones de recibir asistencia legal gratuita, según lo previsto en la sección segunda, árbitros y árbitras, y se regirán en todo lo demás por lo dispuesto en este capítulo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "613",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_613",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delega en la vía reglamentaria la definición de los aspectos operativos y de funcionamiento de los centros de arbitraje, sin perjuicio de las disposiciones legales ya mencionadas.",
+    "source_quote": "El funcionamiento de los centros de arbitraje, en general, se establecerá por reglamento.",
+    "item_index": 2
+  }
+]

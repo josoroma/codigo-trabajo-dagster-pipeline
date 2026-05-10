@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 226 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 226 establece que ciertas lesiones que no causan una incapacidad funcional (impedimentos) pero sí producen una mutilación, cicatriz o desfiguración en la víctima, se consideran equivalentes a una incapacidad permanente para el cálculo de las prestaciones económicas. La equivalencia se determina según la gravedad de la lesión. Además, aclara que esta regla no afecta lo dispuesto en el artículo 224 sobre cicatrices retráctiles que no pueden corregirse con cirugía.",
+    "source_quote": "Las lesiones que sin producir impedimentos acarreen alguna mutilación, cicatriz o desfiguración de la víctima, se equipararán para los efectos de las prestaciones en dinero, según su gravedad, a la incapacidad permanente, sin perjuicio de lo establecido en el artículo 224 para las cicatrices retráctiles que no pueden ser resueltas quirúrgicamente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "226",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_226"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "226",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_226",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de lesiones se equiparan a la incapacidad permanente según el artículo 226?",
+    "output": "Las lesiones que sin producir impedimentos acarreen alguna mutilación, cicatriz o desfiguración de la víctima.",
+    "source_quote": "Las lesiones que sin producir impedimentos acarreen alguna mutilación, cicatriz o desfiguración de la víctima, se equipararán para los efectos de las prestaciones en dinero, según su gravedad, a la incapacidad permanente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "226",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_226",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué disposición del artículo 226 se relaciona con las cicatrices retráctiles?",
+    "output": "El artículo 226 remite a lo establecido en el artículo 224 para las cicatrices retráctiles que no pueden ser resueltas quirúrgicamente, sin perjuicio de la equiparación general.",
+    "source_quote": "sin perjuicio de lo establecido en el artículo 224 para las cicatrices retráctiles que no pueden ser resueltas quirúrgicamente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "226",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_226",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el supuesto de hecho: lesiones que no generan incapacidad funcional pero sí alteraciones estéticas (mutilación, cicatriz o desfiguración). Establece la consecuencia jurídica: se equiparan a la incapacidad permanente para el cálculo de las indemnizaciones, graduando la prestación según la gravedad de la lesión.",
+    "source_quote": "Las lesiones que sin producir impedimentos acarreen alguna mutilación, cicatriz o desfiguración de la víctima, se equipararán para los efectos de las prestaciones en dinero, según su gravedad, a la incapacidad permanente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "226",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_226",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Salvaguarda la aplicación del artículo 224, que regula específicamente las cicatrices retráctiles no corregibles quirúrgicamente, evitando que la equiparación general del artículo 226 contradiga o excluya ese tratamiento especial.",
+    "source_quote": "sin perjuicio de lo establecido en el artículo 224 para las cicatrices retráctiles que no pueden ser resueltas quirúrgicamente.",
+    "item_index": 2
+  }
+]

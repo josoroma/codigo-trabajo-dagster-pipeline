@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 395 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 395 declara que el derecho de los empleadores al paro y el de los trabajadores a la huelga son irrenunciables. No obstante, permite que en una convención o instrumento colectivo se pacte una cláusula que suspenda temporalmente el ejercicio de esos derechos, siempre que ninguna de las partes incumpla lo acordado.",
+    "source_quote": "El derecho de las partes empleadoras al paro y el de las trabajadoras a la huelga son irrenunciables; pero será válida la cláusula, en virtud de la cual se comprometa a no ejercerlos temporalmente, mientras una de las partes no incumpla los términos de la convención o el instrumento colectivo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "395",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_395"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "395",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_395",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Son renunciables el derecho al paro de los empleadores y el derecho a la huelga de los trabajadores?",
+    "output": "No, ambos derechos son irrenunciables.",
+    "source_quote": "El derecho de las partes empleadoras al paro y el de las trabajadoras a la huelga son irrenunciables",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "395",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_395",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición es válida una cláusula que compromete a no ejercer el paro o la huelga temporalmente?",
+    "output": "Es válida mientras una de las partes no incumpla los términos de la convención o el instrumento colectivo.",
+    "source_quote": "será válida la cláusula, en virtud de la cual se comprometa a no ejercerlos temporalmente, mientras una de las partes no incumpla los términos de la convención o el instrumento colectivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "395",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_395",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declarar la naturaleza irrenunciable de estos derechos fundamentales de acción colectiva, impidiendo que las partes puedan renunciar a ellos de manera definitiva.",
+    "source_quote": "El derecho de las partes empleadoras al paro y el de las trabajadoras a la huelga son irrenunciables",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "395",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_395",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer una excepción que permite la suspensión temporal pactada de esos derechos, condicionada al cumplimiento recíproco del convenio colectivo, fomentando la paz laboral sin anular los derechos.",
+    "source_quote": "pero será válida la cláusula, en virtud de la cual se comprometa a no ejercerlos temporalmente, mientras una de las partes no incumpla los términos de la convención o el instrumento colectivo.",
+    "item_index": 2
+  }
+]

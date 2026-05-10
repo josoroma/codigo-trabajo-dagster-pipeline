@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 414 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 414 establece que los empleadores tienen un plazo de un mes para ejercer su derecho a despedir justificadamente o sancionar disciplinariamente a un trabajador. Este plazo comienza a contar desde que ocurrió la causa del despido o sanción, o desde que el empleador conoció los hechos. Si se requiere un procedimiento sancionador, la intención de sancionar debe notificarse al trabajador dentro de ese mes, y luego el plazo se reinicia cuando el empleador está en condiciones de resolver, a menos que el procedimiento se detenga por culpa exclusiva del empleador, caso en el cual la prescripción se aplica si la paralización dura un mes.",
+    "source_quote": "los derechos y las acciones de los empleadores o las empleadoras para despedir justificadamente a los trabajadores o las trabajadoras, o para disciplinar sus faltas, prescribirán en el término de un mes, que comenzará a correr desde que se dio la causa para la separación o sanción o, en su caso, desde que fueran conocidos los hechos causales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "414",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_414"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "414",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_414",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de prescripción para que un empleador pueda despedir justificadamente o disciplinar a un trabajador?",
+    "output": "El plazo de prescripción es de un mes.",
+    "source_quote": "los derechos y las acciones de los empleadores o las empleadoras para despedir justificadamente a los trabajadores o las trabajadoras, o para disciplinar sus faltas, prescribirán en el término de un mes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "414",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_414",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Desde cuándo comienza a correr el plazo de prescripción de un mes según el artículo 414?",
+    "output": "Comienza a correr desde que se dio la causa para la separación o sanción, o desde que fueron conocidos los hechos causales.",
+    "source_quote": "que comenzará a correr desde que se dio la causa para la separación o sanción o, en su caso, desde que fueran conocidos los hechos causales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "414",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_414",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte fija el plazo general de prescripción de un mes para que el empleador ejerza sus facultades disciplinarias o de despido justificado, y determina el momento de inicio del cómputo, garantizando seguridad jurídica y evitando acciones tardías.",
+    "source_quote": "los derechos y las acciones de los empleadores o las empleadoras para despedir justificadamente a los trabajadores o las trabajadoras, o para disciplinar sus faltas, prescribirán en el término de un mes, que comenzará a correr desde que se dio la causa para la separación o sanción o, en su caso, desde que fueran conocidos los hechos causales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "414",
+    "chunk_id": "libro_None_titulo_NOVENO_capitulo_None_articulo_414",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte regula el cómputo del plazo cuando existe un procedimiento sancionador, exigiendo notificar la intención de sanción dentro del mes inicial y reiniciando el plazo al momento de la resolución, excepto si la demora es imputable al empleador, en cuyo caso la prescripción opera para proteger al trabajador de dilaciones injustificadas.",
+    "source_quote": "En caso de que la parte empleadora deba cumplir un procedimiento sancionador, la intención de sanción debe notificarse al empleado dentro de ese plazo y, a partir de ese momento, el mes comenzará a correr de nuevo en el momento en que la persona empleadora o el órgano competente, en su caso, esté en posibilidad de resolver, salvo que el procedimiento se paralice o detenga por culpa atribuible exclusivamente a la parte empleadora, situación en la cual la prescripción es aplicable, si la paralización o suspensión alcanza a cubrir ese plazo.",
+    "item_index": 2
+  }
+]

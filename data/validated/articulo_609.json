@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 609 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 609 regula las consecuencias del incumplimiento de cargas procesales en el arbitraje laboral. Si la parte actora no atiende prevenciones previas al traslado de la demanda o no deposita los honorarios del arbitraje, el proceso se termina y se tiene por no interpuesto. Si es la parte demandada quien no contesta o no deposita sus honorarios, el árbitro propuesto por la otra parte actúa como único integrante del órgano arbitral, el procedimiento continúa solo con las pruebas de la parte requirente (si esta cumplió), y la demandada puede apersonarse después, tomando el proceso en el estado en que se halle.",
+    "source_quote": "Si la parte actora o quien o quienes soliciten el arbitraje no cumplen con alguna prevención anterior al traslado de la demanda o con el depósito de los honorarios del arbitraje, el proceso se dará por terminado y se tendrá por no interpuesto para todo efecto, mediante resolución que dictará el centro de arbitraje.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "609",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_609"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "609",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_609",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la parte actora no deposita los honorarios del arbitraje?",
+    "output": "El proceso se dará por terminado y se tendrá por no interpuesto para todo efecto, mediante resolución del centro de arbitraje.",
+    "source_quote": "Si la parte actora o quien o quienes soliciten el arbitraje no cumplen con alguna prevención anterior al traslado de la demanda o con el depósito de los honorarios del arbitraje, el proceso se dará por terminado y se tendrá por no interpuesto para todo efecto, mediante resolución que dictará el centro de arbitraje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "609",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_609",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si la parte demandada no contesta o no deposita los honorarios que le corresponden?",
+    "output": "La persona propuesta por la otra parte actuará como única integrante del órgano arbitral, el procedimiento se desarrollará con intervención de la parte requirente (si esta cumplió con su carga) y se recibirán únicamente sus pruebas. La contraparte podrá apersonarse en cualquier momento y tomar el proceso en el estado en que se halle.",
+    "source_quote": "Cuando la parte demandada no conteste o no deposite los honorarios que le corresponden, la persona propuesta por la otra parte actuará como única integrante del órgano arbitral y el procedimiento se desarrollará con intervención de la parte requirente, si a su vez hubiera cumplido con esa carga, caso en el cual se recibirán únicamente sus pruebas. La contraparte podrá apersonarse al proceso en cualquier momento y tomar el proceso en el estado en que se hallen, y ejercer los derechos procesales que puedan hacerse valer en el momento del apersonamiento.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "609",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_609",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una sanción procesal para la parte actora que incumple requisitos previos o el pago de honorarios, garantizando la seriedad del proceso y evitando dilaciones injustificadas.",
+    "source_quote": "Si la parte actora o quien o quienes soliciten el arbitraje no cumplen con alguna prevención anterior al traslado de la demanda o con el depósito de los honorarios del arbitraje, el proceso se dará por terminado y se tendrá por no interpuesto para todo efecto, mediante resolución que dictará el centro de arbitraje.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "609",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_609",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la continuación del arbitraje ante la rebeldía de la parte demandada, asegurando el acceso a la justicia para la parte cumplidora, pero resguardando el derecho de la demandada a incorporarse posteriormente sin retrotraer etapas.",
+    "source_quote": "Cuando la parte demandada no conteste o no deposite los honorarios que le corresponden, la persona propuesta por la otra parte actuará como única integrante del órgano arbitral y el procedimiento se desarrollará con intervención de la parte requirente, si a su vez hubiera cumplido con esa carga, caso en el cual se recibirán únicamente sus pruebas. La contraparte podrá apersonarse al proceso en cualquier momento y tomar el proceso en el estado en que se hallen, y ejercer los derechos procesales que puedan hacerse valer en el momento del apersonamiento.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 565 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 565 establece que, salvo pacto o decisión en contrario, toda sentencia que condene al pago de una obligación dineraria implica automáticamente para el deudor dos obligaciones accesorias: 1) pagar intereses sobre el principal, calculados según la tasa del Código de Comercio, desde la exigibilidad de la deuda o de cada tracto (o desde la firmeza de la sentencia si es por daños y perjuicios), y 2) actualizar el valor de los extremos económicos principales a valor presente, utilizando la variación del índice de precios al consumidor del Área Metropolitana entre el mes anterior a la demanda y el mes anterior al pago efectivo. Además, precisa que los intereses se calculan sobre los montos condenados antes de ser actualizados, y luego se aplica la actualización únicamente sobre el principal.",
+    "source_quote": "Toda sentencia de condena a pagar una obligación dineraria implicará para el deudor, salvo decisión o pacto en contrario, aunque no se diga expresamente: 1.- La obligación de cancelar intereses sobre el principal... 2.- La obligación de adecuar los extremos económicos principales, actualizándolos a valor presente...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "565",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_565"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "565",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_565",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué momento se devengan los intereses si la condena es por daños y perjuicios?",
+    "output": "Desde la firmeza de la sentencia.",
+    "source_quote": "Si la condena lo fuera a título de daños y perjuicios, el devengo de intereses se iniciará desde la firmeza de la sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "565",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_565",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre qué montos se calculan los intereses antes de la actualización a valor presente?",
+    "output": "Sobre los montos condenados o resultantes después de su liquidación, antes de ser llevados a valor presente.",
+    "source_quote": "El cálculo de intereses se hará sobre los montos condenados o resultantes después de su liquidación, antes de ser llevados a valor presente...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "565",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_565",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que toda condena dineraria conlleva implícitamente la obligación de pagar intereses, salvo pacto en contrario, y detalla la tasa aplicable (Código de Comercio), el momento de inicio del devengo (exigibilidad o firmeza en daños) y la regla para moneda extranjera.",
+    "source_quote": "Toda sentencia de condena a pagar una obligación dineraria implicará para el deudor, salvo decisión o pacto en contrario, aunque no se diga expresamente: 1.- La obligación de cancelar intereses sobre el principal, al tipo fijado en la Ley N.° 3284, Código de Comercio, de 30 de abril de 1964, a partir de la exigibilidad del adeudo o de cada tracto cuando se integra en esa forma. Si la condena lo fuera a título de daños y perjuicios, el devengo de intereses se iniciará desde la firmeza de la sentencia. Para las obligaciones en moneda extranjera, se estará a lo dispuesto en ese mismo Código para las obligaciones en dólares de los Estados Unidos de América.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "565",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_565",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de actualizar el principal a valor presente según la variación del IPC, define el período de cálculo y el orden de operaciones: primero intereses sobre el monto histórico, luego actualización solo del principal.",
+    "source_quote": "2.- La obligación de adecuar los extremos económicos principales, actualizándolos a valor presente, en el mismo porcentaje en que haya variado el índice de precios para los consumidores del Área Metropolitana que lleve el órgano oficial encargado de determinar ese porcentaje, entre el mes anterior a la presentación de la demanda y el precedente a aquel en que efectivamente se realice el pago. El cálculo de intereses se hará sobre los montos condenados o resultantes después de su liquidación, antes de ser llevados a valor presente, y luego se hará la adecuación indicada en el último párrafo, únicamente sobre los extremos principales.",
+    "item_index": 2
+  }
+]

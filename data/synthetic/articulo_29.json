@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 29 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 29 establece las reglas para calcular el auxilio de cesantía que el patrono debe pagar cuando un contrato de trabajo por tiempo indeterminado termina por despido injustificado, por causas del artículo 83 o por otra ajena a la voluntad del trabajador. El monto depende del tiempo continuo laborado: 7 días de salario si trabajó entre 3 y 6 meses; 14 días si fue más de 6 meses y menos de un año; y si supera el año, se aplica una tabla progresiva que va de 19,5 días en el primer año hasta 20 días del año 13 en adelante, siempre por año o fracción mayor a seis meses. Además, la indemnización solo cubre los últimos ocho años de relación laboral y debe pagarse incluso si el trabajador pasa de inmediato a otro empleo.",
+    "source_quote": "Si el contrato de trabajo por tiempo indeterminado concluye por despido injustificado, o algunas de las causas previstas en el artículo 83 u otra ajena a la voluntad del trabajador, el patrono deberá pagarle un auxilio de cesantía de acuerdo con las siguientes reglas:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "29",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_29"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "29",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_29",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos días de salario corresponden de auxilio de cesantía si el trabajador laboró 4 meses continuos?",
+    "output": "Un importe igual a siete días de salario.",
+    "source_quote": "1. Después de un trabajo continuo no menor de tres meses ni mayor de seis, un importe igual a siete días de salario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "29",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_29",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de años de relación laboral que se pueden indemnizar con el auxilio de cesantía?",
+    "output": "Únicamente los últimos ocho años de relación laboral.",
+    "source_quote": "4. En ningún caso podrá indemnizar dicho auxilio de cesantía más que los últimos ocho años de relación laboral.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "29",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_29",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho que activa la obligación patronal de pagar el auxilio de cesantía, delimitando las causas de terminación contractual que dan derecho a esta prestación.",
+    "source_quote": "Si el contrato de trabajo por tiempo indeterminado concluye por despido injustificado, o algunas de las causas previstas en el artículo 83 u otra ajena a la voluntad del trabajador, el patrono deberá pagarle un auxilio de cesantía de acuerdo con las siguientes reglas:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "29",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_29",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un tope temporal máximo para el cálculo de la indemnización, impidiendo que se acumulen períodos anteriores a los últimos ocho años, lo que limita la responsabilidad económica del patrono.",
+    "source_quote": "4. En ningún caso podrá indemnizar dicho auxilio de cesantía más que los últimos ocho años de relación laboral.",
+    "item_index": 2
+  }
+]

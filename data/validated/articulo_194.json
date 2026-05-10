@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 194 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 194 establece que, aunque cualquier persona puede solicitar voluntariamente el seguro contra riesgos del trabajo, hay dos grupos que quedan excluidos de las reglas obligatorias de este Título: la actividad laboral familiar sin relación de dependencia y los trabajadores por cuenta propia que no reciben salario.",
+    "source_quote": "Sin perjuicio de que, a solicitud del interesado se pueda expedir el seguro contra riesgos del trabajo, estarán excluidos de las disposiciones de este Título: - La actividad laboral familiar de personas físicas... - Los trabajadores que realicen actividades por cuenta propia...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué actividades están excluidas de las disposiciones del Título sobre riesgos del trabajo según el artículo 194?",
+    "output": "Están excluidas la actividad laboral familiar de personas físicas y los trabajadores que realicen actividades por cuenta propia.",
+    "source_quote": "estarán excluidos de las disposiciones de este Título: - La actividad laboral familiar de personas físicas... - Los trabajadores que realicen actividades por cuenta propia...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se considera que la actividad laboral familiar está excluida del seguro obligatorio de riesgos del trabajo?",
+    "output": "Cuando se ejecuta entre cónyuges o quienes viven como tales, y sus ascendientes y descendientes, en beneficio común, y en forma indudable no exista relación de trabajo.",
+    "source_quote": "La actividad laboral familiar de personas físicas, entendida ésta como la que se ejecuta entre los cónyuges, o los que viven como tales, entre éstos y sus ascendientes y descendientes, en beneficio común, cuando en forma indudable no exista relación de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Aclara que la exclusión no impide la contratación voluntaria del seguro, limitando el alcance obligatorio del Título.",
+    "source_quote": "Sin perjuicio de que, a solicitud del interesado se pueda expedir el seguro contra riesgos del trabajo, estarán excluidos de las disposiciones de este Título:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define y excluye el trabajo familiar no remunerado y sin subordinación, evitando que se le apliquen las normas de riesgos del trabajo.",
+    "source_quote": "La actividad laboral familiar de personas físicas, entendida ésta como la que se ejecuta entre los cónyuges, o los que viven como tales, entre éstos y sus ascendientes y descendientes, en beneficio común, cuando en forma indudable no exista relación de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "194",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_194",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Excluye a los trabajadores autónomos sin salario, quienes no están en una relación laboral dependiente y por tanto no son sujetos obligados del seguro.",
+    "source_quote": "Los trabajadores que realicen actividades por cuenta propia, entendidos como los que trabajan solos o asociados, en forma independiente, y que no devengan salario.",
+    "item_index": 3
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 543 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 543 regula un procedimiento judicial sumario y urgente para acciones de protección laboral. El juzgado debe tramitarlo sin demora, posponiendo otros asuntos, y darle curso en un máximo de 24 horas. Solicita un informe detallado bajo juramento a la parte accionada, que debe rendirse en 5 días, acompañado de documentos relevantes y del expediente administrativo si es empleo público. En casos de actos lesivos, puede ordenar la suspensión inmediata de sus efectos y la reposición provisional del accionante, sin garantía. Si la acción es contra administraciones públicas, se tiene como demandado al Estado y se notifica a la Procuraduría; si es contra una empresa privada, el informe se pide a quien ejerza dirección o administración, y la notificación sirve de emplazamiento al empleador.",
+    "source_quote": "El juzgado substanciará el procedimiento sin pérdida de tiempo, posponiendo cualquier asunto de diversa naturaleza que se tramite en el despacho. A más tardar dentro de las veinticuatro horas siguientes al recibo de la solicitud, la autoridad judicial le dará curso, pidiéndole a la institución, la autoridad o a los órganos públicos o a la persona accionada un informe detallado acerca de los hechos que motivan la acción, el cual deberá rendirse bajo juramento dentro de los cinco días siguientes a la notificación, acompañado de copia de los documentos que sean de interés para la parte y de una copia certificada del expediente administrativo, en el caso de las relaciones de empleo público o del expediente del debido proceso en su caso, sin costo alguno para la parte demandante.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "543",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_543"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "543",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_543",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para que el juzgado dé curso a la solicitud?",
+    "output": "Dentro de las veinticuatro horas siguientes al recibo de la solicitud.",
+    "source_quote": "A más tardar dentro de las veinticuatro horas siguientes al recibo de la solicitud, la autoridad judicial le dará curso",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "543",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_543",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué medida puede disponer el juzgado en caso de actuaciones con resultados lesivos?",
+    "output": "La suspensión de los efectos del acto y la reposición provisional de la parte accionante a su situación previa, ejecutándose de inmediato sin necesidad de garantía alguna.",
+    "source_quote": "En el caso de actuaciones con resultados lesivos, en la misma resolución se podrá disponer la suspensión de los efectos del acto, y la parte accionante quedará repuesta provisionalmente a su situación previa al acto impugnado. Esa medida se ejecutará de inmediato sin necesidad de garantía alguna",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "543",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_543",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece un trámite sumario y urgente para la protección de derechos laborales, imponiendo al juzgado la obligación de actuar con celeridad, posponer otros asuntos y recabar información bajo juramento en plazos breves, garantizando el acceso a la prueba documental sin costo para el demandante.",
+    "source_quote": "El juzgado substanciará el procedimiento sin pérdida de tiempo, posponiendo cualquier asunto de diversa naturaleza que se tramite en el despacho. A más tardar dentro de las veinticuatro horas siguientes al recibo de la solicitud, la autoridad judicial le dará curso, pidiéndole a la institución, la autoridad o a los órganos públicos o a la persona accionada un informe detallado acerca de los hechos que motivan la acción, el cual deberá rendirse bajo juramento dentro de los cinco días siguientes a la notificación, acompañado de copia de los documentos que sean de interés para la parte y de una copia certificada del expediente administrativo, en el caso de las relaciones de empleo público o del expediente del debido proceso en su caso, sin costo alguno para la parte demandante.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "543",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_543",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la tutela cautelar inmediata suspendiendo los efectos del acto lesivo y reponiendo provisionalmente al accionante, sin exigir garantía, para evitar daños irreparables mientras se resuelve el fondo; además, faculta a la parte accionada a solicitar la revisión de la medida por razones de interés público o evidencia de no discriminación.",
+    "source_quote": "En el caso de actuaciones con resultados lesivos, en la misma resolución se podrá disponer la suspensión de los efectos del acto, y la parte accionante quedará repuesta provisionalmente a su situación previa al acto impugnado. Esa medida se ejecutará de inmediato sin necesidad de garantía alguna y podrá revisarse y modificarse a instancia de la parte accionada, por razones de conveniencia o de evidente interés público, o bien, porque valorada la situación de forma provisional se estime que existen evidencias excluyentes de discriminación, sin perjuicio de lo que se resuelva sobre el fondo.",
+    "item_index": 2
+  }
+]

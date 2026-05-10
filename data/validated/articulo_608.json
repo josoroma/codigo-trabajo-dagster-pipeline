@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 608 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 608 regula los honorarios de los árbitros en procesos laborales. Establece que, salvo pacto en contrario, las partes los cubren por igual. La fijación se hace según una tabla progresiva basada en el monto de la pretensión económica: 7,5% sobre el primer millón de colones, 5% sobre los siguientes dos millones, 2,5% sobre el exceso hasta cinco millones, 1% sobre el exceso hasta cincuenta millones y 0,50% sobre el exceso de esa suma. Para pretensiones no estimables, los honorarios se fijan prudencialmente. La autoridad del centro de arbitraje fija los honorarios antes de dar curso a la solicitud, y las partes deben depositar su parte en cinco días tras la notificación. Además, se prevé que el Fondo de Apoyo a la Solución Alterna de Conflictos pueda cubrir los honorarios de los trabajadores cuando adquiera solidez, y la Corte Suprema de Justicia puede actualizar la escala cada cinco años según el IPC.",
+    "source_quote": "Los honorarios de los árbitros o las árbitras, salvo pacto en contrario, serán cubiertos por las partes de forma igualitaria.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "608",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_608"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "608",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_608",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se determina el monto de los honorarios de los árbitros cuando la pretensión económica es de 4 millones de colones?",
+    "output": "Se aplica la tabla: un 7,5% sobre el primer millón de colones, un 5% sobre los siguientes dos millones de colones, y un 2,5% sobre el exceso hasta cinco millones, es decir, sobre el millón restante.",
+    "source_quote": "Un siete coma cinco por ciento (7,5%) sobre el primer millón de colones del monto de la pretensión económica; un cinco por ciento (5%) sobre los siguientes dos millones de colones; un dos coma cinco por ciento (2,5%) sobre el exceso hasta cinco millones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "608",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_608",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién fija los honorarios de los árbitros y cuál es el plazo para que las partes los depositen?",
+    "output": "La fijación la hace la autoridad del respectivo centro de arbitraje antes de darle curso a la solicitud, y las partes deben depositar lo que les corresponda dentro de los cinco días siguientes a la notificación.",
+    "source_quote": "La fijación la hará la autoridad del respectivo centro de arbitraje antes de darle curso a la solicitud y las partes deberán depositar lo que les corresponda dentro de los cinco días siguientes a la notificación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "608",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_608",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de distribución equitativa de los honorarios entre las partes, permitiendo pacto en contrario.",
+    "source_quote": "Los honorarios de los árbitros o las árbitras, salvo pacto en contrario, serán cubiertos por las partes de forma igualitaria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "608",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_608",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proporciona una escala progresiva para calcular los honorarios en función del valor de la pretensión, garantizando proporcionalidad.",
+    "source_quote": "La fijación de esos honorarios se regirá conforme a la siguiente tabla: Un siete coma cinco por ciento (7,5%) sobre el primer millón de colones del monto de la pretensión económica; un cinco por ciento (5%) sobre los siguientes dos millones de colones; un dos coma cinco por ciento (2,5%) sobre el exceso hasta cinco millones; un uno por ciento (1%) sobre el exceso hasta cincuenta millones de colones y un cero coma cincuenta por ciento (0,50%) sobre el exceso de esa suma.",
+    "item_index": 2
+  }
+]

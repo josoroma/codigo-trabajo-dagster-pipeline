@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 508 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 508 permite que el juez dicte una sentencia anticipada, ya sea por iniciativa propia o a solicitud de parte, para declarar que una demanda no puede ser admitida a trámite (improponibilidad) y ordenar su archivo, cuando se presenta alguna de tres situaciones: que la misma pretensión ya fue resuelta en un juicio anterior con carácter definitivo (cosa juzgada), que el derecho en disputa fue objeto de un acuerdo transaccional previo, o que existe evidencia de que la demanda es simulada o persigue un fin ilícito o prohibido.",
+    "source_quote": "Podrá dictarse también sentencia anticipada, de oficio o mediante la interposición de la correspondiente excepción, declarando la improponibilidad de la demanda y su consiguiente archivo, cuando:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "508",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_508"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "508",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_508",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué permite el artículo 508 del Código de Trabajo?",
+    "output": "Dictar sentencia anticipada, de oficio o mediante excepción, declarando la improponibilidad de la demanda y su archivo, en los supuestos que enumera.",
+    "source_quote": "Podrá dictarse también sentencia anticipada, de oficio o mediante la interposición de la correspondiente excepción, declarando la improponibilidad de la demanda y su consiguiente archivo, cuando:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "508",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_508",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son los supuestos en los que procede la improponibilidad de la demanda según el artículo 508?",
+    "output": "Cuando la pretensión ya fue objeto de pronunciamiento en un proceso anterior con autoridad de cosa juzgada, cuando el derecho hubiera sido transado con anterioridad, o cuando haya evidencia de demanda simulada o el fin perseguido en el proceso sea ilícito o prohibido.",
+    "source_quote": "1) La pretensión ya fue objeto de pronunciamiento en un proceso anterior con autoridad de cosa juzgada, de modo que el nuevo proceso sea reiteración del anterior. 2) El derecho hubiera sido transado con anterioridad. 3) Cuando haya evidencia de demanda simulada o el fin perseguido en el proceso sea ilícito o prohibido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "508",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_508",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad del juez para dictar una sentencia anticipada que declare la improponibilidad de la demanda y ordene su archivo, ya sea de oficio o a petición de parte, evitando la tramitación innecesaria de procesos que carecen de viabilidad jurídica.",
+    "source_quote": "Podrá dictarse también sentencia anticipada, de oficio o mediante la interposición de la correspondiente excepción, declarando la improponibilidad de la demanda y su consiguiente archivo, cuando:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "508",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_508",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impide la duplicidad de procesos sobre la misma pretensión ya resuelta definitivamente, protegiendo la seguridad jurídica y la economía procesal al evitar que se reabran controversias ya juzgadas.",
+    "source_quote": "1) La pretensión ya fue objeto de pronunciamiento en un proceso anterior con autoridad de cosa juzgada, de modo que el nuevo proceso sea reiteración del anterior.",
+    "item_index": 2
+  }
+]

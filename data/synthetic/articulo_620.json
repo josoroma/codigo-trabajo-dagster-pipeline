@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 620 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 620 establece que, desde la entrega del pliego de peticiones, se considera planteado un conflicto colectivo con el fin exclusivo de prohibir represalias entre las partes y garantizar el ejercicio de sus derechos. Además, a partir de ese momento, cualquier terminación de contrato de trabajo requiere autorización del órgano que conoce del conflicto. Esta protección se extiende durante la conciliación, el arbitraje, la huelga o el procedimiento en caso de convención colectiva fracasada.",
+    "source_quote": "Desde el momento de la entrega del pliego de peticiones, se entenderá planteado el conflicto para el solo efecto de que ninguna de las partes pueda tomar la menor represalia contra la otra, ni impedirle el ejercicio de sus derechos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "620",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_620"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "620",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_620",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué momento se considera planteado el conflicto según el artículo 620?",
+    "output": "Desde el momento de la entrega del pliego de peticiones.",
+    "source_quote": "Desde el momento de la entrega del pliego de peticiones, se entenderá planteado el conflicto...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "620",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_620",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito se impone para la terminación de contratos de trabajo durante el conflicto?",
+    "output": "Toda terminación de contratos de trabajo debe ser autorizada por el órgano que conoce del conflicto.",
+    "source_quote": "A partir del momento a que se refiere este artículo, toda terminación de contratos de trabajo debe ser autorizada por el órgano que conoce del conflicto...",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "620",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_620",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una protección inmediata que prohíbe represalias y garantiza el ejercicio de los derechos de las partes desde el inicio del conflicto colectivo.",
+    "source_quote": "Desde el momento de la entrega del pliego de peticiones, se entenderá planteado el conflicto para el solo efecto de que ninguna de las partes pueda tomar la menor represalia contra la otra, ni impedirle el ejercicio de sus derechos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "620",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_620",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Sujeta cualquier despido o terminación contractual a una autorización previa del órgano competente, evitando así decisiones unilaterales que puedan perjudicar el desarrollo del conflicto.",
+    "source_quote": "A partir del momento a que se refiere este artículo, toda terminación de contratos de trabajo debe ser autorizada por el órgano que conoce del conflicto, según el procedimiento previsto en este mismo Código para otorgar autorizaciones.",
+    "item_index": 2
+  }
+]

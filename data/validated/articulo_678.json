@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 678 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 678 regula las resoluciones apelables en este procedimiento especial, limitando la apelación a ciertos autos (rechazo de plano, archivo, denegación de pruebas o nulidades) y estableciendo que la sentencia tiene cosa juzgada material y es recurrible ante el tribunal de apelaciones. Además, dispone que la sentencia de primera instancia será revisada integralmente por el tribunal de apelación, permitiendo a las partes ofrecer pruebas sobre los agravios, y que la sentencia de segunda instancia se dictará en la misma forma y términos que en el proceso ordinario.",
+    "source_quote": "En este procedimiento solo serán apelables las resoluciones que ordenen el rechazo de plano o el archivo del expediente y las que denieguen pruebas o nulidades pedidas, pero en estos dos últimos supuestos se tendrán como reservadas y solo serán tomadas en cuenta según está previsto en este Código. La sentencia produce cosa juzgada material y será recurrible para ante el tribunal de apelaciones de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "678",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_678"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "678",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_678",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué resoluciones son apelables en este procedimiento según el artículo 678?",
+    "output": "Solo son apelables las resoluciones que ordenen el rechazo de plano o el archivo del expediente y las que denieguen pruebas o nulidades pedidas.",
+    "source_quote": "En este procedimiento solo serán apelables las resoluciones que ordenen el rechazo de plano o el archivo del expediente y las que denieguen pruebas o nulidades pedidas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "678",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_678",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se revisa la sentencia de primera instancia en apelación según este artículo?",
+    "output": "La sentencia del juzgado será revisada integralmente por el órgano de apelación, y las partes podrán ofrecer pruebas restringidas a los temas que son materia o contenido de agravios invocados en el recurso.",
+    "source_quote": "la sentencia del juzgado será revisada integralmente por el órgano de apelación, a cuyo efecto las partes podrán ofrecer las pruebas de su interés, cuya admisibilidad valorará el tribunal, las cuales se restringirán a los temas que son materia o contenido de agravios invocados en el recurso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "678",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_678",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimitar taxativamente las resoluciones recurribles en apelación dentro de este procedimiento especial, restringiendo la impugnación a decisiones que pueden causar un perjuicio irreparable o afectar el derecho de defensa, y establecer el carácter reservado de las apelaciones por denegación de pruebas o nulidades.",
+    "source_quote": "En este procedimiento solo serán apelables las resoluciones que ordenen el rechazo de plano o el archivo del expediente y las que denieguen pruebas o nulidades pedidas, pero en estos dos últimos supuestos se tendrán como reservadas y solo serán tomadas en cuenta según está previsto en este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "678",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_678",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorgar firmeza definitiva a la sentencia mediante la cosa juzgada material, impidiendo su revisión en otro proceso, y garantizar el acceso a un recurso de apelación ante un tribunal superior especializado.",
+    "source_quote": "La sentencia produce cosa juzgada material y será recurrible para ante el tribunal de apelaciones de trabajo.",
+    "item_index": 2
+  }
+]

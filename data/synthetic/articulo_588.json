@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 588 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 588 establece las bases del recurso de casación por el fondo en materia laboral. Permite alegar cualquier violación sustancial del ordenamiento jurídico, ya sea directa o por una aplicación incorrecta o ilegítima de las reglas probatorias. Además, autoriza al órgano de casación a valorar las pruebas de manera integral, siempre que la audiencia haya sido grabada en audio o video.",
+    "source_quote": "Podrá alegarse, como base del recurso de casación por el fondo, toda violación sustancial del ordenamiento jurídico, tanto la directa como la resultante de una incorrecta o ilegítima aplicación del régimen probatorio. El órgano de casación también podrá hacer una valoración de las pruebas de forma integral; para ello, la audiencia debe ser grabada en audio y/o video.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "588",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_588"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "588",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_588",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de violaciones pueden alegarse como base del recurso de casación por el fondo según el artículo 588?",
+    "output": "Toda violación sustancial del ordenamiento jurídico, tanto la directa como la resultante de una incorrecta o ilegítima aplicación del régimen probatorio.",
+    "source_quote": "Podrá alegarse, como base del recurso de casación por el fondo, toda violación sustancial del ordenamiento jurídico, tanto la directa como la resultante de una incorrecta o ilegítima aplicación del régimen probatorio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "588",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_588",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito debe cumplirse para que el órgano de casación pueda valorar las pruebas de forma integral?",
+    "output": "La audiencia debe ser grabada en audio y/o video.",
+    "source_quote": "El órgano de casación también podrá hacer una valoración de las pruebas de forma integral; para ello, la audiencia debe ser grabada en audio y/o video.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "588",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_588",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los motivos admisibles para interponer el recurso de casación por el fondo, ampliando su alcance a errores de derecho sustantivo y a vicios en la aplicación de las normas probatorias.",
+    "source_quote": "Podrá alegarse, como base del recurso de casación por el fondo, toda violación sustancial del ordenamiento jurídico, tanto la directa como la resultante de una incorrecta o ilegítima aplicación del régimen probatorio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "588",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_588",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al tribunal de casación la facultad excepcional de reexaminar el material probatorio en su conjunto, condicionando esta potestad a la existencia de un registro audiovisual de la audiencia para garantizar la inmediación y fidelidad de lo actuado.",
+    "source_quote": "El órgano de casación también podrá hacer una valoración de las pruebas de forma integral; para ello, la audiencia debe ser grabada en audio y/o video.",
+    "item_index": 2
+  }
+]

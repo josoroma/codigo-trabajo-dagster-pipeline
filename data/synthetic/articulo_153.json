@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 153 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 153 establece el derecho de todo trabajador a vacaciones anuales pagadas, con un mínimo de dos semanas por cada cincuenta semanas de trabajo continuo para el mismo empleador. Si el contrato termina antes de completar las cincuenta semanas, el trabajador tiene derecho a un día de vacaciones por cada mes laborado, que se le paga al finalizar la relación laboral. Además, enumera situaciones que no interrumpen la continuidad del trabajo, como licencias sin sueldo, descansos legales, enfermedades justificadas y la renovación inmediata del contrato.",
+    "source_quote": "Todo trabajador tiene derecho a vacaciones anuales remuneradas, cuyo mínimo se fija en dos semanas por cada cincuenta semanas de labores continuas, al servicio de un mismo patrono.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "153",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_153"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "153",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_153",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el período mínimo de vacaciones anuales que establece el artículo 153?",
+    "output": "Dos semanas por cada cincuenta semanas de labores continuas.",
+    "source_quote": "cuyo mínimo se fija en dos semanas por cada cincuenta semanas de labores continuas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "153",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_153",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué derecho tiene un trabajador si su contrato termina antes de cumplir cincuenta semanas de trabajo?",
+    "output": "Tiene derecho, como mínimo, a un día de vacaciones por cada mes trabajado, que se le pagará en el momento del retiro de su trabajo.",
+    "source_quote": "En caso de terminación del contrato antes de cumplir el período de las cincuenta semanas, el trabajador tendrá derecho, como mínimo, a un día de vacaciones por cada mes trabajado, que se le pagará en el momento del retiro de su trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "153",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_153",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el derecho fundamental a vacaciones anuales pagadas y fija el mínimo legal de dos semanas por cada cincuenta semanas de trabajo continuo para un mismo empleador.",
+    "source_quote": "Todo trabajador tiene derecho a vacaciones anuales remuneradas, cuyo mínimo se fija en dos semanas por cada cincuenta semanas de labores continuas, al servicio de un mismo patrono.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "153",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_153",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las circunstancias que no rompen la continuidad laboral para efectos del cómputo de las cincuenta semanas requeridas para el derecho a vacaciones, protegiendo así la acumulación del período vacacional.",
+    "source_quote": "No interrumpirán la continuidad del trabajo, las licencias sin goce de salario, los descansos otorgados por el presente Código, sus reglamentos y sus leyes conexas, las enfermedades justificadas, la prórroga o renovación inmediata del contrato de trabajo, ni ninguna otra causa análoga que no termine con éste.",
+    "item_index": 2
+  }
+]

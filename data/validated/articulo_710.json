@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 710 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 710 establece que cualquier huelga que se realice en el sector público debe llevarse a cabo respetando lo que disponen los capítulos primero y tercero del título sexto del Código de Trabajo.",
+    "source_quote": "Todo movimiento de huelga en el sector público debe ejecutarse con respeto de lo dispuesto en los capítulos primero y tercero del título sexto del Código de Trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "710",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_710"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "710",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_710",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe respetar todo movimiento de huelga en el sector público según el artículo 710?",
+    "output": "Debe respetar lo dispuesto en los capítulos primero y tercero del título sexto del Código de Trabajo.",
+    "source_quote": "Todo movimiento de huelga en el sector público debe ejecutarse con respeto de lo dispuesto en los capítulos primero y tercero del título sexto del Código de Trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "710",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_710",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué sector se refiere el artículo 710 al regular las huelgas?",
+    "output": "Al sector público.",
+    "source_quote": "Todo movimiento de huelga en el sector público",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "710",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_710",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el ámbito de aplicación de la norma, indicando que se refiere exclusivamente a las huelgas que ocurren en el sector público.",
+    "source_quote": "Todo movimiento de huelga en el sector público",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "710",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_QUINTO_articulo_710",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de que dichas huelgas se realicen conforme a las reglas contenidas en esos capítulos específicos del Código de Trabajo, garantizando así un marco normativo aplicable.",
+    "source_quote": "debe ejecutarse con respeto de lo dispuesto en los capítulos primero y tercero del título sexto del Código de Trabajo",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 513 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 513 regula el trámite posterior a la contestación de la demanda o reconvención cuando no procede sentencia anticipada ni hay cuestiones previas. Dispone que el juez dictará una única resolución en la que: comunica las contestaciones a la parte contraria, fija fecha y hora para la audiencia dentro del mes siguiente, decide sobre la admisibilidad de las pruebas que se presentarán en esa audiencia y, si corresponde, establece los honorarios de los peritos no oficiales.",
+    "source_quote": "en una sola resolución se pondrán esas contestaciones a conocimiento de la parte contraria y se señalará hora y fecha para la celebración de la audiencia, a más tardar dentro del mes siguiente. En esa misma resolución se emitirá pronunciamiento acerca de la admisibilidad de las pruebas a evacuarse en la audiencia y, en su caso, se fijarán los honorarios de los peritos no oficiales.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "513",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_513"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "513",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_513",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se aplica el procedimiento descrito en el artículo 513?",
+    "output": "Se aplica cuando no se está en un supuesto de sentencia anticipada, ya se ha contestado la demanda o la reconvención y no existe ninguna cuestión que requiera solución previa.",
+    "source_quote": "Si no se estuviera en un supuesto de sentencia anticipada, contestada la demanda o la reconvención en su caso, y no hubiera ninguna cuestión que requiera solución previa",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "513",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_513",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué contenido debe tener la resolución única que dicta el juez según este artículo?",
+    "output": "Debe poner las contestaciones en conocimiento de la parte contraria, señalar hora y fecha para la audiencia dentro del mes siguiente, pronunciarse sobre la admisibilidad de las pruebas y, en su caso, fijar los honorarios de los peritos no oficiales.",
+    "source_quote": "en una sola resolución se pondrán esas contestaciones a conocimiento de la parte contraria y se señalará hora y fecha para la celebración de la audiencia, a más tardar dentro del mes siguiente. En esa misma resolución se emitirá pronunciamiento acerca de la admisibilidad de las pruebas a evacuarse en la audiencia y, en su caso, se fijarán los honorarios de los peritos no oficiales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "513",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_513",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones previas para aplicar este trámite y la obligación de notificar las contestaciones y fijar la audiencia en un plazo máximo de un mes, garantizando celeridad y concentración procesal.",
+    "source_quote": "Si no se estuviera en un supuesto de sentencia anticipada, contestada la demanda o la reconvención en su caso, y no hubiera ninguna cuestión que requiera solución previa, en una sola resolución se pondrán esas contestaciones a conocimiento de la parte contraria y se señalará hora y fecha para la celebración de la audiencia, a más tardar dentro del mes siguiente.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "513",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_513",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que en la misma resolución se resuelva sobre la admisión de pruebas y, si procede, se fijen los honorarios de peritos no oficiales, concentrando así las decisiones procesales para evitar dilaciones.",
+    "source_quote": "En esa misma resolución se emitirá pronunciamiento acerca de la admisibilidad de las pruebas a evacuarse en la audiencia y, en su caso, se fijarán los honorarios de los peritos no oficiales.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 135 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 135 define los horarios que se consideran trabajo diurno y trabajo nocturno. El trabajo diurno es el que se realiza entre las 5:00 horas y las 19:00 horas. El trabajo nocturno es el que se realiza entre las 19:00 horas y las 5:00 horas del día siguiente.",
+    "source_quote": "Es trabajo diurno el comprendido entre las cinco y las diecinueve horas, y nocturno el que se realiza entre las diecinueve y las cinco horas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "135",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_135"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "135",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_135",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el horario del trabajo diurno según el artículo 135 del Código de Trabajo?",
+    "output": "El trabajo diurno es el comprendido entre las cinco y las diecinueve horas.",
+    "source_quote": "Es trabajo diurno el comprendido entre las cinco y las diecinueve horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "135",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_135",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el horario del trabajo nocturno según el artículo 135 del Código de Trabajo?",
+    "output": "El trabajo nocturno es el que se realiza entre las diecinueve y las cinco horas.",
+    "source_quote": "y nocturno el que se realiza entre las diecinueve y las cinco horas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "135",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_135",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la franja horaria que legalmente se considera jornada diurna, delimitando desde las 5:00 a.m. hasta las 7:00 p.m., lo cual es relevante para la aplicación de normas sobre jornada, salarios y recargos.",
+    "source_quote": "Es trabajo diurno el comprendido entre las cinco y las diecinueve horas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "135",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_135",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la jornada nocturna como aquella que transcurre desde las 7:00 p.m. hasta las 5:00 a.m., permitiendo diferenciar el régimen laboral aplicable, como el pago de horas extra nocturnas o restricciones para ciertos trabajadores.",
+    "source_quote": "y nocturno el que se realiza entre las diecinueve y las cinco horas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 361 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo asigna al Ministerio de Trabajo y de Seguridad Social la tarea de impulsar el crecimiento del movimiento sindical de manera ordenada y pacífica, utilizando todos los medios legales que considere apropiados. Para ello, le permite emitir decretos ejecutivos con las disposiciones necesarias en cada caso, con el fin de asegurar que el derecho de sindicalización se ejerza efectivamente.",
+    "source_quote": "El Ministerio de Trabajo y de Seguridad Social se encargará de fomentar el desarrollo del movimiento sindical en forma armónica y ordenada, por todos los medios legales que juzgue convenientes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "361",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_361"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "361",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_361",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la entidad encargada de fomentar el desarrollo del movimiento sindical según el artículo 361?",
+    "output": "El Ministerio de Trabajo y de Seguridad Social.",
+    "source_quote": "El Ministerio de Trabajo y de Seguridad Social se encargará de fomentar el desarrollo del movimiento sindical en forma armónica y ordenada...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "361",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_361",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de disposiciones puede dictar el Ministerio para garantizar la efectividad del derecho de sindicalización?",
+    "output": "Decretos ejecutivos.",
+    "source_quote": "dictará por medio de decretos ejecutivos todas las disposiciones que sean necesarias, en los casos ocurrentes, para garantizar la efectividad del derecho de sindicalización.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "361",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_361",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del Ministerio de promover el sindicalismo de manera pacífica y dentro del marco legal, facultándolo para elegir los medios que considere adecuados.",
+    "source_quote": "El Ministerio de Trabajo y de Seguridad Social se encargará de fomentar el desarrollo del movimiento sindical en forma armónica y ordenada, por todos los medios legales que juzgue convenientes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "361",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_361",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Ministerio la potestad de emitir decretos ejecutivos para adoptar medidas concretas que aseguren el ejercicio real y efectivo del derecho de sindicalización, adaptándose a las circunstancias que surjan.",
+    "source_quote": "Al efecto, dictará por medio de decretos ejecutivos todas las disposiciones que sean necesarias, en los casos ocurrentes, para garantizar la efectividad del derecho de sindicalización.",
+    "item_index": 2
+  }
+]

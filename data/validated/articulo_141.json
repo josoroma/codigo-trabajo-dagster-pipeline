@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 141 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 141 establece que en los trabajos que por su propia naturaleza son peligrosos o insalubres no se permite la jornada extraordinaria. Además, indica que el párrafo segundo original fue derogado por la ley N° 25 de 1944.",
+    "source_quote": "En los trabajos que por su propia naturaleza son peligrosos o insalubres, no se permitirá la jornada extraordinaria.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "141",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_141"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "141",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_141",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de trabajos no se permite la jornada extraordinaria según el artículo 141?",
+    "output": "No se permite la jornada extraordinaria en los trabajos que por su propia naturaleza son peligrosos o insalubres.",
+    "source_quote": "En los trabajos que por su propia naturaleza son peligrosos o insalubres, no se permitirá la jornada extraordinaria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "141",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_141",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucedió con el párrafo segundo original del artículo 141?",
+    "output": "El párrafo segundo original fue derogado por el artículo 2° de la ley N° 25 del 17 de noviembre de 1944.",
+    "source_quote": "(Derogado el párrafo segundo original por el artículo 2° de la ley N° 25 del 17 de noviembre de 1944)",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "141",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_141",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohíbe la realización de horas extra en labores intrínsecamente peligrosas o insalubres, con el fin de proteger la salud y seguridad de los trabajadores.",
+    "source_quote": "En los trabajos que por su propia naturaleza son peligrosos o insalubres, no se permitirá la jornada extraordinaria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "141",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_141",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Informa que el contenido original del párrafo segundo fue eliminado del ordenamiento jurídico mediante una ley específica, brindando certeza sobre el estado actual del artículo.",
+    "source_quote": "(Derogado el párrafo segundo original por el artículo 2° de la ley N° 25 del 17 de noviembre de 1944)",
+    "item_index": 2
+  }
+]

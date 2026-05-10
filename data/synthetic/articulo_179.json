@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 179 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 179 establece que cuando se fija un salario mínimo, todos los contratos de trabajo que tengan un salario inferior se modifican automáticamente para cumplir con ese mínimo. Además, esta modificación no significa que el trabajador renuncie a otros beneficios que ya tenía, como vivienda, tierras de cultivo, herramientas, servicio médico, medicinas u hospitalización, ni que el patrono los abandone. Es decir, el ajuste salarial no afecta las condiciones más favorables preexistentes para el trabajador.",
+    "source_quote": "La fijación del salario mínimo modifica automáticamente los contratos de trabajo en que se haya estipulado uno inferior, y no implica renuncia del trabajador ni abandono del patrono de convenios preexistentes favorables al primero, relativos a remuneración mayor, a viviendas, tierras de cultivo, herramientas para el trabajo, servicio de médico, suministro de medicinas, hospitalización y otros beneficios semejantes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "179",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_179"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "179",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_179",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto tiene la fijación del salario mínimo sobre los contratos de trabajo que estipulan un salario inferior?",
+    "output": "Los modifica automáticamente para ajustarlos al salario mínimo.",
+    "source_quote": "La fijación del salario mínimo modifica automáticamente los contratos de trabajo en que se haya estipulado uno inferior.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "179",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_179",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pierde el trabajador beneficios como vivienda o servicio médico cuando su salario se ajusta al mínimo?",
+    "output": "No, porque la fijación del salario mínimo no implica renuncia del trabajador ni abandono del patrono de esos convenios preexistentes favorables.",
+    "source_quote": "no implica renuncia del trabajador ni abandono del patrono de convenios preexistentes favorables al primero, relativos a remuneración mayor, a viviendas, tierras de cultivo, herramientas para el trabajo, servicio de médico, suministro de medicinas, hospitalización y otros beneficios semejantes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "179",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_179",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la modificación automática de los contratos para garantizar que ningún trabajador reciba un salario inferior al mínimo legal, protegiendo así su derecho a una remuneración justa.",
+    "source_quote": "La fijación del salario mínimo modifica automáticamente los contratos de trabajo en que se haya estipulado uno inferior.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "179",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_179",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Preservar los beneficios adicionales que el trabajador ya disfrutaba, evitando que el ajuste al salario mínimo sirva como pretexto para eliminar condiciones más favorables, y asegurando la estabilidad de las ventajas adquiridas.",
+    "source_quote": "no implica renuncia del trabajador ni abandono del patrono de convenios preexistentes favorables al primero, relativos a remuneración mayor, a viviendas, tierras de cultivo, herramientas para el trabajo, servicio de médico, suministro de medicinas, hospitalización y otros beneficios semejantes.",
+    "item_index": 2
+  }
+]

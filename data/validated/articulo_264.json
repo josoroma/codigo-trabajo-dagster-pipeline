@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 264 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 264 permite revisar los dictámenes médicos que dan de alta al trabajador, con o sin fijación de incapacidad, cuando se sospeche un agravamiento de sus condiciones físicas o mentales. La revisión puede ser solicitada por el trabajador, el patrono o el ente asegurador. Si se comprueba el agravamiento, se reajustan las prestaciones en beneficio del trabajador. Originalmente, la revisión debía pedirse dentro de los dos años posteriores al alta, pero la Sala Constitucional declaró inconstitucional ese plazo de dos años. La norma también establece un límite máximo de cinco años desde el primer dictamen final. Las prestaciones en dinero se calculan con base en el salario de los últimos tres meses o el que resulte más favorable.",
+    "source_quote": "Aunque se hubieren conmutado las rentas, y a solicitud del trabajador, del patrono, o del ente asegurador, podrán revisarse los dictámenes que determinen el alta del trabajador, con o sin fijación de impedimento, cuando pueda presumirse que ha sobrevenido alguna modificación agravante en las condiciones físicas o mentales de éste.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "264",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_264"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "264",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_264",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes están legitimados para solicitar la revisión de los dictámenes de alta?",
+    "output": "El trabajador, el patrono o el ente asegurador.",
+    "source_quote": "a solicitud del trabajador, del patrono, o del ente asegurador",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "264",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_264",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para que proceda la revisión de un dictamen de alta?",
+    "output": "No puede exceder de cinco años a partir del primer dictamen final.",
+    "source_quote": "sin exceder un término de cinco años a partir del primer dictamen final",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "264",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_264",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la posibilidad de revisar los dictámenes de alta médica ante un posible agravamiento de la salud del trabajador, indicando quiénes pueden solicitarlo y la condición necesaria para ello.",
+    "source_quote": "Aunque se hubieren conmutado las rentas, y a solicitud del trabajador, del patrono, o del ente asegurador, podrán revisarse los dictámenes que determinen el alta del trabajador, con o sin fijación de impedimento, cuando pueda presumirse que ha sobrevenido alguna modificación agravante en las condiciones físicas o mentales de éste.",
+    "item_index": 1
+  }
+]

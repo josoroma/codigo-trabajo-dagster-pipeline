@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 127 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 127 establece que la nave, junto con todos sus componentes y los fletes que genere, queda afectada como garantía para asegurar el pago de los salarios y las indemnizaciones que se adeuden a los trabajadores. Es decir, estos bienes responden directamente por las obligaciones laborales del empleador en el ámbito marítimo.",
+    "source_quote": "La nave con sus máquinas, aparejos, pertrechos y fletes estará afectada a la responsabilidad del pago de los salarios e indemnizaciones que correspondan a los trabajadores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "127",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_127"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "127",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_127",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué bienes de la nave están afectados al pago de salarios e indemnizaciones según el artículo 127?",
+    "output": "Están afectados la nave misma, sus máquinas, aparejos, pertrechos y fletes.",
+    "source_quote": "La nave con sus máquinas, aparejos, pertrechos y fletes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "127",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_127",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Para qué tipo de obligaciones laborales responde la nave de acuerdo con este artículo?",
+    "output": "Responde por el pago de los salarios y las indemnizaciones que correspondan a los trabajadores.",
+    "source_quote": "estará afectada a la responsabilidad del pago de los salarios e indemnizaciones que correspondan a los trabajadores",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "127",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_127",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Identifica de manera exhaustiva los bienes que quedan afectados como garantía, incluyendo tanto la estructura principal como los accesorios y los ingresos derivados de la actividad de transporte.",
+    "source_quote": "La nave con sus máquinas, aparejos, pertrechos y fletes",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "127",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_127",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la afectación jurídica de esos bienes al cumplimiento de las obligaciones laborales, creando una garantía real en favor de los trabajadores para el cobro de sus créditos salariales e indemnizatorios.",
+    "source_quote": "estará afectada a la responsabilidad del pago de los salarios e indemnizaciones que correspondan a los trabajadores",
+    "item_index": 2
+  }
+]

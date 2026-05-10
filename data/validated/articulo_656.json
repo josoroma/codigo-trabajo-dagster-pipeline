@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 656 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 656 establece que las deliberaciones de los conciliadores y tribunales de arbitraje son secretas. Además, regula que la presidencia fija el momento para recibir las votaciones, que su voto cuenta doble cuando no hay mayoría de votos conformes, y que en los órganos colegiados la redacción de las resoluciones siempre corresponde a quien preside.",
+    "source_quote": "Las deliberaciones de los conciliadores y de los tribunales de arbitraje serán secretas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "656",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_656"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "656",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_656",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo son las deliberaciones de los conciliadores y de los tribunales de arbitraje?",
+    "output": "Son secretas.",
+    "source_quote": "Las deliberaciones de los conciliadores y de los tribunales de arbitraje serán secretas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "656",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_656",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién corresponde la redacción de las resoluciones en los órganos colegiados?",
+    "output": "A quien lo preside.",
+    "source_quote": "La redacción de todas las resoluciones corresponderá siempre, en el caso de órganos colegiados, a quien lo preside.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "656",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_656",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantizar la confidencialidad del proceso deliberativo, protegiendo la libertad de expresión de los miembros y la integridad de las decisiones.",
+    "source_quote": "Las deliberaciones de los conciliadores y de los tribunales de arbitraje serán secretas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "656",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_656",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Resolver situaciones de empate otorgando un voto de calidad a la presidencia, asegurando que se alcance una decisión definitiva.",
+    "source_quote": "El voto de quien preside se tendrá como doble en los casos en que no hubiera mayoría de votos conformes.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 696 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 696 establece que los sindicatos con mayor número de afiliados en una institución, empresa o dependencia están legitimados para negociar y firmar convenciones colectivas. Si no logran un acuerdo para negociar juntos, la convención se celebra con el sindicato más numeroso. Sin embargo, los sindicatos gremiales o de oficio pueden negociar por separado si no hay acuerdo conjunto, pero la convención solo cubrirá a sus agremiados. Para determinar cuál es el sindicato más representativo, el Departamento de Organizaciones Sociales del Ministerio de Trabajo realiza un estudio de membresía, con una vigencia de un año, y debe completarlo en quince días hábiles.",
+    "source_quote": "Se encuentran legitimados para negociar y suscribir convenciones colectivas, de conformidad con esta normativa, los sindicatos que demuestren tener la mayor cantidad de afiliados en cada institución, empresa o dependencia de que se trate, de acuerdo con lo dispuesto en el artículo 56 de este Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "696",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_696"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "696",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_696",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si los sindicatos no se ponen de acuerdo para negociar en forma conjunta una convención colectiva?",
+    "output": "La convención colectiva se celebrará con el sindicato que tenga la mayor cantidad de afiliados.",
+    "source_quote": "Si no hubiera acuerdo entre ellos, para negociar en forma conjunta, la convención colectiva se celebrará con el sindicato que tenga la mayor cantidad de afiliados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "696",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_696",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué pueden hacer los sindicatos gremiales o de oficio cuando no hay acuerdo para negociar en conjunto con otras organizaciones?",
+    "output": "Cada uno podrá solicitar que se celebre una negociación independiente con él, y la convención colectiva solamente podrá cubrir a las personas de ese gremio u oficio.",
+    "source_quote": "No obstante, en el caso de los sindicatos gremiales o de oficio, cuando no hubiera acuerdo de su parte para negociar en conjunto con otras organizaciones, cada uno podrá solicitar que se celebre una negociación independiente con él, en cuyo caso la convención colectiva solamente podrá cubrir a las personas de ese gremio u oficio.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "696",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_696",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el criterio de representatividad sindical como base para la legitimación en la negociación colectiva, remitiendo al artículo 56 para la determinación de la mayor cantidad de afiliados.",
+    "source_quote": "Se encuentran legitimados para negociar y suscribir convenciones colectivas, de conformidad con esta normativa, los sindicatos que demuestren tener la mayor cantidad de afiliados en cada institución, empresa o dependencia de que se trate, de acuerdo con lo dispuesto en el artículo 56 de este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "696",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_TERCERO_articulo_696",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la temporalidad de la certificación de representatividad y el derecho de los sindicatos a solicitar una actualización, garantizando que la representación refleje cambios en la afiliación.",
+    "source_quote": "Esta certificación tendrá un período de vigencia de un año, transcurrido el cual cualquier sindicato existente en la unidad de negociación podrá pedir una revisión del estudio.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 176 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 176 establece dos obligaciones de registro laboral según la cantidad de trabajadores permanentes. Los patronos con diez o más trabajadores deben llevar un Libro de Salarios autorizado y sellado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social. Los patronos con tres a nueve trabajadores deben llevar planillas conforme a los modelos de la Caja Costarricense de Seguro Social o el Instituto Nacional de Seguros.",
+    "source_quote": "Todo patrono que ocupe permanentemente a diez o más trabajadores deberá llevar un Libro de Salarios autorizado y sellado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social, que se encargará de suministrar modelos y normas para su debida impresión.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "176",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_176"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "176",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_176",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de cuántos trabajadores permanentes un patrono debe llevar un Libro de Salarios?",
+    "output": "A partir de diez trabajadores permanentes.",
+    "source_quote": "Todo patrono que ocupe permanentemente a diez o más trabajadores deberá llevar un Libro de Salarios autorizado y sellado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "176",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_176",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tienen los patronos que ocupan entre tres y nueve trabajadores permanentes?",
+    "output": "Deben llevar planillas de conformidad con los modelos adoptados por la Caja Costarricense de Seguro Social o el Instituto Nacional de Seguros.",
+    "source_quote": "Todo patrono que ocupe permanentemente a tres o más trabajadores, sin llegar al límite de diez, está obligado a llevar planillas de conformidad con los modelos adoptados por la Caja Costarricense de Seguro Social o el Instituto Nacional de Seguros.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "176",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_176",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición impone a los empleadores con diez o más trabajadores permanentes la obligación de mantener un registro formal de salarios, el cual debe ser autorizado y sellado por la autoridad laboral, garantizando así un control oficial sobre las remuneraciones y la estandarización del formato mediante modelos y normas suministrados por el Ministerio.",
+    "source_quote": "Todo patrono que ocupe permanentemente a diez o más trabajadores deberá llevar un Libro de Salarios autorizado y sellado por la Oficina de Salarios del Ministerio de Trabajo y Seguridad Social, que se encargará de suministrar modelos y normas para su debida impresión.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "176",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_QUINTO_articulo_176",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta norma establece una obligación simplificada para empleadores con un número menor de trabajadores (de tres a nueve), exigiéndoles llevar planillas según los modelos de las instituciones de seguridad social, lo que facilita el cumplimiento de las obligaciones de registro y cotización ante dichas entidades.",
+    "source_quote": "Todo patrono que ocupe permanentemente a tres o más trabajadores, sin llegar al límite de diez, está obligado a llevar planillas de conformidad con los modelos adoptados por la Caja Costarricense de Seguro Social o el Instituto Nacional de Seguros.",
+    "item_index": 2
+  }
+]

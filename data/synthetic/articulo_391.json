@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 391 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 391 establece que también se considera paro ilegal cualquier acto malicioso del empleador o empleadora que impida a las personas trabajadoras realizar sus labores de manera normal.",
+    "source_quote": "Se tendrá también por paro ilegal todo acto malicioso del empleador o la empleadora que imposibilite a las personas trabajadoras el normal desempeño de sus labores.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "391",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_391"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "391",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_391",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de acto del empleador se considera paro ilegal según el artículo 391?",
+    "output": "Todo acto malicioso que imposibilite a las personas trabajadoras el normal desempeño de sus labores.",
+    "source_quote": "Se tendrá también por paro ilegal todo acto malicioso del empleador o la empleadora que imposibilite a las personas trabajadoras el normal desempeño de sus labores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "391",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_391",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué efecto debe tener el acto malicioso del empleador para que se configure el paro ilegal?",
+    "output": "Debe imposibilitar a las personas trabajadoras el normal desempeño de sus labores.",
+    "source_quote": "que imposibilite a las personas trabajadoras el normal desempeño de sus labores.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "391",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_391",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define que ciertos actos patronales maliciosos constituyen paro ilegal, protegiendo el derecho de los trabajadores a desempeñar sus labores sin interferencias indebidas.",
+    "source_quote": "Se tendrá también por paro ilegal todo acto malicioso del empleador o la empleadora que imposibilite a las personas trabajadoras el normal desempeño de sus labores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "391",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_391",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indica la fuente de la reforma que incorporó el lenguaje inclusivo de género y actualizó la redacción del artículo.",
+    "source_quote": "(Así reformado por el artículo 1° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  }
+]

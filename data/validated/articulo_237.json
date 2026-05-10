@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 237 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 237 establece que si después de dos años desde que ocurrió el riesgo laboral la incapacidad temporal del trabajador no ha terminado, se debe determinar el grado de incapacidad permanente y se deja de pagar el subsidio por incapacidad temporal, aunque se pueden seguir brindando servicios médicos y de rehabilitación.",
+    "source_quote": "Si transcurrido un plazo de dos años a partir de la ocurrencia del riesgo, no hubiere cesado la incapacidad temporal del trabajador, se procederá a establecer el porcentaje de incapacidad permanente, y se suspenderá el pago del subsidio",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "237",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_237"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "237",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_237",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la incapacidad temporal de un trabajador no cesa después de dos años desde la ocurrencia del riesgo?",
+    "output": "Se procede a establecer el porcentaje de incapacidad permanente y se suspende el pago del subsidio, sin perjuicio de continuar con las prestaciones médico-sanitarias y de rehabilitación.",
+    "source_quote": "se procederá a establecer el porcentaje de incapacidad permanente, y se suspenderá el pago del subsidio, sin perjuicio de que se puedan continuar suministrando las prestaciones médico-sanitarias y de rehabilitación al trabajador.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "237",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_237",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se pueden seguir brindando servicios médicos después de suspender el subsidio por incapacidad temporal?",
+    "output": "Sí, se pueden continuar suministrando las prestaciones médico-sanitarias y de rehabilitación al trabajador.",
+    "source_quote": "sin perjuicio de que se puedan continuar suministrando las prestaciones médico-sanitarias y de rehabilitación al trabajador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "237",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_237",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el plazo máximo de dos años para que cese la incapacidad temporal; de lo contrario, se debe determinar la incapacidad permanente.",
+    "source_quote": "Si transcurrido un plazo de dos años a partir de la ocurrencia del riesgo, no hubiere cesado la incapacidad temporal del trabajador, se procederá a establecer el porcentaje de incapacidad permanente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "237",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_237",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indica que al determinarse la incapacidad permanente cesa el subsidio económico, pero se mantiene el derecho a la atención médica y rehabilitación.",
+    "source_quote": "se suspenderá el pago del subsidio, sin perjuicio de que se puedan continuar suministrando las prestaciones médico-sanitarias y de rehabilitación al trabajador.",
+    "item_index": 2
+  }
+]

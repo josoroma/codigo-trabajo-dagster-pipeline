@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 268 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 268 autoriza al Instituto Nacional de Seguros a establecer un cuerpo de inspectores encargado de vigilar el estricto cumplimiento de las disposiciones del Título sobre Riesgos del Trabajo y sus reglamentos. Además, otorga a estos inspectores todas las facultades, derechos, obligaciones y deberes necesarios para desempeñar adecuadamente su labor de fiscalización.",
+    "source_quote": "Se autoriza al Instituto Nacional de Seguros a crear un cuerpo de inspectores que velará por el estricto cumplimiento de este Título y los reglamentos que se promulguen.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "268",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_268"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "268",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_268",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué institución se le autoriza crear un cuerpo de inspectores según el artículo 268?",
+    "output": "Al Instituto Nacional de Seguros.",
+    "source_quote": "Se autoriza al Instituto Nacional de Seguros a crear un cuerpo de inspectores",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "268",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_268",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué facultades tendrán los inspectores creados conforme al artículo 268?",
+    "output": "Tendrán la autoridad, el derecho, las facultades, las obligaciones y los deberes suficientes para el cumplimiento de su labor.",
+    "source_quote": "Estos inspectores tendrán la autoridad, el derecho, las facultades, las obligaciones y los deberes suficientes para el cumplimiento de su labor.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "268",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_268",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la autorización legal para que el Instituto Nacional de Seguros cree un cuerpo de inspectores y define su función principal de vigilancia del cumplimiento normativo en materia de riesgos del trabajo.",
+    "source_quote": "Se autoriza al Instituto Nacional de Seguros a crear un cuerpo de inspectores que velará por el estricto cumplimiento de este Título y los reglamentos que se promulguen.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "268",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_268",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a los inspectores las potestades y responsabilidades necesarias para ejercer su función de fiscalización de manera efectiva, asegurando que cuenten con todas las herramientas legales para cumplir su cometido.",
+    "source_quote": "Estos inspectores tendrán la autoridad, el derecho, las facultades, las obligaciones y los deberes suficientes para el cumplimiento de su labor.",
+    "item_index": 2
+  }
+]

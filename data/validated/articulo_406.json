@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 406 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 406 establece una prohibición absoluta: los empleadores no pueden despedir a ningún trabajador o trabajadora si el motivo del despido se encuentra entre las razones indicadas en el artículo 404 del mismo código.",
+    "source_quote": "Se prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "406",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_406"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "406",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_406",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe expresamente el artículo 406 del Código de Trabajo?",
+    "output": "Prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.",
+    "source_quote": "Se prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "406",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_406",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué artículo remite el artículo 406 para identificar las razones de despido prohibidas?",
+    "output": "Remite al artículo 404 del mismo Código de Trabajo.",
+    "source_quote": "por las razones señaladas en el artículo 404.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "406",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_406",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta disposición establece una garantía de estabilidad laboral al vedar el despido cuando se fundamente en las causales específicas que el artículo 404 contempla, protegiendo así a las personas trabajadoras contra decisiones patronales arbitrarias o discriminatorias.",
+    "source_quote": "Se prohíbe el despido de los trabajadores o las trabajadoras por las razones señaladas en el artículo 404.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "406",
+    "chunk_id": "libro_None_titulo_OCTAVO_capitulo_None_articulo_406",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta nota indica la fuente legislativa de la reforma que introdujo la redacción actual del artículo, permitiendo rastrear su vigencia y el contexto de la modificación procesal laboral que afectó la norma.",
+    "source_quote": "(Así reformado por el artículo 2° de la ley N° 9343 del 25 de enero de 2016, \"Reforma Procesal Laboral\".)",
+    "item_index": 2
+  }
+]

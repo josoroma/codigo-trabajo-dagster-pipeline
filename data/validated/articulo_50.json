@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 50 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 50 establece que el contrato colectivo de trabajo debe celebrarse por escrito en tres ejemplares: uno para cada parte y un tercero que el patrono debe enviar a la Inspección General de Trabajo dentro de los cinco días siguientes a su celebración, modificación o novación. Si el patrono incumple esta obligación, se presume la existencia del contrato colectivo según el artículo 18, párrafo segundo, y sus estipulaciones pueden probarse conforme al artículo 25 para el contrato verbal.",
+    "source_quote": "El contrato colectivo se celebrará siempre por escrito, en tres ejemplares: uno para cada parte y otro que el patrono hará llegar a la Inspección General de Trabajo, directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los cinco días posteriores a su celebración, modificación o novación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "50",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_50"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "50",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_50",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En cuántos ejemplares debe celebrarse el contrato colectivo de trabajo según el artículo 50?",
+    "output": "En tres ejemplares: uno para cada parte y otro que el patrono hará llegar a la Inspección General de Trabajo.",
+    "source_quote": "en tres ejemplares: uno para cada parte y otro que el patrono hará llegar a la Inspección General de Trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "50",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_50",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene el patrono para enviar el ejemplar del contrato colectivo a la Inspección General de Trabajo?",
+    "output": "Dentro de los cinco días posteriores a su celebración, modificación o novación.",
+    "source_quote": "dentro de los cinco días posteriores a su celebración, modificación o novación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "50",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_50",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la formalidad escrita y el número de copias, así como la obligación del patrono de remitir un ejemplar a la autoridad laboral en un plazo determinado.",
+    "source_quote": "El contrato colectivo se celebrará siempre por escrito, en tres ejemplares: uno para cada parte y otro que el patrono hará llegar a la Inspección General de Trabajo, directamente o por medio de la autoridad de trabajo o política respectiva, dentro de los cinco días posteriores a su celebración, modificación o novación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "50",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_50",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la consecuencia del incumplimiento patronal: se presume la existencia del contrato colectivo y se permite probar sus estipulaciones como si fuera un contrato verbal.",
+    "source_quote": "Si el patrono no cumpliere con dicha obligación, se presumirá la existencia del contrato colectivo de trabajo, en los términos del artículo 18, párrafo segundo, y sus estipulaciones podrán probarse de acuerdo con lo dispuesto por el artículo 25 para el contrato verbal.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 201 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 201 establece que el seguro contra riesgos del trabajo es obligatorio, universal y forzoso en todas las actividades laborales, en beneficio de los trabajadores. Además, señala que si el patrono no asegura a los trabajadores, deberá responder ante ellos y ante el ente asegurador por todas las prestaciones médico-sanitarias, de rehabilitación y en dinero que este Título señala y que dicho ente haya otorgado.",
+    "source_quote": "En beneficio de los trabajadores, declárase obligatorio, universal y forzoso el seguro contra los riesgos del trabajo en todas las actividades laborales. El patrono que no asegure a los trabajadores, responderá ante éstos y el ente asegurador, por todas las prestaciones médico-sanitarias, de rehabilitación y en dinero, que este Título señala y que dicho ente asegurador haya otorgado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "201",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_201"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "201",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_201",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué carácter tiene el seguro contra riesgos del trabajo según el artículo 201?",
+    "output": "El seguro contra riesgos del trabajo es obligatorio, universal y forzoso en todas las actividades laborales.",
+    "source_quote": "En beneficio de los trabajadores, declárase obligatorio, universal y forzoso el seguro contra los riesgos del trabajo en todas las actividades laborales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "201",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_201",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué responsabilidad asume el patrono que no asegure a los trabajadores?",
+    "output": "El patrono que no asegure a los trabajadores responderá ante éstos y el ente asegurador por todas las prestaciones médico-sanitarias, de rehabilitación y en dinero que este Título señala y que dicho ente asegurador haya otorgado.",
+    "source_quote": "El patrono que no asegure a los trabajadores, responderá ante éstos y el ente asegurador, por todas las prestaciones médico-sanitarias, de rehabilitación y en dinero, que este Título señala y que dicho ente asegurador haya otorgado.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "201",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_201",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declarar la naturaleza imperativa y general del seguro de riesgos del trabajo, protegiendo a todos los trabajadores sin excepción.",
+    "source_quote": "En beneficio de los trabajadores, declárase obligatorio, universal y forzoso el seguro contra los riesgos del trabajo en todas las actividades laborales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "201",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_201",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la responsabilidad directa del patrono incumplidor frente a los trabajadores y al ente asegurador, garantizando el pago de las prestaciones otorgadas.",
+    "source_quote": "El patrono que no asegure a los trabajadores, responderá ante éstos y el ente asegurador, por todas las prestaciones médico-sanitarias, de rehabilitación y en dinero, que este Título señala y que dicho ente asegurador haya otorgado.",
+    "item_index": 2
+  }
+]

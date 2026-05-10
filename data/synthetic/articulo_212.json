@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 212 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 212 establece que el seguro contra riesgos del trabajo debe ser renovado por el patrono para cada nuevo período de vigencia mediante el pago de la prima correspondiente. Además, permite que las condiciones del contrato de seguro puedan modificarse al momento de la renovación, tomando en cuenta la frecuencia y gravedad de los infortunios ocurridos y otras circunstancias prevalecientes.",
+    "source_quote": "El seguro contra riesgos del trabajo será renovado por el patrono, para cada nuevo período de vigencia, mediante el pago de la prima que corresponda. Las condiciones del contrato de seguro podrán ser modificadas, considerando la frecuencia y gravedad de los infortunios ocurridos, y cualesquiera otras circunstancias prevalecientes en el momento de la renovación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "212",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_212"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "212",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_212",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién está obligado a renovar el seguro contra riesgos del trabajo según el artículo 212?",
+    "output": "El patrono está obligado a renovar el seguro contra riesgos del trabajo para cada nuevo período de vigencia.",
+    "source_quote": "El seguro contra riesgos del trabajo será renovado por el patrono, para cada nuevo período de vigencia, mediante el pago de la prima que corresponda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "212",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_212",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué factores pueden considerarse para modificar las condiciones del contrato de seguro al momento de la renovación?",
+    "output": "Pueden considerarse la frecuencia y gravedad de los infortunios ocurridos, así como cualesquiera otras circunstancias prevalecientes en el momento de la renovación.",
+    "source_quote": "Las condiciones del contrato de seguro podrán ser modificadas, considerando la frecuencia y gravedad de los infortunios ocurridos, y cualesquiera otras circunstancias prevalecientes en el momento de la renovación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "212",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_212",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de renovar periódicamente el seguro contra riesgos del trabajo, asegurando la continuidad de la cobertura mediante el pago de la prima.",
+    "source_quote": "El seguro contra riesgos del trabajo será renovado por el patrono, para cada nuevo período de vigencia, mediante el pago de la prima que corresponda.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "212",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_212",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite ajustar las condiciones del contrato de seguro en cada renovación, tomando en cuenta la siniestralidad y otras circunstancias relevantes, para adaptar la cobertura a la realidad del riesgo.",
+    "source_quote": "Las condiciones del contrato de seguro podrán ser modificadas, considerando la frecuencia y gravedad de los infortunios ocurridos, y cualesquiera otras circunstancias prevalecientes en el momento de la renovación.",
+    "item_index": 2
+  }
+]

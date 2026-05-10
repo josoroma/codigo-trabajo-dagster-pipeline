@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 53 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 53 establece que si un sindicato se disuelve, las obligaciones y derechos que surgen del contrato colectivo y que pertenecen a sus miembros no se ven afectados. Es decir, la disolución del sindicato no elimina ni modifica esos derechos y obligaciones individuales derivados del contrato colectivo.",
+    "source_quote": "La disolución del sindicato no afecta las obligaciones y derechos emanados del contrato colectivo que correspondan a sus miembros.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "53",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_53"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "53",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_53",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede con las obligaciones y derechos del contrato colectivo si el sindicato se disuelve?",
+    "output": "No se ven afectados, pues la disolución del sindicato no afecta las obligaciones y derechos emanados del contrato colectivo que correspondan a sus miembros.",
+    "source_quote": "La disolución del sindicato no afecta las obligaciones y derechos emanados del contrato colectivo que correspondan a sus miembros.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "53",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_53",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes corresponden las obligaciones y derechos del contrato colectivo tras la disolución del sindicato?",
+    "output": "Corresponden a los miembros del sindicato disuelto, ya que el artículo indica que esas obligaciones y derechos son los que correspondan a sus miembros.",
+    "source_quote": "que correspondan a sus miembros.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "53",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_53",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara que la extinción del sindicato no produce efectos sobre las obligaciones y derechos nacidos del contrato colectivo, garantizando su continuidad.",
+    "source_quote": "La disolución del sindicato no afecta las obligaciones y derechos emanados del contrato colectivo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "53",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_TERCERO_articulo_53",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita el alcance de la protección: solo se preservan las obligaciones y derechos que pertenecen a los miembros del sindicato disuelto, no a terceros.",
+    "source_quote": "que correspondan a sus miembros.",
+    "item_index": 2
+  }
+]

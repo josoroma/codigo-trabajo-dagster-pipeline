@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 304 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 304 establece el plazo de prescripción para reclamar prestaciones por riesgos del trabajo. La regla general es que los derechos y acciones prescriben en tres años, contados desde que ocurrió el riesgo o desde que el trabajador o sus causahabientes están en capacidad de gestionar el reconocimiento; en caso de muerte, el plazo corre desde el deceso. Sin embargo, la prescripción no corre en dos situaciones: cuando se trata de enfermedades laborales que no causaron la muerte del trabajador, y cuando el trabajador no asegurado en el INS sigue laborando para el mismo patrono sin haber recibido el pago, o cuando el patrono continúa pagándole total o parcialmente el salario al trabajador o a sus causahabientes.",
+    "source_quote": "Los derechos y las acciones para reclamar las prestaciones conforme este título prescribirán en un plazo de tres años, contado desde la fecha en que ocurrió el riesgo o de la fecha en que el trabajador o sus causahabientes estén en capacidad de gestionar su reconocimiento; y en caso de muerte, el plazo correrá a partir del deceso. La prescripción no correrá para los casos de enfermedades ocasionadas como consecuencia de riesgos del trabajo y que no hayan causado la muerte del trabajador. La prescripción no correrá para el trabajador no asegurado en el Instituto Nacional de Seguros (INS), cuando siga trabajando a las órdenes del mismo patrono, sin haber obtenido el pago correspondiente o cuando el patrono continúe reconociéndole el total o la parte del salario al trabajador o a sus causahabientes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo general de prescripción para reclamar prestaciones por riesgos del trabajo según el artículo 304?",
+    "output": "El plazo general de prescripción es de tres años.",
+    "source_quote": "Los derechos y las acciones para reclamar las prestaciones conforme este título prescribirán en un plazo de tres años...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos no corre la prescripción según el artículo 304?",
+    "output": "La prescripción no corre en dos casos: 1) para enfermedades ocasionadas por riesgos del trabajo que no hayan causado la muerte del trabajador; y 2) para el trabajador no asegurado en el INS cuando siga trabajando a las órdenes del mismo patrono sin haber obtenido el pago correspondiente, o cuando el patrono continúe reconociéndole el total o parte del salario al trabajador o a sus causahabientes.",
+    "source_quote": "La prescripción no correrá para los casos de enfermedades ocasionadas como consecuencia de riesgos del trabajo y que no hayan causado la muerte del trabajador. La prescripción no correrá para el trabajador no asegurado en el Instituto Nacional de Seguros (INS), cuando siga trabajando a las órdenes del mismo patrono, sin haber obtenido el pago correspondiente o cuando el patrono continúe reconociéndole el total o la parte del salario al trabajador o a sus causahabientes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de prescripción de tres años y determina los momentos a partir de los cuales se computa el plazo: la ocurrencia del riesgo, la capacidad de gestionar el reconocimiento o la fecha de muerte.",
+    "source_quote": "Los derechos y las acciones para reclamar las prestaciones conforme este título prescribirán en un plazo de tres años, contado desde la fecha en que ocurrió el riesgo o de la fecha en que el trabajador o sus causahabientes estén en capacidad de gestionar su reconocimiento; y en caso de muerte, el plazo correrá a partir del deceso.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Crea una excepción a la prescripción para proteger al trabajador que padece enfermedades laborales no mortales, evitando que el transcurso del tiempo le impida reclamar sus prestaciones.",
+    "source_quote": "La prescripción no correrá para los casos de enfermedades ocasionadas como consecuencia de riesgos del trabajo y que no hayan causado la muerte del trabajador.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "304",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_304",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece otra excepción a la prescripción para trabajadores no asegurados que mantienen una relación laboral activa con el mismo patrono sin haber recibido el pago de prestaciones, o cuando el patrono sigue pagando salarios total o parcialmente, evitando que la inacción del patrono o la continuidad laboral perjudiquen el derecho a reclamar.",
+    "source_quote": "La prescripción no correrá para el trabajador no asegurado en el Instituto Nacional de Seguros (INS), cuando siga trabajando a las órdenes del mismo patrono, sin haber obtenido el pago correspondiente o cuando el patrono continúe reconociéndole el total o la parte del salario al trabajador o a sus causahabientes.",
+    "item_index": 3
+  }
+]

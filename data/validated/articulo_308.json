@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 308 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece que si un trabajador sufre un riesgo de trabajo y debe comparecer ante los Tribunales de Trabajo o la junta médica calificadora de incapacidad, el patrono está obligado a darle permiso con goce de salario. Además, el trabajador tiene derecho a que se le cubran los gastos de traslado y permanencia, y si su estado lo requiere, también los de sus acompañantes.",
+    "source_quote": "Cuando el trabajador al que le haya ocurrido un riesgo de trabajo tuviere que recurrir a los Tribunales de Trabajo o a la junta médica calificadora de incapacidad para el trabajo por llamamiento de éstos, el patrono deberá conceder el permiso con goce de salario correspondiente, y el trabajador tendrá derecho a que se le reconozcan los gastos de traslado y de permanencia en que incurra y, si su estado lo exige, los de sus acompañantes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "308",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_308"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "308",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_308",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe conceder el patrono cuando un trabajador que sufrió un riesgo de trabajo es llamado por los Tribunales de Trabajo o la junta médica calificadora?",
+    "output": "El patrono debe conceder un permiso con goce de salario correspondiente.",
+    "source_quote": "el patrono deberá conceder el permiso con goce de salario correspondiente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "308",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_308",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué gastos tiene derecho el trabajador cuando debe comparecer ante los Tribunales de Trabajo o la junta médica calificadora por un riesgo de trabajo?",
+    "output": "Tiene derecho a que se le reconozcan los gastos de traslado y de permanencia en que incurra, y si su estado lo exige, también los de sus acompañantes.",
+    "source_quote": "el trabajador tendrá derecho a que se le reconozcan los gastos de traslado y de permanencia en que incurra y, si su estado lo exige, los de sus acompañantes",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "308",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_308",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del patrono de otorgar un permiso remunerado al trabajador que debe comparecer ante estas instancias por un riesgo laboral, garantizando que no pierda su salario durante esa gestión.",
+    "source_quote": "Cuando el trabajador al que le haya ocurrido un riesgo de trabajo tuviere que recurrir a los Tribunales de Trabajo o a la junta médica calificadora de incapacidad para el trabajo por llamamiento de éstos, el patrono deberá conceder el permiso con goce de salario correspondiente",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "308",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_308",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce el derecho del trabajador a ser resarcido por los costos de desplazamiento y estadía derivados de la comparecencia, incluyendo los de acompañantes si su condición de salud lo hace necesario, para evitar que asuma cargas económicas adicionales.",
+    "source_quote": "el trabajador tendrá derecho a que se le reconozcan los gastos de traslado y de permanencia en que incurra y, si su estado lo exige, los de sus acompañantes",
+    "item_index": 2
+  }
+]

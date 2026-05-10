@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 325 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 325 establece que las sanciones por infracciones laborales se aplican directamente a la persona responsable. Si hay varios responsables, cada uno recibe su propia sanción. Cuando la falta es cometida por una empresa u organización, la sanción se impone a quien actúa como patrono, representante legal o jefe superior del lugar de trabajo. Además, la persona jurídica (empresa) es solidariamente responsable de cubrir las obligaciones económicas derivadas.",
+    "source_quote": "Las sanciones se aplicarán a quien resulte ser responsable de la falta o infracción. ... la respectiva persona jurídica quedará obligada, en forma solidaria con éstos, a cubrir toda clase de responsabilidades de orden pecuniario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "325",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_325"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "325",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_325",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se le aplican las sanciones según el artículo 325 del Código de Trabajo?",
+    "output": "Se aplican a quien resulte ser responsable de la falta o infracción.",
+    "source_quote": "Las sanciones se aplicarán a quien resulte ser responsable de la falta o infracción.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "325",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_325",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la infracción es cometida por una empresa?",
+    "output": "Las sanciones se aplican contra el patrono, representante legal o jefe superior del lugar de trabajo, y la persona jurídica responde solidariamente por las obligaciones pecuniarias.",
+    "source_quote": "Si la falta o infracción hubiera sido cometida por una empresa, compañía, sociedad o institución pública o privada, las sanciones se aplicarán contra quien figura como patrono, representante legal o jefe superior del lugar en donde el trabajo se presta; pero la respectiva persona jurídica quedará obligada, en forma solidaria con éstos, a cubrir toda clase de responsabilidades de orden pecuniario.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "325",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_325",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de responsabilidad personal en materia de sanciones laborales, indicando que cada infractor responde individualmente por sus actos.",
+    "source_quote": "Las sanciones se aplicarán a quien resulte ser responsable de la falta o infracción. En el caso de que los responsables fueren varios, las sanciones se impondrán, separadamente, a cada infractor.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "325",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMO_articulo_325",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la imputación de sanciones en el ámbito empresarial, designando a los representantes como sujetos sancionables y estableciendo la solidaridad de la persona jurídica para las consecuencias económicas.",
+    "source_quote": "Si la falta o infracción hubiera sido cometida por una empresa, compañía, sociedad o institución pública o privada, las sanciones se aplicarán contra quien figura como patrono, representante legal o jefe superior del lugar en donde el trabajo se presta; pero la respectiva persona jurídica quedará obligada, en forma solidaria con éstos, a cubrir toda clase de responsabilidades de orden pecuniario.",
+    "item_index": 2
+  }
+]

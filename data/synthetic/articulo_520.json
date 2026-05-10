@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 520 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 520 establece que las mismas reglas procesales aplicables en procesos ordinarios se extienden a los procesos no ordinarios, siempre que en estos últimos surja una cuestión que deba resolverse de manera contradictoria y que requiera la práctica de pruebas respetando el principio de inmediación.",
+    "source_quote": "Las mismas reglas se aplicarán en los procesos no ordinarios, cuando deba ventilarse alguna cuestión de forma contradictoria que requiera la recepción de pruebas cumpliendo el principio de inmediación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "520",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_520"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "520",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_520",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué tipo de procesos se aplican las mismas reglas según el artículo 520?",
+    "output": "En los procesos no ordinarios.",
+    "source_quote": "Las mismas reglas se aplicarán en los procesos no ordinarios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "520",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_520",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición debe cumplirse para que se apliquen estas reglas en procesos no ordinarios?",
+    "output": "Debe ventilarse alguna cuestión de forma contradictoria que requiera la recepción de pruebas cumpliendo el principio de inmediación.",
+    "source_quote": "cuando deba ventilarse alguna cuestión de forma contradictoria que requiera la recepción de pruebas cumpliendo el principio de inmediación",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "520",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_520",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Extiende la aplicación de las reglas procesales previamente establecidas a los procesos no ordinarios, garantizando uniformidad en el tratamiento de ciertas incidencias.",
+    "source_quote": "Las mismas reglas se aplicarán en los procesos no ordinarios",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "520",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_520",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición específica para activar dicha aplicación: la existencia de una controversia que exija práctica probatoria con inmediación, asegurando el respeto al debido proceso y la valoración directa de la prueba por el juez.",
+    "source_quote": "cuando deba ventilarse alguna cuestión de forma contradictoria que requiera la recepción de pruebas cumpliendo el principio de inmediación",
+    "item_index": 2
+  }
+]

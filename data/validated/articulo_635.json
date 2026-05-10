@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 635 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 635 regula el procedimiento de arbitraje laboral. Establece que el arbitraje se tramita en el mismo expediente de la conciliación, con los mismos delegados o interesados. Antes de someter una disputa que pueda causar huelga o paro al tribunal arbitral, las partes deben reanudar los trabajos suspendidos y acreditarlo ante el juzgado. El arbitraje es judicial por defecto, pero si hay acuerdo, puede ser llevado por un funcionario del Departamento de Relaciones de Trabajo del Ministerio de Trabajo o por un centro de arbitraje autorizado. Si el arbitraje es judicial y la conciliación se agotó administrativamente, el expediente se remite al juzgado competente. La reanudación de labores debe darse en las condiciones existentes al presentar el pliego de peticiones o en otras más favorables para los trabajadores. Las notificaciones señaladas en la conciliación valen para el arbitraje.",
+    "source_quote": "El procedimiento de arbitraje se realizará en el mismo expediente de la conciliación, donde conste el compromiso arbitral, con los mismos delegados o interesados que intervinieron, pero, antes de que los interesados sometan la resolución de una cuestión que pueda generar huelga o paro al respectivo tribunal de arbitraje, deberán reanudar los trabajos o las actividades que se hubieran suspendido, lo cual deberá acreditarse al juzgado por cualquier medio.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "635",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_635"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "635",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_635",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deben hacer los interesados antes de someter una cuestión que pueda generar huelga o paro al tribunal de arbitraje?",
+    "output": "Deben reanudar los trabajos o las actividades que se hubieran suspendido y acreditarlo al juzgado por cualquier medio.",
+    "source_quote": "antes de que los interesados sometan la resolución de una cuestión que pueda generar huelga o paro al respectivo tribunal de arbitraje, deberán reanudar los trabajos o las actividades que se hubieran suspendido, lo cual deberá acreditarse al juzgado por cualquier medio.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "635",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_635",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué condiciones se debe realizar la reanudación de labores según este artículo?",
+    "output": "En las mismas condiciones existentes en el momento en que se presentó el pliego de peticiones, o en cualesquiera otras más favorables para los trabajadores y trabajadoras.",
+    "source_quote": "La reanudación de labores se hará en las mismas condiciones existentes en el momento en que se presentó el pliego de peticiones a que se refiere el artículo 620, o en cualesquiera otras más favorables para los trabajadores y trabajadoras.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "635",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_635",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que el arbitraje es por defecto judicial, pero permite que las partes acuerden someterlo a un funcionario del Ministerio de Trabajo o a un centro de arbitraje autorizado, ofreciendo flexibilidad en la elección del órgano arbitral.",
+    "source_quote": "El arbitraje será judicial, pero, si existiera acuerdo entre las partes, alternativamente podrá constituirse como órgano arbitral al funcionario competente del Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o del centro de arbitraje autorizado que se escoja.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "635",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_635",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que las notificaciones señaladas durante la etapa de conciliación mantienen su validez en el arbitraje, evitando la necesidad de realizar nuevos señalamientos y agilizando el procedimiento.",
+    "source_quote": "Valdrá para el arbitraje el señalamiento de medio o lugar para notificaciones hecho en la conciliación.",
+    "item_index": 2
+  }
+]

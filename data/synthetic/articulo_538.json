@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 538 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 538 establece que las demandas sobre seguridad social se tramitan mediante el procedimiento ordinario, pero con reglas especiales. Entre ellas: se ordenan peritajes oficiales desde el traslado de la demanda; el demandado debe aportar copia completa del expediente administrativo al contestar, so pena de presunción de veracidad de los hechos; se pueden pedir dictámenes de peritos particulares a costa del interesado; se convoca a audiencia única solo si hay pruebas no documentales, discrepancias periciales o por necesidad del debido proceso; todos los peritos comparecen; si no hay audiencia, la sentencia se dicta en 15 días; se valoran los antecedentes administrativos y las pruebas; los beneficios se limitan a lo legal; las prestaciones no líquidas se fijan en ejecución de sentencia; y se exige cumplimiento estricto de plazos y ejecución pronta de las sentencias.",
+    "source_quote": "Las pretensiones correspondientes a la seguridad social se sustanciarán por el procedimiento ordinario, con las siguientes modificaciones:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "538",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_538"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "538",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_538",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene para la parte demandada no presentar la copia completa del expediente administrativo con la contestación de la demanda?",
+    "output": "Se produce una presunción de veracidad o de certeza de los hechos cuya prueba depende de esa documentación, salvo que en el expediente haya prueba que lo contradiga o que exista causa justa que impida la presentación.",
+    "source_quote": "Si lo incumpliera, se producirá una presunción de veracidad o de certeza de los hechos cuya prueba depende de esa documentación, salvo que en el expediente haya prueba que lo contradiga o que exista causa justa que impida la presentación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "538",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_538",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se convoca a las partes a una audiencia única según este artículo?",
+    "output": "Se convoca a audiencia única cuando deban evacuarse pruebas distintas de la documental, cuando haya discrepancias respecto de las periciales o cuando el órgano lo considere necesario para cumplir el debido proceso.",
+    "source_quote": "Se convocará a las partes a una audiencia única cuando deban evacuarse pruebas distintas de la documental, cuando haya discrepancias respecto de las periciales o cuando el órgano lo considere necesario para cumplir el debido proceso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "538",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_538",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Agilizar la incorporación de pruebas periciales oficiales desde el inicio del proceso, garantizando su documentación y el derecho de contradicción de las partes.",
+    "source_quote": "Cuando se requieran valoraciones por peritos oficiales, en el mismo auto de traslado de la demanda se ordenará hacerlas al organismo correspondiente, las cuales se remitirán al juzgado por escrito o mediante comunicación electrónica que el funcionario competente de ese órgano se encargará de documentar materialmente en el expediente y de ponerlas a conocimiento de las partes por tres días.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "538",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_538",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer que el juez debe valorar integralmente todo el material probatorio, incluyendo lo administrativo, y fijar un criterio para dirimir conflictos entre peritajes, basado en las reglas del procedimiento y los principios de la seguridad social.",
+    "source_quote": "Al resolverse se tomarán en cuenta los antecedentes administrativos y el cúmulo de pruebas allegado al expediente en la sede judicial. En caso de discrepancia entre dictámenes científicos, se resolverá aplicando las reglas de valoración propias de este procedimiento y los principios aplicables de la materia.",
+    "item_index": 2
+  }
+]

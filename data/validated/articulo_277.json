@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 277 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 277 establece que el consejo dispondrá de un director ejecutivo, quien actuará como secretario y participará en todas las sesiones con derecho a voz. Además, indica que la estructura administrativa, las dependencias y el personal técnico necesario serán definidos en el reglamento de la ley, el cual deberá incluir disposiciones especiales para la contratación temporal o permanente de personal profesional especializado, nacional o extranjero, según lo considere pertinente el Consejo para el mejor cumplimiento de sus funciones.",
+    "source_quote": "El consejo contará con los servicios de un director ejecutivo, quien actuará como su secretario y asistirá a todas las sesiones con derecho a voz. Todo lo relativo a estructura administrativa del consejo, sus dependencias y el personal técnico necesario será determinado en el reglamento de la ley, el cual deberá contener previsiones especiales relativas a la contratación temporal o permanente, del personal profesional especializado nacional o extranjero, que el Consejo estime pertinente para el mejor desempeño de sus funciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "277",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_277"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "277",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_277",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién actuará como secretario del consejo y con qué derecho asiste a las sesiones?",
+    "output": "Un director ejecutivo actuará como secretario y asistirá a todas las sesiones con derecho a voz.",
+    "source_quote": "El consejo contará con los servicios de un director ejecutivo, quien actuará como su secretario y asistirá a todas las sesiones con derecho a voz.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "277",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_277",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué aspectos relativos al personal técnico y la estructura administrativa serán determinados en el reglamento de la ley?",
+    "output": "Todo lo relativo a la estructura administrativa del consejo, sus dependencias y el personal técnico necesario, incluyendo previsiones especiales para la contratación temporal o permanente de personal profesional especializado nacional o extranjero, será determinado en el reglamento de la ley.",
+    "source_quote": "Todo lo relativo a estructura administrativa del consejo, sus dependencias y el personal técnico necesario será determinado en el reglamento de la ley, el cual deberá contener previsiones especiales relativas a la contratación temporal o permanente, del personal profesional especializado nacional o extranjero, que el Consejo estime pertinente para el mejor desempeño de sus funciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "277",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_277",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el cargo de director ejecutivo, su función como secretario y su participación con voz en las sesiones del consejo, asegurando su presencia y aporte en las deliberaciones sin derecho a voto.",
+    "source_quote": "El consejo contará con los servicios de un director ejecutivo, quien actuará como su secretario y asistirá a todas las sesiones con derecho a voz.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "277",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_277",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece que la organización administrativa y la contratación de personal especializado se regularán mediante reglamento, otorgando al Consejo la facultad de decidir sobre dichas contrataciones para el cumplimiento eficaz de sus funciones.",
+    "source_quote": "Todo lo relativo a estructura administrativa del consejo, sus dependencias y el personal técnico necesario será determinado en el reglamento de la ley, el cual deberá contener previsiones especiales relativas a la contratación temporal o permanente, del personal profesional especializado nacional o extranjero, que el Consejo estime pertinente para el mejor desempeño de sus funciones.",
+    "item_index": 2
+  }
+]

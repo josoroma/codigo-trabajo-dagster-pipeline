@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 386 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 386 regula la consecuencia económica para el empleador cuando una huelga es declarada legal y se determina que sus causas le son imputables. Si los tribunales, en la misma resolución que declara la legalidad de la huelga, establecen que el empleador incurrió en incumplimientos graves o conductas específicas (como violación de contratos colectivos, negativa a negociar, maltrato, etc.), se le condena a pagar los salarios de los días que los trabajadores estuvieron en huelga. La liquidación de esos salarios se tramita mediante el proceso de ejecución de sentencia.",
+    "source_quote": "Si la huelga fuera declarada legal por los tribunales y se determinara además, en la misma resolución, que los motivos de la huelga son imputables al empleador o la empleadora, por incumplimiento grave del contrato colectivo de trabajo o el incumplimiento generalizado de los contratos de trabajo, del arreglo conciliatorio, de la convención colectiva o del laudo arbitral, por negativa a negociar una convención colectiva, a reconocer a la organización sindical, a reinstalar a los representantes de las personas trabajadoras a pesar de existir sentencia firme que así lo ordene, o por maltrato o violencia contra los trabajadores o las trabajadoras, condenará a aquel al pago de los salarios correspondientes a los días en que estos permanezcan en huelga.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "386",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_386"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "386",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_386",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condiciones deben cumplirse para que el empleador sea condenado al pago de salarios durante una huelga según el artículo 386?",
+    "output": "Debe cumplirse que la huelga sea declarada legal por los tribunales y que, en la misma resolución, se determine que los motivos de la huelga son imputables al empleador por alguna de las causales enumeradas en el artículo.",
+    "source_quote": "Si la huelga fuera declarada legal por los tribunales y se determinara además, en la misma resolución, que los motivos de la huelga son imputables al empleador o la empleadora... condenará a aquel al pago de los salarios correspondientes a los días en que estos permanezcan en huelga.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "386",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_386",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "Mencione al menos tres causales por las cuales los motivos de la huelga se consideran imputables al empleador según el artículo 386.",
+    "output": "Incumplimiento grave del contrato colectivo de trabajo, negativa a negociar una convención colectiva, y maltrato o violencia contra los trabajadores o las trabajadoras.",
+    "source_quote": "por incumplimiento grave del contrato colectivo de trabajo... por negativa a negociar una convención colectiva... o por maltrato o violencia contra los trabajadores o las trabajadoras",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "386",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_386",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las condiciones previas para la condena al pago de salarios: la declaratoria de legalidad de la huelga y la atribución de responsabilidad al empleador en la misma resolución judicial.",
+    "source_quote": "Si la huelga fuera declarada legal por los tribunales y se determinara además, en la misma resolución, que los motivos de la huelga son imputables al empleador o la empleadora",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "386",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_386",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la consecuencia jurídica (obligación de pagar los salarios caídos) y el mecanismo procesal para hacer efectivo ese pago, que es la ejecución de sentencia.",
+    "source_quote": "condenará a aquel al pago de los salarios correspondientes a los días en que estos permanezcan en huelga. La liquidación respectiva se realizará por medio del proceso de ejecución de sentencia.",
+    "item_index": 2
+  }
+]

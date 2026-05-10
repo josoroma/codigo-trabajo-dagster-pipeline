@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 602 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 602 permite que las disputas legales sobre derechos patrimoniales derivadas de la relación laboral se resuelvan mediante arbitraje, siempre que las partes puedan disponer libremente de esos derechos y sea posible evitar los tribunales comunes. Para ello, se debe firmar un compromiso de arbitraje que describa el conflicto, incluya ciertos requisitos del artículo 607 y una declaración de que los derechos no son indisponibles.",
+    "source_quote": "Podrán someterse a arbitraje todas las controversias jurídicas patrimoniales, fundadas en derechos respecto de los cuales las partes tengan plena disposición, y sea posible excluir la jurisdicción de los tribunales comunes, derivadas o íntimamente vinculadas a la relación de trabajo o empleo, pendientes o no ante dichos tribunales",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "602",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_602"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "602",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_602",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de controversias pueden someterse a arbitraje según el artículo 602?",
+    "output": "Todas las controversias jurídicas patrimoniales, fundadas en derechos respecto de los cuales las partes tengan plena disposición, y sea posible excluir la jurisdicción de los tribunales comunes, derivadas o íntimamente vinculadas a la relación de trabajo o empleo, pendientes o no ante dichos tribunales.",
+    "source_quote": "Podrán someterse a arbitraje todas las controversias jurídicas patrimoniales, fundadas en derechos respecto de los cuales las partes tengan plena disposición, y sea posible excluir la jurisdicción de los tribunales comunes, derivadas o íntimamente vinculadas a la relación de trabajo o empleo, pendientes o no ante dichos tribunales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "602",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_602",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué contenido mínimo debe tener el compromiso de arbitraje según este artículo?",
+    "output": "Debe contener la descripción del diferendo jurídico que se somete a arbitraje, las especificaciones de los incisos a), c), d), e) y g) del artículo 607, y una declaración expresa de las partes de que el objeto del arbitraje son derechos que no tienen el carácter de indisponibles.",
+    "source_quote": "para cuyo efecto deberá suscribirse un compromiso de arbitraje que deberá contener, al menos, la descripción del diferendo jurídico que se somete a arbitraje, las especificaciones a que se refieren los incisos a), c), d), e) y g) del artículo 607 de este Código, así como declaración expresa de las partes de que el objeto del arbitraje está constituido por derechos que no tienen el carácter de indisponibles.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "602",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_602",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito material del arbitraje laboral, limitándolo a disputas patrimoniales sobre derechos disponibles y que permitan sustraerse de la justicia ordinaria, asegurando que solo conflictos aptos para transacción puedan ser arbitrados.",
+    "source_quote": "Podrán someterse a arbitraje todas las controversias jurídicas patrimoniales, fundadas en derechos respecto de los cuales las partes tengan plena disposición, y sea posible excluir la jurisdicción de los tribunales comunes, derivadas o íntimamente vinculadas a la relación de trabajo o empleo, pendientes o no ante dichos tribunales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "602",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_602",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos formales mínimos del acuerdo arbitral, garantizando la identificación clara del conflicto, la remisión a las formalidades del artículo 607 y la manifestación inequívoca de que los derechos en juego no son irrenunciables, protegiendo así la voluntad informada de las partes.",
+    "source_quote": "para cuyo efecto deberá suscribirse un compromiso de arbitraje que deberá contener, al menos, la descripción del diferendo jurídico que se somete a arbitraje, las especificaciones a que se refieren los incisos a), c), d), e) y g) del artículo 607 de este Código, así como declaración expresa de las partes de que el objeto del arbitraje está constituido por derechos que no tienen el carácter de indisponibles.",
+    "item_index": 2
+  }
+]

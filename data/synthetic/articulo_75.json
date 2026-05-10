@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 75 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 75 regula la suspensión temporal de los contratos de trabajo. Establece que dicha suspensión surte efecto desde el final del día en que ocurrió el hecho que la motiva, siempre que dentro de los tres días siguientes se inicie ante la Inspección General de Trabajo la comprobación plena de la causa. La carga de la prueba varía según el caso: en los dos primeros supuestos del artículo anterior corresponde al patrono, y en el tercero a los familiares o sucesores. Si la autoridad laboral determina que la causa no existe o la suspensión es injustificada, declarará sin lugar la solicitud, lo que permite a los trabajadores dar por terminados sus contratos con responsabilidad para el patrono.",
+    "source_quote": "La suspensión temporal de los contratos de trabajo surtirá efecto desde la conclusión del día en que ocurrió el hecho que le dio origen, siempre que se inicie ante la Inspección General de Trabajo o ante sus representantes debida y especialmente autorizados, la comprobación plena de la causa en que se funda, dentro de los tres días posteriores al ya mencionado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "75",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_75"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "75",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_75",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dentro de cuántos días debe iniciarse la comprobación de la causa de suspensión temporal ante la Inspección General de Trabajo?",
+    "output": "Dentro de los tres días posteriores al día en que ocurrió el hecho que dio origen a la suspensión.",
+    "source_quote": "dentro de los tres días posteriores al ya mencionado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "75",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_75",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si la Inspección General de Trabajo determina que la suspensión es injustificada?",
+    "output": "Declarará sin lugar la solicitud, para que los trabajadores puedan dar por concluidos sus contratos con responsabilidad para el patrono.",
+    "source_quote": "Si la Inspección General de Trabajo o sus representantes llegaren al convencimiento de que no existe la causa alegada, o de que la suspensión es injustificada, declararán sin lugar la solicitud a efecto de que los trabajadores puedan ejercitar su facultad de dar por concluidos sus contratos, con responsabilidad para el patrono.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "75",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_75",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el momento exacto en que la suspensión temporal comienza a producir efectos jurídicos y fija un plazo perentorio de tres días para acreditar la causa ante la autoridad laboral competente, condicionando la validez de la suspensión a dicha comprobación.",
+    "source_quote": "La suspensión temporal de los contratos de trabajo surtirá efecto desde la conclusión del día en que ocurrió el hecho que le dio origen, siempre que se inicie ante la Inspección General de Trabajo o ante sus representantes debida y especialmente autorizados, la comprobación plena de la causa en que se funda, dentro de los tres días posteriores al ya mencionado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "75",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEXTO_articulo_75",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina la consecuencia jurídica de una suspensión que no cumple con los requisitos legales: la autoridad laboral rechaza la solicitud, lo que habilita a los trabajadores a terminar la relación laboral imputando responsabilidad al patrono, protegiendo así sus derechos.",
+    "source_quote": "Si la Inspección General de Trabajo o sus representantes llegaren al convencimiento de que no existe la causa alegada, o de que la suspensión es injustificada, declararán sin lugar la solicitud a efecto de que los trabajadores puedan ejercitar su facultad de dar por concluidos sus contratos, con responsabilidad para el patrono.",
+    "item_index": 2
+  }
+]

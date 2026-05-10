@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 200 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 200 amplía la definición de trabajador para efectos del Título de Riesgos del Trabajo, incluyendo a aprendices y personas similares aunque no reciban salario por su falta de pericia. Establece que sus prestaciones en dinero se calculan con base en el salario mínimo de la ocupación que aprenden, y obliga a los patronos a reportar dichas cantidades al Instituto. Además, garantiza que los trabajadores extranjeros y sus derechohabientes gocen de los mismos beneficios del Código.",
+    "source_quote": "Para los efectos de este Título, se consideran trabajadores los aprendices y otras personas semejantes aunque, en razón de su falta de pericia, no reciban salario.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_200"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_200",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes considera trabajadores el artículo 200 para efectos del Título de Riesgos del Trabajo?",
+    "output": "Considera trabajadores a los aprendices y otras personas semejantes, aunque no reciban salario por su falta de pericia.",
+    "source_quote": "Para los efectos de este Título, se consideran trabajadores los aprendices y otras personas semejantes aunque, en razón de su falta de pericia, no reciban salario.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_200",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Sobre qué base se calculan las prestaciones en dinero de los aprendices?",
+    "output": "Se calculan sobre la base del salario mínimo de la ocupación que aprenden.",
+    "source_quote": "Las prestaciones en dinero de estos trabajadores, se calcularán sobre la base del salario mínimo de la ocupación que aprenden.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_200",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza la igualdad de derechos laborales para los trabajadores extranjeros y sus beneficiarios, equiparándolos a los nacionales en el acceso a las prestaciones del Código de Trabajo.",
+    "source_quote": "Los trabajadores extranjeros, y sus derecho habientes, gozarán de los beneficios que prevé este Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "200",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_None_articulo_200",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los patronos la obligación de registrar y reportar al Instituto los montos correspondientes a los aprendices, garantizando la transparencia y el correcto cálculo de sus prestaciones.",
+    "source_quote": "Los patronos incluirán tales cantidades en las planillas que deban reportar que deban al Instituto.",
+    "item_index": 2
+  }
+]

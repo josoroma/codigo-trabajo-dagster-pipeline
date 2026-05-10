@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 378 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo regula las modalidades de huelga, permitiendo que se ejecute de forma intermitente, gradual o escalonada, sin importar si es convocada por sindicatos o coaliciones de trabajadores. Exige que, en esos casos, se comunique por escrito a la parte empleadora, con antelación, los días y horas de suspensión y la modalidad, directamente o mediante el Ministerio de Trabajo. Prohíbe repetir una huelga por los mismos motivos de una anterior, pero según interpretación de la Sala Constitucional, esta prohibición no aplica si hay un cambio de circunstancias o un incumplimiento patronal.",
+    "source_quote": "La huelga, cualquiera que sea su modalidad, sea que la convoque uno o más sindicatos o, en su caso, una coalición de personas trabajadoras, podrá ejecutarse intermitentemente, de manera gradual o de forma escalonada. En estos casos, los días y las horas de suspensión, así como la modalidad de la huelga, deben ser comunicados, por escrito, a la parte empleadora previamente a su inicio, directamente o por medio del Ministerio de Trabajo y Seguridad Social. En ningún caso se podrá reiterar una huelga por los mismos motivos de una realizada anteriormente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué modalidades de huelga permite este artículo?",
+    "output": "Permite la huelga intermitente, gradual o escalonada, sin importar si la convoca uno o más sindicatos o una coalición de personas trabajadoras.",
+    "source_quote": "La huelga, cualquiera que sea su modalidad, sea que la convoque uno o más sindicatos o, en su caso, una coalición de personas trabajadoras, podrá ejecutarse intermitentemente, de manera gradual o de forma escalonada.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe comunicarse la huelga cuando es intermitente, gradual o escalonada?",
+    "output": "Se debe comunicar por escrito a la parte empleadora, previamente a su inicio, los días y horas de suspensión y la modalidad de la huelga, directamente o por medio del Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "los días y las horas de suspensión, así como la modalidad de la huelga, deben ser comunicados, por escrito, a la parte empleadora previamente a su inicio, directamente o por medio del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se puede repetir una huelga por los mismos motivos de una anterior?",
+    "output": "En principio, está prohibido repetir una huelga por los mismos motivos. Sin embargo, según la Sala Constitucional, esta prohibición no impide una nueva huelga si hay un cambio de circunstancias o un incumplimiento patronal.",
+    "source_quote": "En ningún caso se podrá reiterar una huelga por los mismos motivos de una realizada anteriormente. (Nota de Sinalevi. De acuerdo con el Voto N° 026385 del 20 de agosto de 2025, la Sala Constitucional, en relación con la reiteración de la huelga, regulada en el presente párrafo anterior, declaró que este \"no es inconstitucional, siempre y cuando se interprete que la expresión \"por los mismo motivos\", no impide la realización de una nueva huelga cuando haya un cambio de circunstancias o un incumplimiento patronal.\")",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las modalidades no continuas de huelga permitidas y el deber de notificación previa al empleador, lo que busca equilibrar el derecho a huelga con la necesidad de previsibilidad para la parte patronal.",
+    "source_quote": "La huelga, cualquiera que sea su modalidad, sea que la convoque uno o más sindicatos o, en su caso, una coalición de personas trabajadoras, podrá ejecutarse intermitentemente, de manera gradual o de forma escalonada. En estos casos, los días y las horas de suspensión, así como la modalidad de la huelga, deben ser comunicados, por escrito, a la parte empleadora previamente a su inicio, directamente o por medio del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "378",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_SEGUNDO_articulo_378",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija una prohibición para evitar huelgas reiterativas sobre una misma causa, aunque la interpretación constitucional añade que no impide una nueva huelga si hay cambio de circunstancias o incumplimiento patronal.",
+    "source_quote": "En ningún caso se podrá reiterar una huelga por los mismos motivos de una realizada anteriormente.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 630 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 630 establece que, cuando se agotan los procedimientos de conciliación sin que los delegados acepten un arreglo o acuerden someter la disputa a arbitraje, el órgano conciliador debe levantar un informe. Este informe debe detallar las causas del conflicto, las recomendaciones hechas a las partes, y señalar cuál de ellas aceptó o rechazó el arreglo y el arbitraje propuesto. Una copia se remite al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o este la conserva si es el propio órgano.",
+    "source_quote": "Una vez agotados los procedimientos de conciliación, sin que los delegados hayan aceptado el arreglo o convenido en someter la disputa a arbitraje, el órgano levantará un informe cuya copia remitirá al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o este, en su caso, conservará.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "630",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_630"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "630",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_630",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué contenido debe tener el informe que se levanta tras agotarse la conciliación sin acuerdo?",
+    "output": "El informe debe contener la enumeración precisa de las causas del conflicto, las recomendaciones hechas a las partes para resolverlo, y la determinación de cuál de ellas aceptó el arreglo o si ambas lo rechazaron, así como lo mismo respecto del arbitraje propuesto o insinuado.",
+    "source_quote": "Este informe contendrá la enumeración precisa de las causas del conflicto y de las recomendaciones que se hicieron a las partes para resolverlo; además, determinará cuál de estas aceptó el arreglo o si las dos lo rechazaron, y lo mismo respecto del arbitraje propuesto o insinuado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "630",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_630",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién se debe remitir una copia del informe de conciliación fallida?",
+    "output": "Se debe remitir al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o este lo conservará si es el propio órgano que lo levantó.",
+    "source_quote": "cuya copia remitirá al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o este, en su caso, conservará.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "630",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_630",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el supuesto de hecho (fracaso de la conciliación) y la obligación del órgano conciliador de documentar el resultado mediante un informe, asegurando su comunicación al Departamento de Relaciones de Trabajo para fines de registro y seguimiento.",
+    "source_quote": "Una vez agotados los procedimientos de conciliación, sin que los delegados hayan aceptado el arreglo o convenido en someter la disputa a arbitraje, el órgano levantará un informe cuya copia remitirá al Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social o este, en su caso, conservará.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "630",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_630",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Detalla el contenido mínimo obligatorio del informe, garantizando que quede constancia clara de los motivos del conflicto, las soluciones propuestas y la postura de cada parte frente al arreglo y al arbitraje, lo cual es esencial para eventuales etapas posteriores.",
+    "source_quote": "Este informe contendrá la enumeración precisa de las causas del conflicto y de las recomendaciones que se hicieron a las partes para resolverlo; además, determinará cuál de estas aceptó el arreglo o si las dos lo rechazaron, y lo mismo respecto del arbitraje propuesto o insinuado.",
+    "item_index": 2
+  }
+]

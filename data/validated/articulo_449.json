@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 449 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 449 regula la representación procesal de las entidades descentralizadas, remitiéndose a sus leyes especiales. Facilita la acreditación de personería cuando el nombramiento se publica en el diario oficial, permitiendo que los representantes invoquen esa publicación y juren que no ha sido modificada. Además, establece que la Contraloría General de la República puede ser demandada junto con el Estado o el ente fiscalizado en conflictos laborales surgidos de su función fiscalizadora. Por último, dispone que si un acto de una entidad requiere aprobación previa de otro órgano estatal para su firmeza, este último será codemandado en el proceso laboral.",
+    "source_quote": "La representación y defensa de las entidades descentralizadas se regirá de acuerdo con lo que establezcan sus propias leyes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se prueba la personería de los representantes de entidades descentralizadas cuando su designación se publica en el diario oficial?",
+    "output": "Bastará con que los representantes invoquen la publicación como prueba de su personería y aseguren, bajo juramento, que la designación no ha sido modificada o dejada sin efecto.",
+    "source_quote": "Cuando la designación de representantes con facultades suficientes para litigar se hace en el diario oficial, bastará con que los representantes invoquen la publicación como prueba de su personería y aseguren, bajo juramento, que la designación no ha sido modificada o dejada sin efecto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos la Contraloría General de la República puede ser demandada conjuntamente con el Estado o el ente fiscalizador?",
+    "output": "Cuando el proceso tenga por objeto conflictos laborales derivados de la conducta de estos, relacionada con el ejercicio de su competencia constitucional y legal, o bien, del ejercicio de sus potestades de fiscalización o tutela superior de la Hacienda Pública.",
+    "source_quote": "La Contraloría General de la República podrá ser demandada conjuntamente con el Estado o con el ente fiscalizador, cuando el proceso tenga por objeto conflictos laborales derivados de la conducta de estos, relacionada con el ejercicio de su competencia constitucional y legal, o bien, del ejercicio de sus potestades de fiscalización o tutela superior de la Hacienda Pública.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el régimen de representación procesal de las entidades descentralizadas y un mecanismo simplificado de acreditación de personería mediante publicación oficial y declaración jurada, evitando trámites adicionales.",
+    "source_quote": "La representación y defensa de las entidades descentralizadas se regirá de acuerdo con lo que establezcan sus propias leyes. Cuando la designación de representantes con facultades suficientes para litigar se hace en el diario oficial, bastará con que los representantes invoquen la publicación como prueba de su personería y aseguren, bajo juramento, que la designación no ha sido modificada o dejada sin efecto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite la acumulación pasiva de la Contraloría General de la República en litigios laborales originados por actos de fiscalización o tutela de la Hacienda Pública, garantizando su comparecencia cuando su actuación incide en el conflicto.",
+    "source_quote": "La Contraloría General de la República podrá ser demandada conjuntamente con el Estado o con el ente fiscalizador, cuando el proceso tenga por objeto conflictos laborales derivados de la conducta de estos, relacionada con el ejercicio de su competencia constitucional y legal, o bien, del ejercicio de sus potestades de fiscalización o tutela superior de la Hacienda Pública.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "449",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_449",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la integración como codemandado del órgano que debe aprobar, autorizar o conocer previamente un acto para su firmeza, asegurando su participación en el proceso laboral correspondiente.",
+    "source_quote": "Cuando una entidad dicte algún acto o disposición que, para su firmeza, requiera o haya solicitado previo control, autorización, aprobación o conocimiento, por parte de un órgano del Estado o de otra entidad administrativa, se tendrá a esta como parte codemandada.",
+    "item_index": 3
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 45 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 45 establece que las restricciones mencionadas en los cuatro artículos anteriores no se aplican a los profesionales titulados ni a los técnicos cuyo trabajo exige conocimientos muy calificados. Es decir, estos trabajadores quedan exceptuados de dichas limitaciones.",
+    "source_quote": "Es entendido que las restricción contempladas en los cuatro artículos anteriores no rigen para los profesionales titulados ni para aquellos técnicos cuyo trabajo requiera conocimientos muy calificados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "45",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_45"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "45",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_45",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quiénes no se les aplican las restricciones de los cuatro artículos anteriores según el artículo 45?",
+    "output": "No se aplican a los profesionales titulados ni a los técnicos cuyo trabajo requiera conocimientos muy calificados.",
+    "source_quote": "las restricción contempladas en los cuatro artículos anteriores no rigen para los profesionales titulados ni para aquellos técnicos cuyo trabajo requiera conocimientos muy calificados.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "45",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_45",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de técnicos están exceptuados de las restricciones según este artículo?",
+    "output": "Aquellos técnicos cuyo trabajo requiera conocimientos muy calificados.",
+    "source_quote": "aquellos técnicos cuyo trabajo requiera conocimientos muy calificados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "45",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_45",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Declara la inaplicabilidad de las restricciones establecidas en los artículos precedentes para ciertos trabajadores, creando una excepción expresa.",
+    "source_quote": "las restricción contempladas en los cuatro artículos anteriores no rigen",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "45",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_45",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito personal de la excepción: los profesionales con título y los técnicos que desempeñan labores de alta calificación, excluyéndolos de las limitaciones anteriores.",
+    "source_quote": "para los profesionales titulados ni para aquellos técnicos cuyo trabajo requiera conocimientos muy calificados",
+    "item_index": 2
+  }
+]

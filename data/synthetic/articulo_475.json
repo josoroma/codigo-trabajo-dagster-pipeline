@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 475 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 475 regula las nulidades procesales en materia laboral. Establece que las nulidades no reclamadas durante el proceso se consideran consentidas y subsanadas. Solo en casos excepcionales (falta de capacidad, representación indebida, falta de emplazamiento o notificación defectuosa que cause indefensión) se puede alegar la nulidad después de una sentencia firme. En esos casos, el derecho caduca en un año, contado desde que la parte afectada pudo conocer la sentencia o ejercer sus derechos. Las solicitudes reiterativas de nulidades ya denegadas se rechazan de plano, salvo que fundamenten un recurso admisible.",
+    "source_quote": "Las nulidades no reclamadas durante el proceso y en las oportunidades señaladas se tendrán como definitivamente consentidas y subsanadas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "475",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_475"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "475",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_475",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos excepcionales se puede alegar una nulidad después de que la sentencia tenga autoridad de cosa juzgada?",
+    "output": "Únicamente en los supuestos de falta de capacidad de alguna de las partes, indebida o insuficiente representación, falta del emplazamiento y la defectuosa notificación de este último a quien perjudique el resultado del proceso, con efectiva indefensión.",
+    "source_quote": "Únicamente en los supuestos de falta de capacidad de alguna de las partes, indebida o insuficiente representación, falta del emplazamiento y la defectuosa notificación de este último a quien perjudique el resultado del proceso, con efectiva indefensión, podrá hacerse valer el vicio después de la sentencia con autoridad de cosa juzgada.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "475",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_475",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo de caducidad para pedir la nulidad en los casos excepcionales?",
+    "output": "El derecho caduca en el término de un año, a partir de la mayoridad de la parte si era menor de edad y debió conocer el resultado, o desde que la parte esté en capacidad de ejercitar sus derechos si conoce la sentencia, o desde que razonablemente deba considerarse que debió saber de su existencia.",
+    "source_quote": "el derecho de pedir la nulidad caducará en el término de un año, a partir de la mayoridad de la parte, cuando hubiera figurado como tal siendo menor de edad, si al mismo tiempo ha debido conocer dicho resultado y, en los demás casos, a partir del momento en que la parte se halle en capacidad de ejercitar sus derechos, si al mismo tiempo es o ha sido conocedora de la sentencia o, en el caso contrario, desde el momento en que razonablemente deba considerarse que deba haber sabido de su existencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "475",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_475",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de preclusión de las nulidades procesales, fomentando la seguridad jurídica y la firmeza de los actos procesales al considerar saneadas las irregularidades no impugnadas oportunamente.",
+    "source_quote": "Las nulidades no reclamadas durante el proceso y en las oportunidades señaladas se tendrán como definitivamente consentidas y subsanadas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "475",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_475",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define las excepciones taxativas en las que se permite alegar nulidades después de la firmeza de la sentencia, protegiendo el derecho de defensa en casos de vicios graves que causan indefensión y que afectan garantías procesales fundamentales.",
+    "source_quote": "Únicamente en los supuestos de falta de capacidad de alguna de las partes, indebida o insuficiente representación, falta del emplazamiento y la defectuosa notificación de este último a quien perjudique el resultado del proceso, con efectiva indefensión, podrá hacerse valer el vicio después de la sentencia con autoridad de cosa juzgada.",
+    "item_index": 2
+  }
+]

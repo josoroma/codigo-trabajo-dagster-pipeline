@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 526 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 526 regula la comparecencia de las partes a las audiencias laborales. Establece que las partes o sus representantes acreditados deben asistir, aunque pueden enviar a un apoderado especial judicial. Sin embargo, si la parte debe declarar, su asistencia es obligatoria; de lo contrario, su incomparecencia se presume como veracidad de los hechos a declarar. También define cómo justificar la inasistencia: solo por razones que realmente impidan asistir, notificando antes de la audiencia o, si surge el mismo día, avisando de inmediato y justificando al día siguiente. El impedimento del abogado se comprueba igual, y si es por otra actividad judicial, solo vale si fue notificada antes. No se aceptan justificaciones por intereses personales o familiares.",
+    "source_quote": "Las partes, o sus representantes debidamente acreditados en el caso de las personas jurídicas, deberán comparecer a las audiencias a que sean convocados.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "526",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_526"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "526",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_526",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene la incomparecencia de una parte que está obligada a comparecer como declarante?",
+    "output": "Se tiene como presunción de veracidad de los hechos o temas objeto de la declaración.",
+    "source_quote": "bajo pena de tener la incomparecencia como presunción de veracidad de los hechos o temas objeto de la declaración.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "526",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_526",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe justificarse la inasistencia de la parte obligada a asistir para que se reprograme su declaración?",
+    "output": "Solo por razones que realmente impidan la asistencia, justificándolo antes de la hora y fecha señaladas. Si los hechos ocurren el mismo día de la audiencia, debe avisar de inmediato al despacho por cualquier vía y justificarlo el día siguiente.",
+    "source_quote": "La inasistencia de la parte que estuviera obligada a asistir podrá justificarse, a los efectos de reprogramar el acto de su declaración, solo por razones que realmente impidan la asistencia y siempre y cuando la justificación se haga antes de la hora y fecha señaladas, salvo que los hechos que la motivan se hayan dado el mismo día de la audiencia, caso en el cual deberá avisarlo de forma inmediata al despacho por cualquier vía y justificarlo el día siguiente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "526",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_526",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación general de comparecencia, la posibilidad de representación mediante poder especial judicial y la excepción cuando la parte debe declarar, imponiendo una consecuencia jurídica grave ante la inasistencia: la presunción de veracidad de los hechos.",
+    "source_quote": "Las partes, o sus representantes debidamente acreditados en el caso de las personas jurídicas, deberán comparecer a las audiencias a que sean convocados. Podrá hacerlo, en su lugar, una persona con poder especial judicial; sin embargo, cuando la parte en persona o por medio del representante social deba comparecer como declarante, su asistencia es obligatoria, bajo pena de tener la incomparecencia como presunción de veracidad de los hechos o temas objeto de la declaración.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "526",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_526",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula el procedimiento excepcional para justificar la inasistencia y evitar la presunción de veracidad, exigiendo causas reales de impedimento, notificación previa o inmediata según el caso, y justificación posterior, con el fin de reprogramar la declaración.",
+    "source_quote": "La inasistencia de la parte que estuviera obligada a asistir podrá justificarse, a los efectos de reprogramar el acto de su declaración, solo por razones que realmente impidan la asistencia y siempre y cuando la justificación se haga antes de la hora y fecha señaladas, salvo que los hechos que la motivan se hayan dado el mismo día de la audiencia, caso en el cual deberá avisarlo de forma inmediata al despacho por cualquier vía y justificarlo el día siguiente.",
+    "item_index": 2
+  }
+]

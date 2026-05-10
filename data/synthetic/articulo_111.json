@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 111 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 111 autoriza al patrono a retener hasta una décima parte del salario de los trabajadores a domicilio cuando se presenten trabajos defectuosos o deterioro evidente de materiales, mientras se discuten y declaran las responsabilidades correspondientes.",
+    "source_quote": "Los trabajos defectuosos o el evidente deterioro de materiales autorizan al patrono para retener hasta la décima parte del salario que perciban los trabajadores a domicilio, mientras se discuten y declaran las responsabilidades consiguientes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "111",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_111"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "111",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_111",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué circunstancias puede el patrono retener parte del salario de los trabajadores a domicilio según el artículo 111?",
+    "output": "Cuando existan trabajos defectuosos o un evidente deterioro de materiales.",
+    "source_quote": "Los trabajos defectuosos o el evidente deterioro de materiales autorizan al patrono para retener hasta la décima parte del salario...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "111",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_111",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite máximo de retención que permite este artículo?",
+    "output": "Hasta la décima parte del salario que perciban los trabajadores a domicilio.",
+    "source_quote": "retener hasta la décima parte del salario que perciban los trabajadores a domicilio",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "111",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_111",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las causas que habilitan al patrono para efectuar una retención salarial sobre los trabajadores a domicilio y fija su límite cuantitativo máximo.",
+    "source_quote": "Los trabajos defectuosos o el evidente deterioro de materiales autorizan al patrono para retener hasta la décima parte del salario que perciban los trabajadores a domicilio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "111",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_111",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina el carácter temporal y condicionado de la retención, la cual solo procede durante el proceso de determinación de responsabilidades.",
+    "source_quote": "mientras se discuten y declaran las responsabilidades consiguientes",
+    "item_index": 2
+  }
+]

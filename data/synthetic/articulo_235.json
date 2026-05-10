@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 235 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 235 establece las reglas para calcular el salario diario de los trabajadores con el fin de determinar prestaciones económicas del seguro de riesgos del trabajo. Define el salario diario como la remuneración por jornada diaria. Para salarios mensuales, quincenales, semanales en comercio o fijados por el Ministerio de Trabajo, se divide la remuneración declarada en los tres meses previos al riesgo entre los días naturales de ese período. Para otras formas de pago, se divide entre los días efectivamente trabajados. En trabajos transitorios, ocasionales o de temporada, el Ministerio de Trabajo fija el salario base. El salario anual se obtiene multiplicando el diario por 360 (en el primer grupo) o por una fórmula proporcional (en el segundo). Además, el salario para calcular prestaciones nunca puede ser inferior al salario mínimo de la ocupación al momento del riesgo.",
+    "source_quote": "Salario diario es la remuneración, en dinero y en especie, cualquiera que sea su forma o denominación, que el trabajador perciba por jornada diaria de trabajo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se calcula el salario diario de un trabajador con remuneración mensual para efectos del seguro de riesgos del trabajo?",
+    "output": "Se divide la remuneración declarada en las planillas de los tres meses anteriores al riesgo (o el tiempo menor laborado) entre el número de días naturales de ese período.",
+    "source_quote": "Si el salario del trabajador fuere mensual, quincenal, semanal en comercio, o salario base de cotización establecido por el Ministerio de Trabajo y Seguridad Social, para efectos de este seguro, el salario diario se determinará dividiendo la remuneración declarada en las planillas presentadas por el patrono en los tres meses anteriores al acaecimiento del riesgo, o durante un tiempo inferior a ese plazo que el trabajador haya laborado para el patrono, entre el número de días naturales existentes en ese período.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite mínimo del salario que se utiliza para calcular las prestaciones en dinero según este artículo?",
+    "output": "El salario no puede ser menor al salario mínimo de la ocupación que desempeñaba el trabajador al ocurrir el riesgo.",
+    "source_quote": "En ningún caso el salario que se use para el cálculo de las prestaciones en dinero derivadas de este Título, será menor al salario mínimo de la ocupación que desempeñaba el trabajador al ocurrir el riesgo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto base de salario diario como punto de partida para todos los cálculos posteriores de prestaciones.",
+    "source_quote": "Salario diario es la remuneración, en dinero y en especie, cualquiera que sea su forma o denominación, que el trabajador perciba por jornada diaria de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una fórmula clara para convertir salarios periódicos fijos en salario diario, usando días naturales para reflejar la remuneración continua.",
+    "source_quote": "Si el salario del trabajador fuere mensual, quincenal, semanal en comercio, o salario base de cotización establecido por el Ministerio de Trabajo y Seguridad Social, para efectos de este seguro, el salario diario se determinará dividiendo la remuneración declarada en las planillas presentadas por el patrono en los tres meses anteriores al acaecimiento del riesgo, o durante un tiempo inferior a ese plazo que el trabajador haya laborado para el patrono, entre el número de días naturales existentes en ese período.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "235",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_235",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza un piso mínimo de protección económica para el trabajador, evitando que prestaciones queden por debajo del salario mínimo legal de su oficio.",
+    "source_quote": "En ningún caso el salario que se use para el cálculo de las prestaciones en dinero derivadas de este Título, será menor al salario mínimo de la ocupación que desempeñaba el trabajador al ocurrir el riesgo.",
+    "item_index": 3
+  }
+]

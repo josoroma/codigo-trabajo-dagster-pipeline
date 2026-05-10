@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 571 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 571 regula la ejecución de sentencias firmes, transacciones, acuerdos conciliatorios y otros pronunciamientos ejecutorios. Establece que la ejecución corresponde al mismo tribunal que conoció el proceso o a un juzgado especializado de ejecuciones. Las decisiones concretas que no requieran fijación adicional de alcances se ejecutan de inmediato, de oficio o a solicitud de parte. Los acuerdos conciliatorios extrajudiciales con autoridad de cosa juzgada también se ejecutan por este procedimiento. Cuando se necesita liquidar sumas de dinero, la parte interesada presenta una tasación; se da traslado a la contraria por tres días para objeciones y pruebas. Si hay prueba pericial o declaraciones, se realiza una audiencia sumaria y se dicta sentencia en la misma o dentro del plazo ordinario, so pena de nulidad; si no, se resuelve en ocho días tras la contestación. Para aspectos técnicos se recurre a peritos oficiales o, en su defecto, designados a costa del Estado. En caso de incumplimiento de convención colectiva declarado por sentencia firme, el sindicato debe presentar liquidación incluyendo daños y perjuicios a los trabajadores afectados.",
+    "source_quote": "Las sentencias firmes, las transacciones o los acuerdos conciliatorios y cualquier pronunciamiento ejecutorio serán ejecutados por el mismo tribunal que conoció del proceso, o por un juzgado especializado para el trámite de ejecuciones creado por la Corte Suprema de Justicia, según disposiciones de atribución de competencia que establezca.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "571",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_571"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "571",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_571",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién ejecuta las sentencias firmes y otros pronunciamientos ejecutorios según el artículo 571?",
+    "output": "El mismo tribunal que conoció del proceso o un juzgado especializado para el trámite de ejecuciones creado por la Corte Suprema de Justicia, según las disposiciones de atribución de competencia que se establezcan.",
+    "source_quote": "Las sentencias firmes, las transacciones o los acuerdos conciliatorios y cualquier pronunciamiento ejecutorio serán ejecutados por el mismo tribunal que conoció del proceso, o por un juzgado especializado para el trámite de ejecuciones creado por la Corte Suprema de Justicia, según disposiciones de atribución de competencia que establezca.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "571",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_571",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe presentar la parte interesada cuando se haya reservado la fijación de montos para la fase de ejecución de la sentencia?",
+    "output": "Debe presentar la tasación o liquidación correspondiente, con respeto de las bases establecidas en el fallo o acuerdo y con la sustentación de las pruebas que fueran estrictamente necesarias.",
+    "source_quote": "Cuando se haya reservado la fijación de montos para la fase de ejecución de la sentencia, y en cualquier otro supuesto de liquidación de sumas de dinero, la parte interesada deberá presentar la tasación o liquidación correspondiente, con respeto de las bases establecidas en el fallo o acuerdo y con la sustentación de las pruebas que fueran estrictamente necesarias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "571",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_571",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer la ejecución inmediata de aquellas resoluciones que no necesitan determinación complementaria, garantizando celeridad y eficacia en el cumplimiento de lo decidido, ya sea por iniciativa del tribunal o a petición de la parte interesada.",
+    "source_quote": "Las decisiones concretas o específicas, para cuyo cumplimiento no se requiere ninguna actividad adicional de fijación de alcances, serán ejecutadas inmediatamente después de la firmeza del pronunciamiento, de oficio o a solicitud de parte, verbal o escrita.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "571",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_571",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regular la forma de resolver cuestiones técnicas durante la ejecución, asegurando el acceso a conocimiento especializado mediante peritos oficiales y, subsidiariamente, con peritos financiados por el Estado, para no gravar a las partes cuando no existan peritos oficiales en la materia.",
+    "source_quote": "Cuando sea necesario determinar aspectos técnicos se acudirá a peritos oficiales y, de no haberlos en el ramo de interés, se designarán a costa del Estado.",
+    "item_index": 2
+  }
+]

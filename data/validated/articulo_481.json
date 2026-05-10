@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 481 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 481 establece las reglas para valorar las pruebas en los procesos laborales. Indica que las pruebas deben apreciarse considerando el debate entre las partes, usando criterios lógicos, de experiencia, científicos, del correcto entendimiento humano y de presunciones. Además, obliga a explicar los fundamentos de hecho, de derecho y de equidad de las conclusiones, y las razones para dar mayor o menor valor a cada prueba. Finalmente, prohíbe fundamentar una conclusión solo con una referencia general al conjunto probatorio, exigiendo señalar los elementos particulares y de derecho que la apoyan.",
+    "source_quote": "Las pruebas se valorarán respetando el resultado del contradictorio, con criterios lógicos, de la experiencia, la ciencia, el correcto entendimiento humano y las presunciones humanas o legales. Deberán expresarse los fundamentos fácticos, jurídicos y de equidad de las conclusiones y las razones por las cuales se les ha conferido menor o mayor valor a unas u otras. Si bien la apreciación debe llevarse a cabo de forma armónica en atención al conjunto probatorio, es prohibido hacer una referencia general a este último como único fundamento de una conclusión, sin hacer la indicación concreta de los elementos particulares y de derecho que sirven de apoyo.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué criterios deben usarse para valorar las pruebas según el artículo 481?",
+    "output": "Las pruebas se valorarán con criterios lógicos, de la experiencia, la ciencia, el correcto entendimiento humano y las presunciones humanas o legales, respetando el resultado del contradictorio.",
+    "source_quote": "Las pruebas se valorarán respetando el resultado del contradictorio, con criterios lógicos, de la experiencia, la ciencia, el correcto entendimiento humano y las presunciones humanas o legales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué prohíbe expresamente el artículo 481 al fundamentar una conclusión?",
+    "output": "Prohíbe hacer una referencia general al conjunto probatorio como único fundamento de una conclusión, sin indicar concretamente los elementos particulares y de derecho que la apoyan.",
+    "source_quote": "es prohibido hacer una referencia general a este último como único fundamento de una conclusión, sin hacer la indicación concreta de los elementos particulares y de derecho que sirven de apoyo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el método de valoración probatoria, integrando el principio de contradicción y criterios racionales y legales para asegurar una apreciación integral y justa de las pruebas.",
+    "source_quote": "Las pruebas se valorarán respetando el resultado del contradictorio, con criterios lógicos, de la experiencia, la ciencia, el correcto entendimiento humano y las presunciones humanas o legales.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone el deber de motivar las decisiones judiciales, detallando los hechos, el derecho y la equidad considerados, así como la jerarquización de las pruebas, para garantizar transparencia y control de la decisión.",
+    "source_quote": "Deberán expresarse los fundamentos fácticos, jurídicos y de equidad de las conclusiones y las razones por las cuales se les ha conferido menor o mayor valor a unas u otras.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "481",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_481",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohíbe la motivación genérica o vaga, exigiendo una fundamentación específica que vincule cada conclusión con pruebas y normas concretas, evitando decisiones arbitrarias o carentes de sustento.",
+    "source_quote": "es prohibido hacer una referencia general a este último como único fundamento de una conclusión, sin hacer la indicación concreta de los elementos particulares y de derecho que sirven de apoyo.",
+    "item_index": 3
+  }
+]

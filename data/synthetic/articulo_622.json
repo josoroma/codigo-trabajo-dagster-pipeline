@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 622 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 622 regula las actuaciones iniciales del órgano conciliador en un procedimiento de conciliación laboral. Le ordena excluir de inmediato los conflictos jurídicos que no pueden tratarse por esta vía, notificar a la otra parte para que en tres días nombre una delegación y proponga un conciliador, advertirle sobre el cumplimiento del párrafo segundo del artículo anterior, y validar las direcciones de notificación señaladas. Además, si el pliego de peticiones tiene defectos, debe prevenir a la parte solicitante para que los subsane en un plazo máximo de cinco días.",
+    "source_quote": "El órgano conciliador, de forma inmediata, excluirá las cuestiones constitutivas de conflictos jurídicos que según este Código no se puedan tratar en esta vía y notificará a la otra parte, por todos los medios a su alcance, que debe nombrar, dentro de tres días, una delegación de la forma prevista en la primera norma de esta sección, así como la persona que propone como conciliadora.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "622",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_622"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "622",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_622",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el órgano conciliador de forma inmediata según el artículo 622?",
+    "output": "Excluir las cuestiones constitutivas de conflictos jurídicos que según el Código no se puedan tratar en esta vía.",
+    "source_quote": "El órgano conciliador, de forma inmediata, excluirá las cuestiones constitutivas de conflictos jurídicos que según este Código no se puedan tratar en esta vía",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "622",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_622",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué plazo tiene la otra parte para nombrar una delegación y proponer conciliador?",
+    "output": "Dentro de tres días.",
+    "source_quote": "debe nombrar, dentro de tres días, una delegación de la forma prevista en la primera norma de esta sección, así como la persona que propone como conciliadora.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "622",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_622",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación del órgano conciliador de depurar el procedimiento, eliminando aquellos conflictos que por su naturaleza jurídica no son susceptibles de conciliación, garantizando que solo se tramiten los conflictos adecuados.",
+    "source_quote": "El órgano conciliador, de forma inmediata, excluirá las cuestiones constitutivas de conflictos jurídicos que según este Código no se puedan tratar en esta vía",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "622",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_622",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la parte solicitante la oportunidad de corregir errores formales en su pliego, evitando que defectos subsanables impidan la continuación del proceso conciliatorio, dentro de un plazo perentorio.",
+    "source_quote": "En el caso de que el órgano conciliador estime que el pliego contiene algún defecto deberá prevenir a la parte solicitante la subsanación, en un plazo máximo de cinco días.",
+    "item_index": 2
+  }
+]

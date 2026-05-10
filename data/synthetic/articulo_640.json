@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 640 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 640 regula el contenido de la sentencia en conflictos laborales sometidos a arbitraje. Obliga a resolver por separado las peticiones de derecho (basadas en normas legales) y las reivindicaciones económico-sociales que no están determinadas por la ley, sino que dependen de la voluntad de las partes. Para estas últimas, el tribunal de arbitraje decide con total libertad y en conciencia, pudiendo conceder, negar o modificar lo solicitado. Además, asigna preferentemente a los representantes de empleadores y trabajadores la fijación de los hechos, y a los jueces de trabajo o funcionarios administrativos la declaración del derecho; si hay desacuerdo, resuelve quien preside el tribunal. Finalmente, exige que el fallo deje constancia separada de las causas del conflicto, recomendaciones para evitar futuros litigios y defectos en leyes o reglamentos.",
+    "source_quote": "La sentencia resolverá por separado las peticiones de derecho, de las que importen reivindicaciones económico-sociales que la ley no imponga o determine y que estén entregadas a la voluntad de las partes en conflicto.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo debe resolver el tribunal de arbitraje las reivindicaciones económico-sociales que no están impuestas o determinadas por la ley?",
+    "output": "Con entera libertad y en conciencia, pudiendo negar o acceder total o parcialmente a lo pedido, o incluso modificar su formulación.",
+    "source_quote": "En cuanto a estas últimas, el tribunal de arbitraje podrá resolver con entera libertad y en conciencia, negando o accediendo, total o parcialmente, lo pedido o inclusive modificando su formulación.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A quién corresponde preferentemente la fijación de los puntos de hecho en un conflicto laboral según este artículo?",
+    "output": "A los representantes de las partes empleadoras y trabajadoras.",
+    "source_quote": "Corresponderá preferentemente la fijación de los puntos de hecho a los representantes de las partes empleadoras y trabajadoras y la declaratoria del derecho que sea su consecuencia a los jueces de trabajo o al funcionario administrativo competente, según sea el caso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de diferenciar en el fallo entre pretensiones jurídicas y aquellas de naturaleza económico-social que dependen de la autonomía de la voluntad, garantizando claridad y tratamiento diferenciado.",
+    "source_quote": "La sentencia resolverá por separado las peticiones de derecho, de las que importen reivindicaciones económico-sociales que la ley no imponga o determine y que estén entregadas a la voluntad de las partes en conflicto.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al tribunal de arbitraje una amplia facultad discrecional para decidir sobre reivindicaciones no reguladas legalmente, permitiendo soluciones equitativas y adaptadas al conflicto.",
+    "source_quote": "En cuanto a estas últimas, el tribunal de arbitraje podrá resolver con entera libertad y en conciencia, negando o accediendo, total o parcialmente, lo pedido o inclusive modificando su formulación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "640",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_640",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al tribunal el deber de documentar las raíces del conflicto y proponer mejoras normativas o prácticas, con un enfoque preventivo y de retroalimentación al sistema legal.",
+    "source_quote": "Se dejará constancia por separado en el fallo de las causas principales que han dado origen al conflicto, de las recomendaciones que el tribunal hace para subsanarlas y evitar controversias similares en el futuro y de las omisiones o defectos que se notan en la ley o en los reglamentos aplicables.",
+    "item_index": 3
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "22",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_22",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se permite un contrato de trabajo verbal según el artículo 22?",
+    "output": "Se permite en labores agrícolas o ganaderas (excluyendo las industriales en el campo), trabajos accidentales o temporales que no excedan de noventa días, y en la prestación de un trabajo para obra determinada cuyo valor no exceda de doscientos cincuenta colones.",
+    "source_quote": "El contrato de trabajo podrá ser verbal cuando se refiera: a. A las labores propiamente agrícolas o ganaderas... c. A los trabajos accidentales o temporales que no excedan de noventa días... d. A la prestación de un trabajo para obra determinada, siempre que el valor de ésta no exceda de doscientos cincuenta colones...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "22",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_22",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tiene el patrono en los contratos verbales por trabajos temporales que no excedan de noventa días?",
+    "output": "El patrono está obligado a expedir cada treinta días, a petición del trabajador, una constancia escrita del número de días trabajados y de la retribución percibida.",
+    "source_quote": "En este caso el patrono queda obligado a expedir cada treinta días, a petición del trabajador, una constancia escrita del número de días trabajados y de la retribución percibida",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "22",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_22",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la primera excepción a la regla general de contratos escritos, permitiendo la forma verbal para labores agrícolas o ganaderas, pero excluyendo expresamente las actividades industriales en el campo para evitar abusos en ese sector.",
+    "source_quote": "El contrato de trabajo podrá ser verbal cuando se refiera: a. A las labores propiamente agrícolas o ganaderas. Esta excepción no comprende a las labores industriales que se realicen en el campo;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "22",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_22",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite el contrato verbal para trabajos de corta duración (máximo noventa días) que no sean agrícolas o ganaderos, e impone al patrono la obligación de documentar periódicamente la relación laboral a solicitud del trabajador, protegiendo así sus derechos probatorios.",
+    "source_quote": "c. A los trabajos accidentales o temporales que no excedan de noventa días, no comprendidos en los dos incisos anteriores. En este caso el patrono queda obligado a expedir cada treinta días, a petición del trabajador, una constancia escrita del número de días trabajados y de la retribución percibida",
+    "item_index": 2
+  }
+]

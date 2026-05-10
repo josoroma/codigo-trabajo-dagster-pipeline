@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 286 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 286 establece una lista de prohibiciones para los trabajadores en materia de seguridad y salud ocupacional. Les prohíbe entorpecer las medidas de salud, remover protecciones de máquinas sin permiso, dañar equipos de protección o negarse a usarlos injustificadamente, alterar avisos de peligro, hacer bromas riesgosas y usar herramientas sin autorización ni conocimientos.",
+    "source_quote": "Ningún trabajador debe: a) Impedir o entorpecer el cumplimiento de las medidas de salud ocupacional; b) Remover, sin autorización, los resguardos y protecciones de las máquinas, útiles de trabajo e instalaciones; c) Alterar, dañar o destruir los equipos y elementos de protección personal, de seguridad en el trabajo o negarse a usarlos, sin motivo justificado; ch) Alterar, dañar o destruir los avisos y advertencias sobre condiciones, sustancias, productos y lugares peligrosos; d) Hacer juegos o dar bromas, que pongan en peligro la vida, salud e integridad personal de los compañeros de trabajo o de terceros; y e) Manejar, operar o hacer uso de equipo y herramientas de trabajo para los cuales no cuenta con autorización y conocimientos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "286",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_286"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "286",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_286",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer un trabajador si no quiere usar un equipo de protección personal?",
+    "output": "No puede negarse a usarlo sin un motivo justificado, según el artículo 286.",
+    "source_quote": "Alterar, dañar o destruir los equipos y elementos de protección personal, de seguridad en el trabajo o negarse a usarlos, sin motivo justificado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "286",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_286",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está permitido que un trabajador haga bromas en el lugar de trabajo?",
+    "output": "No, si esas bromas ponen en peligro la vida, salud o integridad de compañeros o terceros.",
+    "source_quote": "Hacer juegos o dar bromas, que pongan en peligro la vida, salud e integridad personal de los compañeros de trabajo o de terceros.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "286",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_286",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de los trabajadores de no obstaculizar las acciones destinadas a proteger su salud en el entorno laboral, garantizando la efectividad de las políticas de salud ocupacional.",
+    "source_quote": "Ningún trabajador debe: a) Impedir o entorpecer el cumplimiento de las medidas de salud ocupacional;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "286",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_286",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Prohíbe la manipulación no autorizada de dispositivos de seguridad en maquinaria e instalaciones, previniendo accidentes laborales por exposición a riesgos mecánicos.",
+    "source_quote": "b) Remover, sin autorización, los resguardos y protecciones de las máquinas, útiles de trabajo e instalaciones;",
+    "item_index": 2
+  }
+]

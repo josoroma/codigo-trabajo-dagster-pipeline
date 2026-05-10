@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 675 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 675 establece que si la persona acusada de una infracción no asiste voluntariamente a la audiencia, el proceso continúa sin su presencia. En ese caso, se admiten y valoran las pruebas que se hayan presentado en la acusación, y el juez dicta la sentencia de inmediato, sin realizar más pasos procesales.",
+    "source_quote": "Cuando el presunto infractor no se presente voluntariamente a la audiencia se recibirán las pruebas ofrecidas en la acusación y se dictará sentencia sin más trámite.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "675",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_675"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "675",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_675",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el presunto infractor no asiste voluntariamente a la audiencia?",
+    "output": "Se recibirán las pruebas ofrecidas en la acusación y se dictará sentencia sin más trámite.",
+    "source_quote": "Cuando el presunto infractor no se presente voluntariamente a la audiencia se recibirán las pruebas ofrecidas en la acusación y se dictará sentencia sin más trámite.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "675",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_675",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Es necesario realizar trámites adicionales si el presunto infractor no se presenta?",
+    "output": "No, porque el artículo indica que se dictará sentencia sin más trámite.",
+    "source_quote": "se dictará sentencia sin más trámite",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "675",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_675",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición para aplicar el procedimiento en rebeldía: la incomparecencia voluntaria del acusado a la audiencia señalada.",
+    "source_quote": "Cuando el presunto infractor no se presente voluntariamente a la audiencia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "675",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_675",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define la consecuencia procesal inmediata: se admiten las pruebas de la parte acusadora y se emite la sentencia, evitando dilaciones o actos procesales adicionales.",
+    "source_quote": "se recibirán las pruebas ofrecidas en la acusación y se dictará sentencia sin más trámite",
+    "item_index": 2
+  }
+]

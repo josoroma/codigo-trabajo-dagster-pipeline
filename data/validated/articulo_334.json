@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 334 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 334 prohíbe que las organizaciones sociales otorguen privilegios o ventajas especiales a sus fundadores y directores, excepto aquellos que sean propios del cargo que desempeñan. Además, exige que estas organizaciones se rijan siempre por principios democráticos: las decisiones se toman por mayoría, el voto es secreto y cada persona tiene un solo voto, sin que se pueda dar preferencia por la cantidad de acciones, cuotas o capital aportado.",
+    "source_quote": "Las organizaciones sociales no podrán conceder privilegios ni ventajas especiales a sus fundadores y directores, salvo las que sean inherentes al desempeño de un cargo; invariablemente se regirán por los principios democráticos del predominio de las mayorías, del voto secreto y de un voto por persona, sin que pueda acordarse preferencia alguna en virtud del número de acciones, cuotas o capital que sus socios hayan aportado.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "334",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_334"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "334",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_334",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden las organizaciones sociales conceder privilegios especiales a sus fundadores?",
+    "output": "No, salvo aquellos privilegios o ventajas que sean inherentes al desempeño de un cargo.",
+    "source_quote": "Las organizaciones sociales no podrán conceder privilegios ni ventajas especiales a sus fundadores y directores, salvo las que sean inherentes al desempeño de un cargo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "334",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_334",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué principios democráticos deben seguir invariablemente estas organizaciones?",
+    "output": "Deben regirse por el predominio de las mayorías, el voto secreto y un voto por persona.",
+    "source_quote": "invariablemente se regirán por los principios democráticos del predominio de las mayorías, del voto secreto y de un voto por persona",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "334",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_334",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición general de otorgar privilegios a fundadores y directores, con la única excepción de aquellos beneficios que sean propios del cargo que desempeñan, evitando así favoritismos injustificados.",
+    "source_quote": "Las organizaciones sociales no podrán conceder privilegios ni ventajas especiales a sus fundadores y directores, salvo las que sean inherentes al desempeño de un cargo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "334",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_PRIMERO_articulo_334",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de adoptar un régimen interno democrático, garantizando la igualdad de voto entre todos los miembros y prohibiendo cualquier ventaja basada en la contribución económica, lo que refuerza la participación equitativa.",
+    "source_quote": "invariablemente se regirán por los principios democráticos del predominio de las mayorías, del voto secreto y de un voto por persona, sin que pueda acordarse preferencia alguna en virtud del número de acciones, cuotas o capital que sus socios hayan aportado",
+    "item_index": 2
+  }
+]

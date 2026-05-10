@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 219 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 219 establece que, cuando un riesgo laboral causa la muerte del trabajador, se debe pagar una suma global para cubrir los gastos de entierro, cuyo monto se fija en el reglamento de la ley. Si el fallecimiento ocurre en un lugar distinto al de su residencia habitual, también se reconoce una suma para el traslado del cadáver, igualmente determinada reglamentariamente. La ley fija montos mínimos: no menos de tres mil colones para gastos de entierro y no menos de mil colones para gastos de traslado. Además, dispone que ambas sumas sean revisadas por vía reglamentaria cuando las circunstancias lo exijan, en un plazo no mayor de dos años.",
+    "source_quote": "Cuando el riesgo del trabajo ocasionare la muerte al trabajador se reconocerá una suma global para cubrir gastos de entierro, que se determinará en el reglamento de la ley. Si la muerte ocurriera en el lugar distinto al de la residencia habitual del trabajador, se reconocerá, para gastos de traslado del cadáver, una suma que se fijará en el reglamento de la ley.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "219",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_219"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "219",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_219",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el monto mínimo que establece el artículo 219 para gastos de entierro?",
+    "output": "El monto mínimo para gastos de entierro es de tres mil colones.",
+    "source_quote": "Para gastos de entierro, la suma no será menor de tres mil colones",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "219",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_219",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cada cuánto tiempo como máximo deben revisarse las sumas para gastos de entierro y traslado según este artículo?",
+    "output": "Deben revisarse en un plazo no mayor de dos años, cuando las circunstancias así lo exijan.",
+    "source_quote": "Ambas sumas serán revisadas por vía reglamentaria, cuando las circunstancias así lo exijan, en un plazo no mayor de dos años.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "219",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_219",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación patronal de pagar una suma global por gastos funerarios cuando el trabajador fallece a causa de un riesgo laboral, remitiendo al reglamento la fijación del monto exacto.",
+    "source_quote": "Cuando el riesgo del trabajo ocasionare la muerte al trabajador se reconocerá una suma global para cubrir gastos de entierro, que se determinará en el reglamento de la ley.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "219",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_219",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija los pisos mínimos de las prestaciones por entierro y traslado, y ordena su actualización periódica mediante reglamento para mantener su adecuación a las circunstancias económicas, con un límite temporal máximo de dos años para dicha revisión.",
+    "source_quote": "Para gastos de entierro, la suma no será menor de tres mil colones, para gastos de traslado del cadáver, no será inferior a un mil colones. Ambas sumas serán revisadas por vía reglamentaria, cuando las circunstancias así lo exijan, en un plazo no mayor de dos años.",
+    "item_index": 2
+  }
+]

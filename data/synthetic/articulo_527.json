@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 527 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 527 regula la celebración de la audiencia cuando asiste al menos una de las partes o su representante legal, exigiendo patrocinio letrado si es necesario. En ese caso, se realizan todos los actos posibles y se recibe la prueba de la parte presente y los testigos de la contraria que comparezcan. Además, si la parte demandada o reconvenida falta a una audiencia preliminar o única, se tienen por desistidas sus excepciones o cuestiones formales de previo pronunciamiento, salvo que se trate de defectos que impidan resolver el fondo, los cuales el juzgado debe corregir de oficio.",
+    "source_quote": "La audiencia se celebrará si asiste por lo menos una de las partes o su representante legal, con el debido patrocinio letrado cuando se requiera.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "527",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_527"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "527",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_527",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición se puede celebrar la audiencia según el artículo 527?",
+    "output": "Se celebrará si asiste por lo menos una de las partes o su representante legal, con el debido patrocinio letrado cuando se requiera.",
+    "source_quote": "La audiencia se celebrará si asiste por lo menos una de las partes o su representante legal, con el debido patrocinio letrado cuando se requiera.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "527",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_527",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre con las excepciones formales si la parte demandada no asiste a la audiencia preliminar?",
+    "output": "Se tendrán como desistidas, pero si versan sobre defectos que impiden resolver válidamente el fondo, el juzgado dispondrá de oficio las correcciones o integraciones necesarias.",
+    "source_quote": "se tendrán como desistidas las excepciones o cuestiones formales de previa resolución deducidas por esa parte, propias de ser conocidas en la fase preliminar; pero, si versaran sobre defectos que impidan resolver válidamente el fondo, el juzgado dispondrá de oficio las correcciones o integraciones que sean necesarias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "527",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_527",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de celebración de la audiencia con la presencia mínima de una parte y el requisito de patrocinio letrado cuando sea exigible.",
+    "source_quote": "La audiencia se celebrará si asiste por lo menos una de las partes o su representante legal, con el debido patrocinio letrado cuando se requiera.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "527",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_527",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula las consecuencias de la inasistencia de la parte demandada o reconvenida a la audiencia preliminar o única, distinguiendo entre excepciones formales (que se desisten) y defectos de fondo (que el juzgado debe corregir de oficio).",
+    "source_quote": "Si la parte demandada o reconvenida no asistiera a una audiencia preliminar o única, se tendrán como desistidas las excepciones o cuestiones formales de previa resolución deducidas por esa parte, propias de ser conocidas en la fase preliminar; pero, si versaran sobre defectos que impidan resolver válidamente el fondo, el juzgado dispondrá de oficio las correcciones o integraciones que sean necesarias.",
+    "item_index": 2
+  }
+]

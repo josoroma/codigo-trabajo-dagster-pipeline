@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 658 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 658 del Código de Trabajo permite la creación y operación de centros privados de conciliación laboral. Estos centros deben obtener una autorización previa del Ministerio de Trabajo y Seguridad Social, el cual establecerá los requisitos y procedimientos mediante una reglamentación específica.",
+    "source_quote": "Se autoriza el funcionamiento de centros privados de conciliación laboral, los cuales deberán ser autorizados por el Ministerio de Trabajo y Seguridad Social, por medio de la reglamentación que al efecto se dicte.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "658",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_658"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "658",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_658",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué tipo de centros autoriza el artículo 658 del Código de Trabajo?",
+    "output": "Centros privados de conciliación laboral.",
+    "source_quote": "Se autoriza el funcionamiento de centros privados de conciliación laboral",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "658",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_658",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe autorizar el funcionamiento de estos centros?",
+    "output": "El Ministerio de Trabajo y Seguridad Social.",
+    "source_quote": "los cuales deberán ser autorizados por el Ministerio de Trabajo y Seguridad Social",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "658",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_658",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase establece la habilitación legal para que existan centros privados dedicados a la conciliación en materia laboral, ampliando las opciones de resolución de conflictos fuera de la vía judicial.",
+    "source_quote": "Se autoriza el funcionamiento de centros privados de conciliación laboral",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "658",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOCUARTO_articulo_658",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte impone un control estatal obligatorio: los centros requieren autorización previa del Ministerio, y su funcionamiento queda sujeto a la reglamentación que este emita, garantizando supervisión y estándares mínimos.",
+    "source_quote": "los cuales deberán ser autorizados por el Ministerio de Trabajo y Seguridad Social, por medio de la reglamentación que al efecto se dicte.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 400 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 400 establece dos tipos de sanciones económicas. Primero, las violaciones a las normas prohibitivas del Código de Trabajo o de leyes laborales y de seguridad social se castigan con una multa que parte del nivel 3 de la tabla del artículo 398, o una multa mayor si una ley especial lo dispone. Segundo, cuando alguien se niega a entregar informes, avisos, solicitudes, permisos, comprobaciones o documentos que las autoridades de Trabajo necesitan para ejercer su control, se aplica la multa del nivel 1 de esa misma tabla, siempre que previamente se haya dado un aviso con un plazo de quince días para cumplir.",
+    "source_quote": "Las infracciones a las normas prohibitivas de este Código o de las leyes de trabajo y seguridad social serán sancionadas a partir de la multa comprendida en el numeral 3 de la tabla de sanciones del artículo 398, o superiores establecidas por ley especial.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "400",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_400"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "400",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_400",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sanción se aplica a las infracciones a las normas prohibitivas del Código de Trabajo?",
+    "output": "Se sancionan a partir de la multa comprendida en el numeral 3 de la tabla de sanciones del artículo 398, o con multas superiores si una ley especial lo establece.",
+    "source_quote": "Las infracciones a las normas prohibitivas de este Código o de las leyes de trabajo y seguridad social serán sancionadas a partir de la multa comprendida en el numeral 3 de la tabla de sanciones del artículo 398, o superiores establecidas por ley especial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "400",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_400",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué multa corresponde por negarse a entregar documentos requeridos por las autoridades de Trabajo?",
+    "output": "Corresponde la multa del numeral 1 de la tabla de sanciones del artículo 398, siempre que haya mediado una prevención con un plazo de quince días.",
+    "source_quote": "Cuando se trate de la negativa a otorgar informes, avisos, solicitudes, permisos, comprobaciones o documentos requeridos según este Código y las leyes de trabajo y seguridad social, para que las autoridades de Trabajo puedan ejercer el control que les encargan dichas disposiciones, los responsables serán sancionados con la multa comprendida en el numeral 1 de la tabla de sanciones contenida en el artículo 398, siempre que haya mediado prevención con un plazo de quince días.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "400",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_400",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la sanción base para las violaciones a las disposiciones prohibitivas en materia laboral y de seguridad social, remitiendo a la tabla de multas del artículo 398 y permitiendo que leyes especiales impongan montos mayores.",
+    "source_quote": "Las infracciones a las normas prohibitivas de este Código o de las leyes de trabajo y seguridad social serán sancionadas a partir de la multa comprendida en el numeral 3 de la tabla de sanciones del artículo 398, o superiores establecidas por ley especial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "400",
+    "chunk_id": "libro_None_titulo_SÉTIMO_capitulo_None_articulo_400",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la sanción específica por obstruir la labor fiscalizadora de las autoridades de trabajo mediante la negativa a entregar documentación, condicionando la multa a que exista un apercibimiento previo de quince días.",
+    "source_quote": "Cuando se trate de la negativa a otorgar informes, avisos, solicitudes, permisos, comprobaciones o documentos requeridos según este Código y las leyes de trabajo y seguridad social, para que las autoridades de Trabajo puedan ejercer el control que les encargan dichas disposiciones, los responsables serán sancionados con la multa comprendida en el numeral 1 de la tabla de sanciones contenida en el artículo 398, siempre que haya mediado prevención con un plazo de quince días.",
+    "item_index": 2
+  }
+]

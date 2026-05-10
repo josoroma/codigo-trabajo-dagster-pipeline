@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 638 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 638 regula el procedimiento ante el tribunal de arbitraje en conflictos laborales. Establece que el proceso se tramita mediante audiencias orales, donde el tribunal escucha a los delegados de las partes, interroga directamente a empleadores y trabajadores, ordena pruebas de oficio o a petición, y puede asesorarse por funcionarios del Ministerio de Trabajo o expertos. Además, dispone que las resoluciones del tribunal no admiten recurso alguno y que los honorarios de los expertos son cubiertos por el Poder Judicial o el Ministerio de Trabajo, según corresponda.",
+    "source_quote": "El proceso se substanciará por el sistema de audiencias orales, de acuerdo con lo dispuesto en este mismo Código.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "638",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_638"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "638",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_638",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo se substancia el proceso de arbitraje según el artículo 638?",
+    "output": "Por el sistema de audiencias orales.",
+    "source_quote": "El proceso se substanciará por el sistema de audiencias orales, de acuerdo con lo dispuesto en este mismo Código.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "638",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_638",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Admiten recurso los autos o providencias del tribunal de arbitraje?",
+    "output": "No, no tendrán recurso sus autos o providencias.",
+    "source_quote": "No tendrán recurso sus autos o providencias.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "638",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_638",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al tribunal de arbitraje la facultad de obtener información directa de las partes involucradas para esclarecer los hechos del conflicto.",
+    "source_quote": "interrogará personalmente a los empleadores o empleadoras y a los trabajadores o trabajadoras en conflicto, sobre los asuntos que juzgue necesario aclarar",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "638",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_638",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la inimpugnabilidad de las decisiones del tribunal de arbitraje, garantizando su firmeza y celeridad en la resolución del conflicto.",
+    "source_quote": "No tendrán recurso sus autos o providencias.",
+    "item_index": 2
+  }
+]

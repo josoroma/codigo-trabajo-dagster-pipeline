@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 253 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que las prestaciones médicas, de rehabilitación y en dinero son irrenunciables, intransferibles e inembargables, con la única excepción de que el 50% de las prestaciones en dinero puede ser embargado por pensión alimenticia. Además, los tribunales deben rechazar de plano cualquier reclamo que pretenda lo contrario. También regula que si se pagaron prestaciones indebidas por falta de aviso de muerte u ocultación, el Instituto Nacional de Seguros puede cobrar o compensar esas sumas a los responsables, deduciéndolas de futuras prestaciones o mediante cobro judicial, lo cual debe comprobarse ante un juzgado de trabajo.",
+    "source_quote": "Las prestaciones médico- sanitarias de rehabilitación y en dinero que otorga el presente Código no podrán renunciarse, transarse, cederse, compensarse, ni gravarse, ni serán susceptibles de embargo, salvo las prestaciones en dinero, en un 50%, por concepto de pensión alimenticia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "253",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_253"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "253",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_253",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Pueden renunciarse o embargarse las prestaciones médico-sanitarias y de rehabilitación que otorga el Código de Trabajo?",
+    "output": "No, no pueden renunciarse, transarse, cederse, compensarse, gravarse ni ser susceptibles de embargo.",
+    "source_quote": "Las prestaciones médico- sanitarias de rehabilitación y en dinero que otorga el presente Código no podrán renunciarse, transarse, cederse, compensarse, ni gravarse, ni serán susceptibles de embargo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "253",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_253",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Existe alguna excepción a la inembargabilidad de las prestaciones en dinero?",
+    "output": "Sí, las prestaciones en dinero pueden ser embargadas en un 50% por concepto de pensión alimenticia.",
+    "source_quote": "salvo las prestaciones en dinero, en un 50%, por concepto de pensión alimenticia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "253",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_253",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Proteger las prestaciones laborales de los trabajadores y sus beneficiarios, asegurando que no puedan ser objeto de renuncia, transacción o embargo, salvo la excepción limitada para garantizar el pago de pensiones alimenticias.",
+    "source_quote": "Las prestaciones médico- sanitarias de rehabilitación y en dinero que otorga el presente Código no podrán renunciarse, transarse, cederse, compensarse, ni gravarse, ni serán susceptibles de embargo, salvo las prestaciones en dinero, en un 50%, por concepto de pensión alimenticia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "253",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_253",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establecer un mecanismo para que el Instituto Nacional de Seguros recupere pagos indebidos causados por ocultación o falta de aviso, protegiendo los fondos del seguro social, y exigiendo que la comprobación se realice ante un juzgado de trabajo para garantizar el debido proceso.",
+    "source_quote": "Si por falta de aviso oportuno de la muerte de una de las personas que se hubieran hecho acreedoras a prestaciones en dinero, de acuerdo con los términos de este Código, o por cualquier otra ocultación hecha por el trabajador, o sus causahabientes, se hubieran pagado prestaciones no debidas, el Instituto Nacional de Seguros podrá cobrar o compensar lo que haya entregado indebidamente a los responsables, deduciendo las sumas de las prestaciones en dinero que se les adeuden a éstos, o mediante las gestiones cobratorias que correspondan, todo lo cual deberá comprobarse ante un juzgado de trabajo.",
+    "item_index": 2
+  }
+]

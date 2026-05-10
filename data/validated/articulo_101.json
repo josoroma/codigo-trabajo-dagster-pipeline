@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 101 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 101 del Código de Trabajo define a la persona trabajadora doméstica como aquella que brinda asistencia y bienestar a una familia o persona de forma remunerada, realizando habitual y sistemáticamente labores domésticas que no producen lucro al empleador, pudiendo también cuidar personas si se pacta. Además, obliga a que las condiciones de trabajo y las labores específicas se consignen en un contrato escrito, conforme al artículo 24 del Código y leyes conexas.",
+    "source_quote": "Las personas trabajadoras domésticas son las que brindan asistencia y bienestar a una familia o persona, en forma remunerada; se dedican, en forma habitual y sistemática, a labores de limpieza, cocina, lavado, planchado y demás labores propias de un hogar, residencia o habitación particular, que no generan lucro para las personas empleadoras; también pueden asumir labores relativas al cuidado de personas, cuando así se acuerde entre las partes y estas se desarrollen en la casa de la persona atendida.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "101",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_101"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "101",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_101",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quiénes son consideradas personas trabajadoras domésticas según el artículo 101?",
+    "output": "Son aquellas que brindan asistencia y bienestar a una familia o persona de manera remunerada, dedicándose de forma habitual y sistemática a labores de limpieza, cocina, lavado, planchado y otras propias de un hogar o habitación particular, sin que estas generen lucro para el empleador, y pueden también cuidar personas si se acuerda entre las partes y dichas labores se realizan en el domicilio de la persona atendida.",
+    "source_quote": "Las personas trabajadoras domésticas son las que brindan asistencia y bienestar a una familia o persona, en forma remunerada; se dedican, en forma habitual y sistemática, a labores de limpieza, cocina, lavado, planchado y demás labores propias de un hogar, residencia o habitación particular, que no generan lucro para las personas empleadoras; también pueden asumir labores relativas al cuidado de personas, cuando así se acuerde entre las partes y estas se desarrollen en la casa de la persona atendida.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "101",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_101",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito formal exige este artículo para el trabajo doméstico?",
+    "output": "Las condiciones de trabajo y las labores específicas deben estipularse en un contrato de trabajo por escrito, conforme a los requisitos del artículo 24 del Código de Trabajo y las leyes conexas.",
+    "source_quote": "Las condiciones de trabajo, así como las labores específicas por realizarse, independientemente de la jornada que se establezca, deberán estipularse en un contrato de trabajo, por escrito, de conformidad con los requisitos estipulados en el artículo 24 del presente Código y las leyes conexas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "101",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_101",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de persona trabajadora doméstica, estableciendo el tipo de actividades que realiza, el carácter no lucrativo para el empleador y la posibilidad de incluir labores de cuidado si existe acuerdo.",
+    "source_quote": "Las personas trabajadoras domésticas son las que brindan asistencia y bienestar a una familia o persona, en forma remunerada; se dedican, en forma habitual y sistemática, a labores de limpieza, cocina, lavado, planchado y demás labores propias de un hogar, residencia o habitación particular, que no generan lucro para las personas empleadoras; también pueden asumir labores relativas al cuidado de personas, cuando así se acuerde entre las partes y estas se desarrollen en la casa de la persona atendida.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "101",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_101",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligatoriedad de formalizar la relación laboral mediante un contrato escrito que detalle condiciones y tareas, remitiendo al artículo 24 y leyes conexas para su contenido.",
+    "source_quote": "Las condiciones de trabajo, así como las labores específicas por realizarse, independientemente de la jornada que se establezca, deberán estipularse en un contrato de trabajo, por escrito, de conformidad con los requisitos estipulados en el artículo 24 del presente Código y las leyes conexas.",
+    "item_index": 2
+  }
+]

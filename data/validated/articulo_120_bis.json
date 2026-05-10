@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 120_bis del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece que varias instituciones deben coordinarse para prever las formalidades y garantías de los contratos de enrolamiento en la pesca, con el fin de proteger al pescador y asegurar el cumplimiento de las obligaciones del armador. La Inspección General de Trabajo debe fiscalizar el cumplimiento de esta normativa, actuando de oficio o por denuncia; si se constata una infracción, otorga un plazo para corregirla, y en caso de desacato, interpone la acción ante los tribunales de trabajo. Además, el armador está obligado a exigir al pescador el documento de identidad para la gente del mar y un certificado médico de aptitud física antes de firmar el contrato. La autoridad portuaria debe llevar registros de navíos, propietarios, permisos y licencias de pesca. Para otorgar el permiso de zarpe, se requiere presentar la lista de tripulación y copias de los documentos de identidad de todas las personas a bordo. Finalmente, se prohíbe el empleo de menores de dieciséis años en navíos de pesca, con la única excepción de los buques-escuela debidamente acreditados.",
+    "source_quote": "La Dirección Nacional de Empleo del Ministerio de Trabajo y Seguridad Social, en coordinación con el Consejo de Salud Ocupacional, la Dirección Nacional de Inspección de Trabajo, el Instituto Costarricense de Pesca y Acuicultura, la Dirección de Seguridad Marítima y Portuaria del Ministerio de Obras Públicas y Transportes, deberán prever todas las demás formalidades y garantías concernientes a la celebración del contrato de enrolamiento que se consideren necesarias para proteger los intereses del pescador y el adecuado cumplimiento de las obligaciones contractuales a cargo del armador del barco de pesca, en relación con esos contratos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120_bis"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120_bis",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Está prohibido el trabajo de menores en navíos de pesca? ¿Hay alguna excepción?",
+    "output": "Sí, se prohíbe el empleo de niños menores de dieciséis años en cualquier tipo de navío de pesca. La única excepción son los buques-escuela debidamente acreditados ante las autoridades educativas costarricenses y reconocidos como tales.",
+    "source_quote": "Prohíbese el empleo de niños menores de dieciséis años para prestar servicios de cualquier naturaleza a bordo de navíos de pesca; se entiende como tales todas las embarcaciones, los buques y los barcos, cualesquiera sean su clase o su propiedad, pública o privada, que se dediquen a la pesca marítima. De dicha prohibición se exceptúan los buques-escuela debidamente acreditados ante las autoridades educativas costarricenses y reconocidos en dicha condición.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el deber de la Inspección General de Trabajo de fiscalizar activamente el cumplimiento de la normativa sobre enrolamiento, pudiendo iniciar actuaciones por denuncia o de oficio. Detalla el procedimiento ante infracciones: otorgar un plazo para enmendar y, en caso de desacato, acudir a los tribunales laborales, garantizando así la protección efectiva de los derechos del pescador.",
+    "source_quote": "La Dirección de la Inspección General de Trabajo, en el ejercicio de su potestad de fiscalización, está compelida a actuar de oficio o por denuncia de parte interesada, en la estricta aplicación y fiel cumplimiento de la normativa en mención, procediendo a realizar a sus infractores las inspecciones y prevenciones que corresponda. Constatado el hecho infractor, otorgará el plazo de ley, a fin de que el empleador cese el acto prevenido y restituya las condiciones de normalidad que se extrañan. En caso de desacato, reticencia o renuencia a cumplir lo exigido, se interpondrá la acción correspondiente ante los tribunales de trabajo competentes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "120_bis",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_120_bis",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos documentales y de control previos al zarpe de un navío de pesca, incluyendo la identificación detallada de toda persona a bordo mediante lista y copias de documentos. Esto busca garantizar la seguridad, legalidad laboral y trazabilidad en la actividad pesquera, en consonancia con la protección de los trabajadores y el control de las autoridades marítimas.",
+    "source_quote": "Para otorgar el permiso de zarpe, será necesario, además del registro anterior, haber acreditado previamente ante la autoridad portuaria la lista completa de la tripulación y de las personas abordo en general, incluso al armador, e indicar sus respectivas calidades, así como adjuntar una copia de los documentos de identidad de cada uno.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 108 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 108 prohíbe contratar a personas menores de quince años para trabajo doméstico remunerado. Para los adolescentes de quince a diecisiete años, establece que su trabajo se rige por un régimen de protección especial que limita la jornada laboral a un máximo de treinta y seis horas semanales, y por otras leyes y convenios internacionales ratificados por Costa Rica.",
+    "source_quote": "No se podrán contratar personas menores de quince años para el desempeño del trabajo doméstico remunerado",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "108",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_108"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "108",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_108",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la edad mínima para ser contratado en trabajo doméstico remunerado según este artículo?",
+    "output": "No se pueden contratar personas menores de quince años.",
+    "source_quote": "No se podrán contratar personas menores de quince años para el desempeño del trabajo doméstico remunerado",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "108",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_108",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la jornada laboral máxima semanal para las personas de 15 a 17 años que trabajan como domésticas remuneradas?",
+    "output": "No podrá exceder de treinta y seis horas semanales.",
+    "source_quote": "la jornada laboral, en ninguna forma, podrá exceder de treinta y seis horas semanales",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "108",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_108",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de contratar menores de quince años en trabajo doméstico, fundamentándola en la legislación nacional e instrumentos internacionales de protección de la niñez.",
+    "source_quote": "No se podrán contratar personas menores de quince años para el desempeño del trabajo doméstico remunerado, conforme lo establecido en el artículo 92 del Código de la Niñez y la Adolescencia, así como en la Convención sobre los derechos del niño, Convenio 182 de la Organización del Trabajo, ratificado por la Ley N.º 8122-A, de 17 de agosto de 2001, y los demás instrumentos jurídicos internacionales ratificados atinentes a esta materia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "108",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_NOVENO_articulo_108",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija un límite máximo de jornada laboral para los trabajadores domésticos adolescentes de 15 a 17 años, como parte de un régimen de protección especial que garantiza condiciones laborales adecuadas a su edad.",
+    "source_quote": "Las personas de quince a diecisiete años de edad que laboren como trabajadoras domésticas remuneradas se regirán por lo establecido en el capítulo VII, denominado Régimen de protección especial al trabajador adolescente, del título II del Código de la Niñez y la Adolescencia, que en el artículo 95 estipula que la jornada laboral, en ninguna forma, podrá exceder de treinta y seis horas semanales",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 573 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 573 establece que cuando una sentencia o resolución interlocutoria ordena la reinstalación de un trabajador, la parte demandada debe cumplirla de inmediato, readmitiendo al trabajador y restituyéndole todos sus derechos, sin que esto afecte lo que se decida en la sentencia definitiva. Si por reestructuración de plazas no es posible reinstalarlo en el mismo puesto, el patrono debe ofrecerle un puesto similar con igual salario; si esto también es imposible, debe pagar salarios caídos, daños y perjuicios y demás derechos laborales. Cuando el trabajador tiene fuero especial de protección, no se puede alegar imposibilidad y se aplica el artículo 576.",
+    "source_quote": "La parte demandada tendrá obligación de ejecutar la sentencia o resolución interlocutoria que ordene la reinstalación de una persona trabajadora a su puesto, de forma inmediata, sin perjuicio de lo que se resuelva en definitiva, readmitiéndola y restituyéndola en todos los derechos adquiridos y demás extremos que resulten de la sentencia o resolución o del ordenamiento.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "573",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_573"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "573",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_573",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué obligación tiene la parte demandada cuando una sentencia o resolución interlocutoria ordena la reinstalación de una persona trabajadora?",
+    "output": "Debe ejecutarla de forma inmediata, readmitiendo a la persona trabajadora y restituyéndola en todos los derechos adquiridos y demás extremos que resulten de la sentencia o resolución o del ordenamiento, sin perjuicio de lo que se resuelva en definitiva.",
+    "source_quote": "La parte demandada tendrá obligación de ejecutar la sentencia o resolución interlocutoria que ordene la reinstalación de una persona trabajadora a su puesto, de forma inmediata, sin perjuicio de lo que se resuelva en definitiva, readmitiéndola y restituyéndola en todos los derechos adquiridos y demás extremos que resulten de la sentencia o resolución o del ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "573",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_573",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe hacer el patrono si, por reestructuración de plazas, es imposible reinstalar al trabajador en el mismo puesto?",
+    "output": "Debe poner a disposición del trabajador la oportunidad de escoger otro puesto de similar clasificación e idéntico salario, según las opciones organizacionales disponibles. Si esto también es imposible, debe proceder al pago de salarios caídos, daños y perjuicios y demás derechos laborales según la ley.",
+    "source_quote": "En el caso de que se haya dado una reestructuración de plazas, cuando fuera imposible reinstalar en el mismo puesto al victorioso, el patrono deberá poner a disposición del trabajador la oportunidad de escoger otro puesto de similar clasificación e idéntico salario al que tenía antes del despido, según las opciones de que organizacionalmente disponga el patrono en ese momento. En caso de imposibilidad, deberá proceder al pago de salarios caídos, de los daños y perjuicios y de los demás derechos laborales según la ley.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "573",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_573",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de cumplimiento inmediato de las resoluciones que ordenan la reinstalación, garantizando la restitución plena del trabajador en sus derechos, sin que la pendencia de una decisión definitiva suspenda esa ejecución.",
+    "source_quote": "La parte demandada tendrá obligación de ejecutar la sentencia o resolución interlocutoria que ordene la reinstalación de una persona trabajadora a su puesto, de forma inmediata, sin perjuicio de lo que se resuelva en definitiva, readmitiéndola y restituyéndola en todos los derechos adquiridos y demás extremos que resulten de la sentencia o resolución o del ordenamiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "573",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_573",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la situación cuando la reinstalación en el mismo puesto es materialmente imposible por reestructuración, ofreciendo una alternativa de reubicación o, en su defecto, una compensación económica; además, excluye la alegación de imposibilidad cuando el trabajador tiene fuero especial, remitiendo al artículo 576 para su protección reforzada.",
+    "source_quote": "En el caso de que se haya dado una reestructuración de plazas, cuando fuera imposible reinstalar en el mismo puesto al victorioso, el patrono deberá poner a disposición del trabajador la oportunidad de escoger otro puesto de similar clasificación e idéntico salario al que tenía antes del despido, según las opciones de que organizacionalmente disponga el patrono en ese momento. En caso de imposibilidad, deberá proceder al pago de salarios caídos, de los daños y perjuicios y de los demás derechos laborales según la ley. Si la persona trabajadora a reinstalar goza de un fuero especial de protección, no procederá el alegato de imposibilidad, por lo que deberá aplicarse lo dispuesto en el artículo 576.",
+    "item_index": 2
+  }
+]

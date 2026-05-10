@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 158 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 158 establece que las vacaciones deben disfrutarse de manera continua, sin interrupciones. Sin embargo, permite una excepción: las vacaciones pueden dividirse en un máximo de dos partes, siempre que exista un acuerdo entre el trabajador y el empleador, y únicamente cuando se trate de labores especiales que impidan una ausencia prolongada del trabajador.",
+    "source_quote": "Los trabajadores deben gozar sin interrupciones de su período de vacaciones. Estas se podrán dividir en dos fracciones, como máximo, cuando así lo convengan las partes, y siempre que se trate de labores de índole especial, que no permitan una ausencia muy prolongada",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "158",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_158"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "158",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_158",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la regla general sobre el disfrute de las vacaciones según el artículo 158?",
+    "output": "Los trabajadores deben gozar de su período de vacaciones sin interrupciones.",
+    "source_quote": "Los trabajadores deben gozar sin interrupciones de su período de vacaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "158",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_158",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se pueden dividir las vacaciones y cuál es el límite máximo de fracciones?",
+    "output": "Se pueden dividir en un máximo de dos fracciones, cuando las partes lo acuerden y siempre que se trate de labores de índole especial que no permitan una ausencia muy prolongada.",
+    "source_quote": "Estas se podrán dividir en dos fracciones, como máximo, cuando así lo convengan las partes, y siempre que se trate de labores de índole especial, que no permitan una ausencia muy prolongada",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "158",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_158",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase establece el principio general de continuidad en el disfrute de las vacaciones, garantizando que el descanso sea efectivo y no fragmentado, salvo excepción legal.",
+    "source_quote": "Los trabajadores deben gozar sin interrupciones de su período de vacaciones.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "158",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_SEGUNDO_articulo_158",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte introduce una excepción al principio de continuidad, permitiendo la división de las vacaciones bajo condiciones estrictas: acuerdo mutuo, límite de dos fracciones y existencia de labores especiales que justifiquen la imposibilidad de una ausencia prolongada.",
+    "source_quote": "Estas se podrán dividir en dos fracciones, como máximo, cuando así lo convengan las partes, y siempre que se trate de labores de índole especial, que no permitan una ausencia muy prolongada",
+    "item_index": 2
+  }
+]

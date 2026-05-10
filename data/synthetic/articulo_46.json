@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 46 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 46 establece quiénes tienen capacidad legal para celebrar contratos de trabajo, recibir su salario y ejercer los derechos laborales. Reconoce esta capacidad a los menores de edad mayores de quince años, a los insolventes y fallidos, y a las personas que no estén bajo las restricciones de los artículos 25 y 26 del Código Civil. También aclara que esta libertad de contratación no emancipa a los menores de quince años, y deja a salvo las penas de interdicción de derechos del Código Penal.",
+    "source_quote": "Tendrán capacidad para contratar su trabajo, para percibir la retribución convenida y, en general, para ejercer todos los derechos y acciones que nazcan del presente Código, de sus Reglamentos y de sus leyes conexas, los menores de edad, de uno u otro sexo que tengan más de quince años, los insolventes y fallidos, y las personas que no caigan dentro de las previsiones de los artículo 25 y 26 del Código Civil.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "46",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_46"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "46",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_46",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A partir de qué edad los menores pueden contratar su trabajo según el artículo 46?",
+    "output": "Los menores de edad, de uno u otro sexo, que tengan más de quince años.",
+    "source_quote": "los menores de edad, de uno u otro sexo que tengan más de quince años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "46",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_46",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿La libertad de contratación laboral para mayores de quince años implica su emancipación?",
+    "output": "No, la libertad de contratación en materia de trabajo para los mayores de quince años no implicará su emancipación.",
+    "source_quote": "La libertad de contratación en materia de trabajo para los mayores de quince años no implicará su emancipación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "46",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_46",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte define el ámbito de capacidad laboral, enumerando de forma taxativa los grupos de personas que pueden contratar su trabajo, cobrar su salario y ejercer derechos laborales, incluyendo a menores de más de quince años, insolventes, fallidos y quienes no estén bajo interdicción civil.",
+    "source_quote": "Tendrán capacidad para contratar su trabajo, para percibir la retribución convenida y, en general, para ejercer todos los derechos y acciones que nazcan del presente Código, de sus Reglamentos y de sus leyes conexas, los menores de edad, de uno u otro sexo que tengan más de quince años, los insolventes y fallidos, y las personas que no caigan dentro de las previsiones de los artículo 25 y 26 del Código Civil.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "46",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_PRIMERO_articulo_46",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta aclaración evita que la capacidad laboral otorgada a los menores de más de quince años se interprete como una emancipación civil, manteniendo su estatus de minoría de edad para otros efectos legales.",
+    "source_quote": "La libertad de contratación en materia de trabajo para los mayores de quince años no implicará su emancipación.",
+    "item_index": 2
+  }
+]

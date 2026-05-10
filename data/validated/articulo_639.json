@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 639 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo establece que si una de las partes en un proceso arbitral no designa a su árbitro a tiempo o no deposita los honorarios fijados para la persona que propuso, cuando le corresponde pagarlos, el juez de trabajo asumirá automáticamente el rol de árbitro único, sin necesidad de una resolución judicial expresa.",
+    "source_quote": "Si alguna de las partes no hiciera oportunamente la designación de la persona que arbitrará o no depositara los honorarios que se hubieran fijado para la persona por ella propuesta, cuando le corresponda asumirlos, la persona titular del juzgado de trabajo se constituirá de pleno derecho, sin necesidad de resolución expresa, en árbitro o árbitra unipersonal.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "639",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_639"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "639",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_639",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ocurre si una parte no designa a su árbitro oportunamente?",
+    "output": "El juez de trabajo se convierte en árbitro unipersonal de pleno derecho.",
+    "source_quote": "Si alguna de las partes no hiciera oportunamente la designación de la persona que arbitrará... la persona titular del juzgado de trabajo se constituirá de pleno derecho... en árbitro o árbitra unipersonal.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "639",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_639",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Se necesita una resolución expresa para que el juez actúe como árbitro en este caso?",
+    "output": "No, la constitución como árbitro opera de pleno derecho, sin necesidad de resolución expresa.",
+    "source_quote": "sin necesidad de resolución expresa",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "639",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_639",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las dos conductas omisivas que activan la consecuencia: no designar al árbitro a tiempo o no depositar los honorarios fijados cuando corresponda.",
+    "source_quote": "Si alguna de las partes no hiciera oportunamente la designación de la persona que arbitrará o no depositara los honorarios que se hubieran fijado para la persona por ella propuesta, cuando le corresponda asumirlos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "639",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_639",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone la conversión automática del juez laboral en árbitro único para garantizar la continuidad del proceso arbitral, evitando dilaciones por la inacción de las partes.",
+    "source_quote": "la persona titular del juzgado de trabajo se constituirá de pleno derecho, sin necesidad de resolución expresa, en árbitro o árbitra unipersonal",
+    "item_index": 2
+  }
+]

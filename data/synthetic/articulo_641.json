@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 641 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 641 regula los recursos contra los fallos arbitrales. El fallo arbitral judicial puede ser recurrido ante el tribunal de apelaciones del Segundo Circuito Judicial de San José, invocando agravios puntuales, y la Corte Suprema puede variar esa competencia. El tribunal debe dictar sentencia definitiva en 15 días, salvo prueba para mejor proveer que se evacúa en 12 días. La sentencia extrajudicial se rige por los recursos de la Ley RAC y los conoce la Sala de Casación Laboral.",
+    "source_quote": "El fallo arbitral judicial podrá ser recurrido por las partes ante el tribunal de apelaciones del Segundo Circuito Judicial de San José (Goicoechea), con invocación, de forma puntual, de los agravios que este último órgano debe resolver.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "641",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_641"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "641",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_641",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué tribunal se puede recurrir el fallo arbitral judicial según el artículo 641?",
+    "output": "Ante el tribunal de apelaciones del Segundo Circuito Judicial de San José (Goicoechea).",
+    "source_quote": "ante el tribunal de apelaciones del Segundo Circuito Judicial de San José (Goicoechea)",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "641",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_641",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe el tribunal dictar sentencia definitiva tras recibir los autos?",
+    "output": "Dentro de los quince días siguientes al recibo de los autos.",
+    "source_quote": "El tribunal dictará sentencia definitiva dentro de los quince días siguientes al recibo de los autos",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "641",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_641",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el recurso de apelación contra el fallo arbitral judicial, indicando el tribunal competente y la necesidad de invocar agravios puntuales.",
+    "source_quote": "El fallo arbitral judicial podrá ser recurrido por las partes ante el tribunal de apelaciones del Segundo Circuito Judicial de San José (Goicoechea), con invocación, de forma puntual, de los agravios que este último órgano debe resolver.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "641",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_641",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Determina que los recursos contra la sentencia extrajudicial se rigen por la Ley RAC y son competencia de la Sala de Casación Laboral.",
+    "source_quote": "La sentencia extrajudicial tendrá los recursos que determine la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1977, y sus reformas, que serán conocidos por la sala de casación en materia laboral.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 612 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 612 establece que la contestación de la parte demandada y todas las demás cuestiones del proceso arbitral se regirán por la Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social (Ley N.° 7727) y sus reformas, siempre que no contradigan lo dispuesto en este capítulo del Código ni los principios y normas del derecho de trabajo. Además, indica que el funcionamiento de los centros de arbitraje mencionados en este capítulo será regulado por vía reglamentaria.",
+    "source_quote": "Lo relacionado con la contestación de la parte demandada y todas las demás cuestiones del proceso arbitral se regirán por las disposiciones de la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas, en cuanto no contraríen lo dispuesto en este capítulo y, en general, los principios y las normas del derecho de trabajo. El funcionamiento de los centros de arbitraje a que se refiere este capítulo se regirá por lo que se establezca reglamentariamente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "612",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_612"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "612",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_612",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué ley rige la contestación de la parte demandada en el proceso arbitral según el artículo 612?",
+    "output": "La Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social (RAC), de 9 de diciembre de 1997, y sus reformas.",
+    "source_quote": "Lo relacionado con la contestación de la parte demandada y todas las demás cuestiones del proceso arbitral se regirán por las disposiciones de la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "612",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_612",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condición se aplican las disposiciones de la Ley RAC al proceso arbitral laboral?",
+    "output": "Se aplican en cuanto no contraríen lo dispuesto en el capítulo correspondiente del Código de Trabajo y, en general, los principios y las normas del derecho de trabajo.",
+    "source_quote": "en cuanto no contraríen lo dispuesto en este capítulo y, en general, los principios y las normas del derecho de trabajo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "612",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_612",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la normativa supletoria aplicable al proceso arbitral laboral, remitiendo a la Ley RAC pero condicionando su aplicación al respeto del capítulo específico del Código de Trabajo y de los principios y normas generales del derecho laboral.",
+    "source_quote": "Lo relacionado con la contestación de la parte demandada y todas las demás cuestiones del proceso arbitral se regirán por las disposiciones de la Ley N.° 7727, Ley sobre Resolución Alterna de Conflictos y Promoción de la Paz Social, RAC, de 9 de diciembre de 1997, y sus reformas, en cuanto no contraríen lo dispuesto en este capítulo y, en general, los principios y las normas del derecho de trabajo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "612",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DUODÉCIMO_articulo_612",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Dispone que la operación y organización de los centros de arbitraje mencionados en el capítulo serán regulados mediante reglamento, delegando en la potestad reglamentaria los detalles de su funcionamiento.",
+    "source_quote": "El funcionamiento de los centros de arbitraje a que se refiere este capítulo se regirá por lo que se establezca reglamentariamente.",
+    "item_index": 2
+  }
+]

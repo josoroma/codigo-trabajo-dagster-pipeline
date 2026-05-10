@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 267 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 267 establece tres disposiciones sobre la junta médica calificadora de la incapacidad para el trabajo: su financiamiento proviene del presupuesto del Ministerio de Trabajo y Seguridad Social, puede solicitar facilidades a instituciones médicas, hospitalarias y de rehabilitación, y el Poder Ejecutivo reglamentará su funcionamiento.",
+    "source_quote": "Los recursos correspondientes al funcionamiento de la junta médica serán consignados anualmente en el presupuesto del Ministerio de Trabajo y Seguridad Social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "267",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_267"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "267",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_267",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿De dónde provienen los recursos para el funcionamiento de la junta médica?",
+    "output": "Del presupuesto del Ministerio de Trabajo y Seguridad Social, consignados anualmente.",
+    "source_quote": "Los recursos correspondientes al funcionamiento de la junta médica serán consignados anualmente en el presupuesto del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "267",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_267",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué puede requerir la junta médica a las instituciones médicas, hospitalarias y de rehabilitación?",
+    "output": "Las facilidades que sean necesarias para el mejor cumplimiento de su cometido.",
+    "source_quote": "La junta médica podrá requerir de las instituciones médicas, hospitalarias y de rehabilitación, las facilidades que sean necesarias para el mejor cumplimiento de su cometido.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "267",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_267",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la fuente de financiamiento de la junta médica, garantizando su operación mediante asignación presupuestaria anual.",
+    "source_quote": "Los recursos correspondientes al funcionamiento de la junta médica serán consignados anualmente en el presupuesto del Ministerio de Trabajo y Seguridad Social.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "267",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SÉTIMO_articulo_267",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al Poder Ejecutivo la potestad de emitir la normativa reglamentaria necesaria para el funcionamiento de la junta, asegurando su adecuada regulación.",
+    "source_quote": "El Poder Ejecutivo reglamentará todo lo relativo al funcionamiento de la junta médica calificadora de la incapacidad para el trabajo.",
+    "item_index": 2
+  }
+]

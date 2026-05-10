@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 213 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 213 define el ámbito territorial del seguro de riesgos del trabajo. Establece que la cobertura ampara los riesgos ocurridos dentro del territorio nacional, entendido este como el territorio natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental. Además, prevé una excepción: el Instituto Nacional de Seguros puede extender la cobertura fuera del país cuando se trate de empresas o actividades que, por su naturaleza, deban realizarse ocasional o permanentemente en el extranjero.",
+    "source_quote": "El seguro ampara los riesgos del trabajo, que ocurran dentro del territorio nacional, que comprende, además del natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental. No obstante, el Instituto Nacional de Seguros extenderá la cobertura fuera del país, cuando se tratare de empresas o actividades que, por su índole, deban realizarse, ocasional o permanentemente, fuera del ámbito geográfico de la República.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "213",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_213"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "213",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_213",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Dónde cubre el seguro los riesgos del trabajo según el artículo 213?",
+    "output": "Cubre los riesgos que ocurran dentro del territorio nacional, incluyendo el territorio natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental.",
+    "source_quote": "El seguro ampara los riesgos del trabajo, que ocurran dentro del territorio nacional, que comprende, además del natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "213",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_213",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el Instituto Nacional de Seguros extiende la cobertura del seguro de riesgos del trabajo fuera de Costa Rica?",
+    "output": "Extiende la cobertura fuera del país cuando se trate de empresas o actividades que, por su índole, deban realizarse, ocasional o permanentemente, fuera del ámbito geográfico de la República.",
+    "source_quote": "No obstante, el Instituto Nacional de Seguros extenderá la cobertura fuera del país, cuando se tratare de empresas o actividades que, por su índole, deban realizarse, ocasional o permanentemente, fuera del ámbito geográfico de la República.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "213",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_213",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito territorial de cobertura del seguro de riesgos del trabajo, especificando que incluye no solo el territorio terrestre, sino también el marítimo, aéreo y la plataforma continental, garantizando así una protección integral dentro de los límites geográficos del país.",
+    "source_quote": "El seguro ampara los riesgos del trabajo, que ocurran dentro del territorio nacional, que comprende, además del natural o geográfico, el mar territorial, el espacio aéreo que los cubre y la plataforma continental.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "213",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEGUNDO_articulo_213",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una excepción a la regla territorial, facultando al Instituto Nacional de Seguros para ampliar la cobertura a riesgos ocurridos en el extranjero, siempre que la naturaleza de la empresa o actividad exija su ejecución fuera de Costa Rica, ya sea de forma temporal o permanente, evitando así desprotección en labores transfronterizas.",
+    "source_quote": "No obstante, el Instituto Nacional de Seguros extenderá la cobertura fuera del país, cuando se tratare de empresas o actividades que, por su índole, deban realizarse, ocasional o permanentemente, fuera del ámbito geográfico de la República.",
+    "item_index": 2
+  }
+]

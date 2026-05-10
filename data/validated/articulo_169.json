@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 169 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 169 establece que, salvo una excepción remitida al artículo anterior, el salario debe pagarse completo en cada período de pago. Además, define que para la liquidación del salario y para calcular todas las indemnizaciones previstas en el Código, se considera salario completo el devengado tanto en la jornada ordinaria como en la extraordinaria.",
+    "source_quote": "Salvo lo dicho en el párrafo segundo del artículo anterior, el salario debe liquidarse completo en cada período de pago. Para este efecto, y para el cómputo de todas las indemnizaciones que otorga este Código, se entiende por salario completo el devengado durante las jornadas ordinaria y extraordinaria.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "169",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_169"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "169",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_169",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se entiende por salario completo según el artículo 169?",
+    "output": "El devengado durante las jornadas ordinaria y extraordinaria.",
+    "source_quote": "se entiende por salario completo el devengado durante las jornadas ordinaria y extraordinaria.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "169",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_169",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué periodicidad debe liquidarse el salario completo de acuerdo con este artículo?",
+    "output": "En cada período de pago.",
+    "source_quote": "el salario debe liquidarse completo en cada período de pago.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "169",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_169",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la regla general de liquidar el salario completo en cada período de pago, con una excepción remitida al artículo 168.",
+    "source_quote": "Salvo lo dicho en el párrafo segundo del artículo anterior, el salario debe liquidarse completo en cada período de pago.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "169",
+    "chunk_id": "libro_None_titulo_TERCERO_capitulo_CUARTO_articulo_169",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de salario completo a efectos de su liquidación periódica y del cálculo de cualquier indemnización laboral, incluyendo expresamente las horas ordinarias y las extraordinarias.",
+    "source_quote": "Para este efecto, y para el cómputo de todas las indemnizaciones que otorga este Código, se entiende por salario completo el devengado durante las jornadas ordinaria y extraordinaria.",
+    "item_index": 2
+  }
+]

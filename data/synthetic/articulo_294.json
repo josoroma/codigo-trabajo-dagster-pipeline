@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 294 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 294 define dos categorías de lugares de trabajo: los insalubres, que pueden amenazar o dañar la salud por los materiales o residuos que generan; y los peligrosos, que pueden dañar gravemente la vida, incluso por el almacenamiento de sustancias tóxicas, corrosivas, inflamables o explosivas. Además, otorga al Consejo de Salud Ocupacional la facultad de determinar cuáles trabajos o centros pertenecen a cada categoría y de regular o prohibir la elaboración o distribución de ciertas sustancias.",
+    "source_quote": "Son trabajos o centros de trabajos insalubres los que, por su naturaleza, pueden originar condiciones capaces de amenazar o dañar la salud de los trabajadores o vecinos, por causa de materiales empleados, elaborados o desprendidos, o por los residuos, sólidos, líquidos o gaseosos.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "294",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_294"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "294",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_294",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué son los trabajos o centros de trabajo insalubres según el artículo 294?",
+    "output": "Son aquellos que por su naturaleza pueden originar condiciones capaces de amenazar o dañar la salud de los trabajadores o vecinos, debido a los materiales empleados, elaborados o desprendidos, o por los residuos sólidos, líquidos o gaseosos.",
+    "source_quote": "Son trabajos o centros de trabajos insalubres los que, por su naturaleza, pueden originar condiciones capaces de amenazar o dañar la salud de los trabajadores o vecinos, por causa de materiales empleados, elaborados o desprendidos, o por los residuos, sólidos, líquidos o gaseosos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "294",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_294",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién determina cuáles trabajos o centros de trabajo son insalubres o peligrosos?",
+    "output": "El Consejo de Salud Ocupacional es la autoridad encargada de determinar cuáles trabajos o centros de trabajo son insalubres y cuáles son peligrosos.",
+    "source_quote": "El Consejo de Salud Ocupacional determinará cuáles trabajos o centros de trabajo son insalubres y cuáles son peligrosos; además, establecerá de cuál tipo o clase de sustancias queda prohibida la elaboración o distribución, o si éstas se restringen o se someten a determinados requisitos especiales.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "294",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_294",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la definición legal de trabajo o centro de trabajo insalubre, identificando los factores de riesgo para la salud derivados de los materiales y residuos presentes en el entorno laboral.",
+    "source_quote": "Son trabajos o centros de trabajos insalubres los que, por su naturaleza, pueden originar condiciones capaces de amenazar o dañar la salud de los trabajadores o vecinos, por causa de materiales empleados, elaborados o desprendidos, o por los residuos, sólidos, líquidos o gaseosos.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "294",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_294",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de trabajo o centro de trabajo peligroso, resaltando el riesgo grave para la vida y la inclusión del almacenamiento de sustancias peligrosas como factor determinante.",
+    "source_quote": "Son trabajos o centros de trabajo peligrosos los que dañan o puedan dañar, de modo grave, la vida de los trabajadores o vecinos, sea por su propia naturaleza o por los materiales empleados, desprendidos o de desecho, sólidos, líquidos o gaseosos, o por el almacenamiento de sustancias tóxicas, corrosivas, inflamables o explosivas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 12 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 12 prohíbe a los patronos despedir a sus trabajadores o tomar cualquier represalia contra ellos cuando el motivo sea impedir que los trabajadores pidan ayuda a las autoridades encargadas de hacer cumplir el Código de Trabajo, sus reglamentos y leyes conexas. Es una protección contra represalias por buscar la aplicación de la ley laboral.",
+    "source_quote": "Queda prohibido a los patronos despedir a sus trabajadores o tomar cualquier otra clase de represalias contra ellos, con el propósito de impedirles demandar el auxilio de las autoridades encargadas de velar por el cumplimiento y aplicación del presente Código, de sus Reglamentos y de sus leyes conexas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "12",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_12"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "12",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_12",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué acciones prohíbe el artículo 12 a los patronos?",
+    "output": "Prohíbe despedir a los trabajadores o tomar cualquier otra clase de represalias contra ellos.",
+    "source_quote": "Queda prohibido a los patronos despedir a sus trabajadores o tomar cualquier otra clase de represalias contra ellos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "12",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_12",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué propósito se prohíben esas acciones según el artículo 12?",
+    "output": "Se prohíben con el propósito de impedir que los trabajadores demanden el auxilio de las autoridades encargadas de velar por el cumplimiento y aplicación del Código de Trabajo, sus Reglamentos y leyes conexas.",
+    "source_quote": "con el propósito de impedirles demandar el auxilio de las autoridades encargadas de velar por el cumplimiento y aplicación del presente Código, de sus Reglamentos y de sus leyes conexas.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "12",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_12",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la prohibición absoluta de realizar despidos o cualquier acto de represalia contra los trabajadores, protegiéndolos de acciones adversas del empleador.",
+    "source_quote": "Queda prohibido a los patronos despedir a sus trabajadores o tomar cualquier otra clase de represalias contra ellos",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "12",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_12",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el motivo específico que hace ilícita la conducta patronal: la intención de obstaculizar que los trabajadores recurran a las autoridades laborales para hacer valer sus derechos, garantizando así el acceso a la justicia laboral.",
+    "source_quote": "con el propósito de impedirles demandar el auxilio de las autoridades encargadas de velar por el cumplimiento y aplicación del presente Código, de sus Reglamentos y de sus leyes conexas.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 645 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 645 establece los requisitos formales para la presentación de un pliego de peticiones en un procedimiento laboral. Indica que la discusión se basará en ese pliego, del cual debe adjuntarse una copia con la solicitud inicial. Además, exige que en la misma petición se nombre a la persona que actuará como conciliadora o árbitra de la parte, así como a sus delegados, y se señale un lugar o medio para recibir notificaciones. Para cualquier otro aspecto no previsto, se aplicarán las demás disposiciones del capítulo correspondiente.",
+    "source_quote": "Se tendrá como base el pliego de peticiones presentado para la discusión, del cual deberá acompañarse una copia con la solicitud inicial. Además, en esa misma petición se indicará el nombre de la persona que fungirá como conciliadora o árbitra de la parte, según sea el caso, y de sus delegados o delegadas y se señalará lugar o medio para notificaciones.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "645",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_645"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "645",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_645",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué documento se tendrá como base para la discusión según el artículo 645?",
+    "output": "El pliego de peticiones presentado.",
+    "source_quote": "Se tendrá como base el pliego de peticiones presentado para la discusión",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "645",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_645",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe incluirse en la petición inicial de acuerdo con el artículo 645?",
+    "output": "El nombre de la persona que fungirá como conciliadora o árbitra de la parte, según sea el caso, y de sus delegados o delegadas, y se señalará lugar o medio para notificaciones.",
+    "source_quote": "en esa misma petición se indicará el nombre de la persona que fungirá como conciliadora o árbitra de la parte, según sea el caso, y de sus delegados o delegadas y se señalará lugar o medio para notificaciones.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "645",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_645",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el documento fundamental sobre el cual versará la negociación o el procedimiento, y la obligación de adjuntar una copia para garantizar que la solicitud esté debidamente respaldada y se pueda dar trámite.",
+    "source_quote": "Se tendrá como base el pliego de peticiones presentado para la discusión, del cual deberá acompañarse una copia con la solicitud inicial.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "645",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_645",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los requisitos de representación y comunicación procesal, asegurando que se designe a la persona encargada de la conciliación o arbitraje y se establezca un canal oficial para recibir notificaciones, lo que permite la correcta tramitación del asunto.",
+    "source_quote": "Además, en esa misma petición se indicará el nombre de la persona que fungirá como conciliadora o árbitra de la parte, según sea el caso, y de sus delegados o delegadas y se señalará lugar o medio para notificaciones.",
+    "item_index": 2
+  }
+]

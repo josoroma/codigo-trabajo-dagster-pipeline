@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 231 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 231 establece que si un patrono no asegura a su trabajador contra riesgos laborales, debe pagar personalmente todas las prestaciones que el ente asegurador haya otorgado al trabajador o a sus causahabientes. Además, el instituto asegurador siempre brindará las prestaciones y luego cobrará al patrono las sumas gastadas más intereses, sin perjuicio de sanciones. También actuará así cuando haya discrepancias sobre el seguro.",
+    "source_quote": "Si el patrono no hubiere asegurado al trabajador contra los riesgos del trabajo, el pago de todas las prestaciones señaladas en los artículos 218 y 219, que el ente asegurador haya suministrado al trabajador víctima de un riesgo del trabajo, o a sus causahabientes, estará exclusivamente a cargo del patrono.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "231",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_231"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "231",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_231",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién debe pagar las prestaciones si el patrono no aseguró al trabajador contra riesgos del trabajo?",
+    "output": "El patrono, de manera exclusiva.",
+    "source_quote": "el pago de todas las prestaciones señaladas en los artículos 218 y 219, que el ente asegurador haya suministrado al trabajador víctima de un riesgo del trabajo, o a sus causahabientes, estará exclusivamente a cargo del patrono.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "231",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_231",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué hace el instituto asegurador cuando el patrono no ha asegurado al trabajador?",
+    "output": "Atiende todas las prestaciones y luego acude a los tribunales para cobrar al patrono las sumas erogadas, con intereses, sin perjuicio de las sanciones legales.",
+    "source_quote": "En todo caso, el instituto asegurador atenderá todas las prestaciones señaladas en este Código para el trabajador víctima de un infortunio laboral, o sus causahabientes, y acudirá a los tribunales para cobrar al patrono las sumas erogadas, con los intereses del caso, todo sin perjuicio de las sanciones establecidas en la ley para el patrono remiso.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "231",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_231",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la responsabilidad exclusiva del patrono por las prestaciones cuando no ha cumplido con el deber de asegurar al trabajador, trasladándole el costo de lo que el ente asegurador haya proporcionado.",
+    "source_quote": "Si el patrono no hubiere asegurado al trabajador contra los riesgos del trabajo, el pago de todas las prestaciones señaladas en los artículos 218 y 219, que el ente asegurador haya suministrado al trabajador víctima de un riesgo del trabajo, o a sus causahabientes, estará exclusivamente a cargo del patrono.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "231",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_231",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza que el trabajador reciba las prestaciones de inmediato a través del instituto asegurador, y faculta a este para recuperar lo pagado del patrono mediante acción judicial, incluyendo intereses y sin excluir otras sanciones.",
+    "source_quote": "En todo caso, el instituto asegurador atenderá todas las prestaciones señaladas en este Código para el trabajador víctima de un infortunio laboral, o sus causahabientes, y acudirá a los tribunales para cobrar al patrono las sumas erogadas, con los intereses del caso, todo sin perjuicio de las sanciones establecidas en la ley para el patrono remiso.",
+    "item_index": 2
+  }
+]

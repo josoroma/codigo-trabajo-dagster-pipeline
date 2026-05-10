@@ -1,0 +1,73 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 3 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 3 define quién es un intermediario laboral y establece las consecuencias legales de esa figura. Un intermediario es quien contrata a personas para que trabajen en beneficio de un patrono. En ese caso, el patrono responde solidariamente por las obligaciones legales que surjan del Código, sus reglamentos y las normas de previsión social. Además, aclara que si alguien ejecuta trabajos por contrato usando capitales propios, no se considera intermediario, sino patrono directo de quienes trabajan para él.",
+    "source_quote": "Intermediario es toda persona que contrata los servicios de otra u otras para que ejecuten algún trabajo en beneficio de un patrono. Este quedará obligado solidariamente por la gestión de aquél para los efectos legales que se deriven del presente Código, de sus Reglamentos y de las disposiciones de previsión social. Serán considerados como patronos de quienes trabajen -y no como intermediarios- los que se encarguen, por contrato, de trabajos que ejecuten con capitales propios.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién es considerado intermediario según el artículo 3 del Código de Trabajo?",
+    "output": "Intermediario es toda persona que contrata los servicios de otra u otras para que ejecuten algún trabajo en beneficio de un patrono.",
+    "source_quote": "Intermediario es toda persona que contrata los servicios de otra u otras para que ejecuten algún trabajo en beneficio de un patrono.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo una persona que contrata trabajos por contrato no es considerada intermediario sino patrono?",
+    "output": "Cuando se encarga de trabajos que ejecuta con capitales propios.",
+    "source_quote": "Serán considerados como patronos de quienes trabajen -y no como intermediarios- los que se encarguen, por contrato, de trabajos que ejecuten con capitales propios.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define legalmente la figura del intermediario, estableciendo el elemento esencial de que la contratación se hace para que el trabajo redunde en beneficio de un patrono distinto al intermediario.",
+    "source_quote": "Intermediario es toda persona que contrata los servicios de otra u otras para que ejecuten algún trabajo en beneficio de un patrono.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la responsabilidad solidaria del patrono por las obligaciones legales que surjan de la actuación del intermediario, protegiendo así los derechos laborales y de seguridad social de los trabajadores.",
+    "source_quote": "Este quedará obligado solidariamente por la gestión de aquél para los efectos legales que se deriven del presente Código, de sus Reglamentos y de las disposiciones de previsión social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "3",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_3",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Delimita la excepción a la figura del intermediario, aclarando que quien asume el riesgo económico con capital propio es patrono directo, no un mero intermediario.",
+    "source_quote": "Serán considerados como patronos de quienes trabajen -y no como intermediarios- los que se encarguen, por contrato, de trabajos que ejecuten con capitales propios.",
+    "item_index": 3
+  }
+]

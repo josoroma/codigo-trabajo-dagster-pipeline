@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 570 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 570 establece las formas de terminación anticipada del proceso laboral, incluyendo desistimiento, renuncia del derecho, deserción, satisfacción extraprocesal, transacción y acuerdos conciliatorios. Señala que se aplica la legislación procesal civil con modificaciones específicas: la renuncia, transacción y conciliación solo son válidas sobre derechos disponibles; la transacción y conciliación requieren homologación judicial que produce cosa juzgada material; la deserción procede por omisión del actor que impide continuar el proceso, con o sin medidas cautelares perjudiciales; la satisfacción extraprocesal puede apreciarse de oficio y permite reanudar el proceso si se revoca, con condena en costas si la demanda prospera. En todos los casos, salvo acuerdos conciliatorios, debe oírse a la parte contraria por tres días antes de acordar la terminación.",
+    "source_quote": "Salvo disposición especial en contrario, el desistimiento, la renuncia del derecho, la deserción, la satisfacción extraprocesal, la transacción y los acuerdos conciliatorios le pondrán también término al proceso.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "570",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_570"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "570",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_570",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se consideran válidas y eficaces la renuncia, la transacción y la conciliación según el artículo 570?",
+    "output": "Solo se considerarán válidas y eficaces cuando se refieran a derechos disponibles.",
+    "source_quote": "La renuncia, la transacción y la conciliación solo se considerarán válidas y eficaces cuando se refieran a derechos disponibles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "570",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_570",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito previo exige el artículo 570 para acordar la terminación del proceso en los casos de desistimiento, renuncia, deserción, satisfacción extraprocesal y transacción?",
+    "output": "Se debe oír previamente por tres días a la parte contraria, excepto en los acuerdos conciliatorios.",
+    "source_quote": "En todos estos casos, excepto en los acuerdos conciliatorios, la terminación del proceso se acordará oyendo previamente por tres días a la parte contraria.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "570",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_570",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la condición de disponibilidad de derechos como requisito esencial para la validez de estos actos de terminación del proceso, protegiendo derechos irrenunciables del trabajador.",
+    "source_quote": "La renuncia, la transacción y la conciliación solo se considerarán válidas y eficaces cuando se refieran a derechos disponibles.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "570",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_570",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la transacción y conciliación homologadas la fuerza de sentencia firme, garantizando seguridad jurídica, inmutabilidad de lo acordado y su ejecución forzosa en caso de incumplimiento.",
+    "source_quote": "La transacción y conciliación deben ser homologadas y el pronunciamiento respectivo tiene el carácter de sentencia, con autoridad de cosa juzgada material, y admite el recurso previsto para ese tipo de resoluciones. Una vez firme será ejecutable del mismo modo que las sentencias.",
+    "item_index": 2
+  }
+]

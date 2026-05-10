@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 122 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 122 establece que los contratos de embarco de una nave costarricense se terminan automáticamente si la nave cambia de nacionalidad o se pierde por naufragio, una vez cumplida la obligación del artículo 121. En caso de cambio de nacionalidad, los trabajadores reciben tres meses de salario, a menos que las indemnizaciones legales sean mayores. En caso de naufragio, reciben un auxilio de cesantía de dos meses de salario, salvo que el artículo 29 permita reclamar uno mayor.",
+    "source_quote": "Si una nave costarricense cambiare de nacionalidad o pereciere por naufragio, se tendrán por concluidos todos los contratos de embarco a ella relativos en el momento en que se cumpla la obligación de que habla el artículo 121.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "122",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_122"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "122",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_122",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué indemnización reciben los trabajadores si la nave costarricense cambia de nacionalidad?",
+    "output": "Tienen derecho al importe de tres meses de salario, salvo que las indemnizaciones legales fueren mayores.",
+    "source_quote": "En el primer caso, los trabajadores tendrán derecho al importe de tres meses de salario, salvo que las indemnizaciones legales fueren mayores.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "122",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_122",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué auxilio corresponde a los trabajadores si la nave perece por naufragio?",
+    "output": "Un auxilio de cesantía equivalente a dos meses de salario, salvo que el artículo 29 les diere facultad de reclamar uno mayor.",
+    "source_quote": "en el segundo caso, a un auxilio de cesantía equivalente a dos meses de salario, salvo que el artículo 29 les diere facultad de reclamar uno mayor.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "122",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_122",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las dos causales de terminación automática de los contratos de embarco (cambio de nacionalidad o naufragio) y el momento exacto en que surten efecto, remitiendo al cumplimiento de la obligación del artículo 121.",
+    "source_quote": "Si una nave costarricense cambiare de nacionalidad o pereciere por naufragio, se tendrán por concluidos todos los contratos de embarco a ella relativos en el momento en que se cumpla la obligación de que habla el artículo 121.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "122",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_UNDECIMO_articulo_122",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Fija las prestaciones económicas diferenciadas para cada supuesto: tres meses de salario por cambio de nacionalidad (con posible mejora legal) y dos meses de salario por naufragio (con posible mejora según el artículo 29), garantizando así una protección mínima a los trabajadores.",
+    "source_quote": "En el primer caso, los trabajadores tendrán derecho al importe de tres meses de salario, salvo que las indemnizaciones legales fueren mayores; y en el segundo caso, a un auxilio de cesantía equivalente a dos meses de salario, salvo que el artículo 29 les diere facultad de reclamar uno mayor.",
+    "item_index": 2
+  }
+]

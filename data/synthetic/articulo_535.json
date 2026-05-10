@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 535 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 535 establece que las audiencias laborales deben realizarse de forma continua, sin interrupciones, durante el tiempo que sea necesario. Solo se permiten pausas en cuatro casos: para resolver cuestiones complejas de manera breve, para reconocer lugares u objetos fuera de la sala o recibir testimonios de personas que no puedan trasladarse, para intentar una conciliación si ambas partes lo solicitan, o cuando quien dirige la audiencia lo considere indispensable para garantizar el derecho de defensa.",
+    "source_quote": "Las audiencias se desarrollarán sin interrupción, durante las horas y los días que se requieran, salvo para:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "535",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_535"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "535",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_535",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuáles son las excepciones que permiten interrumpir una audiencia según el artículo 535?",
+    "output": "Las excepciones son: 1) el estudio y resolución de cuestiones complejas de forma breve, 2) el reconocimiento de lugares u objetos fuera de la audiencia o la evacuación del testimonio de personas que no puedan trasladarse, 3) intentar acuerdos conciliatorios si ambas partes lo piden, y 4) cuando sea absolutamente indispensable para garantizar el derecho de defensa, a juicio de quien dirige la audiencia.",
+    "source_quote": "salvo para: 1) El estudio y la resolución de cuestiones complejas que se presenten en su transcurso. Estas interrupciones se harán de forma muy breve, de tal manera que no se afecte la unidad del acto. 2) Para realizar el reconocimiento de lugares o de objetos que se hallen en sitio distinto del de la audiencia o para evacuar el testimonio de personas que no puedan trasladarse. 3) Para intentar acuerdos conciliatorios, si así lo piden las partes de consuno. 4) Cuando, a juicio de quien dirige la audiencia, fuera absolutamente indispensable para garantizar el derecho de defensa de los litigantes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "535",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_535",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién decide si una interrupción es indispensable para garantizar el derecho de defensa?",
+    "output": "Lo decide quien dirige la audiencia.",
+    "source_quote": "Cuando, a juicio de quien dirige la audiencia, fuera absolutamente indispensable para garantizar el derecho de defensa de los litigantes.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "535",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_535",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de continuidad y concentración de las audiencias laborales, indicando que solo se suspenderán en los casos taxativos que el mismo artículo enumera.",
+    "source_quote": "Las audiencias se desarrollarán sin interrupción, durante las horas y los días que se requieran, salvo para:",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "535",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_535",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga al juez o autoridad que preside la audiencia la facultad discrecional de interrumpir el acto cuando sea estrictamente necesario para proteger el derecho fundamental de defensa de las partes.",
+    "source_quote": "Cuando, a juicio de quien dirige la audiencia, fuera absolutamente indispensable para garantizar el derecho de defensa de los litigantes.",
+    "item_index": 2
+  }
+]

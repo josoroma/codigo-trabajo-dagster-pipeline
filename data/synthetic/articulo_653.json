@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 653 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 653 establece que todas las diligencias realizadas por los órganos de conciliación y arbitraje deben documentarse por escrito en el mismo momento en que se llevan a cabo. El acta debe ser leída y luego firmada por los miembros del órgano y por las personas que intervinieron. Además, debe incluir el lugar, la hora, el día, los nombres de los asistentes y cualquier otra información relevante. También se deben anotar las observaciones que hagan los asistentes sobre la exactitud de lo escrito, y si alguien se niega a firmar, se debe dejar constancia del motivo que alegue para no hacerlo.",
+    "source_quote": "Toda diligencia que practiquen los órganos de conciliación y arbitraje se extenderá por escrito en el acto mismo de llevarse a cabo y será firmada, previa lectura, por sus miembros y las personas que han intervenido en ella, y deberán mencionarse el lugar, la hora y el día de la práctica, el nombre de las personas que asistieron y demás indicaciones pertinentes.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "653",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_653"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "653",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_653",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información debe contener el acta de una diligencia de conciliación o arbitraje?",
+    "output": "Debe mencionar el lugar, la hora y el día de la práctica, el nombre de las personas que asistieron y demás indicaciones pertinentes.",
+    "source_quote": "deberán mencionarse el lugar, la hora y el día de la práctica, el nombre de las personas que asistieron y demás indicaciones pertinentes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "653",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_653",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se debe hacer si una persona se niega a firmar el acta de la diligencia?",
+    "output": "Se debe poner razón del motivo que alegue para no firmar.",
+    "source_quote": "cuando alguno rehúse firmar, se pondrá razón del motivo que alegue para no hacerlo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "653",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_653",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de documentar por escrito las diligencias, incluyendo su firma y contenido mínimo, para garantizar la transparencia y el registro fiel de lo actuado.",
+    "source_quote": "Toda diligencia que practiquen los órganos de conciliación y arbitraje se extenderá por escrito en el acto mismo de llevarse a cabo y será firmada, previa lectura, por sus miembros y las personas que han intervenido en ella, y deberán mencionarse el lugar, la hora y el día de la práctica, el nombre de las personas que asistieron y demás indicaciones pertinentes.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "653",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_653",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Permite a los asistentes manifestar su conformidad o disconformidad con el acta, y deja constancia de la negativa a firmar, protegiendo el derecho de las partes a objetar el contenido.",
+    "source_quote": "Se anotarán las observaciones de los asistentes sobre la exactitud de lo consignado y, cuando alguno rehúse firmar, se pondrá razón del motivo que alegue para no hacerlo.",
+    "item_index": 2
+  }
+]

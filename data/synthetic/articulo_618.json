@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 618 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 618 establece el procedimiento inicial cuando surge un conflicto colectivo de carácter económico y social en un lugar de trabajo. Los trabajadores deben nombrar una delegación de dos a tres miembros que conozcan bien las causas del problema y tengan poder para firmar acuerdos. Esta delegación está autorizada para plantear el conflicto ante los tribunales, ante el Departamento de Relaciones de Trabajo del Ministerio de Trabajo, o ante un órgano conciliador privado elegido por las partes.",
+    "source_quote": "Cuando en el lugar de trabajo se produzca una cuestión susceptible de provocar uno de los conflictos colectivos de carácter económico y social a que se refiere el título sexto, los interesados nombrarán entre ellos una delegación de dos a tres miembros que deberán conocer muy bien las causas de la inconformidad y estar provistos de poder suficiente para firmar cualquier arreglo. Esta delegación estará legitimada para plantear el conflicto judicialmente o alternativamente ante el Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o bien, ante el órgano conciliador que las partes designen a su costa.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "618",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_618"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "618",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_618",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos miembros debe tener la delegación que nombran los trabajadores para atender un conflicto colectivo económico y social?",
+    "output": "La delegación debe tener de dos a tres miembros.",
+    "source_quote": "los interesados nombrarán entre ellos una delegación de dos a tres miembros",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "618",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_618",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Ante qué instancias puede la delegación plantear el conflicto colectivo?",
+    "output": "Puede plantearlo judicialmente, ante el Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o ante un órgano conciliador designado por las partes a su costa.",
+    "source_quote": "Esta delegación estará legitimada para plantear el conflicto judicialmente o alternativamente ante el Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o bien, ante el órgano conciliador que las partes designen a su costa.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "618",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_618",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el supuesto de hecho (surgimiento de un conflicto colectivo económico-social) y establece la obligación de los trabajadores de nombrar una delegación representativa con conocimiento de causa y capacidad para acordar soluciones, garantizando así una negociación informada y vinculante.",
+    "source_quote": "Cuando en el lugar de trabajo se produzca una cuestión susceptible de provocar uno de los conflictos colectivos de carácter económico y social a que se refiere el título sexto, los interesados nombrarán entre ellos una delegación de dos a tres miembros que deberán conocer muy bien las causas de la inconformidad y estar provistos de poder suficiente para firmar cualquier arreglo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "618",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DECIMOTERCERO_articulo_618",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a la delegación la facultad legal de iniciar el trámite del conflicto por tres vías posibles: la judicial, la administrativa (Ministerio de Trabajo) o la conciliación privada, brindando opciones de resolución y reconociendo la autonomía de las partes para elegir un mecanismo alternativo a su cargo.",
+    "source_quote": "Esta delegación estará legitimada para plantear el conflicto judicialmente o alternativamente ante el Departamento de Relaciones de Trabajo del Ministerio de Trabajo y Seguridad Social, o bien, ante el órgano conciliador que las partes designen a su costa.",
+    "item_index": 2
+  }
+]

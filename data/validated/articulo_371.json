@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 371 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 371 define la huelga legal como un derecho de suspensión concertada y pacífica del trabajo, ejercido por al menos tres personas trabajadoras que representen más de la mitad de los votos emitidos en un conflicto colectivo. Establece sus finalidades (defensa de intereses económicos, sociales y derechos en conflictos jurídicos colectivos), declara ilegales las huelgas políticas o sin conexión directa con la relación laboral, y regula la huelga de protesta contra políticas públicas con límites de duración. Además, excluye de la legalidad las huelgas atípicas y detalla qué conductas impiden considerar una huelga como pacífica.",
+    "source_quote": "La huelga legal es un derecho que consiste en la suspensión concertada y pacífica del trabajo, en una empresa, institución, establecimiento o centro de trabajo, acordada y ejecutada por una pluralidad de tres personas trabajadoras, como mínimo, que represente más de la mitad de los votos emitidos conforme al artículo 381, por los empleados o las empleadas involucrados en un conflicto colectivo de trabajo...",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "371",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_371"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "371",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_371",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el número mínimo de personas trabajadoras requerido para que una huelga sea legal?",
+    "output": "Se requiere una pluralidad de tres personas trabajadoras, como mínimo, que represente más de la mitad de los votos emitidos conforme al artículo 381.",
+    "source_quote": "acordada y ejecutada por una pluralidad de tres personas trabajadoras, como mínimo, que represente más de la mitad de los votos emitidos conforme al artículo 381",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "371",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_371",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué duración máxima puede tener una huelga de protesta contra políticas públicas?",
+    "output": "No podrá tener una duración superior a cuarenta y ocho horas.",
+    "source_quote": "Este tipo de huelgas no podrá tener una duración superior a cuarenta y ocho horas ni podrán reiterarse por el mismo motivo.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "371",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_371",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el concepto de huelga legal, sus requisitos de validez (número mínimo de trabajadores y mayoría de votos) y sus finalidades legítimas, delimitando así el ámbito de protección del derecho de huelga.",
+    "source_quote": "La huelga legal es un derecho que consiste en la suspensión concertada y pacífica del trabajo, en una empresa, institución, establecimiento o centro de trabajo, acordada y ejecutada por una pluralidad de tres personas trabajadoras, como mínimo, que represente más de la mitad de los votos emitidos conforme al artículo 381, por los empleados o las empleadas involucrados en un conflicto colectivo de trabajo, para lo siguiente: a) La defensa y promoción de sus intereses económicos y sociales. b) La defensa de sus derechos en los conflictos jurídicos colectivos señalados en el artículo 386.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "371",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_371",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las conductas que despojan a una huelga de su carácter pacífico, excluyéndola de la legalidad y protección jurídica, con el fin de preservar el orden público y los derechos de terceros.",
+    "source_quote": "No se considerará pacífica ninguna huelga que conlleve bloqueos en vías públicas o que impida el acceso a las instalaciones o los servicios públicos, la realización de sabotaje sobre bienes públicos, la perpetración de conductas que comporten un ilícito penal o que imposibiliten el derecho a laborar de los trabajadores que no se encuentren en huelga.",
+    "item_index": 2
+  }
+]

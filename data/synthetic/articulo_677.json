@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 677 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 677 establece el contenido obligatorio que debe tener toda sentencia condenatoria en materia laboral. Indica que la sentencia debe incluir: el monto de la multa en dinero y el número de salarios usados para calcularla; la orden de pagar ese monto dentro de los cinco días siguientes a que la sentencia quede firme, en el lugar que señala el Código; la condena al infractor, organización social o persona jurídica a pagar los daños y perjuicios causados y las costas, de forma solidaria; las medidas para restituir los derechos violados; y las medidas para reparar los daños y perjuicios y restituir los derechos, todo mediante ejecución de sentencia.",
+    "source_quote": "La sentencia condenatoria ineludiblemente contendrá: 1) El monto de la multa impuesta en valor monetario y el número de salarios tomados en cuenta para establecerlo. 2) La indicación de que el monto respectivo debe ser pagado dentro de los cinco días siguientes a la firmeza del fallo, en el lugar indicado en este mismo Código. 3) La condenatoria al infractor, organización social o persona jurídica en su caso, del pago de los daños y perjuicios irrogados y las costas causadas, extremos todos de los cuales se responderá solidariamente. 4) Las medidas o disposiciones necesarias para la restitución de los derechos violados. 5) Las medidas que estime necesarias para la reparación de los daños y perjuicios causados y la restitución de todos los derechos violados, todo lo cual se hará por los trámites de la ejecución de sentencia.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "677",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_677"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "677",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_677",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué debe contener ineludiblemente una sentencia condenatoria según el artículo 677?",
+    "output": "Debe contener: el monto de la multa en valor monetario y el número de salarios usados para calcularlo; la indicación de que el monto debe pagarse dentro de los cinco días siguientes a la firmeza del fallo en el lugar indicado en el Código; la condena al infractor, organización social o persona jurídica al pago de daños y perjuicios y costas, de forma solidaria; las medidas para restituir los derechos violados; y las medidas para reparar daños y perjuicios y restituir derechos, mediante ejecución de sentencia.",
+    "source_quote": "La sentencia condenatoria ineludiblemente contendrá: 1) El monto de la multa impuesta en valor monetario y el número de salarios tomados en cuenta para establecerlo. 2) La indicación de que el monto respectivo debe ser pagado dentro de los cinco días siguientes a la firmeza del fallo, en el lugar indicado en este mismo Código. 3) La condenatoria al infractor, organización social o persona jurídica en su caso, del pago de los daños y perjuicios irrogados y las costas causadas, extremos todos de los cuales se responderá solidariamente. 4) Las medidas o disposiciones necesarias para la restitución de los derechos violados. 5) Las medidas que estime necesarias para la reparación de los daños y perjuicios causados y la restitución de todos los derechos violados, todo lo cual se hará por los trámites de la ejecución de sentencia.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "677",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_677",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué plazo debe pagarse el monto de la multa según el artículo 677?",
+    "output": "Debe pagarse dentro de los cinco días siguientes a la firmeza del fallo.",
+    "source_quote": "La indicación de que el monto respectivo debe ser pagado dentro de los cinco días siguientes a la firmeza del fallo, en el lugar indicado en este mismo Código.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "677",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_677",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el primer requisito obligatorio de la sentencia condenatoria: detallar la multa en dinero y la base de cálculo en salarios, para garantizar claridad y transparencia en la sanción económica.",
+    "source_quote": "La sentencia condenatoria ineludiblemente contendrá: 1) El monto de la multa impuesta en valor monetario y el número de salarios tomados en cuenta para establecerlo.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "677",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_DECIMOQUINTO_articulo_677",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone la obligación de condenar al responsable al pago de daños, perjuicios y costas, y establece la solidaridad en la responsabilidad, asegurando la reparación integral del afectado.",
+    "source_quote": "3) La condenatoria al infractor, organización social o persona jurídica en su caso, del pago de los daños y perjuicios irrogados y las costas causadas, extremos todos de los cuales se responderá solidariamente.",
+    "item_index": 2
+  }
+]

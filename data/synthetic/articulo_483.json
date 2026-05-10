@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 483 del Código de Trabajo.",
+    "input": "",
+    "output": "Este artículo establece que cuando la carga de la prueba recae específicamente en los empleadores (según lo dispuesto en el inciso final del artículo 478), los tribunales tienen amplias facultades para solicitar todas las pruebas necesarias y deben evaluar con prudencia la verosimilitud de lo afirmado en la demanda, con el fin de evitar abusos de esa atribución procesal.",
+    "source_quote": "En el supuesto de atribución específica de la carga procesal a los empleadores, señalados en el inciso final del artículo 478, los tribunales tendrán facultades suficientes para requerir todas las pruebas que el caso amerite y valorarán la verosimilitud de las aserciones de la demanda con prudencia, de modo que impidan cualquier abuso derivado de esa atribución.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "483",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_483"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "483",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_483",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué facultades tienen los tribunales cuando la carga procesal se atribuye específicamente a los empleadores según el artículo 483?",
+    "output": "Tienen facultades suficientes para requerir todas las pruebas que el caso amerite y valorar la verosimilitud de las aserciones de la demanda con prudencia.",
+    "source_quote": "los tribunales tendrán facultades suficientes para requerir todas las pruebas que el caso amerite y valorarán la verosimilitud de las aserciones de la demanda con prudencia",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "483",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_483",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué finalidad deben los tribunales valorar con prudencia las aserciones de la demanda en este supuesto?",
+    "output": "Para impedir cualquier abuso derivado de la atribución específica de la carga procesal a los empleadores.",
+    "source_quote": "de modo que impidan cualquier abuso derivado de esa atribución.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "483",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_483",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Otorga a los tribunales la potestad de recabar de oficio todas las pruebas necesarias cuando la carga probatoria recae en el empleador, garantizando una investigación completa del caso.",
+    "source_quote": "En el supuesto de atribución específica de la carga procesal a los empleadores, señalados en el inciso final del artículo 478, los tribunales tendrán facultades suficientes para requerir todas las pruebas que el caso amerite",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "483",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_483",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los tribunales el deber de analizar con cautela la credibilidad de lo alegado en la demanda para evitar que la inversión de la carga de la prueba sea utilizada de manera abusiva por la parte actora.",
+    "source_quote": "y valorarán la verosimilitud de las aserciones de la demanda con prudencia, de modo que impidan cualquier abuso derivado de esa atribución.",
+    "item_index": 2
+  }
+]

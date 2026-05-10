@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 595 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 595 establece el procedimiento que debe seguirse al dictar sentencia cuando se alega la nulidad. Primero, se resuelven las cuestiones de procedimiento: si se declara la nulidad por vicios procesales, se devuelve el expediente al tribunal para repetir la audiencia, salvo que la nulidad se alegue desde primera instancia, en cuyo caso se devuelve al juzgado. Si la nulidad es por el fondo, se casa la sentencia y se falla de nuevo en la misma resolución, si es posible con lo actuado. Si no procede la nulidad, se declara sin lugar el recurso y se devuelve al juzgado. La nulidad solo se decreta cuando el error no pueda corregirse con el expediente y respetando la inmediación.",
+    "source_quote": "La nulidad de la sentencia solo se decretará cuando no sea posible corregir el error u omisión con base en el expediente y con respeto del principio de inmediación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "595",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_595"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "595",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_595",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué se resuelve en primer lugar al dictarse sentencia según el artículo 595?",
+    "output": "Las cuestiones relativas al procedimiento.",
+    "source_quote": "En primer lugar se resolverán las cuestiones relativas al procedimiento.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "595",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_595",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo se decreta la nulidad de la sentencia de acuerdo con este artículo?",
+    "output": "Solo cuando no sea posible corregir el error u omisión con base en el expediente y con respeto del principio de inmediación.",
+    "source_quote": "La nulidad de la sentencia solo se decretará cuando no sea posible corregir el error u omisión con base en el expediente y con respeto del principio de inmediación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "595",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_595",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el orden de resolución y el procedimiento cuando la nulidad es por vicios procesales, distinguiendo si se alegó en primera instancia.",
+    "source_quote": "En primer lugar se resolverán las cuestiones relativas al procedimiento. Si se considera procedente la nulidad de la sentencia, se puntualizarán los vicios o defectos omitidos y se devolverá el expediente al tribunal para que, hecha cualquier reposición ordenada, se repita la audiencia y se dicte de nuevo, salvo que la nulidad se alegue desde la primera instancia, por lo que se devolverá el expediente al juzgado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "595",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_UNDÉCIMO_articulo_595",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Limita la declaración de nulidad a casos en que la corrección no sea factible con lo actuado, protegiendo el principio de inmediación.",
+    "source_quote": "La nulidad de la sentencia solo se decretará cuando no sea posible corregir el error u omisión con base en el expediente y con respeto del principio de inmediación.",
+    "item_index": 2
+  }
+]

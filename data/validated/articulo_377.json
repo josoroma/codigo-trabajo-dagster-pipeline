@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 377 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 377 establece los requisitos que deben cumplir las personas trabajadoras para que una huelga sea declarada legal. Estos requisitos incluyen: observar lo dispuesto en el artículo 371, agotar alguna de las alternativas de conciliación del artículo 618 (o, en conflictos jurídicos del artículo 386, realizar una intimación al empleador con un mes de plazo), y, en servicios públicos, entregar un aviso de huelga por escrito al patrono y al Ministerio de Trabajo con al menos cinco días hábiles de anticipación, detallando fecha, horas, organizaciones, centros de trabajo y modalidad. Además, se exigen requisitos de notificación electrónica para coaliciones temporales y sindicatos. Si no se cumplen todos los requisitos, la huelga no podrá ser declarada legal.",
+    "source_quote": "En toda huelga, sin excepción, se deberán cumplir los requisitos señalados en el presente Código; caso contrario no podrá ser declarada legal.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "377",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_377"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "377",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_377",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si una coalición temporal de trabajadores omite señalar un medio electrónico para atender notificaciones en el aviso de huelga?",
+    "output": "La omisión de señalar un medio electrónico para atender notificaciones conllevará necesariamente la aplicación de la notificación automática por parte de la autoridad administrativa o judicial.",
+    "source_quote": "La omisión de señalar un medio electrónico para atender notificaciones conllevará necesariamente la aplicación de la notificación automática por parte de la autoridad administrativa o judicial.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "377",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_377",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los dos primeros requisitos generales para la legalidad de la huelga: cumplir con las condiciones del artículo 371 y agotar la conciliación previa, garantizando que se intente una solución pacífica antes del conflicto.",
+    "source_quote": "Para declarar una huelga legal, las personas trabajadoras deben: a) Observar los extremos preceptuados en el artículo 371. b) Agotar alguna de las alternativas procesales de conciliación establecidas en el artículo 618.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "377",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_PRIMERO_articulo_377",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Refuerza el carácter imperativo de todos los requisitos enumerados, indicando que su incumplimiento total impide la declaratoria de legalidad de la huelga, lo que brinda seguridad jurídica al procedimiento.",
+    "source_quote": "En toda huelga, sin excepción, se deberán cumplir los requisitos señalados en el presente Código; caso contrario no podrá ser declarada legal.",
+    "item_index": 2
+  }
+]

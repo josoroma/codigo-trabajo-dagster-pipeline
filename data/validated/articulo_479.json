@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 479 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 479 establece los medios de prueba que pueden presentarse en un proceso laboral. Permite cualquier medio que sirva para convencer al tribunal, siempre que sea admisible en derecho y no esté prohibido ni sea contrario al orden público o la moral. Enumera ejemplos como declaraciones de partes, testigos, peritos, documentos, reconocimiento judicial, medios científicos, etc. Además, regula la forma de ofrecer la declaración o confesión de parte (indicando hechos concretos) y limita el número de testigos: hasta cuatro para hechos generales, o dos por hecho concreto.",
+    "source_quote": "Puede ofrecerse todo medio probatorio que sirva a la convicción del tribunal, admisibles en derecho público y en derecho común, siempre que no esté expresamente prohibido ni sea contrario al orden público o a la moral.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "479",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_479"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "479",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_479",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuántos testigos se pueden ofrecer por hechos concretos según el artículo 479?",
+    "output": "Solo serán admisibles dos testigos por hecho.",
+    "source_quote": "En este último caso, solo serán admisibles dos testigos por hecho.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "479",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_479",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito se debe cumplir al pedir la declaración o confesión de la parte?",
+    "output": "Deberán indicarse, de manera concreta, los hechos sobre los cuales ha de interrogarse.",
+    "source_quote": "Cuando se pida la declaración o la confesión de la parte, deberán indicarse, de manera concreta, los hechos sobre los cuales ha de interrogarse.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "479",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_479",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio general de libertad probatoria, permitiendo cualquier medio de prueba que sea útil para la convicción del juez, siempre que no esté prohibido o sea contrario al orden público o la moral.",
+    "source_quote": "Puede ofrecerse todo medio probatorio que sirva a la convicción del tribunal, admisibles en derecho público y en derecho común, siempre que no esté expresamente prohibido ni sea contrario al orden público o a la moral.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "479",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_QUINTO_articulo_479",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Regula la cantidad de testigos que pueden ofrecerse, distinguiendo entre hechos generales (máximo cuatro) y hechos concretos (dos por hecho), para evitar dilaciones innecesarias y garantizar la eficiencia procesal.",
+    "source_quote": "Los testigos podrán ofrecerse sobre los hechos generales, hasta en un número máximo de cuatro, o bien por hechos concretos. En este último caso, solo serán admisibles dos testigos por hecho.",
+    "item_index": 2
+  }
+]

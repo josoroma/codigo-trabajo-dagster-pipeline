@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 68 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 68 establece el contenido que debe y puede tener el reglamento de trabajo de una empresa. Indica que puede incluir reglas técnicas, administrativas, de higiene y seguridad, y otras que se consideren convenientes. Además, obligatoriamente debe contener aspectos como horarios de entrada y salida, tiempos de comida y descanso, lugar y momento de inicio y fin de las jornadas, tipos de salarios y categorías, lugar y hora de pago, disposiciones disciplinarias (con prohibición de multas y límites a las suspensiones), designación de personas para recibir peticiones y reclamos, y normas especiales según edad y sexo de los trabajadores.",
+    "source_quote": "El reglamento de trabajo podrá comprender el cuerpo de reglas de orden técnico y administrativo necesarias para la buena marcha de la empresa; las relativas a higiene y seguridad en las labores, como indicaciones para evitar que se realicen los riesgos profesionales e instrucciones para prestar los primeros auxilios en caso de accidente y, en general, todas aquellas otras que se estimen convenientes. Además contendrá:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "68",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_68"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "68",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_68",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué información sobre los salarios debe contener el reglamento de trabajo?",
+    "output": "Los diversos tipos de salarios y las categorías de trabajo a que correspondan.",
+    "source_quote": "Los diversos tipos de salarios y las categorías de trabajo a que correspondan;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "68",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_68",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el límite de días para una suspensión sin goce de sueldo y qué requisito previo debe cumplirse?",
+    "output": "La suspensión sin goce de sueldo no podrá decretarse por más de ocho días ni antes de haber oído al interesado y a los compañeros que éste indique.",
+    "source_quote": "la suspensión del trabajo, sin goce de sueldo, no podrá decretarse por más de ocho días ni antes de haber oído al interesado y a los compañeros que éste indique;",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "68",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_68",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece límites al poder disciplinario del patrono, protegiendo el salario del trabajador de descuentos arbitrarios y garantizando el derecho de defensa antes de una suspensión, al exigir que se oiga al trabajador y a sus compañeros.",
+    "source_quote": "Las disposiciones disciplinarias y formas de aplicarlas. Es entendido que se prohíbe descontar suma alguna del salario de los trabajadores en concepto de multa y que la suspensión del trabajo, sin goce de sueldo, no podrá decretarse por más de ocho días ni antes de haber oído al interesado y a los compañeros que éste indique;",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "68",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_QUINTO_articulo_68",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Obliga al patrono a detallar en el reglamento los horarios y lugares de inicio y fin de la jornada, así como los descansos, lo que brinda certeza a los trabajadores sobre sus obligaciones de asistencia y permite la organización del tiempo de trabajo.",
+    "source_quote": "Las horas de entrada y de salida de los trabajadores, el tiempo destinado para las comidas y el período o períodos de descanso durante la jornada; El lugar y el momento en que deben comenzar y terminar las jornadas de trabajo;",
+    "item_index": 2
+  }
+]

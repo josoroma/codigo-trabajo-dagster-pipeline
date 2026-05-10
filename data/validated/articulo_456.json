@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 456 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 456 establece que la conciliación, la mediación y el arbitraje deben usarse prioritariamente como instrumentos de paz entre las partes y para la sociedad. En los procesos judiciales, los jueces tienen el deber de promover una solución conciliada del conflicto, por encima de dictar sentencia. Extrajudicialmente, con la intervención de mediadores del Ministerio de Trabajo o de un centro de resolución alterna de conflictos (en este último caso, con asistencia de abogado o representante sindical para el trabajador), las partes pueden transigir los derechos en litigio, excepto aquellos señalados en el artículo siguiente.",
+    "source_quote": "La conciliación, la mediación y el arbitraje serán utilizados prioritariamente como instrumentos de paz entre las partes y para la sociedad.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "456",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_456"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "456",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_456",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué métodos de resolución de conflictos deben utilizarse prioritariamente según el artículo 456?",
+    "output": "La conciliación, la mediación y el arbitraje.",
+    "source_quote": "La conciliación, la mediación y el arbitraje serán utilizados prioritariamente como instrumentos de paz entre las partes y para la sociedad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "456",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_456",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué deber tienen los órganos jurisdiccionales en los procesos judiciales de acuerdo con este artículo?",
+    "output": "Promover una solución conciliada del conflicto, por encima de la imposición que implica la sentencia.",
+    "source_quote": "En los procesos judiciales, los órganos jurisdiccionales tienen el deber de promover una solución conciliada del conflicto, por encima de la imposición que implica la sentencia.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "456",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_456",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece el principio de prioridad de los métodos alternos de solución de conflictos como herramientas de paz social, indicando que deben ser la primera opción antes que otras vías.",
+    "source_quote": "La conciliación, la mediación y el arbitraje serán utilizados prioritariamente como instrumentos de paz entre las partes y para la sociedad.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "456",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_TERCERO_articulo_456",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a los jueces la obligación de fomentar activamente la conciliación dentro del proceso judicial, privilegiando el acuerdo voluntario sobre la decisión autoritaria de una sentencia.",
+    "source_quote": "En los procesos judiciales, los órganos jurisdiccionales tienen el deber de promover una solución conciliada del conflicto, por encima de la imposición que implica la sentencia.",
+    "item_index": 2
+  }
+]

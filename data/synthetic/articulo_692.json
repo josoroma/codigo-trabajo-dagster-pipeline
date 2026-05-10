@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 692 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 692 prohíbe de manera absoluta que, mediante los mecanismos de solución de conflictos laborales, se deje de aplicar o se exceptúe el cumplimiento de leyes o reglamentos vigentes. Además, cuando las decisiones impliquen gastos que afecten el presupuesto nacional o el de una institución o empresa, estas deben respetar no solo esta normativa sino también las normas constitucionales sobre aprobación de presupuestos públicos; su incumplimiento acarrea la nulidad absoluta de lo resuelto.",
+    "source_quote": "Asimismo, queda absolutamente prohibido dispensar o excepcionar leyes o reglamentos vigentes, debidamente promulgados, por medio de los mecanismos de solución.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "692",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_692"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "692",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_692",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué está absolutamente prohibido según el artículo 692 del Código de Trabajo?",
+    "output": "Está absolutamente prohibido dispensar o excepcionar leyes o reglamentos vigentes, debidamente promulgados, por medio de los mecanismos de solución.",
+    "source_quote": "queda absolutamente prohibido dispensar o excepcionar leyes o reglamentos vigentes, debidamente promulgados, por medio de los mecanismos de solución.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "692",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_692",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué consecuencia tiene el irrespeto de las normas constitucionales de aprobación de presupuestos públicos en decisiones que afectan el presupuesto nacional o institucional?",
+    "output": "Implica la nulidad absoluta de lo dispuesto.",
+    "source_quote": "las que en caso de haber sido irrespetadas implicarán la nulidad absoluta de lo dispuesto.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "692",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_692",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece una prohibición absoluta de eludir la aplicación de leyes y reglamentos mediante acuerdos alcanzados en los mecanismos de solución de conflictos laborales, garantizando la primacía de la normativa vigente.",
+    "source_quote": "Asimismo, queda absolutamente prohibido dispensar o excepcionar leyes o reglamentos vigentes, debidamente promulgados, por medio de los mecanismos de solución.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "692",
+    "chunk_id": "libro_None_titulo_UNDÉCIMO_capitulo_SEGUNDO_articulo_692",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone a las autoridades y órganos arbitrales la obligación de respetar las normas constitucionales sobre aprobación de presupuestos públicos cuando sus decisiones conlleven gastos, so pena de nulidad absoluta, protegiendo así la legalidad presupuestaria.",
+    "source_quote": "Es entendido que cuando se trate de erogaciones que afecten el presupuesto nacional o el de una institución o empresa en particular, las decisiones que se emitan por las jerarquías y los órganos arbitrales deben sujetarse no solo a las restricciones que resultan de esta normativa, sino también a las normas constitucionales en materia de aprobación de presupuestos públicos, las que en caso de haber sido irrespetadas implicarán la nulidad absoluta de lo dispuesto.",
+    "item_index": 2
+  }
+]

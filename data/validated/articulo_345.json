@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 345 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 345 establece el contenido mínimo que deben tener los estatutos de un sindicato. Incluye: denominación, domicilio, objeto, derechos y obligaciones de los integrantes (protegiendo sus derechos ante la cesantía), elección de la Junta Directiva con representación paritaria de sexos y requisitos de nacionalidad o residencia, condiciones de admisión, causas y procedimiento de expulsión (que requiere aprobación de dos tercios de los presentes en Asamblea General), frecuencia y convocatoria de la Asamblea General con reglas de quórum, forma de pago y administración de cuotas, y época de presentación de cuentas. El texto está truncado en el inciso j).",
+    "source_quote": "Los estatutos de un sindicato expresarán:",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "345",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_345"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "345",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_345",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué requisito de representación debe cumplir la elección de la Junta Directiva según el artículo 345?",
+    "output": "El modo de elección de la Junta Directiva deberá garantizar la representación paritaria de ambos sexos, y en toda nómina u órgano impar la diferencia entre el total de hombres y mujeres no podrá ser superior a uno.",
+    "source_quote": "El modo de elección de la Junta Directiva deberá garantizar la representación paritaria de ambos sexos. ... En toda nómina u órgano impar la diferencia entre el total de hombres y mujeres no podrá ser superior a uno.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "345",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_345",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Con qué mayoría se aprueba la expulsión de una persona integrante del sindicato?",
+    "output": "Con la aprobación de las dos terceras partes de las personas presentes en una Asamblea General.",
+    "source_quote": "Las personas integrantes del sindicato solo podrán ser expulsadas de él con la aprobación de las dos terceras partes de las personas presentes en una Asamblea General.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "345",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_345",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación de paridad de género en la elección de la directiva sindical y fija los requisitos de nacionalidad o residencia para sus integrantes, promoviendo la igualdad y la representación equilibrada.",
+    "source_quote": "El modo de elección de la Junta Directiva deberá garantizar la representación paritaria de ambos sexos. Sus integrantes deberán ser costarricenses o personas extranjeras casadas con costarricenses y por lo menos con cinco años de residencia permanente en el país; conforme el derecho común. ... En toda nómina u órgano impar la diferencia entre el total de hombres y mujeres no podrá ser superior a uno.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "345",
+    "chunk_id": "libro_None_titulo_QUINTO_capitulo_SEGUNDO_articulo_345",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el debido proceso y la protección de los derechos de los afiliados al exigir una mayoría calificada para la expulsión, evitando decisiones arbitrarias.",
+    "source_quote": "Las personas integrantes del sindicato solo podrán ser expulsadas de él con la aprobación de las dos terceras partes de las personas presentes en una Asamblea General.",
+    "item_index": 2
+  }
+]

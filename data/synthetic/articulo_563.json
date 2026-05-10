@@ -1,0 +1,85 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 563 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 563 establece que, aunque normalmente la parte perdedora debe pagar las costas del proceso, un juez puede eximirla de pagar las costas personales e incluso las procesales si se cumplen ciertas condiciones: haber litigado con evidente buena fe, que las pretensiones hayan prosperado solo parcialmente, o que haya habido un vencimiento recíproco. La decisión de exonerar debe ser siempre razonada. Además, se especifica cuándo no se puede considerar que una parte actuó de buena fe, como cuando negó pretensiones evidentes, no asistió a toda la audiencia, presentó testigos o documentos falsos, o no ofreció pruebas. Finalmente, la exoneración de costas es obligatoria si una norma especial así lo dispone.",
+    "source_quote": "No obstante, se podrá eximir al vencido del pago de las costas personales y aun de las procesales, cuando: 1) Se haya litigado con evidente buena fe. 2) Las proposiciones hayan prosperado parcialmente. 3) Cuando haya habido vencimiento recíproco. La exoneración debe ser siempre razonada.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos se puede eximir al vencido del pago de las costas según el artículo 563?",
+    "output": "Se puede eximir cuando se haya litigado con evidente buena fe, cuando las proposiciones hayan prosperado parcialmente, o cuando haya habido vencimiento recíproco.",
+    "source_quote": "No obstante, se podrá eximir al vencido del pago de las costas personales y aun de las procesales, cuando: 1) Se haya litigado con evidente buena fe. 2) Las proposiciones hayan prosperado parcialmente. 3) Cuando haya habido vencimiento recíproco.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuándo no se puede considerar que una parte litigó de buena fe según el artículo 563?",
+    "output": "No se puede considerar de buena fe a la parte que negó pretensiones evidentes que el resultado del proceso indique que debió aceptarlas, no asistió a la totalidad de la audiencia, adujo testigos sobornados o testigos y documentos falsos, o no ofreció ninguna probanza para justificar su demanda o excepciones si se fundaran en hechos disputados.",
+    "source_quote": "No podrá considerarse de buena fe a la parte que negó pretensiones evidentes que el resultado del proceso indique que debió aceptarlas, no asistió a la totalidad de la audiencia, adujo testigos sobornados o testigos y documentos falsos, no ofreció ninguna probanza para justificar su demanda o excepciones, si se fundaran en hechos disputados.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece las excepciones a la regla general de condena en costas, permitiendo al juez eximir al perdedor bajo tres supuestos específicos que atienden a la equidad y la conducta procesal.",
+    "source_quote": "No obstante, se podrá eximir al vencido del pago de las costas personales y aun de las procesales, cuando: 1) Se haya litigado con evidente buena fe. 2) Las proposiciones hayan prosperado parcialmente. 3) Cuando haya habido vencimiento recíproco.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Impone al juez la obligación de motivar su decisión de eximir de costas, garantizando transparencia y control sobre la aplicación de esta facultad discrecional.",
+    "source_quote": "La exoneración debe ser siempre razonada.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define conductas procesales que excluyen la presunción de buena fe, delimitando negativamente el primer supuesto de exoneración y sancionando la mala fe procesal.",
+    "source_quote": "No podrá considerarse de buena fe a la parte que negó pretensiones evidentes que el resultado del proceso indique que debió aceptarlas, no asistió a la totalidad de la audiencia, adujo testigos sobornados o testigos y documentos falsos, no ofreció ninguna probanza para justificar su demanda o excepciones, si se fundaran en hechos disputados.",
+    "item_index": 3
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "563",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_OCTAVO_articulo_563",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce que otras leyes pueden ordenar la exoneración obligatoria de costas, prevaleciendo sobre la facultad discrecional del juez en esos casos.",
+    "source_quote": "La exoneración de costas será imperativa, si alguna norma especial así lo dispone.",
+    "item_index": 4
+  }
+]

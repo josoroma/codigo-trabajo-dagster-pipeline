@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 1 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 1 establece que el Código de Trabajo tiene por objeto regular los derechos y las obligaciones que surgen entre patronos y trabajadores con motivo del trabajo, y que dicha regulación se inspira en los principios cristianos de Justicia Social.",
+    "source_quote": "El presente Código regula los derechos y obligaciones de patronos y trabajadores con ocasión del trabajo, de acuerdo con los principios cristianos de Justicia Social.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "1",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_1"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "1",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_1",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué regula el Código de Trabajo según el artículo 1?",
+    "output": "Regula los derechos y obligaciones de patronos y trabajadores con ocasión del trabajo.",
+    "source_quote": "El presente Código regula los derechos y obligaciones de patronos y trabajadores con ocasión del trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "1",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_1",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Conforme a qué principios se rige el Código de Trabajo de acuerdo con el artículo 1?",
+    "output": "Se rige de acuerdo con los principios cristianos de Justicia Social.",
+    "source_quote": "de acuerdo con los principios cristianos de Justicia Social.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "1",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_1",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte define el ámbito material de aplicación del Código, al señalar que su objeto es regular las relaciones jurídicas entre empleadores y trabajadores derivadas del trabajo.",
+    "source_quote": "El presente Código regula los derechos y obligaciones de patronos y trabajadores con ocasión del trabajo",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "1",
+    "chunk_id": "libro_None_titulo_PRIMERO_capitulo_PRIMERO_articulo_1",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta parte establece el fundamento axiológico o valorativo que debe orientar la interpretación y aplicación de las normas laborales, remitiendo a los principios cristianos de Justicia Social como marco inspirador.",
+    "source_quote": "de acuerdo con los principios cristianos de Justicia Social.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 91 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 91 permite que, en casos excepcionales, el Patronato Nacional de la Infancia o sus juntas provinciales autoricen por escrito el trabajo nocturno de menores de 16 años cumplidos, siempre que sea para fines de aprendizaje o formación profesional en industrias u ocupaciones que requieran trabajo continuo.",
+    "source_quote": "El Patronato Nacional de la Infancia, sus respectivas Juntas Provinciales de Protección a la Infancia o sus representantes autorizados pueden otorgar, en casos muy calificados, autorizaciones escritas especiales para permitir el trabajo nocturno de los menores que hayan cumplido dieciséis años, a los efectos del aprendizaje o de la formación profesional, en aquellas industrias u ocupaciones en las que el trabajo deba efectuarse continuamente.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "91",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_91"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "91",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_91",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué entidades pueden otorgar autorizaciones para el trabajo nocturno de menores según el artículo 91?",
+    "output": "El Patronato Nacional de la Infancia, sus Juntas Provinciales de Protección a la Infancia o sus representantes autorizados.",
+    "source_quote": "El Patronato Nacional de la Infancia, sus respectivas Juntas Provinciales de Protección a la Infancia o sus representantes autorizados pueden otorgar...",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "91",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_91",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Bajo qué condiciones se permite el trabajo nocturno de menores de 16 años según este artículo?",
+    "output": "Solo en casos muy calificados, mediante autorización escrita especial, para aprendizaje o formación profesional, y en industrias u ocupaciones donde el trabajo deba ser continuo.",
+    "source_quote": "en casos muy calificados, autorizaciones escritas especiales para permitir el trabajo nocturno de los menores que hayan cumplido dieciséis años, a los efectos del aprendizaje o de la formación profesional, en aquellas industrias u ocupaciones en las que el trabajo deba efectuarse continuamente.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "91",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_91",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Designa a las autoridades competentes para conceder excepciones a la prohibición del trabajo nocturno de menores, estableciendo que solo procede en situaciones excepcionales y mediante un permiso formal y escrito.",
+    "source_quote": "El Patronato Nacional de la Infancia, sus respectivas Juntas Provinciales de Protección a la Infancia o sus representantes autorizados pueden otorgar, en casos muy calificados, autorizaciones escritas especiales",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "91",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SETIMO_articulo_91",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define los requisitos sustantivos de la excepción: edad mínima de 16 años, finalidad exclusivamente educativa o formativa, y limitación a industrias u ocupaciones de funcionamiento continuo, acotando así el alcance de la autorización.",
+    "source_quote": "para permitir el trabajo nocturno de los menores que hayan cumplido dieciséis años, a los efectos del aprendizaje o de la formación profesional, en aquellas industrias u ocupaciones en las que el trabajo deba efectuarse continuamente.",
+    "item_index": 2
+  }
+]

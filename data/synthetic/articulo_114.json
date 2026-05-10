@@ -1,0 +1,49 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 114 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 114 del Código de Trabajo de Costa Rica fue derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903, del 17 de noviembre de 1971. Esto significa que el artículo ya no está vigente y no produce efectos jurídicos.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "114",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_114"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "114",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_114",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el estado actual del artículo 114 del Código de Trabajo?",
+    "output": "El artículo 114 está derogado, es decir, no se encuentra vigente, por disposición del artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "114",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_114",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué norma jurídica derogó el artículo 114 del Código de Trabajo?",
+    "output": "La Ley de Aprendizaje, N° 4903, promulgada el 17 de noviembre de 1971, en su artículo 29°.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "114",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_DECIMO_articulo_114",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta cita indica que el artículo 114 ha sido expresamente derogado por una ley posterior, por lo que su texto original ha sido eliminado del ordenamiento jurídico y no debe ser considerado como derecho vigente.",
+    "source_quote": "Derogado por el artículo 29° de la Ley de Aprendizaje, N° 4903 de 17 de noviembre de 1971",
+    "item_index": 1
+  }
+]

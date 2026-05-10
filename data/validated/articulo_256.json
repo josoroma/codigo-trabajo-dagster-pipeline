@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 256 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 256 permite que, en situaciones excepcionales y calificadas, el Instituto Nacional de Seguros convierta las rentas periódicas adeudadas en un pago único global, calculado según sus tablas actuariales. Si el beneficiario no está de acuerdo con el monto calculado, el caso se envía al Tribunal Superior de Trabajo para que revise y apruebe el cálculo o lo devuelva con observaciones si la suma no corresponde a lo debido.",
+    "source_quote": "En casos calificados, en que por excepción el Instituto Nacional de Seguros resuelva a coger la solicitud de conmutación de rentas, entregará a quien corresponda, en lugar de las prestaciones en dinero que se adeudan, una suma global que se pagará de inmediato, la cual se calculará de acuerdo con las tablas actuariales que el Instituto Nacional de Seguros utiliza.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "256",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_256"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "256",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_256",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿En qué casos el Instituto Nacional de Seguros puede entregar una suma global en lugar de prestaciones periódicas?",
+    "output": "En casos calificados, por excepción, cuando el Instituto resuelva acoger la solicitud de conmutación de rentas.",
+    "source_quote": "En casos calificados, en que por excepción el Instituto Nacional de Seguros resuelva a coger la solicitud de conmutación de rentas",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "256",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_256",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué sucede si el interesado no está conforme con el cálculo de la suma global?",
+    "output": "Los cálculos deben ser remitidos al Tribunal Superior de Trabajo para que los revise y apruebe, o los devuelva con observaciones si la suma es diferente a la que corresponde.",
+    "source_quote": "Los cálculos que no merezcan conformidad del interesado deberán ser remitidos al Tribunal Superior de Trabajo, a efecto de que éste los revise y apruebe, o los devuelva con observaciones, en caso de que la suma que va a ser entregada al trabajador, o a sus causahabientes, sea diferente a la que les corresponde",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "256",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_256",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la facultad excepcional del Instituto Nacional de Seguros para conmutar rentas periódicas por un pago único global, calculado actuarialmente, en lugar de continuar con las prestaciones en dinero adeudadas.",
+    "source_quote": "En casos calificados, en que por excepción el Instituto Nacional de Seguros resuelva a coger la solicitud de conmutación de rentas, entregará a quien corresponda, en lugar de las prestaciones en dinero que se adeudan, una suma global que se pagará de inmediato, la cual se calculará de acuerdo con las tablas actuariales que el Instituto Nacional de Seguros utiliza.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "256",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_SEXTO_articulo_256",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Garantiza el derecho del beneficiario a impugnar el cálculo y define el procedimiento de revisión judicial ante el Tribunal Superior de Trabajo para asegurar que la suma global entregada sea la correcta.",
+    "source_quote": "Los cálculos que no merezcan conformidad del interesado deberán ser remitidos al Tribunal Superior de Trabajo, a efecto de que éste los revise y apruebe, o los devuelva con observaciones, en caso de que la suma que va a ser entregada al trabajador, o a sus causahabientes, sea diferente a la que les corresponde",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 575 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 575 permite a la parte trabajadora solicitar un aplazamiento de la reinstalación ordenada por sentencia o resolución, cuando necesite dar preaviso para terminar otra relación laboral que haya contraído. En ese caso, debe informar al juzgado la fecha exacta en que reasumirá sus funciones, la cual no puede superar un mes y quince días desde la notificación de la orden de reinstalación.",
+    "source_quote": "La parte trabajadora podrá solicitar la postergación de la reinstalación, si ello fuera necesario para permitir el preaviso de la conclusión de otra relación laboral contraída, caso en el cual se indicará al juzgado el día que reasumirá sus funciones, lo que no podrá exceder de un mes y quince días a partir de la notificación de la sentencia o resolución que ordene la reinstalación.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "575",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_575"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "575",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_575",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Quién puede solicitar la postergación de la reinstalación según el artículo 575?",
+    "output": "La parte trabajadora.",
+    "source_quote": "La parte trabajadora podrá solicitar la postergación de la reinstalación",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "575",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_575",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es el plazo máximo para que la persona trabajadora reasuma sus funciones tras solicitar la postergación?",
+    "output": "Un mes y quince días a partir de la notificación de la sentencia o resolución que ordene la reinstalación.",
+    "source_quote": "lo que no podrá exceder de un mes y quince días a partir de la notificación de la sentencia o resolución que ordene la reinstalación.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "575",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_575",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Reconoce el derecho de la persona trabajadora a aplazar su reincorporación al empleo cuando deba dar aviso previo para finalizar otro vínculo laboral, protegiendo así su estabilidad en ambas relaciones.",
+    "source_quote": "La parte trabajadora podrá solicitar la postergación de la reinstalación, si ello fuera necesario para permitir el preaviso de la conclusión de otra relación laboral contraída",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "575",
+    "chunk_id": "libro_None_titulo_CUARTO_capitulo_DÉCIMO_articulo_575",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece la obligación procesal de comunicar al tribunal la fecha exacta de retorno y fija un límite temporal máximo para la postergación, garantizando certeza jurídica y evitando dilaciones indebidas.",
+    "source_quote": "caso en el cual se indicará al juzgado el día que reasumirá sus funciones, lo que no podrá exceder de un mes y quince días a partir de la notificación de la sentencia o resolución que ordene la reinstalación.",
+    "item_index": 2
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 649 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 649 establece los requisitos que deben cumplir las personas propuestas como conciliadoras o árbitras por las partes interesadas. Estos requisitos son: ser mayores de veinticinco años, saber leer y escribir, tener buena conducta, ser ciudadanos en ejercicio y no estar incursos en las causales de excusa o recusación previstas para los jueces.",
+    "source_quote": "Las personas que propongan los interesados como conciliadoras o árbitras deberán ser mayores de veinticinco años, saber leer y escribir, ser de buena conducta, ciudadanos en ejercicio y encontrarse libres de las causales de excusa o inhibitoria previstas para los jueces.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "649",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_649"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "649",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_649",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cuál es la edad mínima que debe tener una persona propuesta como conciliadora o árbitra según el artículo 649?",
+    "output": "Debe ser mayor de veinticinco años.",
+    "source_quote": "mayores de veinticinco años",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "649",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_649",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué condición relacionada con los jueces deben cumplir las personas propuestas como conciliadoras o árbitras?",
+    "output": "Deben encontrarse libres de las causales de excusa o inhibitoria previstas para los jueces.",
+    "source_quote": "encontrarse libres de las causales de excusa o inhibitoria previstas para los jueces",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "649",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_649",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los requisitos personales de edad, alfabetización, conducta y ciudadanía que garantizan la idoneidad básica de los conciliadores y árbitros.",
+    "source_quote": "Las personas que propongan los interesados como conciliadoras o árbitras deberán ser mayores de veinticinco años, saber leer y escribir, ser de buena conducta, ciudadanos en ejercicio",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "649",
+    "chunk_id": "libro_None_titulo_DUODÉCIMO_capitulo_UNICO_articulo_649",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Exige que los conciliadores y árbitros no tengan impedimentos legales similares a los de los jueces, asegurando su imparcialidad y capacidad para resolver conflictos.",
+    "source_quote": "encontrarse libres de las causales de excusa o inhibitoria previstas para los jueces",
+    "item_index": 2
+  }
+]

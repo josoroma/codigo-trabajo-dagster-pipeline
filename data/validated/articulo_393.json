@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 393 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 393 establece que los paros o huelgas no pueden causar ningún perjuicio a los trabajadores que en ese momento estén recibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras situaciones similares. Es una protección para que esos pagos no se vean afectados por la suspensión de labores.",
+    "source_quote": "Ni los paros ni las huelgas deben perjudicar de forma alguna a los trabajadores o las trabajadoras que estuvieran percibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras causas análogas.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "393",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_393"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "393",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_393",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿A qué trabajadores protege el artículo 393 durante un paro o huelga?",
+    "output": "Protege a los trabajadores o trabajadoras que estuvieran percibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras causas análogas.",
+    "source_quote": "a los trabajadores o las trabajadoras que estuvieran percibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras causas análogas.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "393",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_393",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Qué situaciones laborales no deben perjudicar a los trabajadores según este artículo?",
+    "output": "Los paros y las huelgas no deben perjudicarlos de forma alguna.",
+    "source_quote": "Ni los paros ni las huelgas deben perjudicar de forma alguna",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "393",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_393",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Esta frase impone una prohibición absoluta: los paros y las huelgas no pueden causar ningún tipo de daño o menoscabo a los trabajadores protegidos, garantizando la intangibilidad de sus derechos durante esos eventos.",
+    "source_quote": "Ni los paros ni las huelgas deben perjudicar de forma alguna",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "393",
+    "chunk_id": "libro_None_titulo_SEXTO_capitulo_TERCERO_articulo_393",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Define el ámbito personal de la protección, identificando a los trabajadores que se encuentran en situaciones de vulnerabilidad o con derechos adquiridos (como subsidios por enfermedad o vacaciones), para que no sean afectados por la suspensión de actividades.",
+    "source_quote": "a los trabajadores o las trabajadoras que estuvieran percibiendo salarios o indemnizaciones por accidentes, enfermedades, maternidad, vacaciones u otras causas análogas.",
+    "item_index": 2
+  }
+]

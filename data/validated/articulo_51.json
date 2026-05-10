@@ -1,0 +1,61 @@
+[
+  {
+    "dataset_type": "article_explanation",
+    "instruction": "Explica en qué consiste el artículo 51 del Código de Trabajo.",
+    "input": "",
+    "output": "El artículo 51 regula la forma en que las partes deben acreditar su representación para celebrar un contrato colectivo. Los representantes sindicales deben presentar los estatutos del sindicato, debidamente inscritos, y el acta de la asamblea que autorizó la negociación. Por su parte, los patronos que no están sindicalizados deben justificar su representación según las reglas del derecho común.",
+    "source_quote": "Los representantes del sindicato o sindicatos justificarán su personería para celebrar el contrato colectivo por medio de sus estatutos legalmente inscritos y por el acta de la asamblea o asambleas que así lo hayan acordado. La parte de los patronos no sindicalizados justificará su representación conforme al derecho común.",
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "51",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_51"
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "51",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_51",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo justifican su personería los representantes sindicales para celebrar un contrato colectivo?",
+    "output": "Por medio de sus estatutos legalmente inscritos y por el acta de la asamblea o asambleas que así lo hayan acordado.",
+    "source_quote": "Los representantes del sindicato o sindicatos justificarán su personería para celebrar el contrato colectivo por medio de sus estatutos legalmente inscritos y por el acta de la asamblea o asambleas que así lo hayan acordado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "51",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_51",
+    "input": "",
+    "dataset_type": "qa",
+    "instruction": "¿Cómo justifican su representación los patronos no sindicalizados?",
+    "output": "Conforme al derecho común.",
+    "source_quote": "La parte de los patronos no sindicalizados justificará su representación conforme al derecho común.",
+    "item_index": 2
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "51",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_51",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Establece los documentos que deben presentar los representantes sindicales para acreditar su facultad de negociar y firmar un contrato colectivo, garantizando que actúan con el respaldo de la organización sindical y de sus afiliados.",
+    "source_quote": "Los representantes del sindicato o sindicatos justificarán su personería para celebrar el contrato colectivo por medio de sus estatutos legalmente inscritos y por el acta de la asamblea o asambleas que así lo hayan acordado.",
+    "item_index": 1
+  },
+  {
+    "source_url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=8045",
+    "law_code": "Código de Trabajo de Costa Rica",
+    "article": "51",
+    "chunk_id": "libro_None_titulo_SEGUNDO_capitulo_SEGUNDO_articulo_51",
+    "input": "",
+    "dataset_type": "cite_article",
+    "instruction": "Cita partes representativas y explica su propósito legal.",
+    "output": "Indica que los empleadores que no pertenecen a un sindicato deben acreditar su representación según las normas generales del derecho, sin requisitos especiales adicionales.",
+    "source_quote": "La parte de los patronos no sindicalizados justificará su representación conforme al derecho común.",
+    "item_index": 2
+  }
+]
